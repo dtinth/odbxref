@@ -1,0 +1,73 @@
+{ "1": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1994,3,25],
+    "passage": "Daniel 1:1-17",
+    "passage_ref": [[["dan",1,1],["dan",1,17]]],
+    "quote": "Daniel 1:17",
+    "tags": [],
+    "title": "Teens and Those Who Love Them",
+    "url": "http://odb.org/1994/03/25/teens-and-those-who-love-them/"
+  }
+],
+"2": [
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1994,10,26],
+    "passage": "Daniel 2:24-30",
+    "passage_ref": [[["dan",2,24],["dan",2,30]]],
+    "quote": "Daniel 2:28",
+    "tags": [],
+    "title": "God Of The Stars",
+    "url": "http://odb.org/1994/10/26/god-of-the-stars/"
+  }
+],
+"3": [
+  { "author": ["Randy Kilgore","randykilgore"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
+    "date": [2012,9,19],
+    "passage": "Daniel 3:10-25",
+    "passage_ref": [[["dan",3,10],["dan",3,25]]],
+    "quote": "Daniel 3:17",
+    "tags": [["courage","courage"],["faithfulness","faithfulness"],["fear","fear"],["love for others","love-for-others"],["trials","trials"]],
+    "title": "Standing In The Fire",
+    "url": "http://odb.org/2012/09/19/standing-in-the-fire/"
+  }
+],
+"5": [
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1994,12,8],
+    "passage": "Daniel 5",
+    "passage_ref": [[["dan",5,null]]],
+    "quote": "Daniel 5:11",
+    "tags": [],
+    "title": "Courage To Stand Alone",
+    "url": "http://odb.org/1994/12/08/courage-to-stand-alone/"
+  }
+],
+"9": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1994,3,20],
+    "passage": "Daniel 9:1-19",
+    "passage_ref": [[["dan",9,1],["dan",9,19]]],
+    "quote": "Daniel 9:4",
+    "tags": [],
+    "title": "Our Awesome God",
+    "url": "http://odb.org/1994/03/20/our-awesome-god/"
+  }
+],
+"12": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Uncategorized","uncategorized/"]],
+    "date": [2013,9,8],
+    "passage": "Daniel 12:1-3",
+    "passage_ref": [[["dan",12,1],["dan",12,3]]],
+    "quote": "Daniel 12:3",
+    "tags": [["eternity","eternity"],["future","future"],["God's love","gods-love"],["sharing the gospel","sharing-the-gospel"]],
+    "title": "Light Up The Night",
+    "url": "http://odb.org/2013/09/08/light-up-the-night/"
+  }
+]
+}
