@@ -103,8 +103,48 @@ angular.module('odbxref', ['ngRoute'])
     return date[0] + t(date[1]) + t(date[2])
   }
   $scope.bible = function(p) {
-    return 'http://www.biblegateway.com/passage/?search=' + encodeURIComponent(p)
+    return 'http://www.biblegateway.com/passage/?search=' + encodeURIComponent(p.passage)
   }
+  function Sorter(initial, predicates) {
+    var sorter = { }
+    sorter.reverse = false
+    sorter.class = function(predicate) {
+      var active = predicate == sorter.predicateName
+      return {
+        'sorta-down': active && !sorter.reverse,
+        'sorta-up':   active && sorter.reverse,
+        'sorta':     true
+      }
+    }
+    sorter.getPredicate = function() {
+      
+    }
+    sorter.sort = function(predicate) {
+      if (sorter.predicateName == predicate) {
+        sorter.reverse = !sorter.reverse
+      } else {
+        sorter.predicateName = predicate
+        sorter.predicate = predicates[predicate]
+        sorter.reverse = false
+      }
+    }
+    sorter.sort(initial)
+    return sorter
+  }
+  function textSort(getter) {
+    return function(item) {
+      return getter(item).match(/[a-zA-Z]/)[0].toLowerCase()
+    }
+  }
+  $scope.sorter = Sorter('date', {
+    date: function(item) { return $scope.fmtDate(item.date) },
+    title: textSort(function(item) { return item.title }),
+    author: textSort(function(item) { return item.author[0] }),
+    passage: [
+      function(item) { return item.passage_ref[0][0][1] },
+      function(item) { return item.passage_ref[0][0][2] }
+    ]
+  })
 })
 
 

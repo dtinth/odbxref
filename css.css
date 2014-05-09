@@ -1,4 +1,19 @@
 
-.td-date { width: 20%; }
-.td-author { width: 30%; }
+.td-date { width: 15%; }
+.td-title { font-weight: bold; }
+.td-author { width: 25%; }
 .td-passage { width: 20%; }
+.sorta {
+  cursor: pointer;
+}
+.sorta-down:after {
+  content: " \25BC";
+  color: #8b8685;
+}
+.sorta-up:after {
+  content: " \25B2";
+  color: #8b8685;
+}
+.footr {
+  margin: 1em 0 2em;
+}

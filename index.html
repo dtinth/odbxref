@@ -2,15 +2,16 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>ODB XREF</title>
+<title>ODBXREF</title>
 <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="css.css">
 </head>
 <body ng-app="odbxref">
 
 <div class="container" ng-controller="MainController">
-  <h1>ODB XREF</h1>
-  <p>This web application lets you search for <a href="http://odb.org">Our Daily Bread</a> articles by Bible chapters.
+  <h1><a href="#/">ODBXREF</a></h1>
+  <p>This web application lets you search for articles in
+    <a href="http://odb.org">Our Daily Bread&reg;</a> devotional by Bible chapters.
   <ul class="list-group" ng-show="task.items.length > 0">
     <li ng-repeat="item in task.items" ng-class="{
       'list-group-item': true,
@@ -22,7 +23,7 @@
 </div>
 
 <script type="text/ng-template" id="home.html">
-  <h2>Select a Book!</h2>
+  <h2>Select a Book</h2>
   <div class="row">
     <div class="col-md-4" ng-repeat="group in groups">
       <div class="list-group">
@@ -38,22 +39,27 @@
     <h3>{{book.name}} {{chapter.number}}</h3>
     <table class="table table-bordered" ng-controller="ChapterController">
       <thead><tr>
-        <th>Date</th>
-        <th>Title</th>
-        <th>Author</th>
-        <th>Scripture</th>
+        <th ng-class="sorter.class('date')" ng-click="sorter.sort('date')">Date</th>
+        <th ng-class="sorter.class('title')" ng-click="sorter.sort('title')">Title</th>
+        <th ng-class="sorter.class('author')" ng-click="sorter.sort('author')">Author</th>
+        <th ng-class="sorter.class('passage')" ng-click="sorter.sort('passage')">Scripture</th>
       </tr></thead>
       <tbody>
-        <tr ng-repeat="article in chapter.articles">
+        <tr ng-repeat="article in chapter.articles | orderBy : sorter.predicate : sorter.reverse">
           <td class="td-date">{{fmtDate(article.date)}}</td>
           <td class="td-title"><a href="{{article.url}}">{{article.title}}</a></td>
           <td class="td-author"><a href="http://odb.org/authors/{{article.author[1]}}/">{{article.author[0]}}</a></td>
-          <td class="td-passage"><a href="{{bible(article.passage)}}">{{article.passage}}</a></td>
+          <td class="td-passage"><a href="{{bible(article)}}">{{article.passage}}</a></td>
         </tr>
       </tbody>
     </table>
   </div>
 </script>
+
+<div class="text-center text-muted footr">
+  ODBXREF is a personal project, created by Thai Pangsakulyanont,<br>
+  and is not affiliated with Our Daily Bread&reg;, odb.org, or RBC Ministries.
+</div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular-route.min.js"></script>
