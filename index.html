@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ODB XREF</title>
+<link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="css.css">
+</head>
+<body ng-app="odbxref">
+
+<div class="container" ng-controller="MainController">
+  <h1>ODB XREF</h1>
+  <p>This web application lets you search for <a href="http://odb.org">Our Daily Bread</a> articles by Bible chapters.
+  <ul class="list-group" ng-show="task.items.length > 0">
+    <li ng-repeat="item in task.items" ng-class="{
+      'list-group-item': true,
+      'list-group-item-info': item.status == 'working',
+      'list-group-item-danger': item.status == 'error'
+    }">{{item.text}}<span ng-if="item.status == 'error'"> <strong>FAILED <a href="javascript://" ng-click="item.retry()">(click to retry)</a></strong><br>{{item.errorMessage}}</span><span ng-if="item.status == 'working'">...</span></li>
+  </ul>
+  <div ng-view></div>
+</div>
+
+<script type="text/ng-template" id="home.html">
+  <h2>Select a Book!</h2>
+  <div class="row">
+    <div class="col-md-4" ng-repeat="group in groups">
+      <div class="list-group">
+        <a class="list-group-item" href="#/book/{{book.id}}" ng-repeat="book in group"><span class="badge">{{book.count}}</span> {{book.name}}</a>
+      </div>
+    </div>
+  </div>
+</script>
+
+<script type="text/ng-template" id="book.html">
+  <h2>{{book.name}}</h2>
+  <div ng-repeat="chapter in chapters">
+    <h3>{{book.name}} {{chapter.number}}</h3>
+    <table class="table table-bordered" ng-controller="ChapterController">
+      <thead><tr>
+        <th>Date</th>
+        <th>Title</th>
+        <th>Author</th>
+        <th>Scripture</th>
+      </tr></thead>
+      <tbody>
+        <tr ng-repeat="article in chapter.articles">
+          <td class="td-date">{{fmtDate(article.date)}}</td>
+          <td class="td-title"><a href="{{article.url}}">{{article.title}}</a></td>
+          <td class="td-author"><a href="http://odb.org/authors/{{article.author[1]}}/">{{article.author[0]}}</a></td>
+          <td class="td-passage"><a href="{{bible(article.passage)}}">{{article.passage}}</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.16/angular-route.min.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
+

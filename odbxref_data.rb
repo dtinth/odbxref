@@ -19,15 +19,18 @@ command :chapters do |c|
   c.action do
 
     chapter_files = Hash.new { |h, k| h[k] = Hash.new { |h, k| h[k] = [ ] } }
+    book_counter = Hash.new(0)
 
     each_article do |article|
       passages = []
       passage_ref = BibleReference.parse(article["passage"])
       article['passage_ref'] = passage_ref
+      books = []
       passage_ref.each do |start, finish=nil|
         finish = start unless finish
         raise "Cross book!" if start[0] != finish[0]
         book = start[0]
+        books << book
         chapters = (start[1]..finish[1])
         chapters.each do |chapter|
           passages << [book, chapter]
@@ -36,6 +39,22 @@ command :chapters do |c|
       passages.uniq.each do |book, chapter|
         chapter_files[book][chapter] << article
       end
+      books.uniq.each do |book|
+        book_counter[book] += 1
+      end
+    end
+
+    index = { :books => [] }
+
+    BibleReference::SHORT.each_with_index do |book, i|
+      index[:books] << {
+        :id => book,
+        :index => i,
+        :name => BibleReference::BOOKS[i],
+        :count => book_counter[book],
+        :verses => BibleReference::VERSES[i],
+        :chapters => BibleReference::VERSES[i].length
+      }
     end
 
     chapter_files.each do |book, hash|
@@ -43,6 +62,10 @@ command :chapters do |c|
       puts "==> #{filename}"
       File.write(filename, my_pretty_json(hash, 3, -1))
     end
+
+    filename = "chapters/index.json"
+    puts "==> #{filename}"
+    File.write(filename, my_pretty_json(index, 3, 0))
 
   end
 end
