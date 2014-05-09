@@ -57,8 +57,11 @@ angular.module('odbxref', ['ngRoute'])
   }
   return exports
 })
-.controller('MainController', function($scope, taskManager) {
+.controller('MainController', function($scope, taskManager, resources) {
   $scope.task = taskManager
+  resources.books.then(function(data) {
+    $scope.announceState = data.state
+  })
 })
 .controller('HomeController', function($scope, resources) {
   $scope.groups = []

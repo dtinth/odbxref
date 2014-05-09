@@ -65,6 +65,7 @@ command :chapters do |c|
 
     filename = "chapters/index.json"
     puts "==> #{filename}"
+    index[:state] = "Articles in 1994, 2012, 2013, 2014 (Jan-Apr) has been indexed. 1995-2011 will be indexed by next month, hopefully."
     File.write(filename, my_pretty_json(index, 3, 0))
 
   end
