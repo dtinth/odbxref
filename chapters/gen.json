@@ -5,9 +5,21 @@
     "passage": "Genesis 1:24-31",
     "passage_ref": [[["gen",1,24],["gen",1,31]]],
     "quote": "Psalm 139:14",
+    "quote_ref": [[["psa",139,14]]],
     "tags": [],
     "title": "Don’t Make a Monkey of Yourself",
     "url": "http://odb.org/1994/08/29/dont-make-a-monkey-of-yourself/"
+  }, 
+  { "author": ["Randy Kilgore","randykilgore"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Creator","basics-of-faith/god-basics-of-faith/creator-god-basics-of-faith-basics-of-faith/"],["Work","christian-life/lifestyle-issues-christian-life/work-lifestyle-issues-christian-life-christian-life/"]],
+    "date": [2011,9,5],
+    "passage": "Genesis 1:26-31",
+    "passage_ref": [[["gen",1,26],["gen",1,31]]],
+    "quote": "Genesis 1:26",
+    "quote_ref": [[["gen",1,26]]],
+    "tags": [["creation","creation"],["daily living","daily-living"],["image bearers of God","image-bearers-of-god"],["work","work"]],
+    "title": "The Goodness Of Work",
+    "url": "http://odb.org/2011/09/05/the-goodness-of-work/"
   }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -15,6 +27,7 @@
     "passage": "Genesis 1:1-23",
     "passage_ref": [[["gen",1,1],["gen",1,23]]],
     "quote": "Genesis 1:20",
+    "quote_ref": [[["gen",1,20]]],
     "tags": [["creation","creation"],["creator","creator"],["God's glory","gods-glory"],["God's majesty","gods-majesty"]],
     "title": "The Wright Stuff",
     "url": "http://odb.org/2012/05/04/the-wright-stuff/"
@@ -25,6 +38,7 @@
     "passage": "Genesis 1",
     "passage_ref": [[["gen",1,null]]],
     "quote": "John 17:5",
+    "quote_ref": [[["jhn",17,5]]],
     "tags": [["creation","creation"],["eternity","eternity"],["God's glory","gods-glory"],["God's majesty","gods-majesty"]],
     "title": "Before The Beginning",
     "url": "http://odb.org/2012/10/17/before-the-beginning/"
@@ -35,6 +49,7 @@
     "passage": "Genesis 1:26-28",
     "passage_ref": [[["gen",1,26],["gen",1,28]]],
     "quote": "Psalm 24:1",
+    "quote_ref": [[["psa",24,1]]],
     "tags": [["creation","creation"],["creator","creator"],["God's care","gods-care"],["nature","nature"],["praise","praise"],["sovereignty","sovereignty"],["stewardship","stewardship"]],
     "title": "Our Father’s World",
     "url": "http://odb.org/2013/03/26/our-fathers-world/"
@@ -47,9 +62,21 @@
     "passage": "Genesis 2:4-14",
     "passage_ref": [[["gen",2,4],["gen",2,14]]],
     "quote": "Genesis 2:7",
+    "quote_ref": [[["gen",2,7]]],
     "tags": [],
     "title": "No Accident",
     "url": "http://odb.org/1994/10/12/no-accident/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,7,8],
+    "passage": "Genesis 2:18-25",
+    "passage_ref": [[["gen",2,18],["gen",2,25]]],
+    "quote": "Matthew 19:5",
+    "quote_ref": [[["mat",19,5]]],
+    "tags": [["grace","grace"],["happiness","happiness"],["husband","husband"],["love for others","love-for-others"],["Marriage","marriage-relationships"],["money","money"],["wife","wife"]],
+    "title": "The Power Of A Promise",
+    "url": "http://odb.org/2011/07/08/the-power-of-a-promise/"
   }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -57,6 +84,7 @@
     "passage": "Genesis 2:1-7",
     "passage_ref": [[["gen",2,1],["gen",2,7]]],
     "quote": "Genesis 2:7",
+    "quote_ref": [[["gen",2,7]]],
     "tags": [["creation","creation"],["creator","creator"],["God's glory","gods-glory"],["praise","praise"]],
     "title": "Dust Art",
     "url": "http://odb.org/2013/04/22/dust-art/"
@@ -69,6 +97,7 @@
     "passage": "Genesis 3:6-13,22-24",
     "passage_ref": [[["gen",3,6],["gen",3,13]],[["gen",3,22],["gen",3,24]]],
     "quote": "Revelation 1:5",
+    "quote_ref": [[["rev",1,5]]],
     "tags": [],
     "title": "Nowhere To Hide",
     "url": "http://odb.org/2012/11/14/nowhere-to-hide/"
@@ -79,6 +108,7 @@
     "passage": "Genesis 3:1-7",
     "passage_ref": [[["gen",3,1],["gen",3,7]]],
     "quote": "Genesis 2:17",
+    "quote_ref": [[["gen",2,17]]],
     "tags": [],
     "title": "Did You Say No?",
     "url": "http://odb.org/2012/11/13/did-you-say-no/"
@@ -89,6 +119,7 @@
     "passage": "Genesis 3:1-8",
     "passage_ref": [[["gen",3,1],["gen",3,8]]],
     "quote": "Isaiah 61:10",
+    "quote_ref": [[["isa",61,10]]],
     "tags": [["cross","cross"],["doubt","doubt"],["God's character","gods-character"],["grace","grace"],["mercy","mercy"],["remorse","remorse"],["righteousness","righteousness"],["Savior","savior"],["sin","sin-christian-life"]],
     "title": "Buyer’s Remorse",
     "url": "http://odb.org/2014/01/31/buyers-remorse/"
@@ -101,9 +132,23 @@
     "passage": "Genesis 12:1-8",
     "passage_ref": [[["gen",12,1],["gen",12,8]]],
     "quote": "Genesis 12:8",
+    "quote_ref": [[["gen",12,8]]],
     "tags": [["busyness","busyness"],["God's power","gods-power"],["God's presence","gods-presence"],["meditation","meditation"],["quiet time","quiet-time"]],
     "title": "Time For A Change",
     "url": "http://odb.org/2013/09/19/time-for-a-change-3/"
+  }
+],
+"20": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,7,19],
+    "passage": "Genesis 20:1-13",
+    "passage_ref": [[["gen",20,1],["gen",20,13]]],
+    "quote": "Genesis 20:11",
+    "quote_ref": [[["gen",20,11]]],
+    "tags": [["christian faith","christian-faith"],["fear","fear"],["God's will","gods-will"],["guidance","guidance"],["leading","leading"],["obedience","obedience"],["trials","trials"],["worry","worry"],["worship","worship"]],
+    "title": "Fear Factor",
+    "url": "http://odb.org/2011/07/19/fear-factor/"
   }
 ],
 "22": [
@@ -113,6 +158,7 @@
     "passage": "Genesis 22:1-14",
     "passage_ref": [[["gen",22,1],["gen",22,14]]],
     "quote": "Genesis 22:8",
+    "quote_ref": [[["gen",22,8]]],
     "tags": [],
     "title": "He Will Provide",
     "url": "http://odb.org/1994/01/07/he-will-provide/"
@@ -125,6 +171,7 @@
     "passage": "Genesis 25:27-34",
     "passage_ref": [[["gen",25,27],["gen",25,34]]],
     "quote": "Hebrews 12:16",
+    "quote_ref": [[["heb",12,16]]],
     "tags": [],
     "title": "What’s Worth Keeping",
     "url": "http://odb.org/1994/06/07/whats-worth-keeping/"
@@ -137,6 +184,7 @@
     "passage": "Genesis 27:6-23",
     "passage_ref": [[["gen",27,6],["gen",27,23]]],
     "quote": "2 Corinthians 12:9",
+    "quote_ref": [[["2co",12,9]]],
     "tags": [["God's strength","gods-strength"],["grace","grace"],["power for living","power-for-living"],["surrender","surrender"]],
     "title": "Flawed",
     "url": "http://odb.org/2012/02/10/flawed/"
@@ -149,6 +197,7 @@
     "passage": "Genesis 28:10-22",
     "passage_ref": [[["gen",28,10],["gen",28,22]]],
     "quote": "Genesis 28:16",
+    "quote_ref": [[["gen",28,16]]],
     "tags": [["God's guidance","gods-guidance"],["God's love","gods-love"],["God's presence","gods-presence"],["gratitude","gratitude"]],
     "title": "Jesus Is Near",
     "url": "http://odb.org/2012/10/10/jesus-is-near/"
@@ -161,6 +210,7 @@
     "passage": "Genesis 29:16-30",
     "passage_ref": [[["gen",29,16],["gen",29,30]]],
     "quote": "Romans 5:8",
+    "quote_ref": [[["rom",5,8]]],
     "tags": [["acceptance","acceptance"],["attitude","attitude"],["cost of","cost-of"],["cross","cross"],["God's love","gods-love"],["Jesus Christ","jesus-christ"],["love for others","love-for-others"],["salvation","salvation"]],
     "title": "Second Best?",
     "url": "http://odb.org/2013/02/14/second-best/"
@@ -173,6 +223,7 @@
     "passage": "Genesis 32:1-8,22-32",
     "passage_ref": [[["gen",32,1],["gen",32,8]],[["gen",32,22],["gen",32,32]]],
     "quote": "John 15:5",
+    "quote_ref": [[["jhn",15,5]]],
     "tags": [],
     "title": "Wrestling With God",
     "url": "http://odb.org/1994/01/10/wrestling-with-god/"
@@ -183,6 +234,7 @@
     "passage": "Genesis 32:22-32",
     "passage_ref": [[["gen",32,22],["gen",32,32]]],
     "quote": "Genesis 32:24",
+    "quote_ref": [[["gen",32,24]]],
     "tags": [],
     "title": "Boxing or Wrestling?",
     "url": "http://odb.org/1994/05/05/boxing-or-wrestling/"
@@ -195,6 +247,7 @@
     "passage": "Genesis 39:19-23",
     "passage_ref": [[["gen",39,19],["gen",39,23]]],
     "quote": "Genesis 39:21",
+    "quote_ref": [[["gen",39,21]]],
     "tags": [["anger","anger"],["anxiety","anxiety"],["bitterness","bitterness"],["blessing","blessing"],["God's care","gods-care"],["God's presence","gods-presence"],["mercy","mercy"],["protection","protection"]],
     "title": "Stranded",
     "url": "http://odb.org/2013/02/07/stranded/"
@@ -207,6 +260,7 @@
     "passage": "Genesis 40:1-14,23",
     "passage_ref": [[["gen",40,1],["gen",40,14]],[["gen",40,23]]],
     "quote": "Genesis 40:23",
+    "quote_ref": [[["gen",40,23]]],
     "tags": [["anxiety","anxiety"],["fear","fear"],["God's presence","gods-presence"],["justice","justice"],["loneliness","loneliness"],["promises","promises"],["trials","trials"]],
     "title": "The Gift Of Remembering",
     "url": "http://odb.org/2013/08/19/the-gift-of-remembering/"
@@ -219,6 +273,7 @@
     "passage": "Genesis 41:46-57",
     "passage_ref": [[["gen",41,46],["gen",41,57]]],
     "quote": "Genesis 41:39",
+    "quote_ref": [[["gen",41,39]]],
     "tags": [["christlikeness","christlikeness"],["compassion","compassion"],["discernment","discernment"],["love for others","love-for-others"],["serving","serving"],["suffering","suffering"],["wisdom","wisdom"]],
     "title": "All Kinds Of Help",
     "url": "http://odb.org/2014/04/17/all-kinds-of-help/"
@@ -231,6 +286,7 @@
     "passage": "Genesis 42:1-7,25-36",
     "passage_ref": [[["gen",42,1],["gen",42,7]],[["gen",42,25],["gen",42,36]]],
     "quote": "Genesis 42:36",
+    "quote_ref": [[["gen",42,36]]],
     "tags": [],
     "title": "When Everything Goes Wrong",
     "url": "http://odb.org/1994/10/15/when-everything-goes-wrong/"
@@ -243,6 +299,7 @@
     "passage": "Genesis 48:8-16",
     "passage_ref": [[["gen",48,8],["gen",48,16]]],
     "quote": "Genesis 48:15",
+    "quote_ref": [[["gen",48,15]]],
     "tags": [["choices","choices"],["decisions","decisions"],["God's will","gods-will"],["heaven","heaven"],["leading","leading"],["obedience","obedience"],["sovereignty","sovereignty"]],
     "title": "Looking Back",
     "url": "http://odb.org/2012/07/07/looking-back-2/"
@@ -255,6 +312,7 @@
     "passage": "Genesis 50:15-21",
     "passage_ref": [[["gen",50,15],["gen",50,21]]],
     "quote": "Romans 8:28",
+    "quote_ref": [[["rom",8,28]]],
     "tags": [],
     "title": "On Purpose",
     "url": "http://odb.org/1994/05/06/on-purpose/"
@@ -265,6 +323,7 @@
     "passage": "Genesis 50:15-21",
     "passage_ref": [[["gen",50,15],["gen",50,21]]],
     "quote": "John 8:36",
+    "quote_ref": [[["jhn",8,36]]],
     "tags": [["forgiveness","forgiveness"],["God's forgiveness","gods-forgiveness"],["grace","grace"],["mercy","mercy"],["revenge","revenge"],["sin","sin-christian-life"]],
     "title": "The Rules Of Disengagement",
     "url": "http://odb.org/2013/07/27/the-rules-of-disengagement/"

@@ -1,10 +1,22 @@
 { "4": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,11,26],
+    "passage": "Deuteronomy 4:32-40",
+    "passage_ref": [[["deu",4,32],["deu",4,40]]],
+    "quote": "3 John 1:8",
+    "quote_ref": [[["3jn",1,8]]],
+    "tags": [["God's guidance","gods-guidance"],["God's will","gods-will"],["leading","leading"],["love for others","love-for-others"],["peace","peace"]],
+    "title": "Singing Bowl",
+    "url": "http://odb.org/2011/11/26/singing-bowl/"
+  }, 
   { "author": ["Marvin Williams","marvinwilliams"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2013,6,18],
     "passage": "Deuteronomy 4:1-10",
     "passage_ref": [[["deu",4,1],["deu",4,10]]],
     "quote": "Deuteronomy 4:2",
+    "quote_ref": [[["deu",4,2]]],
     "tags": [["Bible","bible"],["God's faithfulness","gods-faithfulness"],["honor","honor"],["mercy","mercy"],["obedience","obedience"],["speech","speech"]],
     "title": "Every Word Matters",
     "url": "http://odb.org/2013/06/18/every-word-matters/"
@@ -17,18 +29,31 @@
     "passage": "Deuteronomy 5:1-7",
     "passage_ref": [[["deu",5,1],["deu",5,7]]],
     "quote": "Exodus 20:3",
+    "quote_ref": [[["exo",20,3]]],
     "tags": [],
     "title": "Commandment 1—Worship Only God",
     "url": "http://odb.org/1994/09/11/commandment-1worship-only-god/"
   }
 ],
 "6": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Purpose","basics-of-faith/church-basics-of-faith/purpose-church-basics-of-faith-basics-of-faith/"]],
+    "date": [2011,9,26],
+    "passage": "Deuteronomy 6:1-9",
+    "passage_ref": [[["deu",6,1],["deu",6,9]]],
+    "quote": "Deuteronomy 6:6-7",
+    "quote_ref": [[["deu",6,6],["deu",6,7]]],
+    "tags": [["foundation","foundation"],["parenting","parenting"],["teaching","teaching"]],
+    "title": "A FIRM Foundation",
+    "url": "http://odb.org/2011/09/26/a-firm-foundation/"
+  }, 
   { "author": ["Randy Kilgore","randykilgore"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2012,2,17],
     "passage": "Deuteronomy 6:1-9",
     "passage_ref": [[["deu",6,1],["deu",6,9]]],
     "quote": "Deuteronomy 6:7",
+    "quote_ref": [[["deu",6,7]]],
     "tags": [["God's love","gods-love"],["love for others","love-for-others"],["parentin","parentin"],["understanding","understanding"],["wisdom","wisdom"]],
     "title": "Side By Side",
     "url": "http://odb.org/2012/02/17/side-by-side/"
@@ -39,6 +64,7 @@
     "passage": "Deuteronomy 6:4-9",
     "passage_ref": [[["deu",6,4],["deu",6,9]]],
     "quote": "Deuteronomy 6:6",
+    "quote_ref": [[["deu",6,6]]],
     "tags": [["Bible","bible"],["Holy Spirit","holy-spirit"],["knowledge","knowledge"],["love for God","love-for-god"],["meditating","meditating"],["memorizing","memorizing"],["pride","pride"],["reading","reading"],["spiritual warfare","spiritual-warfare"],["wisdom","wisdom"]],
     "title": "Transforming Power",
     "url": "http://odb.org/2014/03/08/transforming-power/"
@@ -51,6 +77,7 @@
     "passage": "Deuteronomy 8:7-18",
     "passage_ref": [[["deu",8,7],["deu",8,18]]],
     "quote": "John 1:16",
+    "quote_ref": [[["jhn",1,16]]],
     "tags": [["blessings","blessings"],["gratitude","gratitude"],["riches","riches"],["thankfulness","thankfulness"]],
     "title": "A Full Life",
     "url": "http://odb.org/2012/01/23/a-full-life/"
@@ -61,6 +88,7 @@
     "passage": "Deuteronomy 8:1-10",
     "passage_ref": [[["deu",8,1],["deu",8,10]]],
     "quote": "Deuteronomy 8:2",
+    "quote_ref": [[["deu",8,2]]],
     "tags": [["God's guidance","gods-guidance"],["leading","leading"],["obedience","obedience"],["surrender","surrender"]],
     "title": "Two Lessons Learned",
     "url": "http://odb.org/2012/07/14/two-lessons-learned/"
@@ -71,6 +99,7 @@
     "passage": "Deuteronomy 8:7-18",
     "passage_ref": [[["deu",8,7],["deu",8,18]]],
     "quote": "Deuteronomy 8:11",
+    "quote_ref": [[["deu",8,11]]],
     "tags": [["God's care","gods-care"],["God's goodness","gods-goodness"],["God's provision","gods-provision"],["materialism","materialism"],["riches","riches"],["temporal","temporal"]],
     "title": "Don’t Forget",
     "url": "http://odb.org/2013/07/19/dont-forget-5/"
@@ -78,11 +107,23 @@
 ],
 "10": [
   { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,7,27],
+    "passage": "Deuteronomy 10:12-22",
+    "passage_ref": [[["deu",10,12],["deu",10,22]]],
+    "quote": "Exodus 23:8",
+    "quote_ref": [[["exo",23,8]]],
+    "tags": [["discernment","discernment"],["flattery","flattery"],["justice","justice"],["love for others","love-for-others"],["partiality","partiality"],["sin","sin-christian-life"]],
+    "title": "Bribery",
+    "url": "http://odb.org/2011/07/27/bribery/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Uncategorized","uncategorized/"]],
     "date": [2013,11,1],
     "passage": "Deuteronomy 10:12-22",
     "passage_ref": [[["deu",10,12],["deu",10,22]]],
     "quote": "Deuteronomy 10:12",
+    "quote_ref": [[["deu",10,12]]],
     "tags": [["false witness","false-witness"],["God's love","gods-love"],["love for God","love-for-god"],["love for others","love-for-others"],["persecution","persecution"]],
     "title": "Loved To Love",
     "url": "http://odb.org/2013/11/01/loved-to-love/"
@@ -93,6 +134,7 @@
     "passage": "Deuteronomy 10:12-22",
     "passage_ref": [[["deu",10,12],["deu",10,22]]],
     "quote": "Deuteronomy 10:19",
+    "quote_ref": [[["deu",10,19]]],
     "tags": [["christlikeness","christlikeness"],["compassion","compassion"],["empowerment","empowerment"],["hope","hope"],["hospitality","hospitality"],["ministry","ministry"],["service","service"]],
     "title": "Loved To Love",
     "url": "http://odb.org/2014/04/09/loved-to-love-2/"
@@ -105,9 +147,21 @@
     "passage": "Deuteronomy 11:13-21",
     "passage_ref": [[["deu",11,13],["deu",11,21]]],
     "quote": "Deuteronomy 11:19",
+    "quote_ref": [[["deu",11,19]]],
     "tags": [],
     "title": "Little Sponges",
     "url": "http://odb.org/1994/03/03/little-sponges/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Enablement","basics-of-faith/holy-spirit-basics-of-faith/enablement-holy-spirit-basics-of-faith-basics-of-faith/"],["Holy Spirit","basics-of-faith/holy-spirit-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"],["New Birth","basics-of-faith/salvation-basics-of-faith/new-birth-salvation-basics-of-faith-basics-of-faith/"]],
+    "date": [2011,10,14],
+    "passage": "Deuteronomy 11:13-23",
+    "passage_ref": [[["deu",11,13],["deu",11,23]]],
+    "quote": "Romans 6:4",
+    "quote_ref": [[["rom",6,4]]],
+    "tags": [["empowerment","empowerment"],["Holy Spirit","holy-spirit"],["new life","new-life"],["transformation","transformation"]],
+    "title": "The Way We Walk",
+    "url": "http://odb.org/2011/10/14/the-way-we-walk/"
   }
 ],
 "15": [
@@ -117,6 +171,7 @@
     "passage": "Deuteronomy 15:7-11",
     "passage_ref": [[["deu",15,7],["deu",15,11]]],
     "quote": "Deuteronomy 15:8",
+    "quote_ref": [[["deu",15,8]]],
     "tags": [["compassion","compassion"],["grace","grace"],["guidance","guidance"],["kindness","kindness"],["leading","leading"],["love for others","love-for-others"]],
     "title": "Open-Handed Help",
     "url": "http://odb.org/2012/12/04/open-handed-help/"
@@ -129,6 +184,7 @@
     "passage": "Deuteronomy 24:19-22",
     "passage_ref": [[["deu",24,19],["deu",24,22]]],
     "quote": "Proverbs 12:11",
+    "quote_ref": [[["pro",12,11]]],
     "tags": [["Bible","bible"],["giving","giving"],["God's love","gods-love"],["God's provision","gods-provision"],["love for others","love-for-others"],["wisdom","wisdom"]],
     "title": "God Provides, But How?",
     "url": "http://odb.org/2013/10/08/god-provides-but-how/"
@@ -141,6 +197,7 @@
     "passage": "Deuteronomy 30:15-20",
     "passage_ref": [[["deu",30,15],["deu",30,20]]],
     "quote": "Deuteronomy 30:20",
+    "quote_ref": [[["deu",30,20]]],
     "tags": [["Bible","bible"],["empowerment","empowerment"],["Holy Spirit","holy-spirit"],["joy","joy"],["obedience","obedience"]],
     "title": "The High Cost Of Living",
     "url": "http://odb.org/2012/10/03/the-high-cost-of-living/"
@@ -151,6 +208,7 @@
     "passage": "Deuteronomy 30:11-20",
     "passage_ref": [[["deu",30,11],["deu",30,20]]],
     "quote": "Deuteronomy 30:11",
+    "quote_ref": [[["deu",30,11]]],
     "tags": [["God's plan","gods-plan"],["God's presence","gods-presence"],["God's purpose","gods-purpose"],["holiness","holiness"],["love for God","love-for-god"],["obedience","obedience"],["surrender","surrender"]],
     "title": "No Fine Print",
     "url": "http://odb.org/2013/04/05/no-fine-print/"
@@ -161,6 +219,7 @@
     "passage": "Deuteronomy 30:11-20",
     "passage_ref": [[["deu",30,11],["deu",30,20]]],
     "quote": "Deuteronomy 30:19-20",
+    "quote_ref": [[["deu",30,19],["deu",30,20]]],
     "tags": [["choices","choices"],["decisions","decisions"],["example","example"],["God's guidance","gods-guidance"],["God's will","gods-will"],["the law","the-law"],["wisdom","wisdom"],["worship","worship"]],
     "title": "Choose Life",
     "url": "http://odb.org/2014/04/06/choose-life/"
@@ -173,6 +232,7 @@
     "passage": "Deuteronomy 31:14-30",
     "passage_ref": [[["deu",31,14],["deu",31,30]]],
     "quote": "Deuteronomy 31:22",
+    "quote_ref": [[["deu",31,22]]],
     "tags": [],
     "title": "Music’s Power",
     "url": "http://odb.org/1994/04/18/musics-power/"
@@ -183,6 +243,7 @@
     "passage": "Deuteronomy 31:16-22",
     "passage_ref": [[["deu",31,16],["deu",31,22]]],
     "quote": "Deuteronomy 32:3-4",
+    "quote_ref": [[["deu",32,3],["deu",32,4]]],
     "tags": [["God's character","gods-character"],["God's faithfulness","gods-faithfulness"],["God's love","gods-love"],["God's power","gods-power"],["grace","grace"],["gratitude","gratitude"],["holiness","holiness"],["justice","justice"],["praise","praise"]],
     "title": "A Song To Remember",
     "url": "http://odb.org/2013/01/20/a-song-to-remember/"
@@ -195,6 +256,7 @@
     "passage": "Deuteronomy 33:1-3,26-29",
     "passage_ref": [[["deu",33,1],["deu",33,3]],[["deu",33,26],["deu",33,29]]],
     "quote": "Deuteronomy 33:3",
+    "quote_ref": [[["deu",33,3]]],
     "tags": [],
     "title": "In His Hands",
     "url": "http://odb.org/1994/01/01/in-his-hands/"

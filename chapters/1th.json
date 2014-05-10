@@ -5,18 +5,31 @@
     "passage": "1 Thessalonians 1",
     "passage_ref": [[["1th",1,null]]],
     "quote": "1 Corinthians 11:1",
+    "quote_ref": [[["1co",11,1]]],
     "tags": [],
     "title": "You Are A Role Model",
     "url": "http://odb.org/1994/09/03/you-are-a-role-model/"
   }
 ],
 "2": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,7,9],
+    "passage": "1 Thessalonians 2:4-12",
+    "passage_ref": [[["1th",2,4],["1th",2,12]]],
+    "quote": "1 Thessalonians 2:7",
+    "quote_ref": [[["1th",2,7]]],
+    "tags": [["discipleship","discipleship"],["eternity","eternity"],["father","father"],["heaven","heaven"],["joy","joy"],["mother","mother"],["Savior","savior"]],
+    "title": "A Family Reunion",
+    "url": "http://odb.org/2011/07/09/a-family-reunion/"
+  }, 
   { "author": ["C. P. Hia","cphia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relationships","relationships/"]],
     "date": [2014,1,13],
     "passage": "1 Thessalonians 2:17–3:7",
     "passage_ref": [[["1th",2,17],["1th",3,7]]],
     "quote": "1 Thessalonians 3:6",
+    "quote_ref": [[["1th",3,6]]],
     "tags": [["Bible","bible"],["ministry","ministry"],["persecution","persecution"],["reading","reading"],["suffering","suffering"],["trials","trials"]],
     "title": "Much More Than Survival",
     "url": "http://odb.org/2014/01/13/much-more-than-survival/"
@@ -29,6 +42,7 @@
     "passage": "1 Thessalonians 3",
     "passage_ref": [[["1th",3,null]]],
     "quote": "1 Thessalonians 3:3",
+    "quote_ref": [[["1th",3,3]]],
     "tags": [["children","children"],["contentment","contentment"],["disappointment","disappointment"],["holiness","holiness"],["parenting","parenting"],["self-images","self-images"]],
     "title": "The Way To An “Easy” Life",
     "url": "http://odb.org/2012/06/09/the-way-to-an-easy-life/"
@@ -39,6 +53,7 @@
     "passage": "1 Thessalonians 3:12–4:10",
     "passage_ref": [[["1th",3,12],["1th",4,10]]],
     "quote": "1 Thessalonians 3:12",
+    "quote_ref": [[["1th",3,12]]],
     "tags": [["God's love","gods-love"],["God's power","gods-power"],["grace","grace"],["love for others","love-for-others"],["riches","riches"]],
     "title": "More And More",
     "url": "http://odb.org/2012/11/27/more-and-more/"
@@ -49,6 +64,7 @@
     "passage": "1 Thessalonians 3:6-13",
     "passage_ref": [[["1th",3,6],["1th",3,13]]],
     "quote": "1 Thessalonians 5:25",
+    "quote_ref": [[["1th",5,25]]],
     "tags": [["compassion","compassion"],["encouragement","encouragement"],["friendship","friendship"],["God's power","gods-power"],["God's presence","gods-presence"],["love for others","love-for-others"],["prayer","prayer"]],
     "title": "Praying Friends",
     "url": "http://odb.org/2013/03/09/praying-friends/"
@@ -59,6 +75,7 @@
     "passage": "1 Thessalonians 2:17–3:7",
     "passage_ref": [[["1th",2,17],["1th",3,7]]],
     "quote": "1 Thessalonians 3:6",
+    "quote_ref": [[["1th",3,6]]],
     "tags": [["Bible","bible"],["ministry","ministry"],["persecution","persecution"],["reading","reading"],["suffering","suffering"],["trials","trials"]],
     "title": "Much More Than Survival",
     "url": "http://odb.org/2014/01/13/much-more-than-survival/"
@@ -71,6 +88,7 @@
     "passage": "1 Thessalonians 4:13-18",
     "passage_ref": [[["1th",4,13],["1th",4,18]]],
     "quote": "1 Thessalonians 4:18",
+    "quote_ref": [[["1th",4,18]]],
     "tags": [],
     "title": "When Someone Is Gone",
     "url": "http://odb.org/1994/05/17/when-someone-is-gone/"
@@ -81,9 +99,21 @@
     "passage": "1 Thessalonians 4:13-18",
     "passage_ref": [[["1th",4,13],["1th",4,18]]],
     "quote": "Titus 2:12-13",
+    "quote_ref": [[["tit",2,12],["tit",2,13]]],
     "tags": [],
     "title": "Our Only Hope",
     "url": "http://odb.org/1994/10/24/our-only-hope/"
+  }, 
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Heaven","basics-of-faith/future-prophecy-basics-of-faith/heaven-future-prophecy-basics-of-faith-basics-of-faith/"],["Relationships","relationships/"]],
+    "date": [2011,10,22],
+    "passage": "1 Thessalonians 4:13-18",
+    "passage_ref": [[["1th",4,13],["1th",4,18]]],
+    "quote": "1 Thessalonians 4:13",
+    "quote_ref": [[["1th",4,13]]],
+    "tags": [["eternity","eternity"],["future","future"],["heaven","heaven"],["Relationships","relationships"]],
+    "title": "So Long",
+    "url": "http://odb.org/2011/10/22/so-long/"
   }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -91,6 +121,7 @@
     "passage": "1 Thessalonians 4:13-18",
     "passage_ref": [[["1th",4,13],["1th",4,18]]],
     "quote": "1 Thessalonians 4:17",
+    "quote_ref": [[["1th",4,17]]],
     "tags": [["comfort","comfort"],["death","death"],["eternity","eternity"],["heaven","heaven"],["Savior","savior"]],
     "title": "Long-Awaited Reunion",
     "url": "http://odb.org/2012/03/20/long-awaited-reunion/"
@@ -100,7 +131,8 @@
     "date": [2012,8,6],
     "passage": "1 Thessalonians 4:13-18",
     "passage_ref": [[["1th",4,13],["1th",4,18]]],
-    "quote": "1 Thessalonians. 4:17-18",
+    "quote": "1 Thessalonians 4:17-18",
+    "quote_ref": [[["1th",4,17],["1th",4,18]]],
     "tags": [["comfort","comfort"],["encouragement","encouragement"],["fear","fear"],["God's presence","gods-presence"]],
     "title": "Always",
     "url": "http://odb.org/2012/08/06/always/"
@@ -111,6 +143,7 @@
     "passage": "1 Thessalonians 3:12–4:10",
     "passage_ref": [[["1th",3,12],["1th",4,10]]],
     "quote": "1 Thessalonians 3:12",
+    "quote_ref": [[["1th",3,12]]],
     "tags": [["God's love","gods-love"],["God's power","gods-power"],["grace","grace"],["love for others","love-for-others"],["riches","riches"]],
     "title": "More And More",
     "url": "http://odb.org/2012/11/27/more-and-more/"
@@ -123,6 +156,7 @@
     "passage": "1 Thessalonians 5:12-22",
     "passage_ref": [[["1th",5,12],["1th",5,22]]],
     "quote": "1 Thessalonians 5:13",
+    "quote_ref": [[["1th",5,13]]],
     "tags": [],
     "title": "The Church Cure",
     "url": "http://odb.org/1994/09/04/the-church-cure/"
@@ -133,6 +167,7 @@
     "passage": "1 Thessalonians 5:12-18",
     "passage_ref": [[["1th",5,12],["1th",5,18]]],
     "quote": "1 Thessalonians 5:17",
+    "quote_ref": [[["1th",5,17]]],
     "tags": [],
     "title": "All Day With God",
     "url": "http://odb.org/2012/04/23/all-day-with-god/"
@@ -143,6 +178,7 @@
     "passage": "1 Thessalonians 5:16-22",
     "passage_ref": [[["1th",5,16],["1th",5,22]]],
     "quote": "1 Thessalonians 5:18",
+    "quote_ref": [[["1th",5,18]]],
     "tags": [["faith","faith"],["gratitude","gratitude"],["sovereignty","sovereignty"],["thankfulness","thankfulness"],["thanksgiving","thanksgiving"]],
     "title": "Give Thanks",
     "url": "http://odb.org/2012/10/22/give-thanks-3/"
@@ -153,6 +189,7 @@
     "passage": "1 Thessalonians 5:12-22",
     "passage_ref": [[["1th",5,12],["1th",5,22]]],
     "quote": "1 Thessalonians 5:18",
+    "quote_ref": [[["1th",5,18]]],
     "tags": [["future","future"],["God's love","gods-love"],["gratitude","gratitude"],["promises","promises"],["thanksgiving","thanksgiving"]],
     "title": "Thankful In All Things",
     "url": "http://odb.org/2013/03/11/thankful-in-all-things/"

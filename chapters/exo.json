@@ -5,6 +5,7 @@
     "passage": "Exodus 3:7-15",
     "passage_ref": [[["exo",3,7],["exo",3,15]]],
     "quote": "Exodus 3:11",
+    "quote_ref": [[["exo",3,11]]],
     "tags": [["Character","character-christian-life"],["cross","cross"],["God's character","gods-character"],["good news","good-news"],["Jesus Christ","jesus-christ"],["salvation","salvation"]],
     "title": "Who Am I?",
     "url": "http://odb.org/2013/09/28/who-am-i-2/"
@@ -15,9 +16,36 @@
     "passage": "Exodus 3:1-12",
     "passage_ref": [[["exo",3,1],["exo",3,12]]],
     "quote": "Exodus 3:3",
+    "quote_ref": [[["exo",3,3]]],
     "tags": [["eternity","eternity"],["God's goodness","gods-goodness"],["God's love","gods-love"],["worship","worship"]],
     "title": "Sunrise",
     "url": "http://odb.org/2014/03/01/sunrise/"
+  }
+],
+"4": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Growth","relationships/relating-to-god-relationships/growth-relating-to-god-relationships-relationships/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Obedience","relationships/relating-to-god-relationships/obedience-relating-to-god-relationships-relationships/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2011,9,27],
+    "passage": "Exodus 4:1-9,17",
+    "passage_ref": [[["exo",4,1],["exo",4,9]],[["exo",4,17]]],
+    "quote": "Exodus 4:17",
+    "quote_ref": [[["exo",4,17]]],
+    "tags": [["fear","fear"],["obedience","obedience"],["usefulness","usefulness"],["wisdom","wisdom"]],
+    "title": "The Tales Of Two Sticks",
+    "url": "http://odb.org/2011/09/27/the-tales-of-two-sticks/"
+  }
+],
+"5": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Leadership","ministry-and-outreach/spiritual-gifts-ministry-and-outreach/leadership-spiritual-gifts-ministry-and-outreach/"]],
+    "date": [2011,9,24],
+    "passage": "Exodus 5:1-14,22-23",
+    "passage_ref": [[["exo",5,1],["exo",5,14]],[["exo",5,22],["exo",5,23]]],
+    "quote": "Exodus 6:6",
+    "quote_ref": [[["exo",6,6]]],
+    "tags": [["doubt","doubt"],["God's provision","gods-provision"],["leadership","leadership"]],
+    "title": "From Bad To Worse",
+    "url": "http://odb.org/2011/09/24/from-bad-to-worse/"
   }
 ],
 "6": [
@@ -27,6 +55,7 @@
     "passage": "Exodus 6:1-8",
     "passage_ref": [[["exo",6,1],["exo",6,8]]],
     "quote": "Exodus 6:6",
+    "quote_ref": [[["exo",6,6]]],
     "tags": [["backsliding","backsliding"],["gift","gift"],["God's glory","gods-glory"],["God's plan","gods-plan"],["God's will","gods-will"],["sin","sin-christian-life"],["suffering","suffering"]],
     "title": "God’s Strong Arm",
     "url": "http://odb.org/2013/05/17/gods-strong-arm/"
@@ -37,6 +66,7 @@
     "passage": "Exodus 6:1-13",
     "passage_ref": [[["exo",6,1],["exo",6,13]]],
     "quote": "Exodus 6:6",
+    "quote_ref": [[["exo",6,6]]],
     "tags": [["discouragement","discouragement"],["empowerment","empowerment"],["encouragement","encouragement"],["God's guidance","gods-guidance"],["leading","leading"],["sovereignty","sovereignty"]],
     "title": "Bricks Without Straw",
     "url": "http://odb.org/2014/01/22/bricks-without-straw/"
@@ -49,6 +79,7 @@
     "passage": "Exodus 8:1-15",
     "passage_ref": [[["exo",8,1],["exo",8,15]]],
     "quote": "Titus 3:2",
+    "quote_ref": [[["tit",3,2]]],
     "tags": [["gentleness","gentleness"],["God's character","gods-character"],["God's plan","gods-plan"],["humility","humility"],["sovereignty","sovereignty"]],
     "title": "Out Of Chaos",
     "url": "http://odb.org/2014/03/26/out-of-chaos/"
@@ -61,6 +92,7 @@
     "passage": "Exodus 12:29-42",
     "passage_ref": [[["exo",12,29],["exo",12,42]]],
     "quote": "Exodus 20:3",
+    "quote_ref": [[["exo",20,3]]],
     "tags": [],
     "title": "Golden Gods",
     "url": "http://odb.org/1994/06/29/golden-gods/"
@@ -71,6 +103,7 @@
     "passage": "Exodus 12:1-13",
     "passage_ref": [[["exo",12,1],["exo",12,13]]],
     "quote": "1 Peter 3:15",
+    "quote_ref": [[["1pe",3,15]]],
     "tags": [["christian faith","christian-faith"],["defending your faith","defending-your-faith"],["patience","patience"],["questions","questions"],["testimony","testimony"],["witnessing","witnessing"]],
     "title": "Invite Questions",
     "url": "http://odb.org/2012/02/18/invite-questions/"
@@ -83,18 +116,31 @@
     "passage": "Exodus 13:17-22",
     "passage_ref": [[["exo",13,17],["exo",13,22]]],
     "quote": "Ecclesiastes 8:6",
+    "quote_ref": [[["ecc",8,6]]],
     "tags": [["God's guidance","gods-guidance"],["God's timing","gods-timing"],["leading","leading"],["patience","patience"],["sanctification","sanctification"],["spiritual growth","spiritual-growth"],["waiting","waiting"]],
     "title": "God’s Timing",
     "url": "http://odb.org/2012/05/07/gods-timing/"
   }
 ],
 "14": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2011,8,29],
+    "passage": "Exodus 14:1-14",
+    "passage_ref": [[["exo",14,1],["exo",14,14]]],
+    "quote": "Exodus 14:4",
+    "quote_ref": [[["exo",14,4]]],
+    "tags": [["fear","fear"],["sovereignty","sovereignty"],["trials","trials"],["trust","trust"]],
+    "title": "A Matter Of Perspective",
+    "url": "http://odb.org/2011/08/29/a-matter-of-perspective-2/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Life Stories","life-stories-2/"],["Old Testament","life-stories-2/old-testament-life-stories-2/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,5,26],
     "passage": "Exodus 14:5-22",
     "passage_ref": [[["exo",14,5],["exo",14,22]]],
     "quote": "Exodus 14:13",
+    "quote_ref": [[["exo",14,13]]],
     "tags": [["Bible","bible"],["God's guidance","gods-guidance"],["leading","leading"]],
     "title": "Stand Or Go?",
     "url": "http://odb.org/2012/05/26/stand-or-go/"
@@ -105,18 +151,44 @@
     "passage": "Exodus 14:19-25",
     "passage_ref": [[["exo",14,19],["exo",14,25]]],
     "quote": "Isaiah 58:8",
+    "quote_ref": [[["isa",58,8]]],
     "tags": [["God's presence","gods-presence"],["God's protection","gods-protection"],["kindness","kindness"],["serving","serving"],["worry","worry"]],
     "title": "“Don’t Worry, Dad!”",
     "url": "http://odb.org/2013/05/09/dont-worry-dad/"
   }
 ],
+"15": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
+    "date": [2011,11,12],
+    "passage": "Exodus 15:22-27",
+    "passage_ref": [[["exo",15,22],["exo",15,27]]],
+    "quote": "Exodus 15:25",
+    "quote_ref": [[["exo",15,25]]],
+    "tags": [["God's care","gods-care"],["God's provision","gods-provision"],["protection","protection"],["trials","trials"],["trust","trust"]],
+    "title": "The Road To Blessing",
+    "url": "http://odb.org/2011/11/12/the-road-to-blessing/"
+  }
+],
 "16": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,9,17],
+    "passage": "Exodus 16:1-12",
+    "passage_ref": [[["exo",16,1],["exo",16,12]]],
+    "quote": "Exodus 16:6",
+    "quote_ref": [[["exo",16,6]]],
+    "tags": [["courage","courage"],["perserverence","perserverence"],["trials","trials"],["Weakness","weakness"]],
+    "title": "No Reverse",
+    "url": "http://odb.org/2011/09/17/no-reverse/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2014,2,17],
     "passage": "Exodus 16:1-8",
     "passage_ref": [[["exo",16,1],["exo",16,8]]],
     "quote": "Ecclesiastes 5:2",
+    "quote_ref": [[["ecc",5,2]]],
     "tags": [["anger","anger"],["attitude","attitude"],["fear","fear"],["Holy Spirit","holy-spirit"],["leadership","leadership"],["love of others","love-of-others"],["pride","pride"],["speech","speech"],["tongue","tongue"]],
     "title": "On Listening",
     "url": "http://odb.org/2014/02/17/on-listening/"
@@ -129,6 +201,7 @@
     "passage": "Exodus 17:8-16",
     "passage_ref": [[["exo",17,8],["exo",17,16]]],
     "quote": "Exodus 17:11",
+    "quote_ref": [[["exo",17,11]]],
     "tags": [],
     "title": "Invisible Support",
     "url": "http://odb.org/1994/03/04/invisible-support/"
@@ -141,9 +214,21 @@
     "passage": "Exodus 18:13-27",
     "passage_ref": [[["exo",18,13],["exo",18,27]]],
     "quote": "Exodus 18:19",
+    "quote_ref": [[["exo",18,19]]],
     "tags": [],
     "title": "The Wisdom of Age",
     "url": "http://odb.org/1994/03/10/the-wisdom-of-age/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
+    "date": [2011,8,10],
+    "passage": "Exodus 18:13-27",
+    "passage_ref": [[["exo",18,13],["exo",18,27]]],
+    "quote": "Exodus 18:18",
+    "quote_ref": [[["exo",18,18]]],
+    "tags": [["advisors","advisors"],["delegation","delegation"],["discernment","discernment"],["overwhelmed","overwhelmed"],["tired","tired"]],
+    "title": "Wearing Yourself Out",
+    "url": "http://odb.org/2011/08/10/wearing-yourself-out/"
   }, 
   { "author": ["Randy Kilgore","randykilgore"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -151,6 +236,7 @@
     "passage": "Exodus 18:13-24",
     "passage_ref": [[["exo",18,13],["exo",18,24]]],
     "quote": "Exodus 18:24",
+    "quote_ref": [[["exo",18,24]]],
     "tags": [["delegation","delegation"],["humility","humility"],["pride","pride"],["wisdom","wisdom"]],
     "title": "A Time For Good Counsel",
     "url": "http://odb.org/2012/01/17/a-time-for-good-counsel/"
@@ -163,9 +249,21 @@
     "passage": "Exodus 20:1-7",
     "passage_ref": [[["exo",20,1],["exo",20,7]]],
     "quote": "Exodus 20:7",
+    "quote_ref": [[["exo",20,7]]],
     "tags": [],
     "title": "Commandment 3—Respect God’s Name",
     "url": "http://odb.org/1994/09/13/commandment-3respect-gods-name/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relationships","relationships/"]],
+    "date": [2011,11,29],
+    "passage": "Exodus 20:1-17",
+    "passage_ref": [[["exo",20,1],["exo",20,17]]],
+    "quote": "Ephesians 6:2",
+    "quote_ref": [[["eph",6,2]]],
+    "tags": [["children","children"],["Family","family-relationships"],["father","father"],["kindness","kindness"],["mother","mother"],["parenting","parenting"]],
+    "title": "Honoring Your Parents",
+    "url": "http://odb.org/2011/11/29/honoring-your-parents/"
   }, 
   { "author": ["Marvin Williams","marvinwilliams"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Uncategorized","uncategorized/"]],
@@ -173,6 +271,7 @@
     "passage": "Exodus 20:8-11",
     "passage_ref": [[["exo",20,8],["exo",20,11]]],
     "quote": "Exodus 20:9-10",
+    "quote_ref": [[["exo",20,9],["exo",20,10]]],
     "tags": [["creation","creation"],["gratitude","gratitude"],["rest","rest"],["restoraton","restoraton"],["suffering","suffering"],["trials","trials"],["worship","worship"]],
     "title": "A Slower Pace",
     "url": "http://odb.org/2013/09/01/a-slower-pace/"
@@ -183,6 +282,7 @@
     "passage": "Exodus 20:8-11",
     "passage_ref": [[["exo",20,8],["exo",20,11]]],
     "quote": "Psalm 23:2-3",
+    "quote_ref": [[["psa",23,2],["psa",23,3]]],
     "tags": [["calm","calm"],["creation","creation"],["God's love","gods-love"],["praise","praise"],["rest","rest"]],
     "title": "“Lie Down”",
     "url": "http://odb.org/2014/02/25/lie-down/"
@@ -195,9 +295,23 @@
     "passage": "Exodus 23:20-33",
     "passage_ref": [[["exo",23,20],["exo",23,33]]],
     "quote": "Exodus 23:30",
+    "quote_ref": [[["exo",23,30]]],
     "tags": [],
     "title": "Little By Little!",
     "url": "http://odb.org/1994/09/22/little-by-little-2/"
+  }
+],
+"26": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,7,17],
+    "passage": "Exodus 26:1-11",
+    "passage_ref": [[["exo",26,1],["exo",26,11]]],
+    "quote": "Ephesians 2:21",
+    "quote_ref": [[["eph",2,21]]],
+    "tags": [["Church","church-basics-of-faith"],["confrontation","confrontation"],["criticism","criticism"],["judgment","judgment"],["love for others","love-for-others"],["unity","unity"]],
+    "title": "Perfect Fit",
+    "url": "http://odb.org/2011/07/17/perfect-fit/"
   }
 ],
 "31": [
@@ -207,9 +321,21 @@
     "passage": "Exodus 31:12-18",
     "passage_ref": [[["exo",31,12],["exo",31,18]]],
     "quote": "Mark 2:27",
+    "quote_ref": [[["mrk",2,27]]],
     "tags": [],
     "title": "Commandment 4—Take A Day To Rest",
     "url": "http://odb.org/1994/09/14/commandment-4take-a-day-to-rest/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,11,21],
+    "passage": "Exodus 31:1-5",
+    "passage_ref": [[["exo",31,1],["exo",31,5]]],
+    "quote": "Ephesians 2:10",
+    "quote_ref": [[["eph",2,10]]],
+    "tags": [["christlikeness","christlikeness"],["Holy Spirit","holy-spirit"],["sanctification","sanctification"],["spiritual growth","spiritual-growth"]],
+    "title": "The Craftsman’s Touch",
+    "url": "http://odb.org/2011/11/21/the-craftsman%e2%80%99s-touch/"
   }
 ],
 "32": [
@@ -219,6 +345,7 @@
     "passage": "Exodus 32:1-14",
     "passage_ref": [[["exo",32,1],["exo",32,14]]],
     "quote": "Exodus 20:4",
+    "quote_ref": [[["exo",20,4]]],
     "tags": [],
     "title": "Commandment 2—Refuse Idolatry",
     "url": "http://odb.org/1994/09/12/commandment-2refuse-idolatry/"
@@ -229,6 +356,7 @@
     "passage": "Exodus 32:21-35",
     "passage_ref": [[["exo",32,21],["exo",32,35]]],
     "quote": "Exodus 32:31",
+    "quote_ref": [[["exo",32,31]]],
     "tags": [["anger","anger"],["Bible","bible"],["God's glory","gods-glory"],["God's majesty","gods-majesty"],["idolatry","idolatry"],["obedience","obedience"],["slavery","slavery"],["surrender","surrender"],["worship","worship"]],
     "title": "Stray Hearts",
     "url": "http://odb.org/2013/10/20/stray-hearts/"
@@ -241,6 +369,7 @@
     "passage": "Exodus 34:1-9",
     "passage_ref": [[["exo",34,1],["exo",34,9]]],
     "quote": "Numbers 14:18",
+    "quote_ref": [[["num",14,18]]],
     "tags": [["attributes","attributes"],["God's character","gods-character"],["God's love","gods-love"],["mercy","mercy"]],
     "title": "Caricature God",
     "url": "http://odb.org/2012/03/03/caricature-god/"
@@ -251,6 +380,7 @@
     "passage": "Exodus 34:1-8",
     "passage_ref": [[["exo",34,1],["exo",34,8]]],
     "quote": "Exodus 34:6",
+    "quote_ref": [[["exo",34,6]]],
     "tags": [],
     "title": "God’s Description",
     "url": "http://odb.org/2012/11/15/gods-description/"
@@ -263,6 +393,7 @@
     "passage": "Exodus 35:20-29",
     "passage_ref": [[["exo",35,20],["exo",35,29]]],
     "quote": "Exodus 35:21",
+    "quote_ref": [[["exo",35,21]]],
     "tags": [["attitude","attitude"],["generosity","generosity"],["giving","giving"],["riches","riches"],["talents","talents"]],
     "title": "Free Tomatoes",
     "url": "http://odb.org/2014/04/01/free-tomatoes/"
@@ -275,6 +406,7 @@
     "passage": "Exodus 36:1-7",
     "passage_ref": [[["exo",36,1],["exo",36,7]]],
     "quote": "Micah 6:8",
+    "quote_ref": [[["mic",6,8]]],
     "tags": [["beauty","beauty"],["eternity","eternity"],["God's","gods"],["God's majesty","gods-majesty"],["praise","praise"],["worship","worship"]],
     "title": "Beauty In The Church",
     "url": "http://odb.org/2012/03/11/beauty-in-the-church/"

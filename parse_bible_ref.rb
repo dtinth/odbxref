@@ -104,14 +104,6 @@ class BibleReference
   ]
 
   def initialize(text)
-    text = text.strip
-    text = text.gsub(/\s+/, ' ')
-    text = text.gsub(/\u00a0/, ' ')  # Certain pages use non breaking space...
-    text = text.sub(/\.$/, '')
-
-    # hacks
-    text = text.sub('1 Thessalonians.', '1 Thessalonians')
-
     @original = text
     @text = text
   end

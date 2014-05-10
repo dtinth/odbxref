@@ -5,18 +5,31 @@
     "passage": "Micah 5:1-5",
     "passage_ref": [[["mic",5,1],["mic",5,5]]],
     "quote": "Galatians 4:4",
+    "quote_ref": [[["gal",4,4]]],
     "tags": [],
     "title": "What If?",
     "url": "http://odb.org/1994/11/27/what-if/"
   }
 ],
 "6": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,7,29],
+    "passage": "Micah 6:6-8",
+    "passage_ref": [[["mic",6,6],["mic",6,8]]],
+    "quote": "Psalm 73:28",
+    "quote_ref": [[["psa",73,28]]],
+    "tags": [["Character","character-christian-life"],["christlikeness","christlikeness"],["compassion","compassion"],["gentleness","gentleness"],["God's love","gods-love"],["humility","humility"],["kindness","kindness"],["riches","riches"]],
+    "title": "The Good Life",
+    "url": "http://odb.org/2011/07/29/the-good-life-3/"
+  }, 
   { "author": ["Randy Kilgore","randykilgore"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,3,9],
     "passage": "Micah 6:1-8",
     "passage_ref": [[["mic",6,1],["mic",6,8]]],
     "quote": "Micah 6:8",
+    "quote_ref": [[["mic",6,8]]],
     "tags": [["faith","faith"],["good works","good-works"],["grace","grace"],["salvation","salvation"],["self-esteem","self-esteem"],["self-images","self-images"],["service","service"]],
     "title": "Acts Of Gratitude",
     "url": "http://odb.org/2012/03/09/acts-of-gratitude/"
@@ -27,6 +40,7 @@
     "passage": "Micah 6:3-8",
     "passage_ref": [[["mic",6,3],["mic",6,8]]],
     "quote": "Micah 6:8",
+    "quote_ref": [[["mic",6,8]]],
     "tags": [["christlikeness","christlikeness"],["God's strength","gods-strength"],["humility","humility"],["mercy","mercy"],["sin","sin-christian-life"],["spiritual growth","spiritual-growth"],["temptation","temptation"]],
     "title": "Help From His Spirit",
     "url": "http://odb.org/2014/01/03/help-from-his-spirit/"

@@ -5,6 +5,7 @@
     "passage": "1 Timothy 1",
     "passage_ref": [[["1ti",1,null]]],
     "quote": "1 Timothy 6:21",
+    "quote_ref": [[["1ti",6,21]]],
     "tags": [],
     "title": "Shipwreck",
     "url": "http://odb.org/1994/05/04/shipwreck/"
@@ -14,7 +15,8 @@
     "date": [1994,10,7],
     "passage": "1 Timothy 1:12-19",
     "passage_ref": [[["1ti",1,12],["1ti",1,19]]],
-    "quote": "3 John 4.",
+    "quote": "3 John 4",
+    "quote_ref": [[["3jn",4,null]]],
     "tags": [],
     "title": "The “Pistol” And The Lord",
     "url": "http://odb.org/1994/10/07/the-pistol-and-the-lord/"
@@ -27,9 +29,21 @@
     "passage": "1 Timothy 2:1-8",
     "passage_ref": [[["1ti",2,1],["1ti",2,8]]],
     "quote": "1 Timothy 2:1",
+    "quote_ref": [[["1ti",2,1]]],
     "tags": [],
     "title": "Prayer Evangelism",
     "url": "http://odb.org/1994/04/13/prayer-evangelism/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,7,12],
+    "passage": "1 Timothy 2:8-10;",
+    "passage_ref": [[["1ti",2,8],["1ti",2,10]],[["1ti",2,10]]],
+    "quote": "1 Timothy 2:8-9",
+    "quote_ref": [[["1ti",2,8],["1ti",2,9]]],
+    "tags": [["choices","choices"],["christlikeness","christlikeness"],["decisions","decisions"],["God's glory","gods-glory"],["modesty","modesty"],["purity","purity"]],
+    "title": "Old School",
+    "url": "http://odb.org/2011/07/12/old-school/"
   }
 ],
 "4": [
@@ -39,6 +53,7 @@
     "passage": "1 Timothy 4:6-11",
     "passage_ref": [[["1ti",4,6],["1ti",4,11]]],
     "quote": "1 Timothy 4:8",
+    "quote_ref": [[["1ti",4,8]]],
     "tags": [["christlikeness","christlikeness"],["God's love","gods-love"],["holiness","holiness"],["joy","joy"],["love for others","love-for-others"],["love of God","love-of-god"],["obedience","obedience"],["sanctification","sanctification"],["submission","submission"],["surrender","surrender"]],
     "title": "An Exercise In Godliness",
     "url": "http://odb.org/2012/01/04/an-exercise-in-godliness/"
@@ -49,6 +64,7 @@
     "passage": "1 Timothy 4:9-16",
     "passage_ref": [[["1ti",4,9],["1ti",4,16]]],
     "quote": "1 Timothy 4:12",
+    "quote_ref": [[["1ti",4,12]]],
     "tags": [["Bible","bible"],["encouragement","encouragement"],["leadership","leadership"],["youth","youth"]],
     "title": "Just Kids",
     "url": "http://odb.org/2012/12/07/just-kids/"
@@ -61,6 +77,7 @@
     "passage": "1 Timothy 6:6-11",
     "passage_ref": [[["1ti",6,6],["1ti",6,11]]],
     "quote": "1 Timothy 6:8",
+    "quote_ref": [[["1ti",6,8]]],
     "tags": [],
     "title": "What We Don’t Need",
     "url": "http://odb.org/1994/05/26/what-we-dont-need/"
@@ -71,6 +88,7 @@
     "passage": "1 Timothy 6:3-10",
     "passage_ref": [[["1ti",6,3],["1ti",6,10]]],
     "quote": "Exodus 20:17",
+    "quote_ref": [[["exo",20,17]]],
     "tags": [],
     "title": "Commandment 10—Be Content",
     "url": "http://odb.org/1994/09/20/commandment-10be-content/"
@@ -81,6 +99,7 @@
     "passage": "1 Timothy 6:6-19",
     "passage_ref": [[["1ti",6,6],["1ti",6,19]]],
     "quote": "Matthew 6:21",
+    "quote_ref": [[["mat",6,21]]],
     "tags": [],
     "title": "Checkbook Checkup",
     "url": "http://odb.org/1994/10/09/checkbook-checkup/"
@@ -91,6 +110,7 @@
     "passage": "1 Timothy 6:6-10",
     "passage_ref": [[["1ti",6,6],["1ti",6,10]]],
     "quote": "1 Timothy 6:8",
+    "quote_ref": [[["1ti",6,8]]],
     "tags": [],
     "title": "“You’ve Still Got Me”",
     "url": "http://odb.org/1994/11/21/youve-still-got-me/"
@@ -101,6 +121,7 @@
     "passage": "1 Timothy 6:6-10,17-19",
     "passage_ref": [[["1ti",6,6],["1ti",6,10]],[["1ti",6,17],["1ti",6,19]]],
     "quote": "1 Timothy 6:17",
+    "quote_ref": [[["1ti",6,17]]],
     "tags": [],
     "title": "The Challenge Of Riches",
     "url": "http://odb.org/2012/11/23/the-challenge-of-riches/"
@@ -111,6 +132,7 @@
     "passage": "1 Timothy 6:6-12",
     "passage_ref": [[["1ti",6,6],["1ti",6,12]]],
     "quote": "1 Timothy 6:17",
+    "quote_ref": [[["1ti",6,17]]],
     "tags": [["choices","choices"],["decisions","decisions"],["giving","giving"],["God's provision","gods-provision"],["money","money"]],
     "title": "Money Talk",
     "url": "http://odb.org/2013/04/15/money-talk/"
@@ -121,6 +143,7 @@
     "passage": "1 Timothy 6:6-12",
     "passage_ref": [[["1ti",6,6],["1ti",6,12]]],
     "quote": "Hebrews 13:5",
+    "quote_ref": [[["heb",13,5]]],
     "tags": [["contentment","contentment"],["envy","envy"],["God's presence","gods-presence"],["jealous","jealous"],["peace","peace"],["riches","riches"]],
     "title": "Almost Content?",
     "url": "http://odb.org/2013/09/05/almost-content/"

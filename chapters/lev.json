@@ -5,6 +5,7 @@
     "passage": "Leviticus 4:1-3; Romans 3:21-26",
     "passage_ref": [[["lev",4,1],["lev",4,3]],[["rom",3,21],["rom",3,26]]],
     "quote": "Leviticus 4:2-3",
+    "quote_ref": [[["lev",4,2],["lev",4,3]]],
     "tags": [["consequences","consequences"],["grace","grace"],["Old Testament","old-testament"],["sacrifice","sacrifice"],["sin","sin-christian-life"],["the law","the-law"]],
     "title": "Unintentional",
     "url": "http://odb.org/2014/02/08/unintentional/"
@@ -17,9 +18,21 @@
     "passage": "Leviticus 19:9-15",
     "passage_ref": [[["lev",19,9],["lev",19,15]]],
     "quote": "Exodus 20:15",
+    "quote_ref": [[["exo",20,15]]],
     "tags": [],
     "title": "Commandment 8—Keep Your Hands Off",
     "url": "http://odb.org/1994/09/18/commandment-8keep-your-hands-off/"
+  }, 
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Confrontation","relationships/relating-to-others-relationships/confrontation-relating-to-others-relationships-relationships/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2011,10,27],
+    "passage": "Leviticus 19:11-18",
+    "passage_ref": [[["lev",19,11],["lev",19,18]]],
+    "quote": "Leviticus 19:16",
+    "quote_ref": [[["lev",19,16]]],
+    "tags": [["confrontation","confrontation"],["damage","damage"],["gossip","gossip"],["pain","pain"],["speech","speech"]],
+    "title": "Zero Tolerance",
+    "url": "http://odb.org/2011/10/27/zero-tolerance/"
   }, 
   { "author": ["Randy Kilgore","randykilgore"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Uncategorized","uncategorized/"]],
@@ -27,6 +40,7 @@
     "passage": "Leviticus 19:9-15",
     "passage_ref": [[["lev",19,9],["lev",19,15]]],
     "quote": "Leviticus 19:9",
+    "quote_ref": [[["lev",19,9]]],
     "tags": [["christlikeness","christlikeness"],["compassion","compassion"],["God's care","gods-care"],["grace","grace"],["love for others","love-for-others"],["ministry","ministry"]],
     "title": "On Helping Others",
     "url": "http://odb.org/2013/11/14/on-helping-others/"
@@ -39,6 +53,7 @@
     "passage": "Leviticus 26:1-12",
     "passage_ref": [[["lev",26,1],["lev",26,12]]],
     "quote": "Psalm 4:8",
+    "quote_ref": [[["psa",4,8]]],
     "tags": [["children","children"],["conflict","conflict"],["God's will","gods-will"],["parenting","parenting"],["peace","peace"],["wisdom","wisdom"]],
     "title": "Sweet Slumber",
     "url": "http://odb.org/2012/07/11/sweet-slumber/"

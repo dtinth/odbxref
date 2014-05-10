@@ -1,10 +1,35 @@
-{ "3": [
+{ "2": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relationships","relationships/"]],
+    "date": [2011,7,25],
+    "passage": "Ecclesiastes 2:1-11",
+    "passage_ref": [[["ecc",2,1],["ecc",2,11]]],
+    "quote": "Ecclesiastes 2:10-11",
+    "quote_ref": [[["ecc",2,10],["ecc",2,11]]],
+    "tags": [["contentment","contentment"],["growth","growth"],["happiness","happiness"],["joy","joy"],["love for","love-for"],["sanctification","sanctification"]],
+    "title": "The Pleasure Is Mine",
+    "url": "http://odb.org/2011/07/25/the-pleasure-is-mine/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,12,11],
+    "passage": "Ecclesiastes 2:1-11",
+    "passage_ref": [[["ecc",2,1],["ecc",2,11]]],
+    "quote": "Ecclesiastes 8:15",
+    "quote_ref": [[["ecc",8,15]]],
+    "tags": [["contentment","contentment"],["gratitude","gratitude"],["joy","joy"],["thankfulness","thankfulness"]],
+    "title": "Breathtaking",
+    "url": "http://odb.org/2011/12/11/breathtaking/"
+  }
+],
+"3": [
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1994,5,16],
     "passage": "Ecclesiastes 3:1-8",
     "passage_ref": [[["ecc",3,1],["ecc",3,8]]],
     "quote": "Ecclesiastes 3:1,4",
+    "quote_ref": [[["ecc",3,1]],[["ecc",3,4]]],
     "tags": [],
     "title": "Good and Bad Laughter",
     "url": "http://odb.org/1994/05/16/good-and-bad-laughter/"
@@ -15,9 +40,21 @@
     "passage": "Ecclesiastes 3:1-15",
     "passage_ref": [[["ecc",3,1],["ecc",3,15]]],
     "quote": "Ecclesiastes 3:11",
+    "quote_ref": [[["ecc",3,11]]],
     "tags": [],
     "title": "The Beauty Of Life",
     "url": "http://odb.org/1994/11/17/the-beauty-of-life/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
+    "date": [2011,9,19],
+    "passage": "Ecclesiastes 3:1-8",
+    "passage_ref": [[["ecc",3,1],["ecc",3,8]]],
+    "quote": "Ecclesiastes 3:4",
+    "quote_ref": [[["ecc",3,4]]],
+    "tags": [["emotion","emotion"],["joy","joy"],["seasons","seasons"],["trials","trials"],["trust","trust"]],
+    "title": "Seasons Of Ups And Downs",
+    "url": "http://odb.org/2011/09/19/seasons-of-ups-and-downs/"
   }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Uncategorized","uncategorized/"]],
@@ -25,6 +62,7 @@
     "passage": "Ecclesiastes 3:1-8",
     "passage_ref": [[["ecc",3,1],["ecc",3,8]]],
     "quote": "Ecclesiastes 3:1",
+    "quote_ref": [[["ecc",3,1]]],
     "tags": [["Bible","bible"],["God's love","gods-love"],["God's presence","gods-presence"],["Old Testament","old-testament"],["peace","peace"],["security","security"]],
     "title": "A Season For Everything",
     "url": "http://odb.org/2013/11/06/a-season-for-everything/"
@@ -37,6 +75,7 @@
     "passage": "Ecclesiastes 4:9-12",
     "passage_ref": [[["ecc",4,9],["ecc",4,12]]],
     "quote": "Ecclesiastes 4:9",
+    "quote_ref": [[["ecc",4,9]]],
     "tags": [["compassion","compassion"],["friendship","friendship"],["kindness","kindness"],["love for others","love-for-others"]],
     "title": "Benefits Of Friendship",
     "url": "http://odb.org/2012/02/14/benefits-of-friendship/"
@@ -49,6 +88,7 @@
     "passage": "Ecclesiastes 5:13-20",
     "passage_ref": [[["ecc",5,13],["ecc",5,20]]],
     "quote": "Ecclesiastes 5:19",
+    "quote_ref": [[["ecc",5,19]]],
     "tags": [["burdens","burdens"],["God's provision","gods-provision"],["grace","grace"],["gratitude","gratitude"],["joy","joy"],["materialism","materialism"],["thankfulness","thankfulness"],["work","work"]],
     "title": "How To Enjoy Things",
     "url": "http://odb.org/2013/11/28/how-to-enjoy-things/"
@@ -61,6 +101,7 @@
     "passage": "Ecclesiastes 7:1-4",
     "passage_ref": [[["ecc",7,1],["ecc",7,4]]],
     "quote": "Ecclesiastes 7:2",
+    "quote_ref": [[["ecc",7,2]]],
     "tags": [],
     "title": "Funeral or Birthday?",
     "url": "http://odb.org/1994/01/15/funeral-or-birthday/"
@@ -73,6 +114,7 @@
     "passage": "Ecclesiastes 9:13-10:1",
     "passage_ref": [[["ecc",9,13],["ecc",10,1]]],
     "quote": "Ecclesiastes 9:18",
+    "quote_ref": [[["ecc",9,18]]],
     "tags": [],
     "title": "Big Little Things",
     "url": "http://odb.org/1994/06/12/big-little-things/"
@@ -85,6 +127,7 @@
     "passage": "Ecclesiastes 9:13-10:1",
     "passage_ref": [[["ecc",9,13],["ecc",10,1]]],
     "quote": "Ecclesiastes 9:18",
+    "quote_ref": [[["ecc",9,18]]],
     "tags": [],
     "title": "Big Little Things",
     "url": "http://odb.org/1994/06/12/big-little-things/"
@@ -95,6 +138,7 @@
     "passage": "Ecclesiastes 10:1-15",
     "passage_ref": [[["ecc",10,1],["ecc",10,15]]],
     "quote": "Ecclesiastes 2:13",
+    "quote_ref": [[["ecc",2,13]]],
     "tags": [],
     "title": "A Little Foolish",
     "url": "http://odb.org/1994/09/24/a-little-foolish/"
@@ -107,6 +151,7 @@
     "passage": "Ecclesiastes 12:6-14",
     "passage_ref": [[["ecc",12,6],["ecc",12,14]]],
     "quote": "Ecclesiastes 12:11",
+    "quote_ref": [[["ecc",12,11]]],
     "tags": [["encouragement","encouragement"],["God's wisdom","gods-wisdom"],["leadership","leadership"],["spiritual fruit","spiritual-fruit"],["spiritual gifts","spiritual-gifts"],["spiritual growth","spiritual-growth"],["wisdom","wisdom"]],
     "title": "Wise Words",
     "url": "http://odb.org/2013/06/03/wise-words/"

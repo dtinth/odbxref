@@ -10,10 +10,39 @@ end
 def each_article
   each_archive do |archive|
     archive["articles"].each do |article|
+      preprocess_article(article)
       yield article
     end
   end
 end
+
+# Since ODB sometimes misspelt Bible names,
+# we have to pre-process them first.
+def preprocess_article(article)
+  preprocess_reference(article, 'passage')
+  preprocess_reference(article, 'quote')
+end
+
+def preprocess_reference(article, field)
+  begin
+    article[field] = fix_passage(article[field])
+    ref = BibleReference.parse(article[field])
+    article[field + "_ref"] = ref
+  rescue => e
+    puts "Unable to parse reference for #{article['date']}"
+    raise e
+  end
+end
+
+def fix_passage(text)
+  text = text.strip
+  text.sub! %r(\.$),            ''                         # 1994-10-07
+  text.sub! 'Corthians',        'Corinthians'              # 2011-12-08
+  text.sub! %r(\u00A0),         ' '                        # 2012-08-05
+  text.sub! 'Thessalonians.',   'Thessalonians'            # 2012-08-06
+  text
+end
+
 
 command :chapters do |c|
   c.action do
@@ -23,10 +52,8 @@ command :chapters do |c|
 
     each_article do |article|
       passages = []
-      passage_ref = BibleReference.parse(article["passage"])
-      article['passage_ref'] = passage_ref
       books = []
-      passage_ref.each do |start, finish=nil|
+      article["passage_ref"].each do |start, finish=nil|
         finish = start unless finish
         raise "Cross book!" if start[0] != finish[0]
         book = start[0]

@@ -1,10 +1,24 @@
-{ "2": [
+{ "1": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,11,6],
+    "passage": "Revelation 1:9-17",
+    "passage_ref": [[["rev",1,9],["rev",1,17]]],
+    "quote": "Revelation 1:15",
+    "quote_ref": [[["rev",1,15]]],
+    "tags": [["God's presence","gods-presence"],["Jesus Christ","jesus-christ"],["resurrection","resurrection"],["Savior","savior"],["worship","worship"]],
+    "title": "Mighty Waters",
+    "url": "http://odb.org/2011/11/06/mighty-waters/"
+  }
+],
+"2": [
   { "author": ["Dennis J. De Haan","dennisjdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1994,1,18],
     "passage": "Revelation 2:1-7",
     "passage_ref": [[["rev",2,1],["rev",2,7]]],
     "quote": "Revelation 2:3-4",
+    "quote_ref": [[["rev",2,3],["rev",2,4]]],
     "tags": [],
     "title": "Commended and Corrected",
     "url": "http://odb.org/1994/01/18/commended-and-corrected/"
@@ -15,6 +29,7 @@
     "passage": "Revelation 2:12-17",
     "passage_ref": [[["rev",2,12],["rev",2,17]]],
     "quote": "Revelation 2:13",
+    "quote_ref": [[["rev",2,13]]],
     "tags": [],
     "title": "Help Is On The Way!",
     "url": "http://odb.org/2012/06/29/help-is-on-the-way/"
@@ -25,6 +40,7 @@
     "passage": "Revelation 2:1-7",
     "passage_ref": [[["rev",2,1],["rev",2,7]]],
     "quote": "1 Thessalonians 1:2-3",
+    "quote_ref": [[["1th",1,2],["1th",1,3]]],
     "tags": [["Church","church-basics-of-faith"],["community","community"],["serving","serving"],["spiritual growth","spiritual-growth"],["worship","worship"]],
     "title": "A Working Church",
     "url": "http://odb.org/2012/10/12/a-working-church/"
@@ -35,6 +51,7 @@
     "passage": "Revelation 2:8-11",
     "passage_ref": [[["rev",2,8],["rev",2,11]]],
     "quote": "Revelation 2:10",
+    "quote_ref": [[["rev",2,10]]],
     "tags": [],
     "title": "Faithful Unto Death",
     "url": "http://odb.org/2012/11/11/faithful-unto-death/"
@@ -47,6 +64,7 @@
     "passage": "Revelation 3:14-22",
     "passage_ref": [[["rev",3,14],["rev",3,22]]],
     "quote": "Revelation 3:20",
+    "quote_ref": [[["rev",3,20]]],
     "tags": [],
     "title": "Our Heart—His Home",
     "url": "http://odb.org/1994/02/13/our-hearthis-home/"
@@ -57,6 +75,7 @@
     "passage": "Revelation 3:1-6",
     "passage_ref": [[["rev",3,1],["rev",3,6]]],
     "quote": "Revelation 3:1",
+    "quote_ref": [[["rev",3,1]]],
     "tags": [["Character","character-christian-life"],["forgiveness","forgiveness"],["Jesus Christ","jesus-christ"],["obedience","obedience"],["repentance","repentance"],["surrender","surrender"]],
     "title": "Character Or Reputation?",
     "url": "http://odb.org/2014/02/13/character-or-reputation/"
@@ -69,6 +88,7 @@
     "passage": "Revelation 5:1-12",
     "passage_ref": [[["rev",5,1],["rev",5,12]]],
     "quote": "Philippians 2:10-11",
+    "quote_ref": [[["php",2,10],["php",2,11]]],
     "tags": [["cross","cross"],["God's glory","gods-glory"],["praise","praise"],["salvation","salvation"]],
     "title": "The Lamb Who Is The Lion",
     "url": "http://odb.org/2012/06/14/the-lamb-who-is-the-lion/"
@@ -81,6 +101,7 @@
     "passage": "Revelation 7:9-17",
     "passage_ref": [[["rev",7,9],["rev",7,17]]],
     "quote": "Revelation 7:17",
+    "quote_ref": [[["rev",7,17]]],
     "tags": [["comfort","comfort"],["death","death"],["etenity","etenity"],["grief","grief"],["heaven","heaven"],["promises","promises"]],
     "title": "The Gathering",
     "url": "http://odb.org/2012/05/28/the-gathering/"
@@ -93,6 +114,7 @@
     "passage": "Revelation 19:6-9",
     "passage_ref": [[["rev",19,6],["rev",19,9]]],
     "quote": "Revelation 19:7",
+    "quote_ref": [[["rev",19,7]]],
     "tags": [["eternity","eternity"],["future","future"],["heaven","heaven"],["hope","hope"],["Jesus Christ","jesus-christ"],["salavation","salavation"]],
     "title": "Married To Royalty",
     "url": "http://odb.org/2013/10/02/married-to-royalty/"
@@ -105,6 +127,7 @@
     "passage": "Revelation 21:1-8",
     "passage_ref": [[["rev",21,1],["rev",21,8]]],
     "quote": "Revelation 21:5",
+    "quote_ref": [[["rev",21,5]]],
     "tags": [],
     "title": "The Best Is Yet To Be",
     "url": "http://odb.org/1994/06/17/the-best-is-yet-to-be/"
@@ -115,9 +138,21 @@
     "passage": "Revelation 21",
     "passage_ref": [[["rev",21,null]]],
     "quote": "Revelation 21:4",
+    "quote_ref": [[["rev",21,4]]],
     "tags": [],
     "title": "The Other Side",
     "url": "http://odb.org/1994/10/22/the-other-side-2/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Heaven","basics-of-faith/future-prophecy-basics-of-faith/heaven-future-prophecy-basics-of-faith-basics-of-faith/"],["Relationships","relationships/"]],
+    "date": [2011,9,21],
+    "passage": "Revelation 21:1-7",
+    "passage_ref": [[["rev",21,1],["rev",21,7]]],
+    "quote": "Matthew 5:4",
+    "quote_ref": [[["mat",5,4]]],
+    "tags": [["brokenness","brokenness"],["comfort","comfort"],["future","future"],["healing","healing"],["heaven","heaven"]],
+    "title": "A Lesson In Crying",
+    "url": "http://odb.org/2011/09/21/a-lesson-in-crying/"
   }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"]],
@@ -125,6 +160,7 @@
     "passage": "Revelation 21:4-11",
     "passage_ref": [[["rev",21,4],["rev",21,11]]],
     "quote": "Revelation 21:3",
+    "quote_ref": [[["rev",21,3]]],
     "tags": [["comfort","comfort"],["eternal life","eternal-life"],["eternity","eternity"],["heaven","heaven"],["joy","joy"],["sorrow","sorrow"]],
     "title": "A Better Place",
     "url": "http://odb.org/2012/06/06/a-better-place-2/"
@@ -135,6 +171,7 @@
     "passage": "Revelation 21:1-7",
     "passage_ref": [[["rev",21,1],["rev",21,7]]],
     "quote": "Revelation 21:4",
+    "quote_ref": [[["rev",21,4]]],
     "tags": [["comfort","comfort"],["justice","justice"],["sorrow","sorrow"],["suffering","suffering"],["trials","trials"]],
     "title": "The Trail Of Tears",
     "url": "http://odb.org/2012/12/12/the-trail-of-tears/"
@@ -145,6 +182,7 @@
     "passage": "Revelation 21:1-7",
     "passage_ref": [[["rev",21,1],["rev",21,7]]],
     "quote": "Revelation 21:7",
+    "quote_ref": [[["rev",21,7]]],
     "tags": [["burdens","burdens"],["end times","end-times"],["eternity","eternity"],["God's presence","gods-presence"],["reading","reading"],["trials","trials"]],
     "title": "Read Backwards",
     "url": "http://odb.org/2013/07/15/read-backwards/"
@@ -155,6 +193,7 @@
     "passage": "Revelation 21:1-7",
     "passage_ref": [[["rev",21,1],["rev",21,7]]],
     "quote": "Proverbs 14:13",
+    "quote_ref": [[["pro",14,13]]],
     "tags": [["comfort","comfort"],["Family","family-relationships"],["God's presence","gods-presence"],["grief","grief"],["pain","pain"],["promise","promise"],["sorrow","sorrow"]],
     "title": "Mixed Emotions",
     "url": "http://odb.org/2013/12/30/mixed-emotions/"
@@ -167,6 +206,7 @@
     "passage": "Revelation 22:1-5",
     "passage_ref": [[["rev",22,1],["rev",22,5]]],
     "quote": "2 Peter 3:13",
+    "quote_ref": [[["2pe",3,13]]],
     "tags": [["eternity","eternity"],["heaven","heaven"],["joy","joy"],["sorrow","sorrow"],["suffering","suffering"],["trials","trials"]],
     "title": "The Land Of And",
     "url": "http://odb.org/2012/01/26/the-land-of-and/"
@@ -177,6 +217,7 @@
     "passage": "Revelation 22:16-21",
     "passage_ref": [[["rev",22,16],["rev",22,21]]],
     "quote": "Revelation 22:17",
+    "quote_ref": [[["rev",22,17]]],
     "tags": [["hospitality","hospitality"],["inviting others to Christ","inviting-others-to-christ"],["kindness","kindness"],["love for others","love-for-others"],["Savior","savior"],["sharing the gospel","sharing-the-gospel"]],
     "title": "True Hospitality",
     "url": "http://odb.org/2013/05/18/true-hospitality/"
@@ -187,6 +228,7 @@
     "passage": "Revelation 22:6-20",
     "passage_ref": [[["rev",22,6],["rev",22,20]]],
     "quote": "Philippians 4:5",
+    "quote_ref": [[["php",4,5]]],
     "tags": [["Christ's return","christs-return"],["God's glory","gods-glory"],["God's presence","gods-presence"],["peace","peace"],["trials","trials"]],
     "title": "The Last Chapter",
     "url": "http://odb.org/2013/10/30/the-last-chapter/"
@@ -197,6 +239,7 @@
     "passage": "Revelation 22:7-21",
     "passage_ref": [[["rev",22,7],["rev",22,21]]],
     "quote": "Revelation 22:20",
+    "quote_ref": [[["rev",22,20]]],
     "tags": [["Christ's return","christs-return"],["future","future"],["hope","hope"],["promises","promises"],["prophecy","prophecy"]],
     "title": "Coming Soon!",
     "url": "http://odb.org/2014/03/22/coming-soon/"

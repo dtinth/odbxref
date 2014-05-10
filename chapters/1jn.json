@@ -5,16 +5,40 @@
     "passage": "1 John 1",
     "passage_ref": [[["1jn",1,null]]],
     "quote": "1 John 1:7",
+    "quote_ref": [[["1jn",1,7]]],
     "tags": [],
     "title": "Something More To Give",
     "url": "http://odb.org/1994/10/01/something-more-to-give/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Holy Spirit","basics-of-faith/holy-spirit-basics-of-faith/"],["Ministry","basics-of-faith/holy-spirit-basics-of-faith/ministry-holy-spirit-basics-of-faith/"],["Reliability Of","basics-of-faith/bible-scripture-basics-of-faith/reliability-of-bible-scripture-basics-of-faith-basics-of-faith/"]],
+    "date": [2011,8,19],
+    "passage": "1 John 1:1-5",
+    "passage_ref": [[["1jn",1,1],["1jn",1,5]]],
+    "quote": "John 14:26",
+    "quote_ref": [[["jhn",14,26]]],
+    "tags": [["Holy Spirit","holy-spirit"],["inspiration of","inspiration-of"],["trust","trust"]],
+    "title": "The Human Camera",
+    "url": "http://odb.org/2011/08/19/the-human-camera/"
+  }, 
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2011,11,24],
+    "passage": "1 John 1:1-10",
+    "passage_ref": [[["1jn",1,1],["1jn",1,10]]],
+    "quote": "1 John 1:7",
+    "quote_ref": [[["1jn",1,7]]],
+    "tags": [["cross","cross"],["death","death"],["eternal life","eternal-life"],["forgiveness from","forgiveness-from"],["righteousness","righteousness"],["salvation","salvation"],["sin","sin-christian-life"]],
+    "title": "Thanksgiving Pardon",
+    "url": "http://odb.org/2011/11/24/thanksgiving-pardon/"
   }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,8,5],
     "passage": "1 John 1:1-10",
     "passage_ref": [[["1jn",1,1],["1jn",1,10]]],
-    "quote": "1 John 1:9",
+    "quote": "1 John 1:9",
+    "quote_ref": [[["1jn",1,9]]],
     "tags": [["confession","confession"],["forgiveness from","forgiveness-from"],["repentance","repentance"],["sin","sin-christian-life"]],
     "title": "Totally Clean",
     "url": "http://odb.org/2012/08/05/totally-clean/"
@@ -25,6 +49,7 @@
     "passage": "1 John 1",
     "passage_ref": [[["1jn",1,null]]],
     "quote": "1 John 1:3",
+    "quote_ref": [[["1jn",1,3]]],
     "tags": [["christlikeness","christlikeness"],["faith","faith"],["testimony","testimony"],["witness","witness"]],
     "title": "Eyewitness Account",
     "url": "http://odb.org/2013/01/11/eyewitness-account/"
@@ -35,6 +60,7 @@
     "passage": "1 John 1:5–2:2",
     "passage_ref": [[["1jn",1,5],["1jn",2,2]]],
     "quote": "1 John 1:9",
+    "quote_ref": [[["1jn",1,9]]],
     "tags": [["confession","confession"],["discouragement","discouragement"],["failure","failure"],["forgiveness of","forgiveness-of"],["God's faithfulness","gods-faithfulness"],["righteousness","righteousness"],["sin","sin-christian-life"]],
     "title": "Bouncing Back",
     "url": "http://odb.org/2013/07/01/bouncing-back/"
@@ -45,6 +71,7 @@
     "passage": "1 John 1",
     "passage_ref": [[["1jn",1,null]]],
     "quote": "Psalm 51:10",
+    "quote_ref": [[["psa",51,10]]],
     "tags": [["confession","confession"],["conviction of","conviction-of"],["God's faithfulness","gods-faithfulness"],["God's forgiveness","gods-forgiveness"],["Holy Spirit","holy-spirit"],["repentance","repentance"],["Savior","savior"],["sin","sin-christian-life"]],
     "title": "Hero Over Sin",
     "url": "http://odb.org/2013/11/17/hero-over-sin/"
@@ -55,6 +82,7 @@
     "passage": "1 John 1:1-7",
     "passage_ref": [[["1jn",1,1],["1jn",1,7]]],
     "quote": "John 1:9",
+    "quote_ref": [[["jhn",1,9]]],
     "tags": [["christmas","christmas"],["cross","cross"],["Jesus Christ","jesus-christ"],["Jesus' birth","jesus-birth"],["resurrection","resurrection"],["salvation","salvation"]],
     "title": "Christingle",
     "url": "http://odb.org/2013/12/25/christingle/"
@@ -67,9 +95,21 @@
     "passage": "1 John 2:28-3:3",
     "passage_ref": [[["1jn",2,28],["1jn",3,3]]],
     "quote": "1 John 2:28",
+    "quote_ref": [[["1jn",2,28]]],
     "tags": [],
     "title": "Good Conduct Motivators",
     "url": "http://odb.org/1994/03/17/good-conduct-motivators/"
+  }, 
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2011,11,16],
+    "passage": "1 John 2:18-27",
+    "passage_ref": [[["1jn",2,18],["1jn",2,27]]],
+    "quote": "1 John 2:18",
+    "quote_ref": [[["1jn",2,18]]],
+    "tags": [["antichrist","antichrist"],["Holy Spirit","holy-spirit"],["Jesus","jesus"],["presence","presence"],["truth","truth"],["truth vs. error","truth-vs-error"]],
+    "title": "Beware!",
+    "url": "http://odb.org/2011/11/16/beware-4/"
   }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -77,6 +117,7 @@
     "passage": "1 John 2:28–3:3",
     "passage_ref": [[["1jn",2,28],["1jn",3,3]]],
     "quote": "1 John 3:3",
+    "quote_ref": [[["1jn",3,3]]],
     "tags": [["Christ's return","christs-return"],["God's presence","gods-presence"],["holiness","holiness"],["hope","hope"],["joy","joy"],["purity","purity"],["sanctification","sanctification"],["spiritual growth","spiritual-growth"]],
     "title": "Let’s Be Ready",
     "url": "http://odb.org/2012/01/01/let%e2%80%99s-be-ready/"
@@ -87,6 +128,7 @@
     "passage": "1 John 2:3-11",
     "passage_ref": [[["1jn",2,3],["1jn",2,11]]],
     "quote": "1 John 2:5",
+    "quote_ref": [[["1jn",2,5]]],
     "tags": [["Bible","bible"],["christlikeness","christlikeness"],["love for God","love-for-god"],["meditation","meditation"],["obedience","obedience"],["reading","reading"],["sharing the gospel","sharing-the-gospel"]],
     "title": "The Real Thing",
     "url": "http://odb.org/2012/03/27/the-real-thing/"
@@ -97,6 +139,7 @@
     "passage": "1 John 2:12–17",
     "passage_ref": [[["1jn",2,12],["1jn",2,17]]],
     "quote": "1 John 2:13",
+    "quote_ref": [[["1jn",2,13]]],
     "tags": [["guidance","guidance"],["leadership","leadership"],["prayer","prayer"],["serving","serving"],["unity","unity"]],
     "title": "The Circle Of The Wise",
     "url": "http://odb.org/2012/12/13/the-circle-of-the-wise/"
@@ -107,6 +150,7 @@
     "passage": "1 John 2:5-11",
     "passage_ref": [[["1jn",2,5],["1jn",2,11]]],
     "quote": "1 John 2:6",
+    "quote_ref": [[["1jn",2,6]]],
     "tags": [["christian faith","christian-faith"],["christlikeness","christlikeness"],["example","example"],["obedience","obedience"],["priorities","priorities"]],
     "title": "Like Jesus",
     "url": "http://odb.org/2013/01/24/like-jesus/"
@@ -117,6 +161,7 @@
     "passage": "1 John 2:9-17",
     "passage_ref": [[["1jn",2,9],["1jn",2,17]]],
     "quote": "1 John 2:12",
+    "quote_ref": [[["1jn",2,12]]],
     "tags": [["empowerment","empowerment"],["encouragement","encouragement"],["forgiveness of","forgiveness-of"],["God's will","gods-will"],["satan","satan"],["sin","sin-christian-life"],["spiritual warfare","spiritual-warfare"],["temptation","temptation"]],
     "title": "A Letter From C. S. Lewis",
     "url": "http://odb.org/2013/06/10/a-letter-from-c-s-lewis/"
@@ -127,6 +172,7 @@
     "passage": "1 John 1:5–2:2",
     "passage_ref": [[["1jn",1,5],["1jn",2,2]]],
     "quote": "1 John 1:9",
+    "quote_ref": [[["1jn",1,9]]],
     "tags": [["confession","confession"],["discouragement","discouragement"],["failure","failure"],["forgiveness of","forgiveness-of"],["God's faithfulness","gods-faithfulness"],["righteousness","righteousness"],["sin","sin-christian-life"]],
     "title": "Bouncing Back",
     "url": "http://odb.org/2013/07/01/bouncing-back/"
@@ -137,6 +183,7 @@
     "passage": "1 John 2:24–3:3",
     "passage_ref": [[["1jn",2,24],["1jn",3,3]]],
     "quote": "1 John 3:1",
+    "quote_ref": [[["1jn",3,1]]],
     "tags": [["God's love","gods-love"],["new birth","new-birth"],["peace","peace"],["purpose","purpose"],["salvation","salvation"],["truth","truth"]],
     "title": "One Stretch",
     "url": "http://odb.org/2013/12/03/one-stretch/"
@@ -149,6 +196,7 @@
     "passage": "1 John 3:10-15",
     "passage_ref": [[["1jn",3,10],["1jn",3,15]]],
     "quote": "1 John 3:15",
+    "quote_ref": [[["1jn",3,15]]],
     "tags": [],
     "title": "Hatred’s Bitter Fruit",
     "url": "http://odb.org/1994/02/18/hatreds-bitter-fruit/"
@@ -159,6 +207,7 @@
     "passage": "1 John 2:28-3:3",
     "passage_ref": [[["1jn",2,28],["1jn",3,3]]],
     "quote": "1 John 2:28",
+    "quote_ref": [[["1jn",2,28]]],
     "tags": [],
     "title": "Good Conduct Motivators",
     "url": "http://odb.org/1994/03/17/good-conduct-motivators/"
@@ -169,6 +218,7 @@
     "passage": "1 John 3:10-23",
     "passage_ref": [[["1jn",3,10],["1jn",3,23]]],
     "quote": "Exodus 20:13",
+    "quote_ref": [[["exo",20,13]]],
     "tags": [],
     "title": "Commandment 6—Value Human Life",
     "url": "http://odb.org/1994/09/16/commandment-6value-human-life/"
@@ -179,6 +229,7 @@
     "passage": "1 John 2:28–3:3",
     "passage_ref": [[["1jn",2,28],["1jn",3,3]]],
     "quote": "1 John 3:3",
+    "quote_ref": [[["1jn",3,3]]],
     "tags": [["Christ's return","christs-return"],["God's presence","gods-presence"],["holiness","holiness"],["hope","hope"],["joy","joy"],["purity","purity"],["sanctification","sanctification"],["spiritual growth","spiritual-growth"]],
     "title": "Let’s Be Ready",
     "url": "http://odb.org/2012/01/01/let%e2%80%99s-be-ready/"
@@ -189,6 +240,7 @@
     "passage": "1 John 3:16-23",
     "passage_ref": [[["1jn",3,16],["1jn",3,23]]],
     "quote": "Proverbs 31:9",
+    "quote_ref": [[["pro",31,9]]],
     "tags": [["ministry","ministry"],["obedience","obedience"],["service","service"],["surrender","surrender"]],
     "title": "Here Am I",
     "url": "http://odb.org/2012/05/08/here-am-i/"
@@ -198,7 +250,8 @@
     "date": [2013,9,24],
     "passage": "1 John 3:11-18",
     "passage_ref": [[["1jn",3,11],["1jn",3,18]]],
-    "quote": "1 John 3:18",
+    "quote": "1 John 3:18",
+    "quote_ref": [[["1jn",3,18]]],
     "tags": [["christlikeness","christlikeness"],["compassion","compassion"],["kindness","kindness"],["love for God","love-for-god"],["love for others","love-for-others"],["ministry","ministry"],["service","service"]],
     "title": "A Friend In Need",
     "url": "http://odb.org/2013/09/24/a-friend-in-need/"
@@ -209,6 +262,7 @@
     "passage": "1 John 2:24–3:3",
     "passage_ref": [[["1jn",2,24],["1jn",3,3]]],
     "quote": "1 John 3:1",
+    "quote_ref": [[["1jn",3,1]]],
     "tags": [["God's love","gods-love"],["new birth","new-birth"],["peace","peace"],["purpose","purpose"],["salvation","salvation"],["truth","truth"]],
     "title": "One Stretch",
     "url": "http://odb.org/2013/12/03/one-stretch/"
@@ -219,6 +273,7 @@
     "passage": "1 John 3:16-24",
     "passage_ref": [[["1jn",3,16],["1jn",3,24]]],
     "quote": "1 John 3:20",
+    "quote_ref": [[["1jn",3,20]]],
     "tags": [["conscience","conscience"],["forgiveness","forgiveness"],["God's love","gods-love"],["guilt","guilt"],["sin","sin-christian-life"],["truth","truth"]],
     "title": "The Telltale Heart",
     "url": "http://odb.org/2014/02/05/the-telltale-heart/"
@@ -231,6 +286,7 @@
     "passage": "1 John 4:11-21",
     "passage_ref": [[["1jn",4,11],["1jn",4,21]]],
     "quote": "1 John 4:18",
+    "quote_ref": [[["1jn",4,18]]],
     "tags": [],
     "title": "Two Kinds of Fear",
     "url": "http://odb.org/1994/01/27/two-kinds-of-fear/"
@@ -241,6 +297,7 @@
     "passage": "1 John 4:7-19",
     "passage_ref": [[["1jn",4,7],["1jn",4,19]]],
     "quote": "1 John 4:19",
+    "quote_ref": [[["1jn",4,19]]],
     "tags": [],
     "title": "Does God Love Me?",
     "url": "http://odb.org/1994/08/04/does-god-love-me/"
@@ -251,9 +308,21 @@
     "passage": "1 John 4:11-21",
     "passage_ref": [[["1jn",4,11],["1jn",4,21]]],
     "quote": "1 John 4:11",
+    "quote_ref": [[["1jn",4,11]]],
     "tags": [],
     "title": "What Fuels You?",
     "url": "http://odb.org/1994/12/30/what-fuels-you/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2011,12,5],
+    "passage": "1 John 4:7-21",
+    "passage_ref": [[["1jn",4,7],["1jn",4,21]]],
+    "quote": "1 John 4:19",
+    "quote_ref": [[["1jn",4,19]]],
+    "tags": [["care","care"],["God's love","gods-love"],["God's power","gods-power"],["grace","grace"],["Jesus Christ","jesus-christ"],["protection","protection"],["Savior","savior"]],
+    "title": "Well-Loved",
+    "url": "http://odb.org/2011/12/05/well-loved/"
   }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -261,6 +330,7 @@
     "passage": "1 John 4:7-11",
     "passage_ref": [[["1jn",4,7],["1jn",4,11]]],
     "quote": "1 John 4:11",
+    "quote_ref": [[["1jn",4,11]]],
     "tags": [],
     "title": "A Fragrance",
     "url": "http://odb.org/2012/11/09/a-fragrance/"
@@ -271,6 +341,7 @@
     "passage": "1 John 4:7-21",
     "passage_ref": [[["1jn",4,7],["1jn",4,21]]],
     "quote": "1 John 4:11",
+    "quote_ref": [[["1jn",4,11]]],
     "tags": [["christlikeness","christlikeness"],["compassion","compassion"],["eternity","eternity"],["future","future"],["God's love","gods-love"],["kindness","kindness"],["love for others","love-for-others"]],
     "title": "O Love That Will Not Let Me Go",
     "url": "http://odb.org/2013/04/03/o-love-that-will-not-let-me-go/"
@@ -281,6 +352,7 @@
     "passage": "1 John 4:1-6",
     "passage_ref": [[["1jn",4,1],["1jn",4,6]]],
     "quote": "1 John 4:4",
+    "quote_ref": [[["1jn",4,4]]],
     "tags": [["God's care","gods-care"],["God's character","gods-character"],["God's power","gods-power"],["satan","satan"],["spiritual warfare","spiritual-warfare"]],
     "title": "The Standoff",
     "url": "http://odb.org/2013/08/06/the-standoff/"
@@ -291,6 +363,7 @@
     "passage": "1 John 4:7-19",
     "passage_ref": [[["1jn",4,7],["1jn",4,19]]],
     "quote": "1 John 4:16",
+    "quote_ref": [[["1jn",4,16]]],
     "tags": [["encouragement","encouragement"],["God's love","gods-love"],["hate","hate"],["joy","joy"],["love for others","love-for-others"],["salvation","salvation"],["Savior","savior"],["sorrow","sorrow"]],
     "title": "It’s All About The Love",
     "url": "http://odb.org/2013/09/11/its-all-about-the-love/"
@@ -301,6 +374,7 @@
     "passage": "1 John 4:7-10",
     "passage_ref": [[["1jn",4,7],["1jn",4,10]]],
     "quote": "1 John 4:10",
+    "quote_ref": [[["1jn",4,10]]],
     "tags": [["God's care","gods-care"],["God's forgiveness","gods-forgiveness"],["God's love","gods-love"],["Jesus Christ","jesus-christ"],["loneliness","loneliness"],["salvation","salvation"]],
     "title": "The Power Of Love",
     "url": "http://odb.org/2014/02/26/the-power-of-love-3/"
@@ -313,6 +387,7 @@
     "passage": "1 John 5:1-13",
     "passage_ref": [[["1jn",5,1],["1jn",5,13]]],
     "quote": "1 John 5:13",
+    "quote_ref": [[["1jn",5,13]]],
     "tags": [],
     "title": "Taking God At His Word",
     "url": "http://odb.org/1994/11/02/taking-god-at-his-word/"
@@ -323,6 +398,7 @@
     "passage": "1 John 5:10-15",
     "passage_ref": [[["1jn",5,10],["1jn",5,15]]],
     "quote": "1 John 5:13",
+    "quote_ref": [[["1jn",5,13]]],
     "tags": [["christian faith","christian-faith"],["cross","cross"],["eternal life","eternal-life"],["peace","peace"],["salvation","salvation"]],
     "title": "Already Settled",
     "url": "http://odb.org/2013/01/13/already-settled/"

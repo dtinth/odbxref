@@ -1,10 +1,24 @@
-{ "4": [
+{ "3": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2011,12,9],
+    "passage": "1 Kings 3:1-9",
+    "passage_ref": [[["1ki",3,1],["1ki",3,9]]],
+    "quote": "1 Kings 3:5",
+    "quote_ref": [[["1ki",3,5]]],
+    "tags": [["Bible","bible"],["holiness","holiness"],["humility","humility"],["love","love"],["understanding","understanding"],["wisdom","wisdom"]],
+    "title": "What Shall I Give You?",
+    "url": "http://odb.org/2011/12/09/what-shall-i-give-you/"
+  }
+],
+"4": [
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1994,5,2],
     "passage": "1 Kings 4:29-34; 11:4-6",
     "passage_ref": [[["1ki",4,29],["1ki",4,34]],[["1ki",11,4],["1ki",11,6]]],
     "quote": "1 Kings 11:4",
+    "quote_ref": [[["1ki",11,4]]],
     "tags": [],
     "title": "What Does He Want?",
     "url": "http://odb.org/1994/05/02/what-does-he-want/"
@@ -17,6 +31,7 @@
     "passage": "1 Kings 8:22-30",
     "passage_ref": [[["1ki",8,22],["1ki",8,30]]],
     "quote": "Psalm 19:1",
+    "quote_ref": [[["psa",19,1]]],
     "tags": [["creation","creation"],["creator","creator"],["God's glory","gods-glory"],["God's love","gods-love"],["God's presence","gods-presence"]],
     "title": "Heavenly Exclamation!",
     "url": "http://odb.org/2012/08/07/heavenly-exclamation/"
@@ -29,6 +44,7 @@
     "passage": "1 Kings 4:29-34; 11:4-6",
     "passage_ref": [[["1ki",4,29],["1ki",4,34]],[["1ki",11,4],["1ki",11,6]]],
     "quote": "1 Kings 11:4",
+    "quote_ref": [[["1ki",11,4]]],
     "tags": [],
     "title": "What Does He Want?",
     "url": "http://odb.org/1994/05/02/what-does-he-want/"
@@ -39,6 +55,7 @@
     "passage": "1 Kings 11:1-13",
     "passage_ref": [[["1ki",11,1],["1ki",11,13]]],
     "quote": "Philippians 2:15-16",
+    "quote_ref": [[["php",2,15],["php",2,16]]],
     "tags": [["Bible","bible"],["faithfulness","faithfulness"],["Holy Spirit","holy-spirit"],["loyalty","loyalty"],["truth vs. error","truth-vs-error"],["wisdom","wisdom"]],
     "title": "Stand Fast",
     "url": "http://odb.org/2012/10/30/stand-fast/"
@@ -51,6 +68,7 @@
     "passage": "1 Kings 14:7-16",
     "passage_ref": [[["1ki",14,7],["1ki",14,16]]],
     "quote": "1 Kings 14:8",
+    "quote_ref": [[["1ki",14,8]]],
     "tags": [["christlikeness","christlikeness"],["evil","evil"],["example","example"],["faithfulness","faithfulness"],["God's goodness","gods-goodness"],["idolatry","idolatry"],["leadership","leadership"],["sin","sin-christian-life"]],
     "title": "The Good And The Bad",
     "url": "http://odb.org/2013/09/22/the-good-and-the-bad-2/"
@@ -63,6 +81,7 @@
     "passage": "1 Kings 17:17-24",
     "passage_ref": [[["1ki",17,17],["1ki",17,24]]],
     "quote": "Psalm 56:3",
+    "quote_ref": [[["psa",56,3]]],
     "tags": [["father","father"],["God's forgiveness","gods-forgiveness"],["God's love","gods-love"],["God's presence","gods-presence"],["Holy Spirit","holy-spirit"],["love for others","love-for-others"],["Marriage","marriage-relationships"]],
     "title": "Where Our Fears Live",
     "url": "http://odb.org/2014/02/11/where-our-fears-live/"
@@ -75,6 +94,7 @@
     "passage": "1 Kings 19:1-18",
     "passage_ref": [[["1ki",19,1],["1ki",19,18]]],
     "quote": "1 Kings 19:4,15",
+    "quote_ref": [[["1ki",19,4]],[["1ki",19,15]]],
     "tags": [],
     "title": "Renewed Hope",
     "url": "http://odb.org/1994/11/05/renewed-hope/"
@@ -85,6 +105,7 @@
     "passage": "1 Kings 19:1-12",
     "passage_ref": [[["1ki",19,1],["1ki",19,12]]],
     "quote": "Psalm 46:10",
+    "quote_ref": [[["psa",46,10]]],
     "tags": [],
     "title": "Stop And See",
     "url": "http://odb.org/2012/04/15/stop-and-see/"
@@ -95,6 +116,7 @@
     "passage": "1 Kings 19:19-21",
     "passage_ref": [[["1ki",19,19],["1ki",19,21]]],
     "quote": "Proverbs 27:17",
+    "quote_ref": [[["pro",27,17]]],
     "tags": [["accountability","accountability"],["friendship","friendship"],["God's guidance","gods-guidance"],["leading","leading"]],
     "title": "Sharpening One Another",
     "url": "http://odb.org/2012/08/21/sharpening-one-another/"
@@ -107,6 +129,7 @@
     "passage": "1 Kings 20:26-43",
     "passage_ref": [[["1ki",20,26],["1ki",20,43]]],
     "quote": "Colossians 3:5",
+    "quote_ref": [[["col",3,5]]],
     "tags": [],
     "title": "Halfway Measures",
     "url": "http://odb.org/1994/08/12/halfway-measures/"
@@ -119,6 +142,7 @@
     "passage": "1 Kings 21:17-29",
     "passage_ref": [[["1ki",21,17],["1ki",21,29]]],
     "quote": "Proverbs 27:5",
+    "quote_ref": [[["pro",27,5]]],
     "tags": [],
     "title": "Friend or Enemy?",
     "url": "http://odb.org/1994/06/21/friend-or-enemy/"
@@ -131,6 +155,7 @@
     "passage": "1 Kings 22:41-45",
     "passage_ref": [[["1ki",22,41],["1ki",22,45]]],
     "quote": "1 Kings 22:43",
+    "quote_ref": [[["1ki",22,43]]],
     "tags": [],
     "title": "Learning From Dad",
     "url": "http://odb.org/1994/08/05/learning-from-dad/"

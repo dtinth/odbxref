@@ -1,10 +1,22 @@
 { "1": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,12,10],
+    "passage": "Matthew 1:18-25",
+    "passage_ref": [[["mat",1,18],["mat",1,25]]],
+    "quote": "Matthew 1:24",
+    "quote_ref": [[["mat",1,24]]],
+    "tags": [["Bible","bible"],["obedience","obedience"],["submission","submission"],["surrender","surrender"],["trust","trust"]],
+    "title": "Risky Business",
+    "url": "http://odb.org/2011/12/10/risky-business-2/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,4,3],
     "passage": "Matthew 1:18-25",
     "passage_ref": [[["mat",1,18],["mat",1,25]]],
     "quote": "Matthew 1:21",
+    "quote_ref": [[["mat",1,21]]],
     "tags": [["Jesus","jesus"],["joy","joy"],["Messiah","messiah"],["Redeemer","redeemer"],["Savior","savior"]],
     "title": "The Name",
     "url": "http://odb.org/2012/04/03/the-name-5/"
@@ -15,6 +27,7 @@
     "passage": "Matthew 1:18-25",
     "passage_ref": [[["mat",1,18],["mat",1,25]]],
     "quote": "Matthew 1:25",
+    "quote_ref": [[["mat",1,25]]],
     "tags": [["care","care"],["God's plan","gods-plan"],["God's will","gods-will"],["protection","protection"],["provision","provision"]],
     "title": "Divine Diversions",
     "url": "http://odb.org/2013/02/09/divine-diversions/"
@@ -25,6 +38,7 @@
     "passage": "Matthew 1:18-25",
     "passage_ref": [[["mat",1,18],["mat",1,25]]],
     "quote": "Matthew 1:23",
+    "quote_ref": [[["mat",1,23]]],
     "tags": [["christmas","christmas"],["God's love","gods-love"],["Immanuel","immanuel"],["Jesus' birth","jesus-birth"],["salvation","salvation"],["Savior","savior"]],
     "title": "God With Us",
     "url": "http://odb.org/2013/12/23/god-with-us/"
@@ -37,18 +51,42 @@
     "passage": "Matthew 3",
     "passage_ref": [[["mat",3,null]]],
     "quote": "Luke 7:28",
+    "quote_ref": [[["luk",7,28]]],
     "tags": [],
     "title": "Unlikely Giants",
     "url": "http://odb.org/1994/11/10/unlikely-giants/"
   }
 ],
 "4": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Power","bible-study/application-bible-study/power-application-bible-study/"],["Satan","basics-of-faith/spirit-world-basics-of-faith/satan-spirit-world-basics-of-faith-basics-of-faith/"],["Temptation","basics-of-faith/sin-basics-of-faith/temptation-sin-basics-of-faith-basics-of-faith/"]],
+    "date": [2011,8,11],
+    "passage": "Matthew 4:1-11",
+    "passage_ref": [[["mat",4,1],["mat",4,11]]],
+    "quote": "Matthew 4:1",
+    "quote_ref": [[["mat",4,1]]],
+    "tags": [["Bible","bible"],["satan","satan"],["spiritual warfare","spiritual-warfare"],["temptation","temptation"],["vulnerable","vulnerable"]],
+    "title": "Throw The Book At Him",
+    "url": "http://odb.org/2011/08/11/throw-the-book-at-him/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,11,17],
+    "passage": "Matthew 4:18-22",
+    "passage_ref": [[["mat",4,18],["mat",4,22]]],
+    "quote": "Matthew 4:18-19",
+    "quote_ref": [[["mat",4,18],["mat",4,19]]],
+    "tags": [["God's presence","gods-presence"],["Jesus Christ","jesus-christ"],["trials","trials"],["trust","trust"]],
+    "title": "A Companion On The Road",
+    "url": "http://odb.org/2011/11/17/a-companion-on-the-road/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Uncategorized","uncategorized/"]],
     "date": [2013,8,28],
     "passage": "Matthew 4:1-11, 1 Corinthians 10:12-13",
     "passage_ref": [[["mat",4,1],["mat",4,11]],[["1co",10,12],["1co",10,13]]],
     "quote": "1 Corinthians 10:13",
+    "quote_ref": [[["1co",10,13]]],
     "tags": [["Bible","bible"],["confession","confession"],["God's faithfulness","gods-faithfulness"],["meditating","meditating"],["memorizing","memorizing"],["reading","reading"],["temptation","temptation"]],
     "title": "A Way Of Escape",
     "url": "http://odb.org/2013/08/28/a-way-of-escape/"
@@ -61,6 +99,7 @@
     "passage": "Matthew 5:38-48",
     "passage_ref": [[["mat",5,38],["mat",5,48]]],
     "quote": "Matthew 5:39",
+    "quote_ref": [[["mat",5,39]]],
     "tags": [],
     "title": "A Misunderstood Command",
     "url": "http://odb.org/1994/02/24/a-misunderstood-command/"
@@ -71,6 +110,7 @@
     "passage": "Matthew 5:33-37",
     "passage_ref": [[["mat",5,33],["mat",5,37]]],
     "quote": "Matthew 5:37",
+    "quote_ref": [[["mat",5,37]]],
     "tags": [],
     "title": "Jawbone Credit",
     "url": "http://odb.org/1994/04/14/jawbone-credit/"
@@ -81,6 +121,7 @@
     "passage": "Matthew 5:1-12",
     "passage_ref": [[["mat",5,1],["mat",5,12]]],
     "quote": "Matthew 5:3",
+    "quote_ref": [[["mat",5,3]]],
     "tags": [],
     "title": "Pleasing God",
     "url": "http://odb.org/1994/06/24/pleasing-god/"
@@ -91,6 +132,7 @@
     "passage": "Matthew 5:27-30",
     "passage_ref": [[["mat",5,27],["mat",5,30]]],
     "quote": "1 Corinthians 6:18",
+    "quote_ref": [[["1co",6,18]]],
     "tags": [],
     "title": "Commandment 7—Keep Yourself Pure",
     "url": "http://odb.org/1994/09/17/commandment-7keep-yourself-pure/"
@@ -101,9 +143,32 @@
     "passage": "Matthew 5:1-12",
     "passage_ref": [[["mat",5,1],["mat",5,12]]],
     "quote": "Matthew 5:12",
+    "quote_ref": [[["mat",5,12]]],
     "tags": [],
     "title": "Join The Happy Minority",
     "url": "http://odb.org/1994/10/11/join-the-happy-minority/"
+  }, 
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Life Stories","ministry-and-outreach/life-stories-ministry-and-outreach/"],["Sharing The Gospel","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/"]],
+    "date": [2011,10,6],
+    "passage": "Matthew 5:14-16; 1 Peter 2:9-10",
+    "passage_ref": [[["mat",5,14],["mat",5,16]],[["1pe",2,9],["1pe",2,10]]],
+    "quote": "Matthew 5:16",
+    "quote_ref": [[["mat",5,16]]],
+    "tags": [["testimony","testimony"],["witnessing","witnessing"]],
+    "title": "Shine On!",
+    "url": "http://odb.org/2011/10/06/shine-on-2/"
+  }, 
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,11,20],
+    "passage": "Matthew 5:9,38-48",
+    "passage_ref": [[["mat",5,9]],[["mat",5,38],["mat",5,48]]],
+    "quote": "Matthew 5:9",
+    "quote_ref": [[["mat",5,9]]],
+    "tags": [["christlikeness","christlikeness"],["fellowship","fellowship"],["love for others","love-for-others"],["peace","peace"],["peacemakers","peacemakers"],["presence","presence"]],
+    "title": "A Family Trait",
+    "url": "http://odb.org/2011/11/20/a-family-trait/"
   }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
@@ -111,6 +176,7 @@
     "passage": "Matthew 5:1-12",
     "passage_ref": [[["mat",5,1],["mat",5,12]]],
     "quote": "Matthew 5:7",
+    "quote_ref": [[["mat",5,7]]],
     "tags": [["encouragement","encouragement"],["kindness","kindness"],["love for others","love-for-others"],["mercy","mercy"]],
     "title": "Feeding Frenzy",
     "url": "http://odb.org/2012/01/28/feeding-frenzy/"
@@ -121,6 +187,7 @@
     "passage": "Matthew 5:13-16",
     "passage_ref": [[["mat",5,13],["mat",5,16]]],
     "quote": "Matthew 5:16",
+    "quote_ref": [[["mat",5,16]]],
     "tags": [["faith","faith"],["God's glory","gods-glory"],["new birth","new-birth"],["sharing the gospel","sharing-the-gospel"],["testimony","testimony"],["witnessing","witnessing"]],
     "title": "Something To Declare",
     "url": "http://odb.org/2012/03/23/something-to-declare/"
@@ -131,6 +198,7 @@
     "passage": "Matthew 5:21-26",
     "passage_ref": [[["mat",5,21],["mat",5,26]]],
     "quote": "Matthew 5:23-24",
+    "quote_ref": [[["mat",5,23],["mat",5,24]]],
     "tags": [["apologies","apologies"],["forgiveness","forgiveness"],["humility","humility"],["repentance","repentance"],["restoration","restoration"]],
     "title": "Apologies",
     "url": "http://odb.org/2012/05/10/apologies/"
@@ -141,6 +209,7 @@
     "passage": "Matthew 5:43-48",
     "passage_ref": [[["mat",5,43],["mat",5,48]]],
     "quote": "Matthew 5:44",
+    "quote_ref": [[["mat",5,44]]],
     "tags": [["conflict","conflict"],["confrontation","confrontation"],["encouragement","encouragement"],["love for others","love-for-others"],["prayer","prayer"]],
     "title": "Changing Enemies Into Friends",
     "url": "http://odb.org/2012/07/26/changing-enemies-into-friends/"
@@ -151,6 +220,7 @@
     "passage": "Matthew 5:13-16",
     "passage_ref": [[["mat",5,13],["mat",5,16]]],
     "quote": "Matthew 5:16",
+    "quote_ref": [[["mat",5,16]]],
     "tags": [["christlikeness","christlikeness"],["compassion","compassion"],["good works","good-works"],["kindness","kindness"],["life example","life-example"],["ministry","ministry"]],
     "title": "They Are Watching",
     "url": "http://odb.org/2012/08/17/they-are-watching/"
@@ -161,6 +231,7 @@
     "passage": "Matthew 5:1-14",
     "passage_ref": [[["mat",5,1],["mat",5,14]]],
     "quote": "Matthew 5:14",
+    "quote_ref": [[["mat",5,14]]],
     "tags": [["christlikeness","christlikeness"],["good works","good-works"],["Jesus Christ","jesus-christ"],["relation to works","relation-to-works"],["sharing the gospel","sharing-the-gospel"],["testimony","testimony"],["witnessing","witnessing"]],
     "title": "God’s Lighthouse",
     "url": "http://odb.org/2013/02/24/gods-lighthouse/"
@@ -171,6 +242,7 @@
     "passage": "Matthew 5:38-48",
     "passage_ref": [[["mat",5,38],["mat",5,48]]],
     "quote": "Matthew 5:45",
+    "quote_ref": [[["mat",5,45]]],
     "tags": [["blessings","blessings"],["burdens","burdens"],["God's love","gods-love"],["suffering","suffering"],["trials","trials"]],
     "title": "Thoughts On Rain",
     "url": "http://odb.org/2013/03/20/thoughts-on-rain/"
@@ -181,6 +253,7 @@
     "passage": "Matthew 5:21-26",
     "passage_ref": [[["mat",5,21],["mat",5,26]]],
     "quote": "Matthew 5:24",
+    "quote_ref": [[["mat",5,24]]],
     "tags": [["anger","anger"],["conflict","conflict"],["forgiveness","forgiveness"],["reconciliation","reconciliation"],["worship","worship"]],
     "title": "I’m Sorry, Man",
     "url": "http://odb.org/2013/05/16/im-sorry-man/"
@@ -191,6 +264,7 @@
     "passage": "Matthew 5:17-20",
     "passage_ref": [[["mat",5,17],["mat",5,20]]],
     "quote": "Psalm 119:160",
+    "quote_ref": [[["psa",119,160]]],
     "tags": [["Bible","bible"],["inspiration of","inspiration-of"],["love for God","love-for-god"],["truth","truth"]],
     "title": "Thumbs Up",
     "url": "http://odb.org/2013/08/22/thumbs-up/"
@@ -201,6 +275,7 @@
     "passage": "Matthew 5:3-16",
     "passage_ref": [[["mat",5,3],["mat",5,16]]],
     "quote": "Matthew 5:16",
+    "quote_ref": [[["mat",5,16]]],
     "tags": [["Character","character-christian-life"],["christlikeness","christlikeness"],["example","example"],["faith","faith"],["honor","honor"],["Savior","savior"]],
     "title": "A Life That Shined",
     "url": "http://odb.org/2013/09/15/a-life-that-shined/"
@@ -211,6 +286,7 @@
     "passage": "Matthew 5:13-16",
     "passage_ref": [[["mat",5,13],["mat",5,16]]],
     "quote": "Matthew 4:16",
+    "quote_ref": [[["mat",4,16]]],
     "tags": [["christlikeness","christlikeness"],["christmas","christmas"],["Jesus Christ","jesus-christ"],["Jesus' birth","jesus-birth"],["justice","justice"],["love of God","love-of-god"],["ministry","ministry"],["serving","serving"],["sharing the gospel","sharing-the-gospel"],["truth","truth"]],
     "title": "Christmas Lights",
     "url": "http://odb.org/2013/12/07/christmas-lights/"
@@ -221,6 +297,7 @@
     "passage": "Matthew 5:1-10",
     "passage_ref": [[["mat",5,1],["mat",5,10]]],
     "quote": "Matthew 5:5",
+    "quote_ref": [[["mat",5,5]]],
     "tags": [["attitude","attitude"],["deity","deity"],["empowerment","empowerment"],["Jesus","jesus"],["meekness","meekness"],["trust","trust"]],
     "title": "Blessed Are The Meek",
     "url": "http://odb.org/2014/03/30/blessed-are-the-meek/"
@@ -233,6 +310,7 @@
     "passage": "Matthew 6:5-8",
     "passage_ref": [[["mat",6,5],["mat",6,8]]],
     "quote": "Matthew 6:5",
+    "quote_ref": [[["mat",6,5]]],
     "tags": [],
     "title": "Praying in Public",
     "url": "http://odb.org/1994/01/26/praying-in-public/"
@@ -243,6 +321,7 @@
     "passage": "Matthew 6:19-24",
     "passage_ref": [[["mat",6,19],["mat",6,24]]],
     "quote": "Matthew 6:23",
+    "quote_ref": [[["mat",6,23]]],
     "tags": [],
     "title": "Lucifer’s Light",
     "url": "http://odb.org/1994/02/21/lucifers-light/"
@@ -253,6 +332,7 @@
     "passage": "Matthew 6:25-34",
     "passage_ref": [[["mat",6,25],["mat",6,34]]],
     "quote": "Matthew 6:34",
+    "quote_ref": [[["mat",6,34]]],
     "tags": [],
     "title": "Playing God",
     "url": "http://odb.org/1994/03/05/playing-god/"
@@ -263,6 +343,7 @@
     "passage": "Matthew 6:5-15",
     "passage_ref": [[["mat",6,5],["mat",6,15]]],
     "quote": "Colossians 3:13",
+    "quote_ref": [[["col",3,13]]],
     "tags": [],
     "title": "Burying the Hatchet",
     "url": "http://odb.org/1994/06/18/burying-the-hatchet/"
@@ -273,6 +354,7 @@
     "passage": "Matthew 6:25-34",
     "passage_ref": [[["mat",6,25],["mat",6,34]]],
     "quote": "Matthew 6:33",
+    "quote_ref": [[["mat",6,33]]],
     "tags": [],
     "title": "Our Job Description",
     "url": "http://odb.org/1994/07/25/our-job-description/"
@@ -283,6 +365,7 @@
     "passage": "Matthew 6:1-4",
     "passage_ref": [[["mat",6,1],["mat",6,4]]],
     "quote": "Matthew 6:3-4",
+    "quote_ref": [[["mat",6,3],["mat",6,4]]],
     "tags": [],
     "title": "If Nobody Knew",
     "url": "http://odb.org/1994/07/01/if-nobody-knew/"
@@ -293,9 +376,32 @@
     "passage": "Matthew 6:19-24",
     "passage_ref": [[["mat",6,19],["mat",6,24]]],
     "quote": "Matthew 6:19",
+    "quote_ref": [[["mat",6,19]]],
     "tags": [],
     "title": "The Trouble With Treasure",
     "url": "http://odb.org/1994/12/15/the-trouble-with-treasure/"
+  }, 
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,7,28],
+    "passage": "Matthew 6:16-18",
+    "passage_ref": [[["mat",6,16],["mat",6,18]]],
+    "quote": "Matthew 6:16",
+    "quote_ref": [[["mat",6,16]]],
+    "tags": [["fasting","fasting"],["hypocrisy","hypocrisy"],["obedience","obedience"],["praise","praise"],["submission","submission"],["worship","worship"]],
+    "title": "For The God I Love",
+    "url": "http://odb.org/2011/07/28/for-the-god-i-love/"
+  }, 
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["Rewards For","ministry-and-outreach/serving-ministry-and-outreach/rewards-for-serving-ministry-and-outreach-ministry-and-outreach/"],["Security","basics-of-faith/salvation-basics-of-faith/security-salvation-basics-of-faith-basics-of-faith/"]],
+    "date": [2011,10,19],
+    "passage": "Matthew 6:19-24",
+    "passage_ref": [[["mat",6,19],["mat",6,24]]],
+    "quote": "Matthew 6:20",
+    "quote_ref": [[["mat",6,20]]],
+    "tags": [["eternity","eternity"],["future","future"],["investing","investing"],["stewardship","stewardship"],["wisdom","wisdom"]],
+    "title": "Investing In The Future",
+    "url": "http://odb.org/2011/10/19/investing-in-the-future/"
   }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -303,6 +409,7 @@
     "passage": "Matthew 6:1-6,16-18",
     "passage_ref": [[["mat",6,1],["mat",6,6]],[["mat",6,16],["mat",6,18]]],
     "quote": "Matthew 6:4",
+    "quote_ref": [[["mat",6,4]]],
     "tags": [["christlikeness","christlikeness"],["cross","cross"],["obedience","obedience"],["rewards for","rewards-for"],["Savior","savior"],["serving","serving"]],
     "title": "Great Is Your Reward",
     "url": "http://odb.org/2012/02/07/great-is-your-reward/"
@@ -313,6 +420,7 @@
     "passage": "Matthew 6:5-15",
     "passage_ref": [[["mat",6,5],["mat",6,15]]],
     "quote": "Matthew 6:8",
+    "quote_ref": [[["mat",6,8]]],
     "tags": [["Bible","bible"],["burdens","burdens"],["God's care","gods-care"],["God's love","gods-love"],["God's wisdom","gods-wisdom"],["reading","reading"]],
     "title": "Before You Ask",
     "url": "http://odb.org/2012/05/05/before-you-ask/"
@@ -323,6 +431,7 @@
     "passage": "Matthew 6:1-4,19-21",
     "passage_ref": [[["mat",6,1],["mat",6,4]],[["mat",6,19],["mat",6,21]]],
     "quote": "Matthew 6:18",
+    "quote_ref": [[["mat",6,18]]],
     "tags": [["eternity","eternity"],["Jesus","jesus"],["rewards for","rewards-for"],["riches","riches"],["success","success"],["treasure","treasure"]],
     "title": "Unrewarded",
     "url": "http://odb.org/2012/08/20/unrewarded/"
@@ -333,6 +442,7 @@
     "passage": "Matthew 6:5-15",
     "passage_ref": [[["mat",6,5],["mat",6,15]]],
     "quote": "Matthew 6:11",
+    "quote_ref": [[["mat",6,11]]],
     "tags": [],
     "title": "Each Day",
     "url": "http://odb.org/2012/11/16/each-day/"
@@ -343,6 +453,7 @@
     "passage": "Matthew 6:25-34",
     "passage_ref": [[["mat",6,25],["mat",6,34]]],
     "quote": "Matthew 6:33",
+    "quote_ref": [[["mat",6,33]]],
     "tags": [["belief","belief"],["God's care","gods-care"],["God's love","gods-love"],["God's provision","gods-provision"],["grace","grace"],["temptation","temptation"],["wisdom","wisdom"]],
     "title": "Just Enough",
     "url": "http://odb.org/2013/02/04/just-enough/"
@@ -353,6 +464,7 @@
     "passage": "Matthew 6:1-6,16-18",
     "passage_ref": [[["mat",6,1],["mat",6,6]],[["mat",6,16],["mat",6,18]]],
     "quote": "Matthew 6:18",
+    "quote_ref": [[["mat",6,18]]],
     "tags": [["christlikeness","christlikeness"],["confession","confession"],["God's presence","gods-presence"],["prayer","prayer"],["sin","sin-christian-life"]],
     "title": "Supernatural Surveillance",
     "url": "http://odb.org/2013/04/04/supernatural-surveillance/"
@@ -363,6 +475,7 @@
     "passage": "Matthew 6:25-34",
     "passage_ref": [[["mat",6,25],["mat",6,34]]],
     "quote": "Matthew 6:28-29",
+    "quote_ref": [[["mat",6,28],["mat",6,29]]],
     "tags": [["creation","creation"],["creator","creator"],["God's care","gods-care"],["God's provision","gods-provision"],["grace","grace"],["trust","trust"]],
     "title": "Tulip Day",
     "url": "http://odb.org/2013/05/13/tulip-day/"
@@ -373,6 +486,7 @@
     "passage": "Matthew 6:25-34",
     "passage_ref": [[["mat",6,25],["mat",6,34]]],
     "quote": "Matthew 6:25",
+    "quote_ref": [[["mat",6,25]]],
     "tags": [["God's love","gods-love"],["God's provision","gods-provision"],["gratitude","gratitude"],["Savior","savior"],["worry","worry"]],
     "title": "Food In The Cupboard",
     "url": "http://odb.org/2014/01/15/food-in-the-cupboard/"
@@ -383,6 +497,7 @@
     "passage": "Matthew 6:5-15",
     "passage_ref": [[["mat",6,5],["mat",6,15]]],
     "quote": "Matthew 6:9",
+    "quote_ref": [[["mat",6,9]]],
     "tags": [["christlikeness","christlikeness"],["future","future"],["God's glory","gods-glory"],["God's provision","gods-provision"],["honor","honor"],["kindness","kindness"],["speech","speech"]],
     "title": "Words That Help And Heal",
     "url": "http://odb.org/2014/01/07/words-that-help-and-heal/"
@@ -393,6 +508,7 @@
     "passage": "Matthew 6:1-7",
     "passage_ref": [[["mat",6,1],["mat",6,7]]],
     "quote": "Matthew 6:1",
+    "quote_ref": [[["mat",6,1]]],
     "tags": [["God's glory","gods-glory"],["music","music"],["serving","serving"],["worship","worship"]],
     "title": "The Night No One Came",
     "url": "http://odb.org/2014/01/06/the-night-no-one-came/"
@@ -405,6 +521,7 @@
     "passage": "Matthew 7:21-29",
     "passage_ref": [[["mat",7,21],["mat",7,29]]],
     "quote": "1 Corinthians 3:11",
+    "quote_ref": [[["1co",3,11]]],
     "tags": [],
     "title": "Building to Code",
     "url": "http://odb.org/1994/03/02/building-to-code/"
@@ -415,6 +532,7 @@
     "passage": "Matthew 7:7-11",
     "passage_ref": [[["mat",7,7],["mat",7,11]]],
     "quote": "Matthew 7:9",
+    "quote_ref": [[["mat",7,9]]],
     "tags": [],
     "title": "A Stone or Bread?",
     "url": "http://odb.org/1994/07/20/a-stone-or-bread/"
@@ -425,6 +543,7 @@
     "passage": "Matthew 7:21-29",
     "passage_ref": [[["mat",7,21],["mat",7,29]]],
     "quote": "Matthew 7:24",
+    "quote_ref": [[["mat",7,24]]],
     "tags": [["Bible","bible"],["obedience","obedience"],["trials","trials"]],
     "title": "Lessons From A Fence",
     "url": "http://odb.org/2012/10/14/lessons-from-a-fence/"
@@ -435,6 +554,7 @@
     "passage": "Matthew 7:24-27; Ephesians 2:18-22",
     "passage_ref": [[["mat",7,24],["mat",7,27]],[["eph",2,18],["eph",2,22]]],
     "quote": "Ephesians 2:20",
+    "quote_ref": [[["eph",2,20]]],
     "tags": [["attributes","attributes"],["God","god"],["God's provision","gods-provision"],["Jesus Christ","jesus-christ"],["new birth","new-birth"],["salvation","salvation"],["trust","trust"]],
     "title": "The Rock",
     "url": "http://odb.org/2013/11/09/the-rock/"
@@ -445,6 +565,7 @@
     "passage": "Matthew 7:7-12",
     "passage_ref": [[["mat",7,7],["mat",7,12]]],
     "quote": "Matthew 7:12",
+    "quote_ref": [[["mat",7,12]]],
     "tags": [["generosity","generosity"],["giving","giving"],["God's love","gods-love"],["God's power","gods-power"],["Jesus","jesus"],["love for others","love-for-others"],["prayer","prayer"]],
     "title": "The Golden Rule",
     "url": "http://odb.org/2014/03/12/the-golden-rule/"
@@ -457,6 +578,7 @@
     "passage": "Matthew 8:23-34",
     "passage_ref": [[["mat",8,23],["mat",8,34]]],
     "quote": "Matthew 8:26",
+    "quote_ref": [[["mat",8,26]]],
     "tags": [["comfort","comfort"],["fear","fear"],["God's protection","gods-protection"],["loneliness","loneliness"],["love of God","love-of-god"]],
     "title": "Our Fearless Champion",
     "url": "http://odb.org/2013/11/15/our-fearless-champion/"
@@ -469,6 +591,7 @@
     "passage": "Matthew 9:35–10:15",
     "passage_ref": [[["mat",9,35],["mat",10,15]]],
     "quote": "Matthew 9:38",
+    "quote_ref": [[["mat",9,38]]],
     "tags": [],
     "title": "The Never-Ending Task",
     "url": "http://odb.org/1994/01/23/the-never-ending-task/"
@@ -479,6 +602,7 @@
     "passage": "Matthew 9:9-13",
     "passage_ref": [[["mat",9,9],["mat",9,13]]],
     "quote": "Matthew 9:12",
+    "quote_ref": [[["mat",9,12]]],
     "tags": [["God's strength","gods-strength"],["grace","grace"],["kindness","kindness"],["love for others","love-for-others"],["repentance","repentance"],["sin","sin-christian-life"]],
     "title": "Extending Grace",
     "url": "http://odb.org/2012/01/20/extending-grace/"
@@ -489,6 +613,7 @@
     "passage": "Matthew 9:35-38",
     "passage_ref": [[["mat",9,35],["mat",9,38]]],
     "quote": "Matthew 9:35",
+    "quote_ref": [[["mat",9,35]]],
     "tags": [["christlikeness","christlikeness"],["compassion","compassion"],["love for others","love-for-others"],["testimony","testimony"]],
     "title": "Any Distance, Any Time",
     "url": "http://odb.org/2012/06/24/any-distance-any-time/"
@@ -499,6 +624,7 @@
     "passage": "Matthew 9:27-38",
     "passage_ref": [[["mat",9,27],["mat",9,38]]],
     "quote": "Matthew 9:36",
+    "quote_ref": [[["mat",9,36]]],
     "tags": [["comfort","comfort"],["compassion","compassion"],["example","example"],["love for others","love-for-others"],["serving","serving"]],
     "title": "Making A Difference",
     "url": "http://odb.org/2012/10/29/making-a-difference/"
@@ -509,6 +635,7 @@
     "passage": "Matthew 9:35–10:1",
     "passage_ref": [[["mat",9,35],["mat",10,1]]],
     "quote": "Genesis 2:15",
+    "quote_ref": [[["gen",2,15]]],
     "tags": [["children","children"],["creation","creation"],["Family","family-relationships"],["father","father"],["God the Father","god-the-father"],["kingdom","kingdom"],["ministry","ministry"]],
     "title": "Me And Dad",
     "url": "http://odb.org/2014/03/05/me-and-dad/"
@@ -521,6 +648,7 @@
     "passage": "Matthew 9:35–10:15",
     "passage_ref": [[["mat",9,35],["mat",10,15]]],
     "quote": "Matthew 9:38",
+    "quote_ref": [[["mat",9,38]]],
     "tags": [],
     "title": "The Never-Ending Task",
     "url": "http://odb.org/1994/01/23/the-never-ending-task/"
@@ -531,6 +659,7 @@
     "passage": "Matthew 10:32-38",
     "passage_ref": [[["mat",10,32],["mat",10,38]]],
     "quote": "Matthew 5:44",
+    "quote_ref": [[["mat",5,44]]],
     "tags": [["christlikeness","christlikeness"],["grace","grace"],["love for God","love-for-god"],["persecution","persecution"],["perseverance","perseverance"],["prayer","prayer"],["suffering","suffering"],["trials","trials"]],
     "title": "We Can Trust Him",
     "url": "http://odb.org/2013/05/07/we-can-trust-him/"
@@ -541,18 +670,31 @@
     "passage": "Matthew 9:35–10:1",
     "passage_ref": [[["mat",9,35],["mat",10,1]]],
     "quote": "Genesis 2:15",
+    "quote_ref": [[["gen",2,15]]],
     "tags": [["children","children"],["creation","creation"],["Family","family-relationships"],["father","father"],["God the Father","god-the-father"],["kingdom","kingdom"],["ministry","ministry"]],
     "title": "Me And Dad",
     "url": "http://odb.org/2014/03/05/me-and-dad/"
   }
 ],
 "11": [
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Enablement","basics-of-faith/holy-spirit-basics-of-faith/enablement-holy-spirit-basics-of-faith-basics-of-faith/"],["Filling","basics-of-faith/holy-spirit-basics-of-faith/filling-holy-spirit-basics-of-faith-basics-of-faith/"],["Holy Spirit","basics-of-faith/holy-spirit-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
+    "date": [2011,9,15],
+    "passage": "Matthew 11:25-30",
+    "passage_ref": [[["mat",11,25],["mat",11,30]]],
+    "quote": "Matthew 11:28",
+    "quote_ref": [[["mat",11,28]]],
+    "tags": [["burdens","burdens"],["prayer","prayer"],["rest","rest"],["tired","tired"],["worry","worry"]],
+    "title": "Heavy Lifting",
+    "url": "http://odb.org/2011/09/15/heavy-lifting/"
+  }, 
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2013,3,25],
     "passage": "Psalm 32:1-6; Matthew 11:28-30",
     "passage_ref": [[["psa",32,1],["psa",32,6]],[["mat",11,28],["mat",11,30]]],
     "quote": "Matthew 11:28",
+    "quote_ref": [[["mat",11,28]]],
     "tags": [["anxiety","anxiety"],["burdens","burdens"],["fears","fears"],["God's forgiveness","gods-forgiveness"],["restoration","restoration"]],
     "title": "Too Heavy",
     "url": "http://odb.org/2013/03/25/too-heavy/"
@@ -565,6 +707,7 @@
     "passage": "Matthew 13:1-9",
     "passage_ref": [[["mat",13,1],["mat",13,9]]],
     "quote": "Matthew 13:5",
+    "quote_ref": [[["mat",13,5]]],
     "tags": [["ministry","ministry"],["salvation","salvation"],["sharing the gospel","sharing-the-gospel"],["spiritual growth","spiritual-growth"],["trials","trials"]],
     "title": "Taking Root",
     "url": "http://odb.org/2013/07/26/taking-root/"
@@ -575,6 +718,7 @@
     "passage": "Matthew 13:1-9",
     "passage_ref": [[["mat",13,1],["mat",13,9]]],
     "quote": "2 Peter 3:18",
+    "quote_ref": [[["2pe",3,18]]],
     "tags": [["Bible","bible"],["christlikeness","christlikeness"],["Jesus Christ","jesus-christ"],["knowledge","knowledge"],["sowing and reaping","sowing-and-reaping"],["spiritual growth","spiritual-growth"]],
     "title": "Seeds & Soils",
     "url": "http://odb.org/2013/10/14/seeds-soils/"
@@ -585,6 +729,7 @@
     "passage": "Matthew 13:44-50",
     "passage_ref": [[["mat",13,44],["mat",13,50]]],
     "quote": "Matthew 13:44",
+    "quote_ref": [[["mat",13,44]]],
     "tags": [["eternal life","eternal-life"],["joy","joy"],["kingdom","kingdom"],["sharing the gospel","sharing-the-gospel"],["treasure","treasure"]],
     "title": "Eureka Stone",
     "url": "http://odb.org/2013/12/04/eureka-stone/"
@@ -597,6 +742,7 @@
     "passage": "Matthew 14:1-21",
     "passage_ref": [[["mat",14,1],["mat",14,21]]],
     "quote": "Matthew 14:14",
+    "quote_ref": [[["mat",14,14]]],
     "tags": [],
     "title": "When Jesus Grieved",
     "url": "http://odb.org/1994/01/31/when-jesus-grieved/"
@@ -607,18 +753,31 @@
     "passage": "Matthew 14:22-33",
     "passage_ref": [[["mat",14,22],["mat",14,33]]],
     "quote": "Matthew 14:27",
+    "quote_ref": [[["mat",14,27]]],
     "tags": [],
     "title": "In The Face Of Fear",
     "url": "http://odb.org/2012/11/10/in-the-face-of-fear/"
   }
 ],
 "16": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,7,1],
+    "passage": "Matthew 16:13-20",
+    "passage_ref": [[["mat",16,13],["mat",16,20]]],
+    "quote": "Matthew 16:15",
+    "quote_ref": [[["mat",16,15]]],
+    "tags": [["Bible","bible"],["eternal life","eternal-life"],["eternity","eternity"],["Jesus Christ","jesus-christ"],["salvation","salvation"],["truth vs. error","truth-vs-error"]],
+    "title": "A Matter Of Opinion?",
+    "url": "http://odb.org/2011/07/01/a-matter-of-opinion/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Uncategorized","uncategorized/"]],
     "date": [2013,12,16],
     "passage": "Matthew 16:21-28",
     "passage_ref": [[["mat",16,21],["mat",16,28]]],
     "quote": "Matthew 16:25",
+    "quote_ref": [[["mat",16,25]]],
     "tags": [["blessing","blessing"],["christlikeness","christlikeness"],["God's strength","gods-strength"],["Jesus' birth","jesus-birth"],["joy","joy"],["sovereignty","sovereignty"],["trials","trials"],["wisdom","wisdom"]],
     "title": "Living Backward",
     "url": "http://odb.org/2013/12/16/living-backward/"
@@ -629,6 +788,7 @@
     "passage": "Matthew 16:13-20",
     "passage_ref": [[["mat",16,13],["mat",16,20]]],
     "quote": "Matthew 16:15",
+    "quote_ref": [[["mat",16,15]]],
     "tags": [["Bible","bible"],["eternity","eternity"],["identity","identity"],["Jesus Christ","jesus-christ"],["Messiah","messiah"],["Savior","savior"]],
     "title": "Mistaken Identity",
     "url": "http://odb.org/2014/04/14/mistaken-identity/"
@@ -641,6 +801,7 @@
     "passage": "Matthew 17:1-8",
     "passage_ref": [[["mat",17,1],["mat",17,8]]],
     "quote": "Matthew 17:4",
+    "quote_ref": [[["mat",17,4]]],
     "tags": [],
     "title": "Out of Focus",
     "url": "http://odb.org/1994/04/24/out-of-focus/"
@@ -653,6 +814,7 @@
     "passage": "Matthew 18:21-35",
     "passage_ref": [[["mat",18,21],["mat",18,35]]],
     "quote": "Matthew 6:15",
+    "quote_ref": [[["mat",6,15]]],
     "tags": [],
     "title": "How Can I Forgive?",
     "url": "http://odb.org/1994/02/08/how-can-i-forgive/"
@@ -663,6 +825,7 @@
     "passage": "Matthew 18:21-35",
     "passage_ref": [[["mat",18,21],["mat",18,35]]],
     "quote": "Ephesians 4:32",
+    "quote_ref": [[["eph",4,32]]],
     "tags": [],
     "title": "A Persistent Problem",
     "url": "http://odb.org/1994/11/09/a-persistent-problem/"
@@ -673,6 +836,7 @@
     "passage": "Matthew 18:23-35",
     "passage_ref": [[["mat",18,23],["mat",18,35]]],
     "quote": "Matthew 18:21",
+    "quote_ref": [[["mat",18,21]]],
     "tags": [["compassion","compassion"],["forgiveness from","forgiveness-from"],["forgiveness of","forgiveness-of"],["kindness","kindness"]],
     "title": "Bumper Cars",
     "url": "http://odb.org/2013/03/06/bumper-cars/"
@@ -685,6 +849,7 @@
     "passage": "Matthew 19:13-30",
     "passage_ref": [[["mat",19,13],["mat",19,30]]],
     "quote": "Matthew 19:30",
+    "quote_ref": [[["mat",19,30]]],
     "tags": [],
     "title": "The Measure of Our Worth",
     "url": "http://odb.org/1994/05/07/the-measure-of-our-worth/"
@@ -695,6 +860,7 @@
     "passage": "Matthew 19:16-26",
     "passage_ref": [[["mat",19,16],["mat",19,26]]],
     "quote": "Matthew 19:17",
+    "quote_ref": [[["mat",19,17]]],
     "tags": [["example","example"],["holiness","holiness"],["Jesus' deity","jesus-deity"],["righteousness","righteousness"]],
     "title": "I’m Good",
     "url": "http://odb.org/2012/03/02/i%e2%80%99m-good/"
@@ -707,6 +873,7 @@
     "passage": "Matthew 20:20-28",
     "passage_ref": [[["mat",20,20],["mat",20,28]]],
     "quote": "Matthew 20:26",
+    "quote_ref": [[["mat",20,26]]],
     "tags": [],
     "title": "Cheese and Crackers",
     "url": "http://odb.org/1994/02/06/cheese-and-crackers/"
@@ -717,6 +884,7 @@
     "passage": "Matthew 20:1-16",
     "passage_ref": [[["mat",20,1],["mat",20,16]]],
     "quote": "Matthew 20:15",
+    "quote_ref": [[["mat",20,15]]],
     "tags": [["comparisons","comparisons"],["contentment","contentment"],["eternity","eternity"],["grace","grace"],["Holy Spirit","holy-spirit"],["Jesus Christ","jesus-christ"],["salvation","salvation"]],
     "title": "What Has God Done For Me Lately?",
     "url": "http://odb.org/2012/10/18/what-has-god-done-for-me-lately/"
@@ -727,6 +895,7 @@
     "passage": "Matthew 20:1-16",
     "passage_ref": [[["mat",20,1],["mat",20,16]]],
     "quote": "Matthew 20:14",
+    "quote_ref": [[["mat",20,14]]],
     "tags": [["God's forgiveness","gods-forgiveness"],["grace","grace"],["ministry","ministry"],["new birth","new-birth"],["salvation","salvation"],["serving","serving"]],
     "title": "Late Arrivals Welcome",
     "url": "http://odb.org/2013/06/30/late-arrivals-welcome/"
@@ -737,6 +906,7 @@
     "passage": "Matthew 20:1-16",
     "passage_ref": [[["mat",20,1],["mat",20,16]]],
     "quote": "Matthew 20:16",
+    "quote_ref": [[["mat",20,16]]],
     "tags": [["justice","justice"],["rewards for","rewards-for"],["righteousness","righteousness"],["work","work"]],
     "title": "Not Counting",
     "url": "http://odb.org/2014/04/05/not-counting/"
@@ -749,18 +919,31 @@
     "passage": "Matthew 21:1-11",
     "passage_ref": [[["mat",21,1],["mat",21,11]]],
     "quote": "Matthew 21:9",
+    "quote_ref": [[["mat",21,9]]],
     "tags": [],
     "title": "Man of Contrasts",
     "url": "http://odb.org/1994/03/27/man-of-contrasts/"
   }
 ],
 "22": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Sharing The Gospel","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/"]],
+    "date": [2011,10,29],
+    "passage": "Matthew 22:34-39; 28:16-20",
+    "passage_ref": [[["mat",22,34],["mat",22,39]],[["mat",28,16],["mat",28,20]]],
+    "quote": "1 Peter 3:15",
+    "quote_ref": [[["1pe",3,15]]],
+    "tags": [["love for others","love-for-others"],["sharing the gospel","sharing-the-gospel"],["wisdom","wisdom"]],
+    "title": "The Right Ingredients",
+    "url": "http://odb.org/2011/10/29/the-right-ingredients/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Love For","relationships/relating-to-god-relationships/love-for-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
     "date": [2012,3,12],
     "passage": "Matthew 22:34-40",
     "passage_ref": [[["mat",22,34],["mat",22,40]]],
     "quote": "Matthew 22:37-38",
+    "quote_ref": [[["mat",22,37],["mat",22,38]]],
     "tags": [],
     "title": "The Greatest",
     "url": "http://odb.org/2012/03/12/the-greatest-2/"
@@ -773,6 +956,7 @@
     "passage": "Matthew 23:1-12",
     "passage_ref": [[["mat",23,1],["mat",23,12]]],
     "quote": "Matthew 23:3",
+    "quote_ref": [[["mat",23,3]]],
     "tags": [],
     "title": "Careless Preachers",
     "url": "http://odb.org/1994/10/23/careless-preachers-3/"
@@ -783,6 +967,7 @@
     "passage": "Matthew 23:25-28",
     "passage_ref": [[["mat",23,25],["mat",23,28]]],
     "quote": "Matthew 23:26",
+    "quote_ref": [[["mat",23,26]]],
     "tags": [],
     "title": "A Change Of Heart",
     "url": "http://odb.org/1994/11/14/a-change-of-heart/"
@@ -793,6 +978,7 @@
     "passage": "Matthew 23:23-31",
     "passage_ref": [[["mat",23,23],["mat",23,31]]],
     "quote": "1 Timothy 1:5",
+    "quote_ref": [[["1ti",1,5]]],
     "tags": [["christlikeness","christlikeness"],["hypocrisy","hypocrisy"],["purity","purity"],["righteousness","righteousness"],["sincerity","sincerity"]],
     "title": "Gutters And Windows",
     "url": "http://odb.org/2012/01/24/gutters-and-windows/"
@@ -803,6 +989,7 @@
     "passage": "Matthew 23:23-31",
     "passage_ref": [[["mat",23,23],["mat",23,31]]],
     "quote": "Matthew 23:27",
+    "quote_ref": [[["mat",23,27]]],
     "tags": [["confession","confession"],["Holy Spirit","holy-spirit"],["humility","humility"],["hypocrisy","hypocrisy"],["Jesus","jesus"],["pride","pride"],["sin","sin-christian-life"]],
     "title": "Dorian Gray",
     "url": "http://odb.org/2012/07/19/dorian-gray/"
@@ -813,6 +1000,7 @@
     "passage": "Matthew 23:23-31",
     "passage_ref": [[["mat",23,23],["mat",23,31]]],
     "quote": "Proverbs 20:11",
+    "quote_ref": [[["pro",20,11]]],
     "tags": [["Character","character-christian-life"],["christlikeness","christlikeness"],["love for God","love-for-god"],["sin","sin-christian-life"],["temptation","temptation"]],
     "title": "By Our Deeds",
     "url": "http://odb.org/2013/02/06/by-our-deeds/"
@@ -823,6 +1011,7 @@
     "passage": "Matthew 23:37-39",
     "passage_ref": [[["mat",23,37],["mat",23,39]]],
     "quote": "Matthew 23:37",
+    "quote_ref": [[["mat",23,37]]],
     "tags": [["cross","cross"],["God's love","gods-love"],["Messiah","messiah"],["new birth","new-birth"],["resurrection","resurrection"],["salvation","salvation"],["Savior","savior"],["sin","sin-christian-life"]],
     "title": "Barrier-Free Love",
     "url": "http://odb.org/2013/10/17/barrier-free-love/"
@@ -835,6 +1024,7 @@
     "passage": "Matthew 24:1-8",
     "passage_ref": [[["mat",24,1],["mat",24,8]]],
     "quote": "Matthew 24:36",
+    "quote_ref": [[["mat",24,36]]],
     "tags": [["Christ's return","christs-return"],["God the Father","god-the-father"],["heaven","heaven"],["prayer","prayer"]],
     "title": "Day Unknown",
     "url": "http://odb.org/2012/09/28/day-unknown/"
@@ -845,6 +1035,7 @@
     "passage": "Matthew 24:36-44",
     "passage_ref": [[["mat",24,36],["mat",24,44]]],
     "quote": "Matthew 24:42",
+    "quote_ref": [[["mat",24,42]]],
     "tags": [["Christ's return","christs-return"],["christlikeness","christlikeness"],["future","future"],["joy","joy"],["Savior","savior"]],
     "title": "An Ordinary Day",
     "url": "http://odb.org/2014/01/25/an-ordinary-day/"
@@ -855,6 +1046,7 @@
     "passage": "Matthew 24:3-14",
     "passage_ref": [[["mat",24,3],["mat",24,14]]],
     "quote": "Isaiah 2:4",
+    "quote_ref": [[["isa",2,4]]],
     "tags": [["conflict","conflict"],["future","future"],["peace","peace"],["promise","promise"],["suffering","suffering"]],
     "title": "The Eleventh Hour",
     "url": "http://odb.org/2014/02/19/the-eleventh-hour/"
@@ -867,6 +1059,7 @@
     "passage": "Matthew 25:31-40",
     "passage_ref": [[["mat",25,31],["mat",25,40]]],
     "quote": "Matthew 20:28",
+    "quote_ref": [[["mat",20,28]]],
     "tags": [],
     "title": "Witnessing From a Wheelchair",
     "url": "http://odb.org/1994/01/06/witnessing-from-a-wheelchair/"
@@ -877,6 +1070,7 @@
     "passage": "Matthew 25:14-21",
     "passage_ref": [[["mat",25,14],["mat",25,21]]],
     "quote": "Matthew 25:23",
+    "quote_ref": [[["mat",25,23]]],
     "tags": [["prayer","prayer"],["serving","serving"],["spiritual gifts","spiritual-gifts"],["suffering","suffering"],["trials","trials"]],
     "title": "Still Working",
     "url": "http://odb.org/2014/03/21/still-working/"
@@ -889,6 +1083,7 @@
     "passage": "Matthew 26:26-30",
     "passage_ref": [[["mat",26,26],["mat",26,30]]],
     "quote": "Matthew 26:29",
+    "quote_ref": [[["mat",26,29]]],
     "tags": [["cross","cross"],["father","father"],["God's love","gods-love"],["joy","joy"],["kingdom","kingdom"],["Lord's supper","lords-supper"],["unity","unity"]],
     "title": "World’s Longest Table",
     "url": "http://odb.org/2012/04/05/worlds-longest-table/"
@@ -899,6 +1094,7 @@
     "passage": "Matthew 26:57-64",
     "passage_ref": [[["mat",26,57],["mat",26,64]]],
     "quote": "Matthew 26:63",
+    "quote_ref": [[["mat",26,63]]],
     "tags": [["christlikeness","christlikeness"],["grace","grace"],["sharing the gospel","sharing-the-gospel"],["testimony","testimony"],["witnessing","witnessing"]],
     "title": "When Not To Witness",
     "url": "http://odb.org/2012/06/22/when-not-to-witness/"
@@ -909,6 +1105,7 @@
     "passage": "Matthew 26:36-46",
     "passage_ref": [[["mat",26,36],["mat",26,46]]],
     "quote": "Matthew 26:40",
+    "quote_ref": [[["mat",26,40]]],
     "tags": [["love for God","love-for-god"],["love for others","love-for-others"],["prayer","prayer"],["trials","trials"]],
     "title": "Emotional Betrayals",
     "url": "http://odb.org/2012/12/11/emotional-betrayals/"
@@ -921,6 +1118,7 @@
     "passage": "Matthew 27:15-26",
     "passage_ref": [[["mat",27,15],["mat",27,26]]],
     "quote": "Matthew 27:21",
+    "quote_ref": [[["mat",27,21]]],
     "tags": [],
     "title": "The Jackal or the Lamb",
     "url": "http://odb.org/1994/03/31/the-jackal-or-the-lamb/"
@@ -931,6 +1129,7 @@
     "passage": "Matthew 27:27-31;28:1-6",
     "passage_ref": [[["mat",27,27],["mat",27,31]],[["mat",28,1],["mat",28,6]]],
     "quote": "Matthew 28:6",
+    "quote_ref": [[["mat",28,6]]],
     "tags": [["cross","cross"],["death","death"],["God's glory","gods-glory"],["resurrection","resurrection"],["suffering","suffering"],["victory","victory"]],
     "title": "O Glorious Day!",
     "url": "http://odb.org/2013/10/21/o-glorious-day/"
@@ -943,9 +1142,21 @@
     "passage": "Matthew 28:16-20",
     "passage_ref": [[["mat",28,16],["mat",28,20]]],
     "quote": "Matthew 28:19",
+    "quote_ref": [[["mat",28,19]]],
     "tags": [],
     "title": "Get on With It!",
     "url": "http://odb.org/1994/01/16/get-on-with-it/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Sharing The Gospel","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/"]],
+    "date": [2011,10,29],
+    "passage": "Matthew 22:34-39; 28:16-20",
+    "passage_ref": [[["mat",22,34],["mat",22,39]],[["mat",28,16],["mat",28,20]]],
+    "quote": "1 Peter 3:15",
+    "quote_ref": [[["1pe",3,15]]],
+    "tags": [["love for others","love-for-others"],["sharing the gospel","sharing-the-gospel"],["wisdom","wisdom"]],
+    "title": "The Right Ingredients",
+    "url": "http://odb.org/2011/10/29/the-right-ingredients/"
   }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -953,6 +1164,7 @@
     "passage": "Matthew 28:16-20",
     "passage_ref": [[["mat",28,16],["mat",28,20]]],
     "quote": "John 14:6",
+    "quote_ref": [[["jhn",14,6]]],
     "tags": [["God the Father","god-the-father"],["good works","good-works"],["grace","grace"],["Jesus Christ","jesus-christ"],["salvation","salvation"],["sharing the gospel","sharing-the-gospel"],["witnessing","witnessing"]],
     "title": "Giving Directions",
     "url": "http://odb.org/2012/09/10/giving-directions/"
@@ -963,6 +1175,7 @@
     "passage": "Matthew 28:1-10",
     "passage_ref": [[["mat",28,1],["mat",28,10]]],
     "quote": "1 Corinthians 15:55",
+    "quote_ref": [[["1co",15,55]]],
     "tags": [["cost","cost"],["cross","cross"],["resurrection","resurrection"],["sacrifice","sacrifice"],["Savior","savior"],["victory","victory"]],
     "title": "You Can Beat It!",
     "url": "http://odb.org/2013/03/30/you-can-beat-it/"
@@ -973,6 +1186,7 @@
     "passage": "Matthew 27:27-31;28:1-6",
     "passage_ref": [[["mat",27,27],["mat",27,31]],[["mat",28,1],["mat",28,6]]],
     "quote": "Matthew 28:6",
+    "quote_ref": [[["mat",28,6]]],
     "tags": [["cross","cross"],["death","death"],["God's glory","gods-glory"],["resurrection","resurrection"],["suffering","suffering"],["victory","victory"]],
     "title": "O Glorious Day!",
     "url": "http://odb.org/2013/10/21/o-glorious-day/"

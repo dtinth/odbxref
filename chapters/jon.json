@@ -1,10 +1,24 @@
-{ "4": [
+{ "1": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,11,19],
+    "passage": "Jonah 1",
+    "passage_ref": [[["jon",1,null]]],
+    "quote": "Ephesians 4:31",
+    "quote_ref": [[["eph",4,31]]],
+    "tags": [["anger","anger"],["bitterness","bitterness"],["compassion","compassion"],["kindness","kindness"],["spiritual fruit","spiritual-fruit"]],
+    "title": "When God Cleans House",
+    "url": "http://odb.org/2011/11/19/when-god-cleans-house/"
+  }
+],
+"4": [
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,6,4],
     "passage": "Jonah 4",
     "passage_ref": [[["jon",4,null]]],
     "quote": "Jonah 4:4",
+    "quote_ref": [[["jon",4,4]]],
     "tags": [["anger","anger"],["God's will","gods-will"],["mercy","mercy"],["obedience","obedience"],["surrender","surrender"]],
     "title": "Getting It Right On The Inside",
     "url": "http://odb.org/2012/06/04/getting-it-right-on-the-inside/"
@@ -15,6 +29,7 @@
     "passage": "Jonah 4",
     "passage_ref": [[["jon",4,null]]],
     "quote": "Jonah 4:6-7",
+    "quote_ref": [[["jon",4,6],["jon",4,7]]],
     "tags": [["blessings","blessings"],["Character","character-christian-life"],["God's protection","gods-protection"],["God's provision","gods-provision"],["sovereignty","sovereignty"],["suffering","suffering"],["trials","trials"]],
     "title": "The Good And The Bad",
     "url": "http://odb.org/2013/12/09/the-good-and-the-bad-3/"

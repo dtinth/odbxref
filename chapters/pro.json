@@ -1,10 +1,35 @@
-{ "2": [
+{ "1": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,9,7],
+    "passage": "Proverbs 1:1-9",
+    "passage_ref": [[["pro",1,1],["pro",1,9]]],
+    "quote": "Amos 5:15",
+    "quote_ref": [[["amo",5,15]]],
+    "tags": [["anger","anger"],["justice","justice"],["mercy","mercy"]],
+    "title": "A Focus On Fairness",
+    "url": "http://odb.org/2011/09/07/a-focus-on-fairness/"
+  }
+],
+"2": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,8,31],
+    "passage": "Proverbs 2:1-9",
+    "passage_ref": [[["pro",2,1],["pro",2,9]]],
+    "quote": "Proverbs 3:7",
+    "quote_ref": [[["pro",3,7]]],
+    "tags": [["discipleship","discipleship"],["humility","humility"],["teachable","teachable"],["wisdom","wisdom"]],
+    "title": "A Teachable Spirit",
+    "url": "http://odb.org/2011/08/31/a-teachable-spirit/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,1,3],
     "passage": "Proverbs 2:1-9",
     "passage_ref": [[["pro",2,1],["pro",2,9]]],
     "quote": "Proverbs 2:4",
+    "quote_ref": [[["pro",2,4]]],
     "tags": [["christlikeness","christlikeness"],["God","god"],["knowledge","knowledge"],["understanding","understanding"],["wisdom","wisdom"]],
     "title": "The Pursuit",
     "url": "http://odb.org/2012/01/03/the-pursuit/"
@@ -15,6 +40,7 @@
     "passage": "Proverbs 2:6-20",
     "passage_ref": [[["pro",2,6],["pro",2,20]]],
     "quote": "Proverbs 2:9",
+    "quote_ref": [[["pro",2,9]]],
     "tags": [["justice","justice"],["righteousness","righteousness"],["understanding","understanding"],["wisdom","wisdom"]],
     "title": "Tempting Outside; Toxic Inside",
     "url": "http://odb.org/2012/06/21/tempting-outside-toxic-inside/"
@@ -27,6 +53,7 @@
     "passage": "Proverbs 3:1-8",
     "passage_ref": [[["pro",3,1],["pro",3,8]]],
     "quote": "Proverbs 3:6",
+    "quote_ref": [[["pro",3,6]]],
     "tags": [["backsliding","backsliding"],["christlikeness","christlikeness"],["conscience","conscience"],["conviction of","conviction-of"],["Holy Spirit","holy-spirit"],["sin","sin-christian-life"],["worldliness","worldliness"]],
     "title": "Rerouting . . . Rerouting",
     "url": "http://odb.org/2013/02/20/rerouting-rerouting/"
@@ -37,6 +64,7 @@
     "passage": "Proverbs 3:1-12",
     "passage_ref": [[["pro",3,1],["pro",3,12]]],
     "quote": "Proverbs 3:5",
+    "quote_ref": [[["pro",3,5]]],
     "tags": [["disappointment","disappointment"],["God's guidance","gods-guidance"],["God's purpose","gods-purpose"],["praise","praise"],["trust","trust"],["understanding","understanding"]],
     "title": "The Joy Of Disappointment",
     "url": "http://odb.org/2013/08/14/the-joy-of-disappointment/"
@@ -49,9 +77,21 @@
     "passage": "Proverbs 4:20-27",
     "passage_ref": [[["pro",4,20],["pro",4,27]]],
     "quote": "Proverbs 4:23",
+    "quote_ref": [[["pro",4,23]]],
     "tags": [],
     "title": "Health Care for the Heart",
     "url": "http://odb.org/1994/03/09/health-care-for-the-heart/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"]],
+    "date": [2011,8,22],
+    "passage": "Proverbs 4:14-27",
+    "passage_ref": [[["pro",4,14],["pro",4,27]]],
+    "quote": "Proverbs 4:23,26",
+    "quote_ref": [[["pro",4,23]],[["pro",4,26]]],
+    "tags": [["christlikeness","christlikeness"],["happiness","happiness"],["priorities","priorities"]],
+    "title": "Ponder Your Path",
+    "url": "http://odb.org/2011/08/22/ponder-your-path/"
   }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -59,6 +99,7 @@
     "passage": "Proverbs 4:10-19",
     "passage_ref": [[["pro",4,10],["pro",4,19]]],
     "quote": "James 5:20",
+    "quote_ref": [[["jas",5,20]]],
     "tags": [["confession","confession"],["God's forgiveness","gods-forgiveness"],["repentance","repentance"],["sin","sin-christian-life"],["witnessing","witnessing"]],
     "title": "The Dalton Gang",
     "url": "http://odb.org/2012/03/05/the-dalton-gang/"
@@ -69,6 +110,7 @@
     "passage": "Proverbs 4:1-7",
     "passage_ref": [[["pro",4,1],["pro",4,7]]],
     "quote": "Proverbs 4:1",
+    "quote_ref": [[["pro",4,1]]],
     "tags": [["christlikeness","christlikeness"],["example","example"],["legacy","legacy"],["parenting","parenting"]],
     "title": "Cutting A Trail",
     "url": "http://odb.org/2012/04/24/cutting-a-trail/"
@@ -79,6 +121,7 @@
     "passage": "Proverbs 4:14-27",
     "passage_ref": [[["pro",4,14],["pro",4,27]]],
     "quote": "Proverbs 4:23",
+    "quote_ref": [[["pro",4,23]]],
     "tags": [["christlikeness","christlikeness"],["compassion","compassion"],["grace","grace"],["greed","greed"],["hatred","hatred"],["kindness","kindness"],["patience","patience"]],
     "title": "Healthy Ingredients",
     "url": "http://odb.org/2013/10/26/healthy-ingredients/"
@@ -91,6 +134,7 @@
     "passage": "Proverbs 6:20-24",
     "passage_ref": [[["pro",6,20],["pro",6,24]]],
     "quote": "Proverbs 6:20",
+    "quote_ref": [[["pro",6,20]]],
     "tags": [],
     "title": "Mother’s Law",
     "url": "http://odb.org/1994/05/08/mothers-law/"
@@ -101,6 +145,7 @@
     "passage": "Proverbs 6:12-19",
     "passage_ref": [[["pro",6,12],["pro",6,19]]],
     "quote": "Proverbs 10:18",
+    "quote_ref": [[["pro",10,18]]],
     "tags": [],
     "title": "Subtle Slander",
     "url": "http://odb.org/1994/10/10/subtle-slander/"
@@ -111,9 +156,21 @@
     "passage": "Proverbs 6:20-29",
     "passage_ref": [[["pro",6,20],["pro",6,29]]],
     "quote": "Proverbs 6:27",
+    "quote_ref": [[["pro",6,27]]],
     "tags": [],
     "title": "A Deadly Pet",
     "url": "http://odb.org/1994/12/06/a-deadly-pet/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,10,4],
+    "passage": "Proverbs 6:6-11",
+    "passage_ref": [[["pro",6,6],["pro",6,11]]],
+    "quote": "Proverbs 6:6-8",
+    "quote_ref": [[["pro",6,6],["pro",6,8]]],
+    "tags": [["accountability","accountability"],["authority","authority"],["submission","submission"],["work","work"]],
+    "title": "No Authority?",
+    "url": "http://odb.org/2011/10/04/no-authority/"
   }, 
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
@@ -121,6 +178,7 @@
     "passage": "Proverbs 6:6-11",
     "passage_ref": [[["pro",6,6],["pro",6,11]]],
     "quote": "Proverbs 6:9",
+    "quote_ref": [[["pro",6,9]]],
     "tags": [["laziness","laziness"],["obedience","obedience"],["prayer","prayer"],["spiritual gifts","spiritual-gifts"],["witnessing","witnessing"]],
     "title": "Slacker?",
     "url": "http://odb.org/2012/02/21/slacker/"
@@ -131,6 +189,7 @@
     "passage": "Proverbs 6:6-11",
     "passage_ref": [[["pro",6,6],["pro",6,11]]],
     "quote": "Proverbs 6:6",
+    "quote_ref": [[["pro",6,6]]],
     "tags": [["creation","creation"],["God's provision","gods-provision"],["nature","nature"],["wisdom","wisdom"],["work","work"]],
     "title": "Ant Safari",
     "url": "http://odb.org/2012/07/13/ant-safari/"
@@ -141,6 +200,7 @@
     "passage": "Proverbs 6:16-22",
     "passage_ref": [[["pro",6,16],["pro",6,22]]],
     "quote": "Proverbs 6:23",
+    "quote_ref": [[["pro",6,23]]],
     "tags": [],
     "title": "Warning Labels",
     "url": "http://odb.org/2012/11/18/warning-labels/"
@@ -151,6 +211,7 @@
     "passage": "Proverbs 6:16-19",
     "passage_ref": [[["pro",6,16],["pro",6,19]]],
     "quote": "Proverbs 6:16,19",
+    "quote_ref": [[["pro",6,16]],[["pro",6,19]]],
     "tags": [["christlikeness","christlikeness"],["community","community"],["humility","humility"],["love for others","love-for-others"],["serving","serving"],["sin","sin-christian-life"],["unity","unity"]],
     "title": "Promoting Unity",
     "url": "http://odb.org/2014/03/23/promoting-unity/"
@@ -163,6 +224,7 @@
     "passage": "Proverbs 8:12-21",
     "passage_ref": [[["pro",8,12],["pro",8,21]]],
     "quote": "Proverbs 8:13",
+    "quote_ref": [[["pro",8,13]]],
     "tags": [["arrogance","arrogance"],["humility","humility"],["pride","pride"],["temptation","temptation"],["wisdom","wisdom"]],
     "title": "Arrogance And Pride",
     "url": "http://odb.org/2013/07/21/arrogance-and-pride/"
@@ -175,6 +237,7 @@
     "passage": "Proverbs 10:1-17",
     "passage_ref": [[["pro",10,1],["pro",10,17]]],
     "quote": "Proverbs 2:6",
+    "quote_ref": [[["pro",2,6]]],
     "tags": [],
     "title": "Are You Searching for Wisdom?",
     "url": "http://odb.org/1994/06/14/are-you-searching-for-wisdom/"
@@ -185,6 +248,7 @@
     "passage": "Proverbs 10:11-21",
     "passage_ref": [[["pro",10,11],["pro",10,21]]],
     "quote": "Matthew 12:37",
+    "quote_ref": [[["mat",12,37]]],
     "tags": [],
     "title": "From Intake to Output",
     "url": "http://odb.org/1994/06/03/from-intake-to-output/"
@@ -197,6 +261,7 @@
     "passage": "Proverbs 11:1-11",
     "passage_ref": [[["pro",11,1],["pro",11,11]]],
     "quote": "Proverbs 11:1",
+    "quote_ref": [[["pro",11,1]]],
     "tags": [],
     "title": "Honest People",
     "url": "http://odb.org/1994/03/12/honest-people/"
@@ -209,6 +274,7 @@
     "passage": "Proverbs 12:17-22",
     "passage_ref": [[["pro",12,17],["pro",12,22]]],
     "quote": "Proverbs 12:20",
+    "quote_ref": [[["pro",12,20]]],
     "tags": [],
     "title": "Are You Deceitful?",
     "url": "http://odb.org/1994/11/22/are-you-deceitful/"
@@ -219,6 +285,7 @@
     "passage": "Proverbs 12:1-7",
     "passage_ref": [[["pro",12,1],["pro",12,7]]],
     "quote": "Proverbs 12:3",
+    "quote_ref": [[["pro",12,3]]],
     "tags": [],
     "title": "Tall Trees, Deep Roots",
     "url": "http://odb.org/1994/12/07/tall-trees-deep-roots/"
@@ -231,18 +298,31 @@
     "passage": "Proverbs 14:7-16",
     "passage_ref": [[["pro",14,7],["pro",14,16]]],
     "quote": "Proverbs 14:12",
+    "quote_ref": [[["pro",14,12]]],
     "tags": [],
     "title": "Sincerely Wrong!",
     "url": "http://odb.org/1994/06/04/sincerely-wrong/"
   }
 ],
 "15": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,11,2],
+    "passage": "Proverbs 15:1-7",
+    "passage_ref": [[["pro",15,1],["pro",15,7]]],
+    "quote": "Proverbs 15:2",
+    "quote_ref": [[["pro",15,2]]],
+    "tags": [["anger","anger"],["bitterness","bitterness"],["holiness","holiness"],["kindness","kindness"],["purity","purity"],["wisdom","wisdom"]],
+    "title": "Mouth Guard",
+    "url": "http://odb.org/2011/11/02/mouth-guard/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2012,2,28],
     "passage": "Proverbs 15:21-33",
     "passage_ref": [[["pro",15,21],["pro",15,33]]],
     "quote": "Proverbs 15:23",
+    "quote_ref": [[["pro",15,23]]],
     "tags": [],
     "title": "A Man Of Warmth And Wisdom",
     "url": "http://odb.org/2012/02/28/a-man-of-warmth-and-wisdom/"
@@ -253,6 +333,7 @@
     "passage": "Proverbs 15:1-4",
     "passage_ref": [[["pro",15,1],["pro",15,4]]],
     "quote": "Proverbs 15:1",
+    "quote_ref": [[["pro",15,1]]],
     "tags": [["anger","anger"],["christlikeness","christlikeness"],["compassion","compassion"],["courtesy","courtesy"],["forgiveness","forgiveness"],["kindness","kindness"]],
     "title": "The Power Of Soft Answers",
     "url": "http://odb.org/2012/04/10/the-power-of-soft-answers/"
@@ -265,9 +346,21 @@
     "passage": "Proverbs 16:16-33",
     "passage_ref": [[["pro",16,16],["pro",16,33]]],
     "quote": "Proverbs 5:22",
+    "quote_ref": [[["pro",5,22]]],
     "tags": [],
     "title": "How To Be Free",
     "url": "http://odb.org/1994/11/08/how-to-be-free/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2011,8,6],
+    "passage": "Proverbs 16:1-9",
+    "passage_ref": [[["pro",16,1],["pro",16,9]]],
+    "quote": "Proverbs 16:9",
+    "quote_ref": [[["pro",16,9]]],
+    "tags": [["God's guidance","gods-guidance"],["sovereignty","sovereignty"],["unexpected","unexpected"]],
+    "title": "The Unexpected",
+    "url": "http://odb.org/2011/08/06/the-unexpected/"
   }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -275,6 +368,7 @@
     "passage": "Proverbs 16:20-25",
     "passage_ref": [[["pro",16,20],["pro",16,25]]],
     "quote": "Proverbs 16:25",
+    "quote_ref": [[["pro",16,25]]],
     "tags": [["creator","creator"],["God's plan","gods-plan"],["God's purpose","gods-purpose"],["heaven","heaven"],["new birth","new-birth"],["salvation","salvation"],["Savior","savior"]],
     "title": "My Way?",
     "url": "http://odb.org/2012/04/30/my-way-2/"
@@ -285,6 +379,7 @@
     "passage": "Proverbs 16:19-24",
     "passage_ref": [[["pro",16,19],["pro",16,24]]],
     "quote": "Colossians 3:12",
+    "quote_ref": [[["col",3,12]]],
     "tags": [["christlikeness","christlikeness"],["humility","humility"],["kindness","kindness"],["love for others","love-for-others"],["meekness","meekness"],["patience","patience"],["speech","speech"]],
     "title": "Sweet Words",
     "url": "http://odb.org/2012/12/21/sweet-words/"
@@ -297,6 +392,7 @@
     "passage": "Proverbs 18:1-15",
     "passage_ref": [[["pro",18,1],["pro",18,15]]],
     "quote": "Ephesians 4:29",
+    "quote_ref": [[["eph",4,29]]],
     "tags": [["encouragement","encouragement"],["kindness","kindness"],["praise","praise"],["speech","speech"]],
     "title": "Speech Study",
     "url": "http://odb.org/2012/07/16/speech-study/"
@@ -307,6 +403,7 @@
     "passage": "Proverbs 18:1-10",
     "passage_ref": [[["pro",18,1],["pro",18,10]]],
     "quote": "Proverbs 18:10",
+    "quote_ref": [[["pro",18,10]]],
     "tags": [["God's character","gods-character"],["God's faithfulness","gods-faithfulness"],["God's power","gods-power"],["God's protection","gods-protection"],["God's provision","gods-provision"],["mercy","mercy"]],
     "title": "Taking Refuge",
     "url": "http://odb.org/2013/12/20/taking-refuge/"
@@ -319,6 +416,7 @@
     "passage": "Proverbs 19:15-25",
     "passage_ref": [[["pro",19,15],["pro",19,25]]],
     "quote": "Proverbs 19:20",
+    "quote_ref": [[["pro",19,20]]],
     "tags": [["choices","choices"],["decisions","decisions"],["sanctification","sanctification"],["spiritual growth","spiritual-growth"],["wisdom","wisdom"]],
     "title": "What’s At Stake?",
     "url": "http://odb.org/2013/08/26/whats-at-stake/"
@@ -331,6 +429,7 @@
     "passage": "Proverbs 23:1-18",
     "passage_ref": [[["pro",23,1],["pro",23,18]]],
     "quote": "Proverbs 23:4",
+    "quote_ref": [[["pro",23,4]]],
     "tags": [["God's goodness","gods-goodness"],["grace","grace"],["money","money"],["riches","riches"],["work","work"]],
     "title": "The Best Things In Life",
     "url": "http://odb.org/2012/07/18/the-best-things-in-life/"
@@ -343,6 +442,7 @@
     "passage": "Proverbs 30:24-28",
     "passage_ref": [[["pro",30,24],["pro",30,28]]],
     "quote": "Proverbs 30:25",
+    "quote_ref": [[["pro",30,25]]],
     "tags": [],
     "title": "The Wisdom Of Ants",
     "url": "http://odb.org/1994/11/04/the-wisdom-of-ants/"
@@ -353,6 +453,7 @@
     "passage": "Proverbs 30:1-9",
     "passage_ref": [[["pro",30,1],["pro",30,9]]],
     "quote": "Proverbs 30:8",
+    "quote_ref": [[["pro",30,8]]],
     "tags": [["anxiety","anxiety"],["contentment","contentment"],["God's care","gods-care"],["greed","greed"],["honesty","honesty"],["integrity","integrity"],["lies","lies"],["money","money"],["riches","riches"]],
     "title": "Riches Of The Soul",
     "url": "http://odb.org/2013/03/12/riches-of-the-soul/"
@@ -365,6 +466,7 @@
     "passage": "Proverbs 31:10-31",
     "passage_ref": [[["pro",31,10],["pro",31,31]]],
     "quote": "Proverbs 31:27",
+    "quote_ref": [[["pro",31,27]]],
     "tags": [["children","children"],["christlikeness","christlikeness"],["influence","influence"],["love for others","love-for-others"],["mother","mother"],["parenting","parenting"],["work","work"]],
     "title": "A Woman Of Influence",
     "url": "http://odb.org/2012/05/13/a-woman-of-influence/"

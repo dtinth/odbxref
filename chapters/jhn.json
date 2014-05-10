@@ -5,6 +5,7 @@
     "passage": "John 1:1-14",
     "passage_ref": [[["jhn",1,1],["jhn",1,14]]],
     "quote": "John 11:25",
+    "quote_ref": [[["jhn",11,25]]],
     "tags": [],
     "title": "I’m Not Making This Up",
     "url": "http://odb.org/1994/05/31/im-not-making-this-up/"
@@ -15,9 +16,21 @@
     "passage": "John 1:1-14",
     "passage_ref": [[["jhn",1,1],["jhn",1,14]]],
     "quote": "John 1:14",
+    "quote_ref": [[["jhn",1,14]]],
     "tags": [],
     "title": "Bah! Humbug!",
     "url": "http://odb.org/1994/12/22/bah-humbug/"
+  }, 
+  { "author": ["C. P. Hia","cphia"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2011,10,31],
+    "passage": "John 1:6-13",
+    "passage_ref": [[["jhn",1,6],["jhn",1,13]]],
+    "quote": "John 1:29",
+    "quote_ref": [[["jhn",1,29]]],
+    "tags": [["Jesus","jesus"],["Messiah","messiah"],["salvation","salvation"],["Savior","savior"],["sin","sin-christian-life"]],
+    "title": "Surprise!",
+    "url": "http://odb.org/2011/10/31/surprise/"
   }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -25,6 +38,7 @@
     "passage": "John 1:1-14",
     "passage_ref": [[["jhn",1,1],["jhn",1,14]]],
     "quote": "John 1:14",
+    "quote_ref": [[["jhn",1,14]]],
     "tags": [["Bible","bible"],["Character","character-christian-life"],["christlikeness","christlikeness"],["gratitude","gratitude"],["Jesus","jesus"]],
     "title": "Your Bio Here",
     "url": "http://odb.org/2012/03/21/your-bio-here/"
@@ -35,6 +49,7 @@
     "passage": "John 1:35-42",
     "passage_ref": [[["jhn",1,35],["jhn",1,42]]],
     "quote": "John 1:42",
+    "quote_ref": [[["jhn",1,42]]],
     "tags": [],
     "title": "Called By A New Name",
     "url": "http://odb.org/2012/04/20/called-by-a-new-name/"
@@ -45,6 +60,7 @@
     "passage": "John 1:1-13",
     "passage_ref": [[["jhn",1,1],["jhn",1,13]]],
     "quote": "Colossians 1:16",
+    "quote_ref": [[["col",1,16]]],
     "tags": [["attributes","attributes"],["creation","creation"],["creator","creator"],["God","god"]],
     "title": "Theory Of Everything",
     "url": "http://odb.org/2012/08/22/theory-of-everything/"
@@ -55,6 +71,7 @@
     "passage": "John 1:6-13",
     "passage_ref": [[["jhn",1,6],["jhn",1,13]]],
     "quote": "John 1:11",
+    "quote_ref": [[["jhn",1,11]]],
     "tags": [["acceptance","acceptance"],["cross","cross"],["God's care","gods-care"],["God's plan","gods-plan"],["Messiah","messiah"],["riches","riches"],["Savior","savior"]],
     "title": "Always Accepted",
     "url": "http://odb.org/2013/02/25/always-accepted/"
@@ -65,6 +82,7 @@
     "passage": "John 1:35-42",
     "passage_ref": [[["jhn",1,35],["jhn",1,42]]],
     "quote": "John 1:41",
+    "quote_ref": [[["jhn",1,41]]],
     "tags": [["eternity","eternity"],["God's care","gods-care"],["God's presence","gods-presence"],["hope","hope"],["peace","peace"]],
     "title": "The Best Life",
     "url": "http://odb.org/2013/02/12/the-best-life/"
@@ -75,6 +93,7 @@
     "passage": "John 1:1-18",
     "passage_ref": [[["jhn",1,1],["jhn",1,18]]],
     "quote": "John 1:14",
+    "quote_ref": [[["jhn",1,14]]],
     "tags": [["Bible","bible"],["Character","character-christian-life"],["cross","cross"],["discipline","discipline"],["God","god"],["salvation","salvation"],["truth vs. error","truth-vs-error"],["wisdom","wisdom"]],
     "title": "Spiritual Plagiarism",
     "url": "http://odb.org/2013/11/25/spiritual-plagiarism/"
@@ -85,6 +104,7 @@
     "passage": "John 1:6-14",
     "passage_ref": [[["jhn",1,6],["jhn",1,14]]],
     "quote": "John 1:14",
+    "quote_ref": [[["jhn",1,14]]],
     "tags": [["creator","creator"],["incarnation","incarnation"],["Jesus Christ","jesus-christ"],["Jesus' birth","jesus-birth"],["life example","life-example"],["mercy","mercy"]],
     "title": "Fearful Fish",
     "url": "http://odb.org/2014/04/25/fearful-fish/"
@@ -95,6 +115,7 @@
     "passage": "John 1:35-42",
     "passage_ref": [[["jhn",1,35],["jhn",1,42]]],
     "quote": "Matthew 16:18",
+    "quote_ref": [[["mat",16,18]]],
     "tags": [["christlikeness","christlikeness"],["contentment","contentment"],["faithfulness","faithfulness"],["God's faithfulness","gods-faithfulness"],["integrity","integrity"]],
     "title": "What’s In A Name?",
     "url": "http://odb.org/2014/04/03/whats-in-a-name-3/"
@@ -107,9 +128,21 @@
     "passage": "John 3:1-16",
     "passage_ref": [[["jhn",3,1],["jhn",3,16]]],
     "quote": "John 3:7",
+    "quote_ref": [[["jhn",3,7]]],
     "tags": [],
     "title": "Changed Lives Are Possible",
     "url": "http://odb.org/1994/02/15/changed-lives-are-possible/"
+  }, 
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,11,10],
+    "passage": "John 3:22-36",
+    "passage_ref": [[["jhn",3,22],["jhn",3,36]]],
+    "quote": "John 3:30",
+    "quote_ref": [[["jhn",3,30]]],
+    "tags": [["envy","envy"],["God's glory","gods-glory"],["humility","humility"],["jealousy","jealousy"],["Jesus","jesus"],["worship","worship"]],
+    "title": "It’s All About Him",
+    "url": "http://odb.org/2011/11/10/it%e2%80%99s-all-about-him/"
   }
 ],
 "4": [
@@ -119,6 +152,7 @@
     "passage": "John 4:7-27",
     "passage_ref": [[["jhn",4,7],["jhn",4,27]]],
     "quote": "John 4:9",
+    "quote_ref": [[["jhn",4,9]]],
     "tags": [],
     "title": "A Matter of the Heart",
     "url": "http://odb.org/1994/01/17/a-matter-of-the-heart/"
@@ -129,9 +163,21 @@
     "passage": "John 4:1-14",
     "passage_ref": [[["jhn",4,1],["jhn",4,14]]],
     "quote": "Psalm 73:25",
+    "quote_ref": [[["psa",73,25]]],
     "tags": [],
     "title": "Soul Satisfaction",
     "url": "http://odb.org/1994/06/05/soul-satisfaction/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,11,3],
+    "passage": "John 4:1-15",
+    "passage_ref": [[["jhn",4,1],["jhn",4,15]]],
+    "quote": "John 4:14",
+    "quote_ref": [[["jhn",4,14]]],
+    "tags": [["Jesus","jesus"],["ministry","ministry"],["new birth","new-birth"],["salvation","salvation"],["Savior","savior"]],
+    "title": "Looking For Water",
+    "url": "http://odb.org/2011/11/03/looking-for-water/"
   }, 
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"]],
@@ -139,6 +185,7 @@
     "passage": "John 4:27-39",
     "passage_ref": [[["jhn",4,27],["jhn",4,39]]],
     "quote": "John 4:39",
+    "quote_ref": [[["jhn",4,39]]],
     "tags": [["acceptance","acceptance"],["blessings","blessings"],["faith","faith"],["Jesus","jesus"],["Savior","savior"],["sowing and reaping","sowing-and-reaping"],["witnessing","witnessing"]],
     "title": "Barriers And Blessings",
     "url": "http://odb.org/2012/12/05/barriers-and-blessings/"
@@ -149,6 +196,7 @@
     "passage": "John 4:7-26",
     "passage_ref": [[["jhn",4,7],["jhn",4,26]]],
     "quote": "James 1:25",
+    "quote_ref": [[["jas",1,25]]],
     "tags": [["disappointment","disappointment"],["encouragement","encouragement"],["grace","grace"],["honesty","honesty"],["kindness","kindness"],["trials","trials"]],
     "title": "Refreshing Candor",
     "url": "http://odb.org/2013/03/03/refreshing-candor/"
@@ -159,6 +207,7 @@
     "passage": "John 4:27-38",
     "passage_ref": [[["jhn",4,27],["jhn",4,38]]],
     "quote": "John 4:34",
+    "quote_ref": [[["jhn",4,34]]],
     "tags": [["christlikeness","christlikeness"],["generosity","generosity"],["giving","giving"],["God's provision","gods-provision"],["God's will","gods-will"],["kindness","kindness"]],
     "title": "A Missed Lunch",
     "url": "http://odb.org/2013/05/22/a-missed-lunch/"
@@ -169,6 +218,7 @@
     "passage": "John 4:7-14",
     "passage_ref": [[["jhn",4,7],["jhn",4,14]]],
     "quote": "John 4:14",
+    "quote_ref": [[["jhn",4,14]]],
     "tags": [["Jesus Christ","jesus-christ"],["new birth","new-birth"],["salvation","salvation"],["Savior","savior"]],
     "title": "Drink Lots Of Water",
     "url": "http://odb.org/2013/09/30/drink-lots-of-water/"
@@ -179,18 +229,31 @@
     "passage": "John 4:7-14",
     "passage_ref": [[["jhn",4,7],["jhn",4,14]]],
     "quote": "John 4:14",
+    "quote_ref": [[["jhn",4,14]]],
     "tags": [["creation","creation"],["eternity","eternity"],["Jesus Christ","jesus-christ"],["salvation","salvation"],["sharing the gospel","sharing-the-gospel"]],
     "title": "Big Spring",
     "url": "http://odb.org/2014/02/28/big-spring/"
   }
 ],
 "5": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Holy Spirit","basics-of-faith/holy-spirit-basics-of-faith/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"],["Ministry","basics-of-faith/holy-spirit-basics-of-faith/ministry-holy-spirit-basics-of-faith/"]],
+    "date": [2011,9,22],
+    "passage": "John 5:35-47",
+    "passage_ref": [[["jhn",5,35],["jhn",5,47]]],
+    "quote": "John 5:40",
+    "quote_ref": [[["jhn",5,40]]],
+    "tags": [["confusion","confusion"],["discernment","discernment"],["reflection","reflection"],["spiritual growth","spiritual-growth"]],
+    "title": "Beyond The Status Quo",
+    "url": "http://odb.org/2011/09/22/beyond-the-status-quo/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Uncategorized","uncategorized/"]],
     "date": [2013,9,3],
     "passage": "John 5:18,37-47",
     "passage_ref": [[["jhn",5,18]],[["jhn",5,37],["jhn",5,47]]],
     "quote": "Matthew 23:37",
+    "quote_ref": [[["mat",23,37]]],
     "tags": [["christlikeness","christlikeness"],["empty religion","empty-religion"],["God's forgiveness","gods-forgiveness"],["God's love","gods-love"],["love for God","love-for-god"],["love for others","love-for-others"],["Relationships","relationships"],["Savior","savior"],["serving","serving"]],
     "title": "Not Interested In Religion",
     "url": "http://odb.org/2013/09/03/not-interested-in-religion/"
@@ -201,6 +264,7 @@
     "passage": "John 5:24-30",
     "passage_ref": [[["jhn",5,24],["jhn",5,30]]],
     "quote": "John 5:28-29",
+    "quote_ref": [[["jhn",5,28],["jhn",5,29]]],
     "tags": [["cross","cross"],["death","death"],["eternal life","eternal-life"],["future","future"],["grief","grief"],["resurrection","resurrection"],["sorrow","sorrow"],["victory","victory"]],
     "title": "Victory Over Death!",
     "url": "http://odb.org/2014/04/21/victory-over-death/"
@@ -208,11 +272,23 @@
 ],
 "6": [
   { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,12,13],
+    "passage": "John 6:25-41",
+    "passage_ref": [[["jhn",6,25],["jhn",6,41]]],
+    "quote": "John 6:41",
+    "quote_ref": [[["jhn",6,41]]],
+    "tags": [["eternal life","eternal-life"],["eternity","eternity"],["heaven","heaven"],["salvation","salvation"],["Savior","savior"],["surrender","surrender"]],
+    "title": "Free Pizza!",
+    "url": "http://odb.org/2011/12/13/free-pizza/"
+  }, 
+  { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,6,25],
     "passage": "John 6:42-51",
     "passage_ref": [[["jhn",6,42],["jhn",6,51]]],
     "quote": "John 6:44",
+    "quote_ref": [[["jhn",6,44]]],
     "tags": [["Bible","bible"],["God's forgiveness","gods-forgiveness"],["God's love","gods-love"],["salvation","salvation"],["witnessing","witnessing"]],
     "title": "Pureed Pursuit",
     "url": "http://odb.org/2012/06/25/pureed-pursuit/"
@@ -223,6 +299,7 @@
     "passage": "John 6:25-29",
     "passage_ref": [[["jhn",6,25],["jhn",6,29]]],
     "quote": "John 6:35",
+    "quote_ref": [[["jhn",6,35]]],
     "tags": [["God's forgiveness","gods-forgiveness"],["hope","hope"],["Jesus","jesus"],["peace","peace"],["salvation","salvation"]],
     "title": "Until You Are Full",
     "url": "http://odb.org/2012/08/29/until-you-are-full/"
@@ -233,6 +310,7 @@
     "passage": "John 6:44-59",
     "passage_ref": [[["jhn",6,44],["jhn",6,59]]],
     "quote": "1 John 2:11",
+    "quote_ref": [[["1jn",2,11]]],
     "tags": [],
     "title": "The Truth About Maps",
     "url": "http://odb.org/2012/11/03/the-truth-about-maps/"
@@ -243,6 +321,7 @@
     "passage": "John 6:25-35",
     "passage_ref": [[["jhn",6,25],["jhn",6,35]]],
     "quote": "John 6:48",
+    "quote_ref": [[["jhn",6,48]]],
     "tags": [["God's care","gods-care"],["God's provsion","gods-provsion"],["quiet time","quiet-time"],["satisfaction","satisfaction"],["spiritual growth","spiritual-growth"]],
     "title": "Life Without Bread",
     "url": "http://odb.org/2013/10/09/life-without-bread/"
@@ -255,6 +334,7 @@
     "passage": "John 7:37-39",
     "passage_ref": [[["jhn",7,37],["jhn",7,39]]],
     "quote": "John 7:37",
+    "quote_ref": [[["jhn",7,37]]],
     "tags": [["Jesus","jesus"],["new birth","new-birth"],["salvation","salvation"],["Savior","savior"]],
     "title": "Avoid Dehydration",
     "url": "http://odb.org/2013/07/06/avoid-dehydration/"
@@ -267,6 +347,7 @@
     "passage": "John 8:1-11",
     "passage_ref": [[["jhn",8,1],["jhn",8,11]]],
     "quote": "Romans 5:8",
+    "quote_ref": [[["rom",5,8]]],
     "tags": [],
     "title": "Loving the Unlovely",
     "url": "http://odb.org/1994/03/07/loving-the-unlovely/"
@@ -277,9 +358,21 @@
     "passage": "John 8:42-47",
     "passage_ref": [[["jhn",8,42],["jhn",8,47]]],
     "quote": "Ephesians 4:25",
+    "quote_ref": [[["eph",4,25]]],
     "tags": [],
     "title": "Who’s Telling The Truth?",
     "url": "http://odb.org/1994/11/26/whos-telling-the-truth/"
+  }, 
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Satan","basics-of-faith/spirit-world-basics-of-faith/satan-spirit-world-basics-of-faith-basics-of-faith/"],["Spiritual Warfare","basics-of-faith/spirit-world-basics-of-faith/spiritual-warfare-spirit-world-basics-of-faith-basics-of-faith/"],["Temptation","basics-of-faith/sin-basics-of-faith/temptation-sin-basics-of-faith-basics-of-faith/"]],
+    "date": [2011,10,30],
+    "passage": "John 8:37-47",
+    "passage_ref": [[["jhn",8,37],["jhn",8,47]]],
+    "quote": "John 8:44",
+    "quote_ref": [[["jhn",8,44]]],
+    "tags": [["doubt","doubt"],["lies","lies"],["satan","satan"],["temptation","temptation"]],
+    "title": "Father Of Lies",
+    "url": "http://odb.org/2011/10/30/father-of-lies/"
   }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
@@ -287,6 +380,7 @@
     "passage": "John 8:42-47",
     "passage_ref": [[["jhn",8,42],["jhn",8,47]]],
     "quote": "2 Corinthians 11:3",
+    "quote_ref": [[["2co",11,3]]],
     "tags": [["deceit","deceit"],["lies","lies"],["satan","satan"],["spiritual warfare","spiritual-warfare"],["truth vs. error","truth-vs-error"]],
     "title": "Enemy Deceptions",
     "url": "http://odb.org/2012/06/23/enemy-deceptions/"
@@ -297,6 +391,7 @@
     "passage": "John 8:12-20",
     "passage_ref": [[["jhn",8,12],["jhn",8,20]]],
     "quote": "John 8:12",
+    "quote_ref": [[["jhn",8,12]]],
     "tags": [["cross","cross"],["gift","gift"],["God's character","gods-character"],["sacrifice","sacrifice"],["Savior","savior"]],
     "title": "The Gift Of Light",
     "url": "http://odb.org/2013/08/23/the-gift-of-light/"
@@ -307,6 +402,7 @@
     "passage": "John 8:1-11",
     "passage_ref": [[["jhn",8,1],["jhn",8,11]]],
     "quote": "John 8:11",
+    "quote_ref": [[["jhn",8,11]]],
     "tags": [["choices","choices"],["compassion","compassion"],["consequences","consequences"],["God's forgiveness","gods-forgiveness"],["grace","grace"],["joy","joy"],["mercy","mercy"],["sin","sin-christian-life"]],
     "title": "Embarrassing Moments",
     "url": "http://odb.org/2013/11/12/embarrassing-moments/"
@@ -317,6 +413,7 @@
     "passage": "John 8:31-47",
     "passage_ref": [[["jhn",8,31],["jhn",8,47]]],
     "quote": "John 8:46",
+    "quote_ref": [[["jhn",8,46]]],
     "tags": [["choices","choices"],["decisions","decisions"],["discipleship","discipleship"],["freedom","freedom"],["Jesus Christ","jesus-christ"],["truth","truth"]],
     "title": "Who’s Telling The Truth?",
     "url": "http://odb.org/2013/11/02/whos-telling-the-truth-2/"
@@ -329,9 +426,21 @@
     "passage": "John 9:1-7",
     "passage_ref": [[["jhn",9,1],["jhn",9,7]]],
     "quote": "John 9:3",
+    "quote_ref": [[["jhn",9,3]]],
     "tags": [],
     "title": "The “Why” Question",
     "url": "http://odb.org/1994/11/25/the-why-question/"
+  }, 
+  { "author": ["Randy Kilgore","randykilgore"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,7,22],
+    "passage": "John 9:13-25",
+    "passage_ref": [[["jhn",9,13],["jhn",9,25]]],
+    "quote": "John 9:25",
+    "quote_ref": [[["jhn",9,25]]],
+    "tags": [["christian faith","christian-faith"],["life stories","life-stories"],["sharing the gospel","sharing-the-gospel"],["testimony","testimony"],["witnessing","witnessing"]],
+    "title": "Our Best Defense",
+    "url": "http://odb.org/2011/07/22/our-best-defense-3/"
   }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -339,6 +448,7 @@
     "passage": "John 9:1-11,24-25",
     "passage_ref": [[["jhn",9,1],["jhn",9,11]],[["jhn",9,24],["jhn",9,25]]],
     "quote": "John 9:25",
+    "quote_ref": [[["jhn",9,25]]],
     "tags": [],
     "title": "Six-Word Testimony",
     "url": "http://odb.org/2012/11/04/six-word-testimony/"
@@ -351,9 +461,21 @@
     "passage": "John 10:1-16",
     "passage_ref": [[["jhn",10,1],["jhn",10,16]]],
     "quote": "John 10:3",
+    "quote_ref": [[["jhn",10,3]]],
     "tags": [],
     "title": "On a First-Name Basis",
     "url": "http://odb.org/1994/08/28/on-a-first-name-basis/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Role Of","basics-of-faith/jesus-christ-basics-of-faith/role-of-jesus-christ-basics-of-faith-basics-of-faith/"]],
+    "date": [2011,10,23],
+    "passage": "John 10:7-15",
+    "passage_ref": [[["jhn",10,7],["jhn",10,15]]],
+    "quote": "John 10:15",
+    "quote_ref": [[["jhn",10,15]]],
+    "tags": [["God's care","gods-care"],["Jesus","jesus"],["rest","rest"],["shepherd","shepherd"]],
+    "title": "He Guards Me Well",
+    "url": "http://odb.org/2011/10/23/he-guards-me-well/"
   }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"]],
@@ -361,6 +483,7 @@
     "passage": "John 10:31-42",
     "passage_ref": [[["jhn",10,31],["jhn",10,42]]],
     "quote": "John 10:41",
+    "quote_ref": [[["jhn",10,41]]],
     "tags": [["christlikeness","christlikeness"],["Jesus Christ","jesus-christ"],["testimony","testimony"],["witnessing","witnessing"]],
     "title": "An Ordinary Guy",
     "url": "http://odb.org/2012/02/22/an-ordinary-guy/"
@@ -371,6 +494,7 @@
     "passage": "John 10:7-18",
     "passage_ref": [[["jhn",10,7],["jhn",10,18]]],
     "quote": "John 10:14",
+    "quote_ref": [[["jhn",10,14]]],
     "tags": [["anxiety","anxiety"],["change","change"],["example","example"],["fear","fear"],["Jesus","jesus"],["loss","loss"],["worry","worry"]],
     "title": "A New View Of Change",
     "url": "http://odb.org/2012/04/01/a-new-view-of-change/"
@@ -381,6 +505,7 @@
     "passage": "John 10:1-10",
     "passage_ref": [[["jhn",10,1],["jhn",10,10]]],
     "quote": "John 10:4",
+    "quote_ref": [[["jhn",10,4]]],
     "tags": [["christlikeness","christlikeness"],["God's character","gods-character"],["grace","grace"],["obedience","obedience"],["righteousness","righteousness"]],
     "title": "Tuning In",
     "url": "http://odb.org/2012/09/06/tuning-in/"
@@ -391,6 +516,7 @@
     "passage": "John 10:7-14",
     "passage_ref": [[["jhn",10,7],["jhn",10,14]]],
     "quote": "John 10:10",
+    "quote_ref": [[["jhn",10,10]]],
     "tags": [["christlikeness","christlikeness"],["eternal life","eternal-life"],["gift","gift"],["Jesus Christ","jesus-christ"],["salvation","salvation"]],
     "title": "I’m Bored",
     "url": "http://odb.org/2013/06/01/im-bored/"
@@ -403,6 +529,7 @@
     "passage": "John 11:14-27",
     "passage_ref": [[["jhn",11,14],["jhn",11,27]]],
     "quote": "1 John 5:12",
+    "quote_ref": [[["1jn",5,12]]],
     "tags": [],
     "title": "The Oldest Living Things",
     "url": "http://odb.org/1994/12/27/the-oldest-living-things/"
@@ -413,6 +540,7 @@
     "passage": "John 11:32-44",
     "passage_ref": [[["jhn",11,32],["jhn",11,44]]],
     "quote": "John 11:41",
+    "quote_ref": [[["jhn",11,41]]],
     "tags": [["grace","grace"],["gratitude","gratitude"],["joy","joy"],["suffering","suffering"],["thanksgiving","thanksgiving"],["trials","trials"]],
     "title": "Giving Thanks",
     "url": "http://odb.org/2013/02/26/giving-thanks/"
@@ -423,6 +551,7 @@
     "passage": "John 11:14-27",
     "passage_ref": [[["jhn",11,14],["jhn",11,27]]],
     "quote": "John 11:19",
+    "quote_ref": [[["jhn",11,19]]],
     "tags": [["comfort","comfort"],["compassion","compassion"],["death","death"],["God's presence","gods-presence"],["grief","grief"]],
     "title": "The Gift Of Presence",
     "url": "http://odb.org/2013/10/03/the-gift-of-presence/"
@@ -433,6 +562,7 @@
     "passage": "John 11:30-37",
     "passage_ref": [[["jhn",11,30],["jhn",11,37]]],
     "quote": "John 11:33,35",
+    "quote_ref": [[["jhn",11,33]],[["jhn",11,35]]],
     "tags": [["death","death"],["grief","grief"],["love for others","love-for-others"],["love of God","love-of-god"],["resurrection","resurrection"],["sorrow","sorrow"]],
     "title": "Two Men",
     "url": "http://odb.org/2014/01/19/two-men/"
@@ -445,9 +575,21 @@
     "passage": "John 12:1-11",
     "passage_ref": [[["jhn",12,1],["jhn",12,11]]],
     "quote": "John 12:2-3",
+    "quote_ref": [[["jhn",12,2],["jhn",12,3]]],
     "tags": [],
     "title": "Draining or Replenishing?",
     "url": "http://odb.org/1994/03/01/draining-or-replenishing/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,12,21],
+    "passage": "John 12:35-46",
+    "passage_ref": [[["jhn",12,35],["jhn",12,46]]],
+    "quote": "John 12:46",
+    "quote_ref": [[["jhn",12,46]]],
+    "tags": [["new birth","new-birth"],["salvation","salvation"],["Savior","savior"]],
+    "title": "Rejected Light",
+    "url": "http://odb.org/2011/12/21/rejected-light/"
   }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -455,6 +597,7 @@
     "passage": "John 12:1-8",
     "passage_ref": [[["jhn",12,1],["jhn",12,8]]],
     "quote": "John 12:3",
+    "quote_ref": [[["jhn",12,3]]],
     "tags": [["humility","humility"],["morality","morality"],["sin","sin-christian-life"],["worship","worship"]],
     "title": "Let Down Your Hair",
     "url": "http://odb.org/2012/02/25/let-down-your-hair/"
@@ -465,6 +608,7 @@
     "passage": "John 12:12-19; 19:14-16",
     "passage_ref": [[["jhn",12,12],["jhn",12,19]],[["jhn",19,14],["jhn",19,16]]],
     "quote": "John 12:15",
+    "quote_ref": [[["jhn",12,15]]],
     "tags": [["cross","cross"],["death","death"],["Jesus","jesus"],["kingdom","kingdom"],["praise to","praise-to"],["sacrifice","sacrifice"],["submission","submission"],["suffering","suffering"],["surrender","surrender"]],
     "title": "Fickle Followers",
     "url": "http://odb.org/2013/05/31/fickle-followers-2/"
@@ -477,9 +621,21 @@
     "passage": "John 13:3-17",
     "passage_ref": [[["jhn",13,3],["jhn",13,17]]],
     "quote": "1 Corinthians 10:31",
+    "quote_ref": [[["1co",10,31]]],
     "tags": [],
     "title": "Those Dirty Jobs",
     "url": "http://odb.org/1994/06/13/those-dirty-jobs/"
+  }, 
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Service","ministry-and-outreach/life-stories-ministry-and-outreach/service-life-stories-ministry-and-outreach-ministry-and-outreach/"]],
+    "date": [2011,10,7],
+    "passage": "John 13:31-35",
+    "passage_ref": [[["jhn",13,31],["jhn",13,35]]],
+    "quote": "John 13:35",
+    "quote_ref": [[["jhn",13,35]]],
+    "tags": [["love for others","love-for-others"],["service","service"]],
+    "title": "A No-Smiling Policy",
+    "url": "http://odb.org/2011/10/07/a-no-smiling-policy/"
   }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -487,6 +643,7 @@
     "passage": "John 13:36–14:4",
     "passage_ref": [[["jhn",13,36],["jhn",14,4]]],
     "quote": "John 14:3",
+    "quote_ref": [[["jhn",14,3]]],
     "tags": [["eternity","eternity"],["God's love","gods-love"],["heaven","heaven"],["Jesus Christ","jesus-christ"],["salvaion","salvaion"]],
     "title": "A Place For You",
     "url": "http://odb.org/2012/05/17/a-place-for-you/"
@@ -497,6 +654,7 @@
     "passage": "John 13:21-30",
     "passage_ref": [[["jhn",13,21],["jhn",13,30]]],
     "quote": "John 13:30",
+    "quote_ref": [[["jhn",13,30]]],
     "tags": [["cross","cross"],["death","death"],["God's faithfulness","gods-faithfulness"],["God's love","gods-love"],["grief","grief"],["Lord's supper","lords-supper"],["prayer","prayer"],["Savior","savior"]],
     "title": "“And It Was Night”",
     "url": "http://odb.org/2013/03/28/and-it-was-night/"
@@ -507,6 +665,7 @@
     "passage": "John 13:5-17",
     "passage_ref": [[["jhn",13,5],["jhn",13,17]]],
     "quote": "John 13:15",
+    "quote_ref": [[["jhn",13,15]]],
     "tags": [["christlikeness","christlikeness"],["example","example"],["humility","humility"],["love for God","love-for-god"],["love for others","love-for-others"],["pride","pride"],["teaching","teaching"]],
     "title": "Show And Tell",
     "url": "http://odb.org/2013/06/02/show-and-tell/"
@@ -517,6 +676,7 @@
     "passage": "John 13:31-35",
     "passage_ref": [[["jhn",13,31],["jhn",13,35]]],
     "quote": "John 13:34",
+    "quote_ref": [[["jhn",13,34]]],
     "tags": [["christlikeness","christlikeness"],["encouragement","encouragement"],["God's love","gods-love"],["kindness","kindness"],["love for others","love-for-others"],["praise","praise"],["Savior","savior"]],
     "title": "Overwhelming Concern",
     "url": "http://odb.org/2013/08/29/overwhelming-concern/"
@@ -529,6 +689,7 @@
     "passage": "John 14:1-12",
     "passage_ref": [[["jhn",14,1],["jhn",14,12]]],
     "quote": "John 14:9",
+    "quote_ref": [[["jhn",14,9]]],
     "tags": [],
     "title": "Meeting Jesus",
     "url": "http://odb.org/1994/05/01/meeting-jesus/"
@@ -539,6 +700,7 @@
     "passage": "John 14:15-26",
     "passage_ref": [[["jhn",14,15],["jhn",14,26]]],
     "quote": "Acts 1:8",
+    "quote_ref": [[["act",1,8]]],
     "tags": [],
     "title": "Power Failure",
     "url": "http://odb.org/1994/06/09/power-failure/"
@@ -549,9 +711,32 @@
     "passage": "John 14:25-31",
     "passage_ref": [[["jhn",14,25],["jhn",14,31]]],
     "quote": "John 14:27",
+    "quote_ref": [[["jhn",14,27]]],
     "tags": [],
     "title": "Where’s The Peace?",
     "url": "http://odb.org/1994/11/11/wheres-the-peace/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["Heaven","basics-of-faith/future-prophecy-basics-of-faith/heaven-future-prophecy-basics-of-faith-basics-of-faith/"]],
+    "date": [2011,8,2],
+    "passage": "John 14:1-7",
+    "passage_ref": [[["jhn",14,1],["jhn",14,7]]],
+    "quote": "John 14:3",
+    "quote_ref": [[["jhn",14,3]]],
+    "tags": [["anxiety","anxiety"],["assurance","assurance"],["death","death"],["heaven","heaven"],["trust","trust"]],
+    "title": "Awakened By A Close Friend",
+    "url": "http://odb.org/2011/08/02/awakened-by-a-close-friend/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
+    "date": [2011,11,5],
+    "passage": "John 14:19-27",
+    "passage_ref": [[["jhn",14,19],["jhn",14,27]]],
+    "quote": "John 14:27",
+    "quote_ref": [[["jhn",14,27]]],
+    "tags": [["comfort","comfort"],["crisis","crisis"],["fear","fear"],["Jesus Christ","jesus-christ"],["peace","peace"]],
+    "title": "Peace In Crisis",
+    "url": "http://odb.org/2011/11/05/peace-in-crisis/"
   }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"]],
@@ -559,6 +744,7 @@
     "passage": "John 14:25-31",
     "passage_ref": [[["jhn",14,25],["jhn",14,31]]],
     "quote": "John 14:27",
+    "quote_ref": [[["jhn",14,27]]],
     "tags": [["cross","cross"],["Jesus Christ","jesus-christ"],["peace","peace"],["Savior","savior"]],
     "title": "The Prince Of Peace",
     "url": "http://odb.org/2012/01/31/the-prince-of-peace/"
@@ -569,6 +755,7 @@
     "passage": "John 14:15-24",
     "passage_ref": [[["jhn",14,15],["jhn",14,24]]],
     "quote": "John 14:15",
+    "quote_ref": [[["jhn",14,15]]],
     "tags": [["discipleship","discipleship"],["joy","joy"],["obedience","obedience"],["submission","submission"],["surrender","surrender"]],
     "title": "Unhook The Chain",
     "url": "http://odb.org/2012/01/13/unhook-the-chain/"
@@ -579,6 +766,7 @@
     "passage": "John 14:1-6",
     "passage_ref": [[["jhn",14,1],["jhn",14,6]]],
     "quote": "John 14:3",
+    "quote_ref": [[["jhn",14,3]]],
     "tags": [["christian faith","christian-faith"],["comfort","comfort"],["eternity","eternity"],["failure","failure"],["leading","leading"],["Savior","savior"],["success","success"]],
     "title": "The Catcher",
     "url": "http://odb.org/2012/03/14/the-catcher/"
@@ -589,6 +777,7 @@
     "passage": "John 13:36–14:4",
     "passage_ref": [[["jhn",13,36],["jhn",14,4]]],
     "quote": "John 14:3",
+    "quote_ref": [[["jhn",14,3]]],
     "tags": [["eternity","eternity"],["God's love","gods-love"],["heaven","heaven"],["Jesus Christ","jesus-christ"],["salvaion","salvaion"]],
     "title": "A Place For You",
     "url": "http://odb.org/2012/05/17/a-place-for-you/"
@@ -599,6 +788,7 @@
     "passage": "John 14:1-11",
     "passage_ref": [[["jhn",14,1],["jhn",14,11]]],
     "quote": "John 14:6",
+    "quote_ref": [[["jhn",14,6]]],
     "tags": [["God the Father","god-the-father"],["heaven","heaven"],["Jesus Christ","jesus-christ"],["resurrection","resurrection"],["salvation","salvation"]],
     "title": "Truth In A Taxi",
     "url": "http://odb.org/2012/09/29/truth-in-a-taxi/"
@@ -609,6 +799,7 @@
     "passage": "John 14:15-27",
     "passage_ref": [[["jhn",14,15],["jhn",14,27]]],
     "quote": "1 Corinthians 3:16",
+    "quote_ref": [[["1co",3,16]]],
     "tags": [["comfort","comfort"],["courage","courage"],["God's presence","gods-presence"],["Holy Spirit","holy-spirit"],["peace","peace"],["trials","trials"]],
     "title": "Flying Solo",
     "url": "http://odb.org/2012/09/13/flying-solo/"
@@ -619,6 +810,7 @@
     "passage": "John 14:15-27",
     "passage_ref": [[["jhn",14,15],["jhn",14,27]]],
     "quote": "John 14:26",
+    "quote_ref": [[["jhn",14,26]]],
     "tags": [["cross","cross"],["empowerment","empowerment"],["God's guidance","gods-guidance"],["Holy Spirit","holy-spirit"],["Jesus Christ","jesus-christ"],["truth vs. error","truth-vs-error"]],
     "title": "Now I See",
     "url": "http://odb.org/2013/04/23/now-i-see/"
@@ -629,6 +821,7 @@
     "passage": "John 14:1-6",
     "passage_ref": [[["jhn",14,1],["jhn",14,6]]],
     "quote": "John 14:2",
+    "quote_ref": [[["jhn",14,2]]],
     "tags": [["comfort","comfort"],["eternal life","eternal-life"],["eternity","eternity"],["home","home"],["joy","joy"]],
     "title": "All The Comforts Of Home",
     "url": "http://odb.org/2013/04/17/all-the-comforts-of-home/"
@@ -639,6 +832,7 @@
     "passage": "John 14:1-11",
     "passage_ref": [[["jhn",14,1],["jhn",14,11]]],
     "quote": "John 14:2",
+    "quote_ref": [[["jhn",14,2]]],
     "tags": [["eternity","eternity"],["God the Father","god-the-father"],["heaven","heaven"],["Jesus","jesus"],["Jesus' birth","jesus-birth"]],
     "title": "Belonging",
     "url": "http://odb.org/2013/08/09/belonging/"
@@ -649,18 +843,31 @@
     "passage": "John 14:1-6",
     "passage_ref": [[["jhn",14,1],["jhn",14,6]]],
     "quote": "2 Peter 3:9",
+    "quote_ref": [[["2pe",3,9]]],
     "tags": [["Christ's return","christs-return"],["christmas","christmas"],["Jesus Christ","jesus-christ"],["Jesus' birth","jesus-birth"],["Messiah","messiah"],["patience","patience"],["sacrifice","sacrifice"]],
     "title": "God Waiting",
     "url": "http://odb.org/2013/12/01/god-waiting/"
   }
 ],
 "15": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,7,5],
+    "passage": "John 15:9-17",
+    "passage_ref": [[["jhn",15,9],["jhn",15,17]]],
+    "quote": "John 15:15-16",
+    "quote_ref": [[["jhn",15,15],["jhn",15,16]]],
+    "tags": [["christlikeness","christlikeness"],["faithfulness","faithfulness"],["father","father"],["fellowship with","fellowship-with"],["prayer","prayer"],["trust","trust"],["witnessing","witnessing"]],
+    "title": "He Calls Me Friend",
+    "url": "http://odb.org/2011/07/05/he-calls-me-friend/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,1,29],
     "passage": "John 15:9-17",
     "passage_ref": [[["jhn",15,9],["jhn",15,17]]],
     "quote": "John 15:15",
+    "quote_ref": [[["jhn",15,15]]],
     "tags": [["encouragement","encouragement"],["friendship","friendship"],["God's love","gods-love"],["Savior","savior"]],
     "title": "Genuine Friends",
     "url": "http://odb.org/2012/01/29/genuine-friends/"
@@ -671,6 +878,7 @@
     "passage": "John 15:1-13",
     "passage_ref": [[["jhn",15,1],["jhn",15,13]]],
     "quote": "John 15:13",
+    "quote_ref": [[["jhn",15,13]]],
     "tags": [["cost of","cost-of"],["cross","cross"],["eternity","eternity"],["God's forgiveness","gods-forgiveness"],["heaven","heaven"],["sacrifice","sacrifice"],["salvation","salvation"]],
     "title": "No Greater Love",
     "url": "http://odb.org/2012/04/06/no-greater-love-6/"
@@ -681,6 +889,7 @@
     "passage": "John 15:8-17",
     "passage_ref": [[["jhn",15,8],["jhn",15,17]]],
     "quote": "John 15:8",
+    "quote_ref": [[["jhn",15,8]]],
     "tags": [["assurance","assurance"],["eternity","eternity"],["faithfulness","faithfulness"],["legacy","legacy"],["salvation","salvation"],["testimony","testimony"]],
     "title": "Still Bearing Fruit",
     "url": "http://odb.org/2012/10/07/still-bearing-fruit/"
@@ -691,6 +900,7 @@
     "passage": "John 15:1-13",
     "passage_ref": [[["jhn",15,1],["jhn",15,13]]],
     "quote": "John 15:4",
+    "quote_ref": [[["jhn",15,4]]],
     "tags": [["choices","choices"],["decisions","decisions"],["sanctification","sanctification"],["self-control","self-control"],["self-sufficiency","self-sufficiency"],["wisdom","wisdom"]],
     "title": "More Than Information",
     "url": "http://odb.org/2013/06/05/more-than-information/"
@@ -701,6 +911,7 @@
     "passage": "John 15:9-17",
     "passage_ref": [[["jhn",15,9],["jhn",15,17]]],
     "quote": "John 15:13",
+    "quote_ref": [[["jhn",15,13]]],
     "tags": [["accountability","accountability"],["cross","cross"],["God's love","gods-love"],["love for others","love-for-others"],["Marriage","marriage-relationships"],["Savior","savior"]],
     "title": "True Love",
     "url": "http://odb.org/2014/02/14/true-love-2/"
@@ -713,6 +924,7 @@
     "passage": "John 16:7-15",
     "passage_ref": [[["jhn",16,7],["jhn",16,15]]],
     "quote": "John 16:7",
+    "quote_ref": [[["jhn",16,7]]],
     "tags": [],
     "title": "Ascension Day",
     "url": "http://odb.org/1994/05/12/ascension-day/"
@@ -723,6 +935,7 @@
     "passage": "John 16:7-15",
     "passage_ref": [[["jhn",16,7],["jhn",16,15]]],
     "quote": "John 14:26",
+    "quote_ref": [[["jhn",14,26]]],
     "tags": [["choices","choices"],["christlikeness","christlikeness"],["God's will","gods-will"],["Holy Spirit","holy-spirit"]],
     "title": "Are You Tuned In?",
     "url": "http://odb.org/2012/05/02/are-you-tuned-in/"
@@ -733,6 +946,7 @@
     "passage": "John 16:25-33",
     "passage_ref": [[["jhn",16,25],["jhn",16,33]]],
     "quote": "John 16:33",
+    "quote_ref": [[["jhn",16,33]]],
     "tags": [["comfort","comfort"],["God's presence","gods-presence"],["peace","peace"],["suffering","suffering"],["trials","trials"],["tribulation","tribulation"]],
     "title": "Troubled Times",
     "url": "http://odb.org/2012/07/23/troubled-times/"
@@ -743,6 +957,7 @@
     "passage": "John 16:25-33",
     "passage_ref": [[["jhn",16,25],["jhn",16,33]]],
     "quote": "John 16:33",
+    "quote_ref": [[["jhn",16,33]]],
     "tags": [["comfort","comfort"],["death","death"],["faith","faith"],["God's love","gods-love"],["God's presence","gods-presence"],["God's purpose","gods-purpose"],["grief","grief"],["suffering","suffering"],["trials","trials"],["tribulation","tribulation"]],
     "title": "Trouble",
     "url": "http://odb.org/2013/01/17/trouble-3/"
@@ -753,6 +968,7 @@
     "passage": "John 16:25-33",
     "passage_ref": [[["jhn",16,25],["jhn",16,33]]],
     "quote": "John 16:33",
+    "quote_ref": [[["jhn",16,33]]],
     "tags": [["God's power","gods-power"],["peace","peace"],["suffering","suffering"],["trials","trials"],["tribulation","tribulation"],["victory","victory"]],
     "title": "Flight Simulator",
     "url": "http://odb.org/2013/06/24/flight-simulator/"
@@ -765,6 +981,7 @@
     "passage": "John 17:20-26",
     "passage_ref": [[["jhn",17,20],["jhn",17,26]]],
     "quote": "Psalm 116:15",
+    "quote_ref": [[["psa",116,15]]],
     "tags": [["blessings","blessings"],["comfort","comfort"],["death","death"],["God's character","gods-character"],["God's love","gods-love"],["God's plan","gods-plan"],["God's will","gods-will"]],
     "title": "Mysterious Truth",
     "url": "http://odb.org/2013/02/08/mysterious-truth/"
@@ -777,6 +994,7 @@
     "passage": "John 19:28-37",
     "passage_ref": [[["jhn",19,28],["jhn",19,37]]],
     "quote": "John 19:30",
+    "quote_ref": [[["jhn",19,30]]],
     "tags": [["consequences","consequences"],["cross","cross"],["death","death"],["freedom","freedom"],["salvation","salvation"],["Savior","savior"],["sin","sin-christian-life"],["victory","victory"]],
     "title": "Shout Of Triumph",
     "url": "http://odb.org/2013/03/29/shout-of-triumph/"
@@ -787,6 +1005,7 @@
     "passage": "John 12:12-19; 19:14-16",
     "passage_ref": [[["jhn",12,12],["jhn",12,19]],[["jhn",19,14],["jhn",19,16]]],
     "quote": "John 12:15",
+    "quote_ref": [[["jhn",12,15]]],
     "tags": [["cross","cross"],["death","death"],["Jesus","jesus"],["kingdom","kingdom"],["praise to","praise-to"],["sacrifice","sacrifice"],["submission","submission"],["suffering","suffering"],["surrender","surrender"]],
     "title": "Fickle Followers",
     "url": "http://odb.org/2013/05/31/fickle-followers-2/"
@@ -797,6 +1016,7 @@
     "passage": "John 19:17-24",
     "passage_ref": [[["jhn",19,17],["jhn",19,24]]],
     "quote": "John 19:17-18",
+    "quote_ref": [[["jhn",19,17],["jhn",19,18]]],
     "tags": [["cross","cross"],["God's love","gods-love"],["gratitude","gratitude"],["salvation","salvation"],["sin","sin-christian-life"]],
     "title": "Jesus’ Love For All",
     "url": "http://odb.org/2014/03/02/jesus-love-for-all/"
@@ -809,6 +1029,7 @@
     "passage": "John 20:24-29",
     "passage_ref": [[["jhn",20,24],["jhn",20,29]]],
     "quote": "Proverbs 16:24",
+    "quote_ref": [[["pro",16,24]]],
     "tags": [],
     "title": "Insensitive Thomas",
     "url": "http://odb.org/1994/10/27/insensitive-thomas/"
@@ -819,6 +1040,7 @@
     "passage": "John 20:19-29",
     "passage_ref": [[["jhn",20,19],["jhn",20,29]]],
     "quote": "John 20:26",
+    "quote_ref": [[["jhn",20,26]]],
     "tags": [["God's presence","gods-presence"],["peace","peace"],["worship","worship"]],
     "title": "In This Very Room",
     "url": "http://odb.org/2012/03/04/in-this-very-room/"
@@ -829,6 +1051,7 @@
     "passage": "John 20:24-31",
     "passage_ref": [[["jhn",20,24],["jhn",20,31]]],
     "quote": "John 20:28",
+    "quote_ref": [[["jhn",20,28]]],
     "tags": [["doubt","doubt"],["faith","faith"],["God's care","gods-care"],["God's love","gods-love"],["prayer","prayer"]],
     "title": "Doubts And Faith",
     "url": "http://odb.org/2012/08/12/doubts-and-faith/"
@@ -841,6 +1064,7 @@
     "passage": "John 21:12-19",
     "passage_ref": [[["jhn",21,12],["jhn",21,19]]],
     "quote": "John 21:19",
+    "quote_ref": [[["jhn",21,19]]],
     "tags": [["aging","aging"],["christlikeness","christlikeness"],["Jesus Christ","jesus-christ"],["praise","praise"],["worship","worship"]],
     "title": "Glorifying God In Life And Death",
     "url": "http://odb.org/2012/02/09/glorifying-god-in-life-and-death/"
@@ -851,6 +1075,7 @@
     "passage": "John 21:15-19",
     "passage_ref": [[["jhn",21,15],["jhn",21,19]]],
     "quote": "Lamentations 5:21",
+    "quote_ref": [[["lam",5,21]]],
     "tags": [["forgiveness","forgiveness"],["Jesus","jesus"],["love for God","love-for-god"],["restoration","restoration"],["sin","sin-christian-life"]],
     "title": "Blunders To Wonders",
     "url": "http://odb.org/2012/07/20/blunders-to-wonders/"
@@ -861,6 +1086,7 @@
     "passage": "John 21:15-22",
     "passage_ref": [[["jhn",21,15],["jhn",21,22]]],
     "quote": "John 21:22",
+    "quote_ref": [[["jhn",21,22]]],
     "tags": [["christlikeness","christlikeness"],["God's plan","gods-plan"],["obedience","obedience"],["submission","submission"],["surrender","surrender"]],
     "title": "What Is That To You?",
     "url": "http://odb.org/2013/01/06/what-is-that-to-you/"

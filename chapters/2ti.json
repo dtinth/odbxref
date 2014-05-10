@@ -5,6 +5,7 @@
     "passage": "2 Timothy 1:8-14",
     "passage_ref": [[["2ti",1,8],["2ti",1,14]]],
     "quote": "2 Timothy 1:12",
+    "quote_ref": [[["2ti",1,12]]],
     "tags": [],
     "title": "What You Don’t Know",
     "url": "http://odb.org/1994/01/11/what-you-dont-know/"
@@ -17,6 +18,7 @@
     "passage": "2 Timothy 2:14-18",
     "passage_ref": [[["2ti",2,14],["2ti",2,18]]],
     "quote": "Psalm 119:140",
+    "quote_ref": [[["psa",119,140]]],
     "tags": [],
     "title": "Handle With Care",
     "url": "http://odb.org/1994/06/08/handle-with-care/"
@@ -27,6 +29,7 @@
     "passage": "2 Timothy 2:19-26",
     "passage_ref": [[["2ti",2,19],["2ti",2,26]]],
     "quote": "2 Timothy 2:23",
+    "quote_ref": [[["2ti",2,23]]],
     "tags": [["conflict","conflict"],["confrontation","confrontation"],["love for others","love-for-others"],["peacemakers","peacemakers"],["Relationships","relationships"],["unity","unity"]],
     "title": "A Sense Of Dread",
     "url": "http://odb.org/2012/05/27/a-sense-of-dread/"
@@ -37,6 +40,7 @@
     "passage": "2 Timothy 2:14-26",
     "passage_ref": [[["2ti",2,14],["2ti",2,26]]],
     "quote": "2 Timothy 2:15",
+    "quote_ref": [[["2ti",2,15]]],
     "tags": [["Bible","bible"],["God's character","gods-character"],["lies","lies"],["reading","reading"],["truth","truth"]],
     "title": "No More; No Less",
     "url": "http://odb.org/2012/10/16/no-more-no-less/"
@@ -47,6 +51,7 @@
     "passage": "2 Timothy 2:1-10",
     "passage_ref": [[["2ti",2,1],["2ti",2,10]]],
     "quote": "2 Timothy 2:8",
+    "quote_ref": [[["2ti",2,8]]],
     "tags": [["gratitude","gratitude"],["Jesus Christ","jesus-christ"],["persecution","persecution"],["sharing the gospel","sharing-the-gospel"],["surrender","surrender"],["testimony","testimony"],["witnessing","witnessing"]],
     "title": "Living Testament",
     "url": "http://odb.org/2013/03/13/living-testament/"
@@ -57,6 +62,7 @@
     "passage": "2 Timothy 2:19-26",
     "passage_ref": [[["2ti",2,19],["2ti",2,26]]],
     "quote": "2 Timothy 2:21",
+    "quote_ref": [[["2ti",2,21]]],
     "tags": [["choices","choices"],["decisions","decisions"],["future","future"],["giving","giving"],["good works","good-works"],["priorities","priorities"],["serving","serving"],["stress","stress"],["truth","truth"]],
     "title": "Always Preparing",
     "url": "http://odb.org/2013/05/06/always-preparing/"
@@ -67,6 +73,7 @@
     "passage": "2 Timothy 2:10-18",
     "passage_ref": [[["2ti",2,10],["2ti",2,18]]],
     "quote": "2 Timothy 2:15",
+    "quote_ref": [[["2ti",2,15]]],
     "tags": [["Bible","bible"],["christlikeness","christlikeness"],["kindness","kindness"],["study","study"],["truth","truth"]],
     "title": "Guarding Hearts",
     "url": "http://odb.org/2013/06/07/guarding-hearts/"
@@ -79,9 +86,21 @@
     "passage": "2 Timothy 3",
     "passage_ref": [[["2ti",3,null]]],
     "quote": "2 Timothy 3:14",
+    "quote_ref": [[["2ti",3,14]]],
     "tags": [],
     "title": "Why Keep the Faith?",
     "url": "http://odb.org/1994/07/23/why-keep-the-faith/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,11,4],
+    "passage": "2 Timothy 3:13-17",
+    "passage_ref": [[["2ti",3,13],["2ti",3,17]]],
+    "quote": "2 Timothy 3:16",
+    "quote_ref": [[["2ti",3,16]]],
+    "tags": [["Bible","bible"],["God's love","gods-love"],["knowledge","knowledge"],["reading","reading"],["study","study"],["wisdom","wisdom"]],
+    "title": "Lambs May Wade",
+    "url": "http://odb.org/2011/11/04/lambs-may-wade/"
   }, 
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -89,6 +108,7 @@
     "passage": "2 Timothy 3:14-17",
     "passage_ref": [[["2ti",3,14],["2ti",3,17]]],
     "quote": "Hebrews 4:12",
+    "quote_ref": [[["heb",4,12]]],
     "tags": [],
     "title": "Undiscovered Country",
     "url": "http://odb.org/2012/04/22/undiscovered-country/"
@@ -99,6 +119,7 @@
     "passage": "2 Timothy 3:14-17",
     "passage_ref": [[["2ti",3,14],["2ti",3,17]]],
     "quote": "2 Timothy 3:16-17",
+    "quote_ref": [[["2ti",3,16],["2ti",3,17]]],
     "tags": [["Bible","bible"],["christlikeness","christlikeness"],["spiritual growth","spiritual-growth"],["spiritual warfare","spiritual-warfare"]],
     "title": "Fully Equipped",
     "url": "http://odb.org/2013/01/07/fully-equipped/"
@@ -109,6 +130,7 @@
     "passage": "2 Timothy 3:14-17",
     "passage_ref": [[["2ti",3,14],["2ti",3,17]]],
     "quote": "Mark 10:45",
+    "quote_ref": [[["mrk",10,45]]],
     "tags": [["children","children"],["christian faith","christian-faith"],["God's wisdom","gods-wisdom"],["good works","good-works"],["parenting","parenting"],["service","service"]],
     "title": "Childhood Beginnings",
     "url": "http://odb.org/2013/08/07/childhood-beginnings/"
@@ -121,6 +143,7 @@
     "passage": "2 Timothy 4:9-22",
     "passage_ref": [[["2ti",4,9],["2ti",4,22]]],
     "quote": "Proverbs 17:17",
+    "quote_ref": [[["pro",17,17]]],
     "tags": [],
     "title": "Friends",
     "url": "http://odb.org/1994/03/30/friends/"
@@ -131,6 +154,7 @@
     "passage": "2 Timothy 4:1-13",
     "passage_ref": [[["2ti",4,1],["2ti",4,13]]],
     "quote": "2 Timothy 4:13",
+    "quote_ref": [[["2ti",4,13]]],
     "tags": [],
     "title": "Book Friends",
     "url": "http://odb.org/1994/03/29/book-friends/"
@@ -141,9 +165,32 @@
     "passage": "2 Timothy 4:9-22",
     "passage_ref": [[["2ti",4,9],["2ti",4,22]]],
     "quote": "2 Timothy 4:16-17",
+    "quote_ref": [[["2ti",4,16],["2ti",4,17]]],
     "tags": [],
     "title": "The Lord and You",
     "url": "http://odb.org/1994/07/16/the-lord-and-you/"
+  }, 
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christ's Return","basics-of-faith/future-prophecy-basics-of-faith/christs-return-future-prophecy-basics-of-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2011,8,23],
+    "passage": "2 Timothy 4:1-8",
+    "passage_ref": [[["2ti",4,1],["2ti",4,8]]],
+    "quote": "Revelation 22:20",
+    "quote_ref": [[["rev",22,20]]],
+    "tags": [["anticipation","anticipation"],["desire","desire"],["God's love","gods-love"],["heaven","heaven"],["priorities","priorities"]],
+    "title": "Joyful Reunion",
+    "url": "http://odb.org/2011/08/23/joyful-reunion/"
+  }, 
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Service","basics-of-faith/church-basics-of-faith/service-church-basics-of-faith/"],["Sharing The Gospel","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/"]],
+    "date": [2011,9,4],
+    "passage": "2 Timothy 4:9-18",
+    "passage_ref": [[["2ti",4,9],["2ti",4,18]]],
+    "quote": "2 Timothy 4:10",
+    "quote_ref": [[["2ti",4,10]]],
+    "tags": [["celebration","celebration"],["daily living","daily-living"],["evangelism","evangelism"]],
+    "title": "Ant World",
+    "url": "http://odb.org/2011/09/04/ant-world/"
   }
 ]
 }

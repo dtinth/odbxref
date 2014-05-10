@@ -5,9 +5,36 @@
     "passage": "Numbers 9:15-23",
     "passage_ref": [[["num",9,15],["num",9,23]]],
     "quote": "Psalm 46:10",
+    "quote_ref": [[["psa",46,10]]],
     "tags": [],
     "title": "To Work Or To Wait?",
     "url": "http://odb.org/1994/10/17/to-work-or-to-wait/"
+  }
+],
+"13": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,7,10],
+    "passage": "Numbers 13:25–14:9",
+    "passage_ref": [[["num",13,25],["num",14,9]]],
+    "quote": "Numbers 14:9",
+    "quote_ref": [[["num",14,9]]],
+    "tags": [["blessings","blessings"],["faithfulness","faithfulness"],["God's care","gods-care"],["presence","presence"],["protection","protection"],["suffering","suffering"],["trials","trials"]],
+    "title": "Trouble Ahead",
+    "url": "http://odb.org/2011/07/10/trouble-ahead/"
+  }
+],
+"14": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,7,10],
+    "passage": "Numbers 13:25–14:9",
+    "passage_ref": [[["num",13,25],["num",14,9]]],
+    "quote": "Numbers 14:9",
+    "quote_ref": [[["num",14,9]]],
+    "tags": [["blessings","blessings"],["faithfulness","faithfulness"],["God's care","gods-care"],["presence","presence"],["protection","protection"],["suffering","suffering"],["trials","trials"]],
+    "title": "Trouble Ahead",
+    "url": "http://odb.org/2011/07/10/trouble-ahead/"
   }
 ],
 "22": [
@@ -17,6 +44,7 @@
     "passage": "Numbers 22:10-34",
     "passage_ref": [[["num",22,10],["num",22,34]]],
     "quote": "Numbers 22:31",
+    "quote_ref": [[["num",22,31]]],
     "tags": [["attitude","attitude"],["God's care","gods-care"],["God's plan","gods-plan"],["God's will","gods-will"],["prayer","prayer"],["protection","protection"]],
     "title": "Unstoppable",
     "url": "http://odb.org/2013/01/30/unstoppable/"
