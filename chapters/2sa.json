@@ -25,6 +25,17 @@
   }
 ],
 "12": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,10,30],
+    "passage": "2 Samuel 12:1-14",
+    "passage_ref": [[["2sa",12,1],["2sa",12,14]]],
+    "quote": "2 Samuel 12:10",
+    "quote_ref": [[["2sa",12,10]]],
+    "tags": [["attributes","attributes"],["forgiveness from","forgiveness-from"],["grace","grace"],["mercy","mercy"],["sin","sin-christian-life"]],
+    "title": "Lingering Damage",
+    "url": "http://odb.org/2010/10/30/lingering-damage/"
+  }, 
   { "author": ["Randy Kilgore","randykilgore"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
     "date": [2011,4,21],

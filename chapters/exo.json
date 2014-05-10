@@ -23,6 +23,17 @@
   }
 ],
 "4": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,11,29],
+    "passage": "Exodus 4:1-5",
+    "passage_ref": [[["exo",4,1],["exo",4,5]]],
+    "quote": "Exodus 4:2",
+    "quote_ref": [[["exo",4,2]]],
+    "tags": [["anxiety","anxiety"],["future","future"],["guidance","guidance"],["leading","leading"],["service","service"]],
+    "title": "What Is In Your Hand?",
+    "url": "http://odb.org/2010/11/29/what-is-in-your-hand/"
+  }, 
   { "author": ["Albert Lee","albertlee"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Growth","relationships/relating-to-god-relationships/growth-relating-to-god-relationships-relationships/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Obedience","relationships/relating-to-god-relationships/obedience-relating-to-god-relationships-relationships/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"]],
     "date": [2011,9,27],
@@ -84,6 +95,17 @@
   }
 ],
 "8": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
+    "date": [2010,8,8],
+    "passage": "Exodus 8:16-19",
+    "passage_ref": [[["exo",8,16],["exo",8,19]]],
+    "quote": "Hebrews 3:8",
+    "quote_ref": [[["heb",3,8]]],
+    "tags": [["confession","confession"],["obedience","obedience"],["repentance","repentance"],["sin","sin-christian-life"],["submission","submission"]],
+    "title": "A Gnat Lesson",
+    "url": "http://odb.org/2010/08/08/a-gnat-lesson/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2014,3,26],
@@ -287,6 +309,17 @@
     "title": "Commandment 3—Respect God’s Name",
     "url": "http://odb.org/1994/09/13/commandment-3respect-gods-name/"
   }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relationships","relationships/"]],
+    "date": [2010,7,7],
+    "passage": "Exodus 20:1-17",
+    "passage_ref": [[["exo",20,1],["exo",20,17]]],
+    "quote": "Exodus 20:17",
+    "quote_ref": [[["exo",20,17]]],
+    "tags": [["blessings from","blessings-from"],["contentment","contentment"],["envy","envy"],["gratitude","gratitude"]],
+    "title": "Beware Of What You Want",
+    "url": "http://odb.org/2010/07/07/beware-of-what-you-want/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relationships","relationships/"]],
     "date": [2011,11,29],
@@ -332,6 +365,19 @@
     "tags": [],
     "title": "Little By Little!",
     "url": "http://odb.org/1994/09/22/little-by-little-2/"
+  }
+],
+"25": [
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Holy Spirit","basics-of-faith/holy-spirit-basics-of-faith/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Ministry","basics-of-faith/holy-spirit-basics-of-faith/ministry-holy-spirit-basics-of-faith/"],["Presence","relationships/relating-to-god-relationships/presence-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
+    "date": [2010,5,10],
+    "passage": "Exodus 25:1-9",
+    "passage_ref": [[["exo",25,1],["exo",25,9]]],
+    "quote": "1 Corinthians 3:16",
+    "quote_ref": [[["1co",3,16]]],
+    "tags": [["love for","love-for"],["ministry","ministry"],["presence","presence"]],
+    "title": "A Little Piece Of Heaven",
+    "url": "http://odb.org/2010/05/10/a-little-piece-of-heaven/"
   }
 ],
 "26": [

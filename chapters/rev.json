@@ -104,6 +104,17 @@
   }
 ],
 "5": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Deity","basics-of-faith/jesus-christ-basics-of-faith/deity-jesus-christ-basics-of-faith-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Jesus Christ","basics-of-faith/worship-basics-of-faith/jesus-christ-worship-basics-of-faith-basics-of-faith/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"],["Role Of","basics-of-faith/jesus-christ-basics-of-faith/role-of-jesus-christ-basics-of-faith-basics-of-faith/"],["Worship","basics-of-faith/worship-basics-of-faith/"]],
+    "date": [2010,3,1],
+    "passage": "Revelation 5:8-14",
+    "passage_ref": [[["rev",5,8],["rev",5,14]]],
+    "quote": "Revelation 5:12",
+    "quote_ref": [[["rev",5,12]]],
+    "tags": [["deity","deity"],["Jesus Christ","jesus-christ"],["life example","life-example"],["role of","role-of"]],
+    "title": "The Fairest",
+    "url": "http://odb.org/2010/03/01/the-fairest/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,3,5],
@@ -140,7 +151,31 @@
     "url": "http://odb.org/2012/05/28/the-gathering/"
   }
 ],
+"15": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Creator","basics-of-faith/god-basics-of-faith/creator-god-basics-of-faith-basics-of-faith/"],["Expressions Of","christian-life/worship-christian-life/expressions-of-worship-christian-life-christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["God","basics-of-faith/worship-basics-of-faith/god-worship-basics-of-faith/"],["Worship","basics-of-faith/worship-basics-of-faith/"],["Worship","christian-life/worship-christian-life/"]],
+    "date": [2010,1,8],
+    "passage": "Revelation 15",
+    "passage_ref": [[["rev",15,null]]],
+    "quote": "Revelation 15:4",
+    "quote_ref": [[["rev",15,4]]],
+    "tags": [["creator","creator"],["expressions of","expressions-of"],["God","god"]],
+    "title": "The Final Opening Ceremony",
+    "url": "http://odb.org/2010/01/08/the-final-opening-ceremony/"
+  }
+],
 "19": [
+  { "author": ["C. P. Hia","cphia"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Grace","basics-of-faith/salvation-basics-of-faith/grace-salvation-basics-of-faith-basics-of-faith/"],["Heaven","basics-of-faith/future-prophecy-basics-of-faith/heaven-future-prophecy-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
+    "date": [2010,2,13],
+    "passage": "Revelation 19:1-9",
+    "passage_ref": [[["rev",19,1],["rev",19,9]]],
+    "quote": "Revelation 19:9",
+    "quote_ref": [[["rev",19,9]]],
+    "tags": [["grace","grace"],["heaven","heaven"]],
+    "title": "Reunion Dinner",
+    "url": "http://odb.org/2010/02/13/reunion-dinner/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,6,11],
@@ -199,6 +234,28 @@
     "tags": [],
     "title": "The Other Side",
     "url": "http://odb.org/1994/10/22/the-other-side-2/"
+  }, 
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Death","christian-life/personal-crisis-christian-life/death-personal-crisis-christian-life-christian-life/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Heaven","basics-of-faith/future-prophecy-basics-of-faith/heaven-future-prophecy-basics-of-faith-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
+    "date": [2010,3,25],
+    "passage": "Revelation 21:1-4",
+    "passage_ref": [[["rev",21,1],["rev",21,4]]],
+    "quote": "Revelation 21:4",
+    "quote_ref": [[["rev",21,4]]],
+    "tags": [["death","death"],["heaven","heaven"]],
+    "title": "Far Better",
+    "url": "http://odb.org/2010/03/25/far-better/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,8,10],
+    "passage": "Revelation 21:1-5",
+    "passage_ref": [[["rev",21,1],["rev",21,5]]],
+    "quote": "Revelation 21:4",
+    "quote_ref": [[["rev",21,4]]],
+    "tags": [["eternity","eternity"],["heaven","heaven"],["salvation","salvation"],["suffering","suffering"]],
+    "title": "Now Is Not Forever",
+    "url": "http://odb.org/2010/08/10/now-is-not-forever/"
   }, 
   { "author": ["Marvin Williams","marvinwilliams"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],

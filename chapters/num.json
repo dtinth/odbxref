@@ -1,4 +1,17 @@
-{ "9": [
+{ "8": [
+  { "author": ["C. P. Hia","cphia"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,7,22],
+    "passage": "Numbers 8:23-26",
+    "passage_ref": [[["num",8,23],["num",8,26]]],
+    "quote": "Numbers 8:26",
+    "quote_ref": [[["num",8,26]]],
+    "tags": [["aging","aging"],["goals","goals"],["power for living","power-for-living"],["serving","serving"],["strength","strength"]],
+    "title": "Don’t Just Retire",
+    "url": "http://odb.org/2010/07/22/don%e2%80%99t-just-retire/"
+  }
+],
+"9": [
   { "author": ["Henry G. Bosch","henrygbosch"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1994,10,17],
@@ -9,6 +22,17 @@
     "tags": [],
     "title": "To Work Or To Wait?",
     "url": "http://odb.org/1994/10/17/to-work-or-to-wait/"
+  }, 
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Commitment","ministry-and-outreach/serving-ministry-and-outreach/commitment-serving-ministry-and-outreach-ministry-and-outreach/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"],["Talents","ministry-and-outreach/serving-ministry-and-outreach/talents-serving-ministry-and-outreach-ministry-and-outreach/"]],
+    "date": [2010,2,20],
+    "passage": "Numbers 9:19-23",
+    "passage_ref": [[["num",9,19],["num",9,23]]],
+    "quote": "Psalm 40:1",
+    "quote_ref": [[["psa",40,1]]],
+    "tags": [["commitment","commitment"],["guidance","guidance"],["leading","leading"],["talents","talents"]],
+    "title": "Parked For Now",
+    "url": "http://odb.org/2010/02/20/parked-for-now/"
   }
 ],
 "13": [

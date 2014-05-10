@@ -1,4 +1,17 @@
-{ "14": [
+{ "12": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Forgiveness Of","basics-of-faith/sin-basics-of-faith/forgiveness-of-sin-basics-of-faith-basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2010,1,26],
+    "passage": "Ezekiel 12:21-28",
+    "passage_ref": [[["ezk",12,21],["ezk",12,28]]],
+    "quote": "Joel 2:13",
+    "quote_ref": [[["jol",2,13]]],
+    "tags": [["consequences","consequences"],["forgiveness of","forgiveness-of"],["repentance","repentance"]],
+    "title": "Delayed Consequences",
+    "url": "http://odb.org/2010/01/26/delayed-consequences/"
+  }
+],
+"14": [
   { "author": ["Joanie Yoder","joanieyoder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1994,11,29],

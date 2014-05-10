@@ -12,6 +12,17 @@
   }
 ],
 "2": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Commitment","ministry-and-outreach/serving-ministry-and-outreach/commitment-serving-ministry-and-outreach-ministry-and-outreach/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
+    "date": [2010,5,8],
+    "passage": "Ruth 2:1-12",
+    "passage_ref": [[["rut",2,1],["rut",2,12]]],
+    "quote": "Ruth 2:12",
+    "quote_ref": [[["rut",2,12]]],
+    "tags": [["commitment","commitment"],["His love","his-love"],["love for","love-for"]],
+    "title": "Safety Zone",
+    "url": "http://odb.org/2010/05/08/safety-zone/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2011,6,21],

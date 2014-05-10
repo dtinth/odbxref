@@ -62,6 +62,17 @@
   }
 ],
 "6": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,8,18],
+    "passage": "Daniel 6:1-10",
+    "passage_ref": [[["dan",6,1],["dan",6,10]]],
+    "quote": "Psalm 143:8",
+    "quote_ref": [[["psa",143,8]]],
+    "tags": [["attributes","attributes"],["creator","creator"],["love for","love-for"],["quiet time","quiet-time"],["worship","worship"]],
+    "title": "Ruts And Routines",
+    "url": "http://odb.org/2010/08/18/ruts-and-routines/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Worship","basics-of-faith/church-basics-of-faith/worship-church-basics-of-faith/"]],
     "date": [2011,10,8],

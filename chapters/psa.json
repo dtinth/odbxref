@@ -83,6 +83,28 @@
 ],
 "8": [
   { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,6,1],
+    "passage": "Psalm 8",
+    "passage_ref": [[["psa",8,null]]],
+    "quote": "Psalm 8:4",
+    "quote_ref": [[["psa",8,4]]],
+    "tags": [["christian faith","christian-faith"],["fellowship with","fellowship-with"],["growth","growth"],["guidance","guidance"],["presence","presence"],["sanctification","sanctification"]],
+    "title": "David’s Questions",
+    "url": "http://odb.org/2010/06/01/david%e2%80%99s-questions/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,11,21],
+    "passage": "Psalm 8:1-2",
+    "passage_ref": [[["psa",8,1],["psa",8,2]]],
+    "quote": "Psalm 8:2",
+    "quote_ref": [[["psa",8,2]]],
+    "tags": [["children","children"],["christian faith","christian-faith"],["parenting","parenting"],["praise","praise"]],
+    "title": "Out Of The Mouth Of Babes",
+    "url": "http://odb.org/2010/11/21/out-of-the-mouth-of-babes/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2013,2,22],
     "passage": "Psalm 8",
@@ -259,6 +281,17 @@
     "title": "No Contest",
     "url": "http://odb.org/1994/05/10/no-contest/"
   }, 
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2010,10,5],
+    "passage": "Psalm 18:6-13",
+    "passage_ref": [[["psa",18,6],["psa",18,13]]],
+    "quote": "Psalm 18:6",
+    "quote_ref": [[["psa",18,6]]],
+    "tags": [["care","care"],["hope","hope"],["protection","protection"],["trials","trials"]],
+    "title": "The Right Help",
+    "url": "http://odb.org/2010/10/05/the-right-help/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
     "date": [2012,1,27],
@@ -272,6 +305,28 @@
   }
 ],
 "19": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Creator","basics-of-faith/god-basics-of-faith/creator-god-basics-of-faith-basics-of-faith/"],["Existence","basics-of-faith/god-basics-of-faith/existence-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Power","basics-of-faith/god-basics-of-faith/power-god-basics-of-faith-basics-of-faith/"],["Strength","basics-of-faith/god-basics-of-faith/strength-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2010,1,6],
+    "passage": "Psalm 19:1-7",
+    "passage_ref": [[["psa",19,1],["psa",19,7]]],
+    "quote": "Jeremiah 33:25-26",
+    "quote_ref": [[["jer",33,25],["jer",33,26]]],
+    "tags": [["attributes","attributes"],["creator","creator"],["existence","existence"],["power","power"],["strength","strength"]],
+    "title": "Ordinances Of Heaven",
+    "url": "http://odb.org/2010/01/06/ordinances-of-heaven/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,10,12],
+    "passage": "Psalm 19:1-6",
+    "passage_ref": [[["psa",19,1],["psa",19,6]]],
+    "quote": "Psalm 19:1",
+    "quote_ref": [[["psa",19,1]]],
+    "tags": [["attributes","attributes"],["creator","creator"],["God's love","gods-love"],["God's majesty","gods-majesty"]],
+    "title": "Why Is There Color?",
+    "url": "http://odb.org/2010/10/12/why-is-there-color/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,3,6],
@@ -419,6 +474,28 @@
     "title": "The Peace-Of-Mind Game",
     "url": "http://odb.org/1994/12/29/the-peace-of-mind-game/"
   }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Devotions","relationships/relating-to-god-relationships/devotions-relating-to-god-relationships-relationships/"],["Fellowship With","relationships/relating-to-god-relationships/fellowship-with-relating-to-god-relationships-relationships/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Quiet Time","relationships/relating-to-god-relationships/quiet-time-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2010,1,28],
+    "passage": "Psalm 23",
+    "passage_ref": [[["psa",23,null]]],
+    "quote": "Psalm 23:2",
+    "quote_ref": [[["psa",23,2]]],
+    "tags": [["devotions","devotions"],["fellowship with","fellowship-with"],["prayer","prayer"],["quiet time","quiet-time"]],
+    "title": "Quiet Time With God",
+    "url": "http://odb.org/2010/01/28/quiet-time-with-god/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,7,19],
+    "passage": "Psalm 23",
+    "passage_ref": [[["psa",23,null]]],
+    "quote": "Psalm 71:5",
+    "quote_ref": [[["psa",71,5]]],
+    "tags": [["Bible","bible"],["creator","creator"],["fear","fear"],["hope","hope"],["power","power"]],
+    "title": "Hope",
+    "url": "http://odb.org/2010/07/19/hope/"
+  }, 
   { "author": ["Albert Lee","albertlee"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,10,15],
@@ -478,6 +555,17 @@
   }
 ],
 "25": [
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Fellowship With","relationships/relating-to-god-relationships/fellowship-with-relating-to-god-relationships-relationships/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Presence","relationships/relating-to-god-relationships/presence-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2010,1,2],
+    "passage": "Psalm 25:4-10",
+    "passage_ref": [[["psa",25,4],["psa",25,10]]],
+    "quote": "Genesis 28:15",
+    "quote_ref": [[["gen",28,15]]],
+    "tags": [["fellowship with","fellowship-with"],["guidance","guidance"],["leading","leading"],["presence","presence"]],
+    "title": "Always With You",
+    "url": "http://odb.org/2010/01/02/always-with-you/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Uncategorized","uncategorized/"]],
     "date": [2013,9,9],
@@ -515,6 +603,17 @@
   }
 ],
 "27": [
+  { "author": ["Philip Yancey","philipyancey"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,11,26],
+    "passage": "Psalm 27",
+    "passage_ref": [[["psa",27,null]]],
+    "quote": "Psalm 27:1",
+    "quote_ref": [[["psa",27,1]]],
+    "tags": [["expressions of","expressions-of"],["fellowship","fellowship"],["praise","praise"],["presence","presence"],["worship","worship"]],
+    "title": "Advanced School",
+    "url": "http://odb.org/2010/11/26/advanced-school/"
+  }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,3,24],
@@ -562,6 +661,19 @@
     "url": "http://odb.org/2014/04/11/isnt-god-powerful/"
   }
 ],
+"30": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,11,3],
+    "passage": "Psalm 30:6-12",
+    "passage_ref": [[["psa",30,6],["psa",30,12]]],
+    "quote": "Psalm 30:6",
+    "quote_ref": [[["psa",30,6]]],
+    "tags": [["adversity","adversity"],["gratitude","gratitude"],["self-sufficiency","self-sufficiency"],["thankfulness","thankfulness"],["trials","trials"]],
+    "title": "It Can Never Happen To Me",
+    "url": "http://odb.org/2010/11/03/it-can-never-happen-to-me/"
+  }
+],
 "31": [
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -573,6 +685,17 @@
     "tags": [],
     "title": "Learning To Trust",
     "url": "http://odb.org/1994/07/29/learning-to-trust/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Death","christian-life/personal-crisis-christian-life/death-personal-crisis-christian-life-christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
+    "date": [2010,5,28],
+    "passage": "Psalm 31:1-16",
+    "passage_ref": [[["psa",31,1],["psa",31,16]]],
+    "quote": "Psalm 31:14-15",
+    "quote_ref": [[["psa",31,14],["psa",31,15]]],
+    "tags": [["belief","belief"],["death","death"],["sovereignty","sovereignty"],["trust","trust"]],
+    "title": "Our Times— His Hands",
+    "url": "http://odb.org/2010/05/28/our-times-his-hands/"
   }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
@@ -723,6 +846,17 @@
     "title": "Is He Safe?",
     "url": "http://odb.org/1994/02/17/is-he-safe/"
   }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Presence","relationships/relating-to-god-relationships/presence-relating-to-god-relationships-relationships/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2010,5,6],
+    "passage": "Psalm 34:4-18",
+    "passage_ref": [[["psa",34,4],["psa",34,18]]],
+    "quote": "Psalm 34:6",
+    "quote_ref": [[["psa",34,6]]],
+    "tags": [["care","care"],["faithfulness","faithfulness"],["prayer","prayer"],["presence","presence"],["protection from","protection-from"]],
+    "title": "God Has Time For You",
+    "url": "http://odb.org/2010/05/06/god-has-time-for-you/"
+  }, 
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,4,5],
@@ -792,6 +926,17 @@
     "tags": [],
     "title": "The Lord Will Provide",
     "url": "http://odb.org/1994/07/12/the-lord-will-provide/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,12,10],
+    "passage": "Psalm 37:30-40",
+    "passage_ref": [[["psa",37,30],["psa",37,40]]],
+    "quote": "Psalm 37:37-38",
+    "quote_ref": [[["psa",37,37],["psa",37,38]]],
+    "tags": [["His love","his-love"],["obedience","obedience"],["sin","sin-christian-life"],["wisdom","wisdom"]],
+    "title": "Tough And Tender",
+    "url": "http://odb.org/2010/12/10/tough-and-tender/"
   }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -955,6 +1100,28 @@
   }
 ],
 "42": [
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
+    "date": [2010,6,27],
+    "passage": "Psalm 42",
+    "passage_ref": [[["psa",42,null]]],
+    "quote": "Psalm 42:1",
+    "quote_ref": [[["psa",42,1]]],
+    "tags": [["christlikeness","christlikeness"],["fellowship with","fellowship-with"],["presence","presence"]],
+    "title": "Really Thirsty",
+    "url": "http://odb.org/2010/06/27/really-thirsty/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,12,14],
+    "passage": "Psalm 42",
+    "passage_ref": [[["psa",42,null]]],
+    "quote": "Psalm 71:14",
+    "quote_ref": [[["psa",71,14]]],
+    "tags": [["blessings","blessings"],["gratitude","gratitude"],["thankfulness","thankfulness"]],
+    "title": "Where’s Johnny’s Cap?",
+    "url": "http://odb.org/2010/12/14/where%e2%80%99s-johnny%e2%80%99s-cap/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2011,11,25],
@@ -979,6 +1146,39 @@
   }
 ],
 "46": [
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Christian Life","christian-life/"],["Father","relationships/relating-to-god-relationships/father-relating-to-god-relationships/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2010,3,17],
+    "passage": "Psalm 46",
+    "passage_ref": [[["psa",46,null]]],
+    "quote": "Psalm 9:9",
+    "quote_ref": [[["psa",9,9]]],
+    "tags": [["blessings from","blessings-from"],["care","care"],["father","father"],["protection from","protection-from"],["tests","tests"],["trials","trials"]],
+    "title": "A Good God",
+    "url": "http://odb.org/2010/03/17/a-good-god/"
+  }, 
+  { "author": ["M.R. De Haan","mrdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Death","christian-life/personal-crisis-christian-life/death-personal-crisis-christian-life-christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Fear","christian-life/emotions-christian-life/fear-emotions-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
+    "date": [2010,4,9],
+    "passage": "Psalm 46",
+    "passage_ref": [[["psa",46,null]]],
+    "quote": "Deuteronomy 33:27",
+    "quote_ref": [[["deu",33,27]]],
+    "tags": [["belief","belief"],["death","death"],["fear","fear"],["trust","trust"]],
+    "title": "The Fear Of Falling",
+    "url": "http://odb.org/2010/04/09/the-fear-of-falling-2/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,9,2],
+    "passage": "Psalm 46",
+    "passage_ref": [[["psa",46,null]]],
+    "quote": "Psalm 46:10",
+    "quote_ref": [[["psa",46,10]]],
+    "tags": [["burdens","burdens"],["fellowship with","fellowship-with"],["peace","peace"],["quiet time","quiet-time"]],
+    "title": "Silence, Please!",
+    "url": "http://odb.org/2010/09/02/silence-please/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,2,13],
@@ -1060,6 +1260,17 @@
     "title": "Honest Evangelism",
     "url": "http://odb.org/1994/01/02/honest-evangelism/"
   }, 
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,6,4],
+    "passage": "Psalm 51:1-10",
+    "passage_ref": [[["psa",51,1],["psa",51,10]]],
+    "quote": "1 Samuel 16:7",
+    "quote_ref": [[["1sa",16,7]]],
+    "tags": [["confession","confession"],["honesty","honesty"],["mercy","mercy"],["repentance","repentance"]],
+    "title": "Plausible Deniability",
+    "url": "http://odb.org/2010/06/04/plausible-deniability/"
+  }, 
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2011,5,12],
@@ -1105,6 +1316,17 @@
     "tags": [],
     "title": "Off-Loading Our Cares",
     "url": "http://odb.org/1994/01/25/off-loading-our-cares/"
+  }, 
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,9,5],
+    "passage": "Psalm 55:16-23",
+    "passage_ref": [[["psa",55,16],["psa",55,23]]],
+    "quote": "Psalm 55:17",
+    "quote_ref": [[["psa",55,17]]],
+    "tags": [["comfort","comfort"],["discouragement","discouragement"],["fellowship","fellowship"],["prayer","prayer"],["presence","presence"]],
+    "title": "Always There",
+    "url": "http://odb.org/2010/09/05/always-there/"
   }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -1214,6 +1436,19 @@
     "url": "http://odb.org/1994/12/21/direct-connection/"
   }
 ],
+"62": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Fellowship With","relationships/relating-to-god-relationships/fellowship-with-relating-to-god-relationships-relationships/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Role Of","basics-of-faith/jesus-christ-basics-of-faith/role-of-jesus-christ-basics-of-faith-basics-of-faith/"]],
+    "date": [2010,2,18],
+    "passage": "Psalm 62",
+    "passage_ref": [[["psa",62,null]]],
+    "quote": "Psalm 62:8",
+    "quote_ref": [[["psa",62,8]]],
+    "tags": [["fellowship with","fellowship-with"],["prayer","prayer"],["role of","role-of"]],
+    "title": "Tell It All",
+    "url": "http://odb.org/2010/02/18/tell-it-all/"
+  }
+],
 "63": [
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -1237,6 +1472,17 @@
     "title": "Preparing For Heaven",
     "url": "http://odb.org/1994/12/04/preparing-for-heaven/"
   }, 
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,8,4],
+    "passage": "Psalm 63",
+    "passage_ref": [[["psa",63,null]]],
+    "quote": "Psalm 63:1",
+    "quote_ref": [[["psa",63,1]]],
+    "tags": [["creator","creator"],["fellowship with","fellowship-with"],["presence","presence"],["science","science"]],
+    "title": "Out Of Orbit",
+    "url": "http://odb.org/2010/08/04/out-of-orbit/"
+  }, 
   { "author": ["C. P. Hia","cphia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2011,1,1],
@@ -1250,6 +1496,17 @@
   }
 ],
 "66": [
+  { "author": ["Henry G. Bosch","henrygbosch"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Peace","christian-life/attitudes-christian-life/peace-attitudes-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Role Of","basics-of-faith/jesus-christ-basics-of-faith/role-of-jesus-christ-basics-of-faith-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2010,4,6],
+    "passage": "Psalm 66:1-15",
+    "passage_ref": [[["psa",66,1],["psa",66,15]]],
+    "quote": "Hebrews 13:5",
+    "quote_ref": [[["heb",13,5]]],
+    "tags": [["peace","peace"],["role of","role-of"],["Savior","savior"],["tests","tests"],["trials","trials"]],
+    "title": "For This I Have Jesus",
+    "url": "http://odb.org/2010/04/06/for-this-i-have-jesus/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Uncategorized","uncategorized/"]],
     "date": [2013,11,30],
@@ -1315,6 +1572,17 @@
   }
 ],
 "71": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,7,15],
+    "passage": "Psalm 71",
+    "passage_ref": [[["psa",71,null]]],
+    "quote": "Psalm 71:18",
+    "quote_ref": [[["psa",71,18]]],
+    "tags": [["aging","aging"],["faithfulness","faithfulness"],["wisdom","wisdom"]],
+    "title": "A Man My Age",
+    "url": "http://odb.org/2010/07/15/a-man-my-age/"
+  }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,2,25],
@@ -1375,6 +1643,17 @@
 ],
 "77": [
   { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,12,28],
+    "passage": "Psalm 77:1-14",
+    "passage_ref": [[["psa",77,1],["psa",77,14]]],
+    "quote": "Psalm 77:11",
+    "quote_ref": [[["psa",77,11]]],
+    "tags": [["discouragement","discouragement"],["faithfulness","faithfulness"],["hope","hope"],["mercy","mercy"],["praise","praise"],["trials","trials"]],
+    "title": "The Year In Review",
+    "url": "http://odb.org/2010/12/28/the-year-in-review/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Body Of Christ","basics-of-faith/church-basics-of-faith/body-of-christ-church-basics-of-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Church","basics-of-faith/church-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2011,8,9],
     "passage": "Psalm 77:11-20",
@@ -1411,6 +1690,17 @@
   }
 ],
 "86": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,10,9],
+    "passage": "Psalm 86",
+    "passage_ref": [[["psa",86,null]]],
+    "quote": "Psalm 86:11",
+    "quote_ref": [[["psa",86,11]]],
+    "tags": [["Bible","bible"],["christlikeness","christlikeness"],["growth","growth"],["obedience","obedience"],["sanctification","sanctification"],["submission","submission"]],
+    "title": "Bull’s-Eye!",
+    "url": "http://odb.org/2010/10/09/bull%e2%80%99s-eye/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,11,27],
@@ -1447,6 +1737,17 @@
     "tags": [],
     "title": "Never Too Old",
     "url": "http://odb.org/1994/04/25/never-too-old/"
+  }, 
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"]],
+    "date": [2010,6,19],
+    "passage": "Psalm 90",
+    "passage_ref": [[["psa",90,null]]],
+    "quote": "Psalm 90:10",
+    "quote_ref": [[["psa",90,10]]],
+    "tags": [["aging","aging"],["christlikeness","christlikeness"],["Savior","savior"]],
+    "title": "The Brevity Of Life",
+    "url": "http://odb.org/2010/06/19/the-brevity-of-life-2/"
   }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"]],
@@ -1563,6 +1864,19 @@
     "url": "http://odb.org/2013/06/29/love-and-prayer/"
   }
 ],
+"93": [
+  { "author": ["C. P. Hia","cphia"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,8,15],
+    "passage": "Psalm 93",
+    "passage_ref": [[["psa",93,null]]],
+    "quote": "Psalm 93:1",
+    "quote_ref": [[["psa",93,1]]],
+    "tags": [["care","care"],["God","god"],["power","power"],["protection","protection"],["trials","trials"]],
+    "title": "Mightier Than All",
+    "url": "http://odb.org/2010/08/15/mightier-than-all/"
+  }
+],
 "94": [
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -1587,6 +1901,17 @@
     "tags": [],
     "title": "Caretakers, Not Owners",
     "url": "http://odb.org/1994/03/23/caretakers-not-owners/"
+  }, 
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,12,27],
+    "passage": "Psalm 95:1-7",
+    "passage_ref": [[["psa",95,1],["psa",95,7]]],
+    "quote": "Colossians 1:16",
+    "quote_ref": [[["col",1,16]]],
+    "tags": [["blessings from","blessings-from"],["creator","creator"],["gratitude","gratitude"],["thankfulness","thankfulness"]],
+    "title": "The True Owner",
+    "url": "http://odb.org/2010/12/27/the-true-owner/"
   }
 ],
 "96": [
@@ -1675,6 +2000,28 @@
   }
 ],
 "103": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Angels","basics-of-faith/spirit-world-basics-of-faith/angels-spirit-world-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Praise To","relationships/relating-to-god-relationships/praise-to-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Spirit World","basics-of-faith/spirit-world-basics-of-faith/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
+    "date": [2010,3,7],
+    "passage": "Psalm 103:19-22",
+    "passage_ref": [[["psa",103,19],["psa",103,22]]],
+    "quote": "Psalm 103:20",
+    "quote_ref": [[["psa",103,20]]],
+    "tags": [["angels","angels"],["belief","belief"],["praise to","praise-to"],["trust","trust"]],
+    "title": "God’s Helpers",
+    "url": "http://odb.org/2010/03/07/gods-helpers/"
+  }, 
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,6,9],
+    "passage": "Psalm 103:1-10",
+    "passage_ref": [[["psa",103,1],["psa",103,10]]],
+    "quote": "Psalm 103:10",
+    "quote_ref": [[["psa",103,10]]],
+    "tags": [["disipline from","disipline-from"],["mercy","mercy"],["sin","sin-christian-life"]],
+    "title": "It’s Not Fair",
+    "url": "http://odb.org/2010/06/09/it%e2%80%99s-not-fair/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,3,11],
@@ -1732,6 +2079,17 @@
   }
 ],
 "104": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,8,19],
+    "passage": "Psalm 104:1-13",
+    "passage_ref": [[["psa",104,1],["psa",104,13]]],
+    "quote": "Psalm 104:12",
+    "quote_ref": [[["psa",104,12]]],
+    "tags": [["creator","creator"],["God's majesty","gods-majesty"],["praise","praise"],["worship","worship"]],
+    "title": "Mozart’s Pet Bird",
+    "url": "http://odb.org/2010/08/19/mozart%e2%80%99s-pet-bird/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Uncategorized","uncategorized/"]],
     "date": [2013,7,2],
@@ -1742,6 +2100,19 @@
     "tags": [["creation","creation"],["creator","creator"],["God's glory","gods-glory"],["God's majesty","gods-majesty"]],
     "title": "A Flying Miracle",
     "url": "http://odb.org/2013/07/02/a-flying-miracle/"
+  }
+],
+"105": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Expressions Of","christian-life/worship-christian-life/expressions-of-worship-christian-life-christian-life/"],["God","christian-life/worship-christian-life/god-worship-christian-life/"],["Gratitude","christian-life/attitudes-christian-life/gratitude-attitudes-christian-life-christian-life/"],["Thankfulness","christian-life/attitudes-christian-life/thankfulness-attitudes-christian-life-christian-life/"],["Worship","christian-life/worship-christian-life/"]],
+    "date": [2010,3,29],
+    "passage": "Psalm 105:1-5",
+    "passage_ref": [[["psa",105,1],["psa",105,5]]],
+    "quote": "Psalm 105:1",
+    "quote_ref": [[["psa",105,1]]],
+    "tags": [["expressions of","expressions-of"],["God","god"],["gratitude","gratitude"],["thankfulness","thankfulness"]],
+    "title": "Thanks, God!",
+    "url": "http://odb.org/2010/03/29/thanks-god/"
   }
 ],
 "107": [
@@ -1799,6 +2170,19 @@
     "tags": [["friendship","friendship"],["God's love","gods-love"],["God's presence","gods-presence"],["loneliness","loneliness"],["love","love"],["success","success"]],
     "title": "Not All Empty",
     "url": "http://odb.org/2013/12/18/not-all-empty/"
+  }
+],
+"111": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,12,31],
+    "passage": "Psalm 111",
+    "passage_ref": [[["psa",111,null]]],
+    "quote": "Psalm 92:4",
+    "quote_ref": [[["psa",92,4]]],
+    "tags": [["faithfulness","faithfulness"],["God's love","gods-love"],["guidance","guidance"],["leading","leading"],["presence","presence"]],
+    "title": "Rearview Mirror Reflections",
+    "url": "http://odb.org/2010/12/31/rearview-mirror-reflections/"
   }
 ],
 "112": [
@@ -1998,6 +2382,28 @@
     "tags": [],
     "title": "Rock Bottom",
     "url": "http://odb.org/1994/09/01/rock-bottom/"
+  }, 
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Power","bible-study/application-bible-study/power-application-bible-study/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Understanding","bible-study/application-bible-study/understanding-application-bible-study-bible-study/"]],
+    "date": [2010,1,19],
+    "passage": "Psalm 119:129-136",
+    "passage_ref": [[["psa",119,129],["psa",119,136]]],
+    "quote": "Psalm 119:133",
+    "quote_ref": [[["psa",119,133]]],
+    "tags": [["effect","effect"],["guidance","guidance"],["leading","leading"],["power","power"],["understanding","understanding"]],
+    "title": "A Constant Companion",
+    "url": "http://odb.org/2010/01/19/a-constant-companion/"
+  }, 
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Meditation","bible-study/ways-to-study-bible-study/meditation-ways-to-study-bible-study-bible-study/"],["Memorization","bible-study/ways-to-study-bible-study/memorization-ways-to-study-bible-study-bible-study/"],["Power","bible-study/application-bible-study/power-application-bible-study/"],["Reading","bible-study/ways-to-study-bible-study/reading-ways-to-study-bible-study-bible-study/"],["Ways To Study","bible-study/ways-to-study-bible-study/"]],
+    "date": [2010,5,15],
+    "passage": "Psalm 119:9-16",
+    "passage_ref": [[["psa",119,9],["psa",119,16]]],
+    "quote": "Colossians 3:16",
+    "quote_ref": [[["col",3,16]]],
+    "tags": [["effect","effect"],["meditation","meditation"],["memorization","memorization"],["power","power"],["reading","reading"]],
+    "title": "Charlie’s List",
+    "url": "http://odb.org/2010/05/15/charlies-list/"
   }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -2210,6 +2616,17 @@
     "title": "He’s Up Anyway!",
     "url": "http://odb.org/1994/10/08/hes-up-anyway/"
   }, 
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Creator","basics-of-faith/god-basics-of-faith/creator-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2010,4,13],
+    "passage": "Psalm 121",
+    "passage_ref": [[["psa",121,null]]],
+    "quote": "Psalm 121:3",
+    "quote_ref": [[["psa",121,3]]],
+    "tags": [["blessings from","blessings-from"],["care","care"],["creator","creator"],["protection from","protection-from"]],
+    "title": "He Never Sleeps",
+    "url": "http://odb.org/2010/04/13/he-never-sleeps/"
+  }, 
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,1,9],
@@ -2375,6 +2792,19 @@
     "url": "http://odb.org/2012/07/06/stop/"
   }
 ],
+"133": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2010,10,24],
+    "passage": "Psalm 133",
+    "passage_ref": [[["psa",133,null]]],
+    "quote": "Psalm 133:1",
+    "quote_ref": [[["psa",133,1]]],
+    "tags": [["kindness","kindness"],["love for others","love-for-others"],["service","service"],["serving","serving"],["unity","unity"]],
+    "title": "Getting Along",
+    "url": "http://odb.org/2010/10/24/getting-along/"
+  }
+],
 "136": [
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -2399,6 +2829,17 @@
     "tags": [],
     "title": "What To Do in a Crisis",
     "url": "http://odb.org/1994/08/25/what-to-do-in-a-crisis/"
+  }, 
+  { "author": ["C. P. Hia","cphia"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Assurance","basics-of-faith/salvation-basics-of-faith/assurance-salvation-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Bible Study","bible-study/"],["Doubt","basics-of-faith/salvation-basics-of-faith/doubt-salvation-basics-of-faith-basics-of-faith/"],["Promises","bible-study/application-bible-study/promises-application-bible-study-bible-study/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"],["Security","basics-of-faith/salvation-basics-of-faith/security-salvation-basics-of-faith-basics-of-faith/"],["Understanding","bible-study/application-bible-study/understanding-application-bible-study-bible-study/"]],
+    "date": [2010,3,13],
+    "passage": "Psalm 138",
+    "passage_ref": [[["psa",138,null]]],
+    "quote": "Psalm 138:7",
+    "quote_ref": [[["psa",138,7]]],
+    "tags": [["assurance","assurance"],["doubt","doubt"],["promises","promises"],["security","security"],["understanding","understanding"]],
+    "title": "A Safe Pair Of Hands",
+    "url": "http://odb.org/2010/03/13/a-safe-pair-of-hands/"
   }
 ],
 "139": [
@@ -2412,6 +2853,39 @@
     "tags": [],
     "title": "Lifetime Warranty",
     "url": "http://odb.org/1994/01/29/lifetime-warranty/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Creator","basics-of-faith/god-basics-of-faith/creator-god-basics-of-faith-basics-of-faith/"],["Existence","basics-of-faith/god-basics-of-faith/existence-god-basics-of-faith-basics-of-faith/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2010,1,17],
+    "passage": "Psalm 139:13-16",
+    "passage_ref": [[["psa",139,13],["psa",139,16]]],
+    "quote": "Psalm 139:14",
+    "quote_ref": [[["psa",139,14]]],
+    "tags": [["creator","creator"],["existence","existence"],["faithfulness","faithfulness"],["His love","his-love"]],
+    "title": "Respect For Life",
+    "url": "http://odb.org/2010/01/17/respect-for-life/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
+    "date": [2010,6,8],
+    "passage": "Psalm 139:7-12",
+    "passage_ref": [[["psa",139,7],["psa",139,12]]],
+    "quote": "Psalm 119:173",
+    "quote_ref": [[["psa",119,173]]],
+    "tags": [["care","care"],["power","power"],["protection","protection"],["trials","trials"]],
+    "title": "Give Me A Hand",
+    "url": "http://odb.org/2010/06/08/give-me-a-hand/"
+  }, 
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,11,13],
+    "passage": "Psalm 139:1-16",
+    "passage_ref": [[["psa",139,1],["psa",139,16]]],
+    "quote": "Psalm 139:15",
+    "quote_ref": [[["psa",139,15]]],
+    "tags": [["cost of","cost-of"],["God's love","gods-love"],["self-images","self-images"],["significance","significance"]],
+    "title": "Significant",
+    "url": "http://odb.org/2010/11/13/significant/"
   }, 
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -2607,6 +3081,17 @@
     "tags": [],
     "title": "The Widow’s Comfort",
     "url": "http://odb.org/1994/05/29/the-widows-comfort/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,8,29],
+    "passage": "Psalm 146",
+    "passage_ref": [[["psa",146,null]]],
+    "quote": "Psalm 146:2",
+    "quote_ref": [[["psa",146,2]]],
+    "tags": [["fear","fear"],["gratitude","gratitude"],["Jesus Christ","jesus-christ"],["joy","joy"],["trials","trials"]],
+    "title": "How Can We Keep From Singing?",
+    "url": "http://odb.org/2010/08/29/how-can-we-keep-from-singing/"
   }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],

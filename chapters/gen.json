@@ -10,6 +10,28 @@
     "title": "Don’t Make a Monkey of Yourself",
     "url": "http://odb.org/1994/08/29/dont-make-a-monkey-of-yourself/"
   }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,7,30],
+    "passage": "Genesis 1:20-28; 2:15",
+    "passage_ref": [[["gen",1,20],["gen",1,28]],[["gen",2,15]]],
+    "quote": "Genesis 1:10",
+    "quote_ref": [[["gen",1,10]]],
+    "tags": [["blessings from","blessings-from"],["christlikeness","christlikeness"],["creator","creator"]],
+    "title": "Garbage Island",
+    "url": "http://odb.org/2010/07/30/garbage-island/"
+  }, 
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"],["Relationships","relationships/"]],
+    "date": [2010,12,3],
+    "passage": "Genesis 1:27-31",
+    "passage_ref": [[["gen",1,27],["gen",1,31]]],
+    "quote": "Genesis 1:31",
+    "quote_ref": [[["gen",1,31]]],
+    "tags": [["creator","creator"],["judgment","judgment"],["love for others","love-for-others"],["spiritual gifts","spiritual-gifts"]],
+    "title": "God’s Signature",
+    "url": "http://odb.org/2010/12/03/god%e2%80%99s-signature/"
+  }, 
   { "author": ["Randy Kilgore","randykilgore"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Creator","basics-of-faith/god-basics-of-faith/creator-god-basics-of-faith-basics-of-faith/"],["Work","christian-life/lifestyle-issues-christian-life/work-lifestyle-issues-christian-life-christian-life/"]],
     "date": [2011,9,5],
@@ -66,6 +88,39 @@
     "tags": [],
     "title": "No Accident",
     "url": "http://odb.org/1994/10/12/no-accident/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Husband","relationships/marriage-relationships/husband-marriage-relationships-relationships/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Marriage","relationships/marriage-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Wife","relationships/marriage-relationships/wife-marriage-relationships-relationships/"]],
+    "date": [2010,3,20],
+    "passage": "Genesis 2:18-25",
+    "passage_ref": [[["gen",2,18],["gen",2,25]]],
+    "quote": "Genesis 2:24",
+    "quote_ref": [[["gen",2,24]]],
+    "tags": [["husband","husband"],["love for","love-for"],["wife","wife"]],
+    "title": "Marriage God’s Way",
+    "url": "http://odb.org/2010/03/20/marriage-gods-way/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Priorities","christian-life/character-christian-life/priorities-character-christian-life-christian-life/"],["Recreation","christian-life/lifestyle-issues-christian-life/recreation-lifestyle-issues-christian-life-christian-life/"],["Rest","christian-life/lifestyle-issues-christian-life/rest-lifestyle-issues-christian-life-christian-life/"],["Work","christian-life/lifestyle-issues-christian-life/work-lifestyle-issues-christian-life-christian-life/"]],
+    "date": [2010,5,30],
+    "passage": "Genesis 2:1-7",
+    "passage_ref": [[["gen",2,1],["gen",2,7]]],
+    "quote": "Exodus 23:12",
+    "quote_ref": [[["exo",23,12]]],
+    "tags": [["priorities","priorities"],["recreation","recreation"],["rest","rest"],["work","work"]],
+    "title": "What Does It Take?",
+    "url": "http://odb.org/2010/05/30/what-does-it-take/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,7,30],
+    "passage": "Genesis 1:20-28; 2:15",
+    "passage_ref": [[["gen",1,20],["gen",1,28]],[["gen",2,15]]],
+    "quote": "Genesis 1:10",
+    "quote_ref": [[["gen",1,10]]],
+    "tags": [["blessings from","blessings-from"],["christlikeness","christlikeness"],["creator","creator"]],
+    "title": "Garbage Island",
+    "url": "http://odb.org/2010/07/30/garbage-island/"
   }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
@@ -125,7 +180,44 @@
     "url": "http://odb.org/2014/01/31/buyers-remorse/"
   }
 ],
+"4": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Christian Life","christian-life/"],["God","christian-life/worship-christian-life/god-worship-christian-life/"],["Praise To","relationships/relating-to-god-relationships/praise-to-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"],["Worship","christian-life/worship-christian-life/"]],
+    "date": [2010,5,20],
+    "passage": "Genesis 4:1-7",
+    "passage_ref": [[["gen",4,1],["gen",4,7]]],
+    "quote": "Genesis 4:7",
+    "quote_ref": [[["gen",4,7]]],
+    "tags": [["God","god"],["praise to","praise-to"],["submission","submission"]],
+    "title": "A Worthy Offering",
+    "url": "http://odb.org/2010/05/20/a-worthy-offering/"
+  }
+],
+"5": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["Fellowship With","relationships/relating-to-god-relationships/fellowship-with-relating-to-god-relationships-relationships/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2010,2,6],
+    "passage": "Genesis 5:21-32",
+    "passage_ref": [[["gen",5,21],["gen",5,32]]],
+    "quote": "Genesis 5:24",
+    "quote_ref": [[["gen",5,24]]],
+    "tags": [["eternity","eternity"],["fellowship with","fellowship-with"]],
+    "title": "Charlie’s Walk On The Moon",
+    "url": "http://odb.org/2010/02/06/charlies-walk-on-the-moon/"
+  }
+],
 "12": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,8,21],
+    "passage": "Genesis 12:1-4; 21:1-7",
+    "passage_ref": [[["gen",12,1],["gen",12,4]],[["gen",21,1],["gen",21,7]]],
+    "quote": "Genesis 21:2",
+    "quote_ref": [[["gen",21,2]]],
+    "tags": [["Bible","bible"],["care","care"],["faithfulness","faithfulness"],["His love","his-love"],["protection","protection"]],
+    "title": "Promises, Promises",
+    "url": "http://odb.org/2010/08/21/promises-promises/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2011,1,10],
@@ -149,6 +241,19 @@
     "url": "http://odb.org/2013/09/19/time-for-a-change-3/"
   }
 ],
+"13": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["His Will","basics-of-faith/god-basics-of-faith/his-will-god-basics-of-faith-basics-of-faith/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2010,5,5],
+    "passage": "Genesis 13:9-13",
+    "passage_ref": [[["gen",13,9],["gen",13,13]]],
+    "quote": "Genesis 13:11",
+    "quote_ref": [[["gen",13,11]]],
+    "tags": [["authority","authority"],["guidance","guidance"],["His will","his-will"],["leading","leading"]],
+    "title": "Letting God Choose",
+    "url": "http://odb.org/2010/05/05/letting-god-choose/"
+  }
+],
 "20": [
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -160,6 +265,19 @@
     "tags": [["christian faith","christian-faith"],["fear","fear"],["God's will","gods-will"],["guidance","guidance"],["leading","leading"],["obedience","obedience"],["trials","trials"],["worry","worry"],["worship","worship"]],
     "title": "Fear Factor",
     "url": "http://odb.org/2011/07/19/fear-factor/"
+  }
+],
+"21": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,8,21],
+    "passage": "Genesis 12:1-4; 21:1-7",
+    "passage_ref": [[["gen",12,1],["gen",12,4]],[["gen",21,1],["gen",21,7]]],
+    "quote": "Genesis 21:2",
+    "quote_ref": [[["gen",21,2]]],
+    "tags": [["Bible","bible"],["care","care"],["faithfulness","faithfulness"],["His love","his-love"],["protection","protection"]],
+    "title": "Promises, Promises",
+    "url": "http://odb.org/2010/08/21/promises-promises/"
   }
 ],
 "22": [
@@ -249,9 +367,44 @@
     "tags": [],
     "title": "Boxing or Wrestling?",
     "url": "http://odb.org/1994/05/05/boxing-or-wrestling/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2010,3,11],
+    "passage": "Genesis 32:3-13",
+    "passage_ref": [[["gen",32,3],["gen",32,13]]],
+    "quote": "Genesis 32:10",
+    "quote_ref": [[["gen",32,10]]],
+    "tags": [["faithfulness","faithfulness"],["His love","his-love"]],
+    "title": "God’s Mercies",
+    "url": "http://odb.org/2010/03/11/gods-mercies/"
+  }
+],
+"33": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Life Stories","life-stories-2/"],["Relationships","relationships/"]],
+    "date": [2010,6,21],
+    "passage": "Genesis 33:1-4",
+    "passage_ref": [[["gen",33,1],["gen",33,4]]],
+    "quote": "Genesis 33:4",
+    "quote_ref": [[["gen",33,4]]],
+    "tags": [["discernment","discernment"],["life stories","life-stories"],["love for others","love-for-others"]],
+    "title": "An Imaginary Threat",
+    "url": "http://odb.org/2010/06/21/an-imaginary-threat/"
   }
 ],
 "39": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["His Will","basics-of-faith/god-basics-of-faith/his-will-god-basics-of-faith-basics-of-faith/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2010,1,20],
+    "passage": "Genesis 39:1-10",
+    "passage_ref": [[["gen",39,1],["gen",39,10]]],
+    "quote": "Genesis 39:2",
+    "quote_ref": [[["gen",39,2]]],
+    "tags": [["guidance","guidance"],["His will","his-will"],["leading","leading"],["sovereignty","sovereignty"]],
+    "title": "Redirected",
+    "url": "http://odb.org/2010/01/20/redirected/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2013,2,7],

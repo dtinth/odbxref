@@ -10,5 +10,18 @@
     "title": "1,000th Birthday",
     "url": "http://odb.org/2011/09/30/1000th-birthday/"
   }
+],
+"5": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christ's Return","basics-of-faith/future-prophecy-basics-of-faith/christs-return-future-prophecy-basics-of-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Commitment","ministry-and-outreach/serving-ministry-and-outreach/commitment-serving-ministry-and-outreach-ministry-and-outreach/"],["Compassion","christian-life/attitudes-christian-life/compassion-attitudes-christian-life-christian-life/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
+    "date": [2010,3,3],
+    "passage": "Amos 5:21-27",
+    "passage_ref": [[["amo",5,21],["amo",5,27]]],
+    "quote": "Amos 5:24",
+    "quote_ref": [[["amo",5,24]]],
+    "tags": [["Christ's return","christs-return"],["christlikeness","christlikeness"],["commitment","commitment"],["compassion","compassion"]],
+    "title": "A Mighty Stream",
+    "url": "http://odb.org/2010/03/03/a-mighty-stream/"
+  }
 ]
 }

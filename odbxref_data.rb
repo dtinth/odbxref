@@ -29,7 +29,7 @@ def preprocess_reference(article, field)
     ref = BibleReference.parse(article[field])
     article[field + "_ref"] = ref
   rescue => e
-    puts "Unable to parse reference for #{article['date']}"
+    puts "Unable to parse reference for #{article['date']}, #{article['url']}"
     raise e
   end
 end
@@ -37,6 +37,16 @@ end
 def fix_passage(text)
   text = text.strip
   text.sub! %r(\.$),            ''                         # 1994-10-07
+  text.sub! '1 Thess.',         '1 Thessalonians'          # 2010-03-05
+  text.sub! '1 Cor.',           '1 Corinthians'            # 2010-03-12
+  text.sub! 'Phil.',            'Philippians'              # 2010-03-26
+  text.sub! '1 Tim.',           '1 Timothy'                # 2010-04-18
+  text.sub! '1 Chron.',         '1 Chronicles'             # 2010-05-02
+  text.sub! 'Heb.',             'Hebrews'                  # 2010-07-06
+  text.sub! '2 Cor.',           '2 Corinthians'            # 2010-07-10
+  text.sub! %r(\A—),            ''                         # 2010-07-25
+  text.sub! 'Gen.',             'Genesis'                  # 2010-08-21
+  text.sub! 'Eph.',             'Ephesians'                # 2010-09-08
   text.sub! 'Deut.',            'Deuteronomy'              # 2011-01-30
   text.sub! '21 Matthew',       '21; Matthew'              # 2011-05-17
   text.sub! 'Corthians',        'Corinthians'              # 2011-12-08
@@ -94,7 +104,7 @@ command :chapters do |c|
 
     filename = "chapters/index.json"
     puts "==> #{filename}"
-    index[:state] = "Articles in 1994, 2012, 2013, 2014 (Jan-Apr) have been indexed. 1995-2011 will be indexed by next month, hopefully."
+    index[:state] = "Articles in 1994, 2010-2013, 2014 (Jan-Apr) have been indexed. 1995-2011 will be indexed by next month, hopefully."
     File.write(filename, my_pretty_json(index, 3, 0))
 
   end

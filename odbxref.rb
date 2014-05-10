@@ -69,7 +69,9 @@ end
 
 def get_verse_reference(element)
   link = element.css('a[href^="http://www.biblegateway.com/"]').last
-  if link
+  link_unacceptable = false
+  link_unacceptable = true if link && link.content =~ /\A\d+\Z/
+  if link && !link_unacceptable
     link.content
   else
     match = element.content.match(/(?:Read:\s+|—)(.*?)\S*\Z/)
