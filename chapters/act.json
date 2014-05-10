@@ -78,6 +78,17 @@
     "title": "The New Harvest",
     "url": "http://odb.org/1994/05/22/the-new-harvest/"
   }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"]],
+    "date": [2011,6,12],
+    "passage": "Acts 2:14-21,37-41",
+    "passage_ref": [[["act",2,14],["act",2,21]],[["act",2,37],["act",2,41]]],
+    "quote": "Acts 2:14",
+    "quote_ref": [[["act",2,14]]],
+    "tags": [["failure","failure"],["grace","grace"],["Holy Spirit","holy-spirit"],["joy","joy"],["pentecost","pentecost"],["Peter","peter"]],
+    "title": "The Great Comeback",
+    "url": "http://odb.org/2011/06/12/the-great-comeback/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2012,7,12],
@@ -151,6 +162,17 @@
     "tags": [],
     "title": "Good Listeners",
     "url": "http://odb.org/1994/04/08/good-listeners/"
+  }, 
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,2,10],
+    "passage": "Acts 6:8-15; 7:54-60",
+    "passage_ref": [[["act",6,8],["act",6,15]],[["act",7,54],["act",7,60]]],
+    "quote": "Acts 7:56",
+    "quote_ref": [[["act",7,56]]],
+    "tags": [["eternity","eternity"],["persecution","persecution"],["resurrection","resurrection"],["trials","trials"]],
+    "title": "Standing Ovation",
+    "url": "http://odb.org/2011/02/10/standing-ovation/"
   }
 ],
 "7": [
@@ -164,6 +186,17 @@
     "tags": [],
     "title": "Tell It Like It Is",
     "url": "http://odb.org/1994/01/04/tell-it-like-it-is/"
+  }, 
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,2,10],
+    "passage": "Acts 6:8-15; 7:54-60",
+    "passage_ref": [[["act",6,8],["act",6,15]],[["act",7,54],["act",7,60]]],
+    "quote": "Acts 7:56",
+    "quote_ref": [[["act",7,56]]],
+    "tags": [["eternity","eternity"],["persecution","persecution"],["resurrection","resurrection"],["trials","trials"]],
+    "title": "Standing Ovation",
+    "url": "http://odb.org/2011/02/10/standing-ovation/"
   }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -281,6 +314,17 @@
   }
 ],
 "11": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2011,4,2],
+    "passage": "Acts 11:19-26",
+    "passage_ref": [[["act",11,19],["act",11,26]]],
+    "quote": "Acts 11:24",
+    "quote_ref": [[["act",11,24]]],
+    "tags": [],
+    "title": "Known For Compassion",
+    "url": "http://odb.org/2011/04/02/known-for-compassion/"
+  }, 
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2012,7,27],
@@ -364,6 +408,17 @@
   }
 ],
 "15": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relationships","relationships/"]],
+    "date": [2011,2,21],
+    "passage": "Acts 15:36-41",
+    "passage_ref": [[["act",15,36],["act",15,41]]],
+    "quote": "Acts 15:39",
+    "quote_ref": [[["act",15,39]]],
+    "tags": [["anger","anger"],["bitterness","bitterness"],["conflict","conflict"],["reconciliation","reconciliation"]],
+    "title": "Resolution",
+    "url": "http://odb.org/2011/02/21/resolution/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"]],
     "date": [2012,5,23],
@@ -388,6 +443,17 @@
   }
 ],
 "16": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,1,28],
+    "passage": "Acts 16:23-34",
+    "passage_ref": [[["act",16,23],["act",16,34]]],
+    "quote": "Acts 16:26",
+    "quote_ref": [[["act",16,26]]],
+    "tags": [["encouragement","encouragement"],["inviting others to Christ","inviting-others-to-christ"],["obedience","obedience"],["suffering","suffering"],["trials","trials"],["witness","witness"]],
+    "title": "Earthquake City",
+    "url": "http://odb.org/2011/01/28/earthquake-city/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"]],
     "date": [2011,10,26],
@@ -411,6 +477,17 @@
     "tags": [],
     "title": "“To the Unknown God”",
     "url": "http://odb.org/1994/03/11/to-the-unknown-god/"
+  }, 
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"],["Relationships","relationships/"]],
+    "date": [2011,1,24],
+    "passage": "Acts 17:16-31",
+    "passage_ref": [[["act",17,16],["act",17,31]]],
+    "quote": "Acts 17:16",
+    "quote_ref": [[["act",17,16]]],
+    "tags": [["God's love","gods-love"],["grace","grace"],["idolatry","idolatry"],["salvation","salvation"],["satan","satan"]],
+    "title": "Still True Today",
+    "url": "http://odb.org/2011/01/24/still-true-today/"
   }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],

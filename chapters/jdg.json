@@ -11,7 +11,31 @@
     "url": "http://odb.org/2014/02/07/whos-that-hero/"
   }
 ],
+"6": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relationships","relationships/"]],
+    "date": [2011,6,22],
+    "passage": "Judges 6:11-23",
+    "passage_ref": [[["jdg",6,11],["jdg",6,23]]],
+    "quote": "Judges 6:12",
+    "quote_ref": [[["jdg",6,12]]],
+    "tags": [["fear","fear"],["God's care","gods-care"],["God's will","gods-will"],["power for living","power-for-living"],["protection","protection"]],
+    "title": "Facing Our Fears",
+    "url": "http://odb.org/2011/06/22/facing-our-fears/"
+  }
+],
 "7": [
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,3,29],
+    "passage": "Judges 7:24–8:3",
+    "passage_ref": [[["jdg",7,24],["jdg",8,3]]],
+    "quote": "Proverbs 15:1",
+    "quote_ref": [[["pro",15,1]]],
+    "tags": [["anger","anger"],["compassion","compassion"],["God's glory","gods-glory"],["kindness","kindness"],["love for others","love-for-others"],["speech","speech"],["unity","unity"]],
+    "title": "Talk Low, Talk Slow",
+    "url": "http://odb.org/2011/03/29/talk-low-talk-slow/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,3,8],
@@ -33,6 +57,19 @@
     "tags": [["God's protection","gods-protection"],["God's strength","gods-strength"],["promises","promises"],["victory","victory"]],
     "title": "Empty Fort Strategy",
     "url": "http://odb.org/2014/02/24/empty-fort-strategy/"
+  }
+],
+"8": [
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,3,29],
+    "passage": "Judges 7:24–8:3",
+    "passage_ref": [[["jdg",7,24],["jdg",8,3]]],
+    "quote": "Proverbs 15:1",
+    "quote_ref": [[["pro",15,1]]],
+    "tags": [["anger","anger"],["compassion","compassion"],["God's glory","gods-glory"],["kindness","kindness"],["love for others","love-for-others"],["speech","speech"],["unity","unity"]],
+    "title": "Talk Low, Talk Slow",
+    "url": "http://odb.org/2011/03/29/talk-low-talk-slow/"
   }
 ]
 }

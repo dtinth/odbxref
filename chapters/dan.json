@@ -25,6 +25,17 @@
   }
 ],
 "3": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,6,7],
+    "passage": "Daniel 3:8-30",
+    "passage_ref": [[["dan",3,8],["dan",3,30]]],
+    "quote": "Hebrews 11:35",
+    "quote_ref": [[["heb",11,35]]],
+    "tags": [["choices","choices"],["christian faith","christian-faith"],["decisions","decisions"],["persecution","persecution"],["trust","trust"]],
+    "title": "God Is God",
+    "url": "http://odb.org/2011/06/07/god-is-god/"
+  }, 
   { "author": ["Randy Kilgore","randykilgore"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
     "date": [2012,9,19],
@@ -74,6 +85,17 @@
     "tags": [],
     "title": "Our Awesome God",
     "url": "http://odb.org/1994/03/20/our-awesome-god/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,3,16],
+    "passage": "Daniel 9:20-27",
+    "passage_ref": [[["dan",9,20],["dan",9,27]]],
+    "quote": "Daniel 9:21",
+    "quote_ref": [[["dan",9,21]]],
+    "tags": [["christian faith","christian-faith"],["future","future"],["God's glory","gods-glory"],["prayer","prayer"]],
+    "title": "God’s Answers",
+    "url": "http://odb.org/2011/03/16/god%e2%80%99s-answers/"
   }
 ],
 "12": [

@@ -21,6 +21,17 @@
     "title": "Who Gets Our Kids?",
     "url": "http://odb.org/1994/09/27/who-gets-our-kids/"
   }, 
+  { "author": ["Randy Kilgore","randykilgore"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,1,3],
+    "passage": "1 Samuel 1:1-18",
+    "passage_ref": [[["1sa",1,1],["1sa",1,18]]],
+    "quote": "Psalm 3:4",
+    "quote_ref": [[["psa",3,4]]],
+    "tags": [["blessings","blessings"],["criticism","criticism"],["prayer","prayer"],["presence","presence"]],
+    "title": "An Overcoming Faith",
+    "url": "http://odb.org/2011/01/03/an-overcoming-faith/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2014,2,1],
@@ -105,6 +116,19 @@
     "url": "http://odb.org/2012/02/02/god%e2%80%99s-plan-not-ours/"
   }
 ],
+"12": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,3,30],
+    "passage": "1 Samuel 12:19-25",
+    "passage_ref": [[["1sa",12,19],["1sa",12,25]]],
+    "quote": "1 Samuel 12:20",
+    "quote_ref": [[["1sa",12,20]]],
+    "tags": [["confession","confession"],["forgiveness from","forgiveness-from"],["service","service"],["sin","sin-christian-life"]],
+    "title": "Serve Him Today",
+    "url": "http://odb.org/2011/03/30/serve-him-today/"
+  }
+],
 "13": [
   { "author": ["Marvin Williams","marvinwilliams"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -177,6 +201,19 @@
     "tags": [["christlikeness","christlikeness"],["courtesy","courtesy"],["judgment","judgment"],["kindness","kindness"],["prejudice","prejudice"],["tongue","tongue"]],
     "title": "First Impressions",
     "url": "http://odb.org/2013/11/29/first-impressions-2/"
+  }
+],
+"17": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2011,4,11],
+    "passage": "1 Samuel 17:32-37",
+    "passage_ref": [[["1sa",17,32],["1sa",17,37]]],
+    "quote": "1 Samuel 17:37",
+    "quote_ref": [[["1sa",17,37]]],
+    "tags": [["christian faith","christian-faith"],["courage","courage"],["self-images","self-images"],["trust","trust"]],
+    "title": "The Penny Syndrome",
+    "url": "http://odb.org/2011/04/11/the-penny-syndrome/"
   }
 ],
 "20": [

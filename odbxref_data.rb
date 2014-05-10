@@ -37,6 +37,8 @@ end
 def fix_passage(text)
   text = text.strip
   text.sub! %r(\.$),            ''                         # 1994-10-07
+  text.sub! 'Deut.',            'Deuteronomy'              # 2011-01-30
+  text.sub! '21 Matthew',       '21; Matthew'              # 2011-05-17
   text.sub! 'Corthians',        'Corinthians'              # 2011-12-08
   text.sub! %r(\u00A0),         ' '                        # 2012-08-05
   text.sub! 'Thessalonians.',   'Thessalonians'            # 2012-08-06

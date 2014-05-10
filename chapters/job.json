@@ -45,6 +45,17 @@
   }
 ],
 "2": [
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,6,24],
+    "passage": "Job 2",
+    "passage_ref": [[["job",2,null]]],
+    "quote": "Job 2:10",
+    "quote_ref": [[["job",2,10]]],
+    "tags": [["adversity","adversity"],["attributes","attributes"],["blessings","blessings"],["Character","character-christian-life"],["suffering","suffering"],["trials","trials"]],
+    "title": "Because",
+    "url": "http://odb.org/2011/06/24/because/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Uncategorized","uncategorized/"]],
     "date": [2013,12,26],
@@ -84,6 +95,17 @@
   }
 ],
 "12": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,2,23],
+    "passage": "Job 12:7-13",
+    "passage_ref": [[["job",12,7],["job",12,13]]],
+    "quote": "Job 12:10",
+    "quote_ref": [[["job",12,10]]],
+    "tags": [["attributes","attributes"],["creator","creator"],["praise","praise"],["worship","worship"]],
+    "title": "The Variety Of Creation",
+    "url": "http://odb.org/2011/02/23/the-variety-of-creation/"
+  }, 
   { "author": ["Randy Kilgore","randykilgore"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2013,1,14],
@@ -161,6 +183,17 @@
 ],
 "38": [
   { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2011,4,29],
+    "passage": "Job 38:1-11,31-33",
+    "passage_ref": [[["job",38,1],["job",38,11]],[["job",38,31],["job",38,33]]],
+    "quote": "Job 38:33",
+    "quote_ref": [[["job",38,33]]],
+    "tags": [["attributes","attributes"],["care","care"],["choices","choices"],["creator","creator"],["power","power"]],
+    "title": "Star Power",
+    "url": "http://odb.org/2011/04/29/star-power/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2012,7,28],
     "passage": "Job 38:4-18",
@@ -195,6 +228,17 @@
   }
 ],
 "42": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,3,14],
+    "passage": "Job 42:1-6",
+    "passage_ref": [[["job",42,1],["job",42,6]]],
+    "quote": "Job 42:5",
+    "quote_ref": [[["job",42,5]]],
+    "tags": [["creation","creation"],["peace","peace"],["suffering","suffering"],["thankfulness","thankfulness"],["trials","trials"],["trust","trust"]],
+    "title": "A Dream Of Answers Forgotten",
+    "url": "http://odb.org/2011/03/14/a-dream-of-answers-forgotten/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2012,6,19],

@@ -71,6 +71,17 @@
   }
 ],
 "8": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,3,9],
+    "passage": "Deuteronomy 8",
+    "passage_ref": [[["deu",8,null]]],
+    "quote": "Deuteronomy 8:2",
+    "quote_ref": [[["deu",8,2]]],
+    "tags": [["faithfulness","faithfulness"],["obedience","obedience"],["purpose","purpose"],["submission","submission"],["trials","trials"]],
+    "title": "Are We There Yet?",
+    "url": "http://odb.org/2011/03/09/are-we-there-yet/"
+  }, 
   { "author": ["C. P. Hia","cphia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,1,23],
@@ -106,6 +117,17 @@
   }
 ],
 "10": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relationships","relationships/"]],
+    "date": [2011,1,20],
+    "passage": "Deuteronomy 10:12-17",
+    "passage_ref": [[["deu",10,12],["deu",10,17]]],
+    "quote": "Deuteronomy 10:12",
+    "quote_ref": [[["deu",10,12]]],
+    "tags": [["fear","fear"],["gratitude","gratitude"],["love for","love-for"],["obedience","obedience"],["service","service"]],
+    "title": "Fear And Love",
+    "url": "http://odb.org/2011/01/20/fear-and-love-2/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2011,7,27],
@@ -152,6 +174,17 @@
     "title": "Little Sponges",
     "url": "http://odb.org/1994/03/03/little-sponges/"
   }, 
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,1,30],
+    "passage": "Deuteronomy 11:18-21",
+    "passage_ref": [[["deu",11,18],["deu",11,21]]],
+    "quote": "Proverbs 22:6",
+    "quote_ref": [[["pro",22,6]]],
+    "tags": [["children","children"],["example","example"],["Family","family-relationships"],["inviting others to Christ","inviting-others-to-christ"],["parenting","parenting"]],
+    "title": "Looking And Learning",
+    "url": "http://odb.org/2011/01/30/looking-and-learning/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Enablement","basics-of-faith/holy-spirit-basics-of-faith/enablement-holy-spirit-basics-of-faith-basics-of-faith/"],["Holy Spirit","basics-of-faith/holy-spirit-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"],["New Birth","basics-of-faith/salvation-basics-of-faith/new-birth-salvation-basics-of-faith-basics-of-faith/"]],
     "date": [2011,10,14],
@@ -175,6 +208,19 @@
     "tags": [["compassion","compassion"],["grace","grace"],["guidance","guidance"],["kindness","kindness"],["leading","leading"],["love for others","love-for-others"]],
     "title": "Open-Handed Help",
     "url": "http://odb.org/2012/12/04/open-handed-help/"
+  }
+],
+"19": [
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
+    "date": [2011,5,17],
+    "passage": "Deuteronomy 19:16-21; Matthew 5:38-45",
+    "passage_ref": [[["deu",19,16],["deu",19,21]],[["mat",5,38],["mat",5,45]]],
+    "quote": "Leviticus 19:18",
+    "quote_ref": [[["lev",19,18]]],
+    "tags": [["Holy Spirit","holy-spirit"],["justice","justice"],["love for others","love-for-others"],["peace","peace"],["revenge","revenge"]],
+    "title": "Alternatives To Revenge",
+    "url": "http://odb.org/2011/05/17/alternatives-to-revenge/"
   }
 ],
 "24": [

@@ -126,6 +126,17 @@
   }
 ],
 "12": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2011,1,10],
+    "passage": "Genesis 12:1-9",
+    "passage_ref": [[["gen",12,1],["gen",12,9]]],
+    "quote": "Genesis 12:1",
+    "quote_ref": [[["gen",12,1]]],
+    "tags": [["guidance","guidance"],["leading","leading"],["obedience","obedience"],["submission","submission"]],
+    "title": "Called From\n",
+    "url": "http://odb.org/2011/01/10/called-from/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Uncategorized","uncategorized/"]],
     "date": [2013,9,19],

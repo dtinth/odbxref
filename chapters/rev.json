@@ -24,6 +24,17 @@
     "url": "http://odb.org/1994/01/18/commended-and-corrected/"
   }, 
   { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,6,8],
+    "passage": "Revelation 2:1-7",
+    "passage_ref": [[["rev",2,1],["rev",2,7]]],
+    "quote": "Revelation 2:4",
+    "quote_ref": [[["rev",2,4]]],
+    "tags": [["forgiveness of","forgiveness-of"],["love for","love-for"],["love for others","love-for-others"],["patience","patience"],["perseverance","perseverance"],["serving","serving"],["temptation","temptation"],["worship","worship"]],
+    "title": "Good For Nothing",
+    "url": "http://odb.org/2011/06/08/good-for-nothing-2/"
+  }, 
+  { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2012,6,29],
     "passage": "Revelation 2:12-17",
@@ -69,6 +80,17 @@
     "title": "Our Heart—His Home",
     "url": "http://odb.org/1994/02/13/our-hearthis-home/"
   }, 
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,3,15],
+    "passage": "Revelation 3:14-22",
+    "passage_ref": [[["rev",3,14],["rev",3,22]]],
+    "quote": "Revelation 3:17",
+    "quote_ref": [[["rev",3,17]]],
+    "tags": [["Character","character-christian-life"],["Jesus","jesus"],["possessions","possessions"],["purity","purity"],["riches","riches"],["righteousness","righteousness"]],
+    "title": "A Matter Of Perspective",
+    "url": "http://odb.org/2011/03/15/a-matter-of-perspective/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2014,2,13],
@@ -82,6 +104,17 @@
   }
 ],
 "5": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,3,5],
+    "passage": "Revelation 5:1-12",
+    "passage_ref": [[["rev",5,1],["rev",5,12]]],
+    "quote": "Revelation 5:4",
+    "quote_ref": [[["rev",5,4]]],
+    "tags": [["fear","fear"],["heaven","heaven"],["Jesus","jesus"],["presence","presence"],["Savior","savior"],["sin","sin-christian-life"],["sorrow","sorrow"]],
+    "title": "Fearful Tears",
+    "url": "http://odb.org/2011/03/05/fearful-tears/"
+  }, 
   { "author": ["C. P. Hia","cphia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2012,6,14],
@@ -108,6 +141,17 @@
   }
 ],
 "19": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,6,11],
+    "passage": "Revelation 19:1-10",
+    "passage_ref": [[["rev",19,1],["rev",19,10]]],
+    "quote": "Revelation 19:7",
+    "quote_ref": [[["rev",19,7]]],
+    "tags": [["body of Christ","body-of-christ"],["Church","church-basics-of-faith"],["eternity","eternity"],["growth","growth"],["heaven","heaven"],["Jesus Christ","jesus-christ"],["sanctification","sanctification"]],
+    "title": "A Royal Wedding",
+    "url": "http://odb.org/2011/06/11/a-royal-wedding/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"],["Uncategorized","uncategorized/"]],
     "date": [2013,10,2],
@@ -118,6 +162,19 @@
     "tags": [["eternity","eternity"],["future","future"],["heaven","heaven"],["hope","hope"],["Jesus Christ","jesus-christ"],["salavation","salavation"]],
     "title": "Married To Royalty",
     "url": "http://odb.org/2013/10/02/married-to-royalty/"
+  }
+],
+"20": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2011,5,31],
+    "passage": "Revelation 20:11-15",
+    "passage_ref": [[["rev",20,11],["rev",20,15]]],
+    "quote": "Daniel 12:2",
+    "quote_ref": [[["dan",12,2]]],
+    "tags": [["eternity","eternity"],["heaven","heaven"],["hell","hell"],["salvation","salvation"]],
+    "title": "Bad Choice",
+    "url": "http://odb.org/2011/05/31/bad-choice/"
   }
 ],
 "21": [
@@ -142,6 +199,17 @@
     "tags": [],
     "title": "The Other Side",
     "url": "http://odb.org/1994/10/22/the-other-side-2/"
+  }, 
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
+    "date": [2011,1,25],
+    "passage": "Revelation 21:1-4",
+    "passage_ref": [[["rev",21,1],["rev",21,4]]],
+    "quote": "Revelation 21:4",
+    "quote_ref": [[["rev",21,4]]],
+    "tags": [["death","death"],["eternity","eternity"],["heaven","heaven"],["sorrow","sorrow"]],
+    "title": "No More Struggles",
+    "url": "http://odb.org/2011/01/25/no-more-struggles/"
   }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Heaven","basics-of-faith/future-prophecy-basics-of-faith/heaven-future-prophecy-basics-of-faith-basics-of-faith/"],["Relationships","relationships/"]],
@@ -200,6 +268,17 @@
   }
 ],
 "22": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,4,10],
+    "passage": "Revelation 22:1-7",
+    "passage_ref": [[["rev",22,1],["rev",22,7]]],
+    "quote": "Revelation 21:5",
+    "quote_ref": [[["rev",21,5]]],
+    "tags": [["eternity","eternity"],["God's glory","gods-glory"],["God's majesty","gods-majesty"],["heaven","heaven"],["Jesus","jesus"],["worship","worship"]],
+    "title": "A Forever Service",
+    "url": "http://odb.org/2011/04/10/a-forever-service/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,1,26],
