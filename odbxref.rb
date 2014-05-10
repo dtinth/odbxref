@@ -31,12 +31,12 @@ def fetch(key, url)
       puts "#{key}: CACHE HIT #{filename}"
     else
       puts "#{key}: #{url} => #{filename}"
-      if system "curl -g '#{url}' -o '#{filename}.tmp'"
+      if system "curl --compressed -g '#{url}' -o '#{filename}.tmp'"
         File.rename("#{filename}.tmp", filename)
       else
         raise "Cannot download file!!"
       end
-      sleep 0.3 + rand * 4.7
+      sleep 0.3 + rand * 2.7
     end
     Nokogiri::HTML(File.read(filename))
   end
@@ -66,8 +66,19 @@ end
 def find_verse_reference(list)
   list.map(&method(:get_verse_reference)).first
 end
+
 def get_verse_reference(element)
-  element.css('a[href^="http://www.biblegateway.com/"]').last.content
+  link = element.css('a[href^="http://www.biblegateway.com/"]').last
+  if link
+    link.content
+  else
+    match = element.content.match(/(?:Read:\s+|—)(.*?)\S*\Z/)
+    if match
+      match[1]
+    else
+      raise "No verse reference found: #{element.content.inspect}"
+    end
+  end
 end
 
 # Fetchs an article by fetching the page and taking only the <article> element.
@@ -108,6 +119,9 @@ def read(task)
   puts "   by #{info[:author]}, passage #{info[:passage]}"
   puts "   tags #{info[:tags]}"
   return task.merge(info)
+rescue => e
+  puts "!!! ERROR PROCESSING #{task[:url]}"
+  raise e
 end
 
 command :archive do |c|
