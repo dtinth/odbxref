@@ -1,4 +1,17 @@
-{ "5": [
+{ "1": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Christian Life","christian-life/"],["Death","christian-life/personal-crisis-christian-life/death-personal-crisis-christian-life-christian-life/"],["Grief","christian-life/personal-crisis-christian-life/grief-personal-crisis-christian-life-christian-life/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Sorrow","christian-life/personal-crisis-christian-life/sorrow-personal-crisis-christian-life-christian-life/"]],
+    "date": [2009,8,25],
+    "passage": "2 Samuel 1:11,17-27",
+    "passage_ref": [[["2sa",1,11]],[["2sa",1,17],["2sa",1,27]]],
+    "quote": "2 Samuel 1:26",
+    "quote_ref": [[["2sa",1,26]]],
+    "tags": [["death","death"],["grief","grief"],["love for","love-for"],["sorrow","sorrow"]],
+    "title": "Lament For A Friend",
+    "url": "http://odb.org/2009/08/25/lament-for-a-friend/"
+  }
+],
+"5": [
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Uncategorized","uncategorized/"]],
     "date": [2013,11,7],
@@ -9,6 +22,19 @@
     "tags": [["confidence","confidence"],["God's glory","gods-glory"],["God's guidance","gods-guidance"],["prayer","prayer"],["trials","trials"],["victory","victory"]],
     "title": "Two Victories",
     "url": "http://odb.org/2013/11/07/two-victories/"
+  }
+],
+"6": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Encouragement","christian-life/attitudes-christian-life/encouragement-attitudes-christian-life-christian-life/"],["Joy","christian-life/attitudes-christian-life/joy-attitudes-christian-life-christian-life/"]],
+    "date": [2009,8,27],
+    "passage": "2 Samuel 6:12-23",
+    "passage_ref": [[["2sa",6,12],["2sa",6,23]]],
+    "quote": "Proverbs 17:22",
+    "quote_ref": [[["pro",17,22]]],
+    "tags": [["christlikeness","christlikeness"],["encouragement","encouragement"],["joy","joy"]],
+    "title": "Light As A Feather",
+    "url": "http://odb.org/2009/08/27/light-as-a-feather/"
   }
 ],
 "9": [
@@ -57,6 +83,32 @@
     "tags": [["confession","confession"],["consequences","consequences"],["God's forgiveness","gods-forgiveness"],["repentance","repentance"],["sin","sin-christian-life"]],
     "title": "Collision Course",
     "url": "http://odb.org/2012/01/07/collision-course/"
+  }
+],
+"18": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Heaven","basics-of-faith/future-prophecy-basics-of-faith/heaven-future-prophecy-basics-of-faith-basics-of-faith/"]],
+    "date": [2009,11,23],
+    "passage": "2 Samuel 18:31-19:4",
+    "passage_ref": [[["2sa",18,31],["2sa",19,4]]],
+    "quote": "2 Samuel 18:33",
+    "quote_ref": [[["2sa",18,33]]],
+    "tags": [["eternity","eternity"],["heaven","heaven"]],
+    "title": "Preventing Regret",
+    "url": "http://odb.org/2009/11/23/preventing-regret/"
+  }
+],
+"19": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Heaven","basics-of-faith/future-prophecy-basics-of-faith/heaven-future-prophecy-basics-of-faith-basics-of-faith/"]],
+    "date": [2009,11,23],
+    "passage": "2 Samuel 18:31-19:4",
+    "passage_ref": [[["2sa",18,31],["2sa",19,4]]],
+    "quote": "2 Samuel 18:33",
+    "quote_ref": [[["2sa",18,33]]],
+    "tags": [["eternity","eternity"],["heaven","heaven"]],
+    "title": "Preventing Regret",
+    "url": "http://odb.org/2009/11/23/preventing-regret/"
   }
 ],
 "22": [

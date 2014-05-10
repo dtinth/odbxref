@@ -1,4 +1,17 @@
-{ "4": [
+{ "2": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Divorce","relationships/marriage-relationships/divorce-marriage-relationships-relationships/"],["Husband","relationships/marriage-relationships/husband-marriage-relationships-relationships/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Marriage","relationships/marriage-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Wife","relationships/marriage-relationships/wife-marriage-relationships-relationships/"]],
+    "date": [2009,2,26],
+    "passage": "Malachi 2:10-16",
+    "passage_ref": [[["mal",2,10],["mal",2,16]]],
+    "quote": "Malachi 2:15",
+    "quote_ref": [[["mal",2,15]]],
+    "tags": [["divorce","divorce"],["husband","husband"],["love for","love-for"],["wife","wife"]],
+    "title": "A Sad Split",
+    "url": "http://odb.org/2009/02/26/a-sad-split/"
+  }
+],
+"4": [
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,4,23],

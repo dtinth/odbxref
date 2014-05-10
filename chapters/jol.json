@@ -1,4 +1,15 @@
 { "2": [
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Confession","christian-life/sin-christian-life/confession-sin-christian-life-christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["sin","christian-life/sin-christian-life/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2009,12,14],
+    "passage": "Joel 2:12-17",
+    "passage_ref": [[["jol",2,12],["jol",2,17]]],
+    "quote": "Joel 2:12",
+    "quote_ref": [[["jol",2,12]]],
+    "tags": [["confession","confession"],["repentance","repentance"],["sovereignty","sovereignty"]],
+    "title": "Warning Lights",
+    "url": "http://odb.org/2009/12/14/warning-lights/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2012,4,25],

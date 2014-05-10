@@ -1,4 +1,15 @@
 { "1": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Depression","christian-life/emotions-christian-life/depression-emotions-christian-life-christian-life/"],["Disappointment","christian-life/emotions-christian-life/disappointment-emotions-christian-life-christian-life/"],["Discouragement","christian-life/emotions-christian-life/discouragement-emotions-christian-life-christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2009,2,24],
+    "passage": "Ruth 1:15-22",
+    "passage_ref": [[["rut",1,15],["rut",1,22]]],
+    "quote": "Ruth 1:21",
+    "quote_ref": [[["rut",1,21]]],
+    "tags": [["depression","depression"],["disappointment","disappointment"],["discouragement","discouragement"],["faithfulness","faithfulness"]],
+    "title": "Managing The Mess",
+    "url": "http://odb.org/2009/02/24/managing-the-mess/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Choices","christian-life/character-christian-life/choices-character-christian-life-christian-life/"],["Christian Life","christian-life/"],["Devotions","relationships/relating-to-god-relationships/devotions-relating-to-god-relationships-relationships/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Praise To","relationships/relating-to-god-relationships/praise-to-relating-to-god-relationships-relationships/"]],
     "date": [2014,4,13],
@@ -12,6 +23,17 @@
   }
 ],
 "2": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["His Will","basics-of-faith/god-basics-of-faith/his-will-god-basics-of-faith-basics-of-faith/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Presence","relationships/relating-to-god-relationships/presence-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2009,12,10],
+    "passage": "Ruth 2:1-12",
+    "passage_ref": [[["rut",2,1],["rut",2,12]]],
+    "quote": "Proverbs 3:6",
+    "quote_ref": [[["pro",3,6]]],
+    "tags": [["guidance","guidance"],["His will","his-will"],["leading","leading"],["presence","presence"]],
+    "title": "A Mere Happening?",
+    "url": "http://odb.org/2009/12/10/a-mere-happening/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Commitment","ministry-and-outreach/serving-ministry-and-outreach/commitment-serving-ministry-and-outreach-ministry-and-outreach/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
     "date": [2010,5,8],

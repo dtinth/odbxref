@@ -1,4 +1,15 @@
 { "3": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2009,1,21],
+    "passage": "Exodus 3:13-18",
+    "passage_ref": [[["exo",3,13],["exo",3,18]]],
+    "quote": "Exodus 15:11",
+    "quote_ref": [[["exo",15,11]]],
+    "tags": [["attributes","attributes"],["faithfulness","faithfulness"],["sovereignty","sovereignty"]],
+    "title": "The Perfect Sentence",
+    "url": "http://odb.org/2009/01/21/the-perfect-sentence/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Uncategorized","uncategorized/"]],
     "date": [2013,9,28],
@@ -143,6 +154,17 @@
   }
 ],
 "13": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Life Stories","life-stories-2/"],["New Testament","life-stories-2/new-testament-life-stories-2/"],["Old Testament","life-stories-2/old-testament-life-stories-2/"],["Power","bible-study/application-bible-study/power-application-bible-study/"]],
+    "date": [2009,11,6],
+    "passage": "Exodus 13:14-16",
+    "passage_ref": [[["exo",13,14],["exo",13,16]]],
+    "quote": "Exodus 12:26-27",
+    "quote_ref": [[["exo",12,26],["exo",12,27]]],
+    "tags": [["effect","effect"],["New Testament","new-testament"],["Old Testament","old-testament"],["power","power"]],
+    "title": "Where History Comes Alive",
+    "url": "http://odb.org/2009/11/06/where-history-comes-alive/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,5,7],
@@ -309,6 +331,17 @@
     "title": "Commandment 3—Respect God’s Name",
     "url": "http://odb.org/1994/09/13/commandment-3respect-gods-name/"
   }, 
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Choices","christian-life/character-christian-life/choices-character-christian-life-christian-life/"],["Christian Life","christian-life/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Decisions","christian-life/character-christian-life/decisions-character-christian-life-christian-life/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["Temptation","basics-of-faith/sin-basics-of-faith/temptation-sin-basics-of-faith-basics-of-faith/"],["Thinking","christian-life/character-christian-life/thinking-character-christian-life-christian-life/"],["Wisdom","christian-life/character-christian-life/wisdom-character-christian-life-christian-life/"]],
+    "date": [2009,1,28],
+    "passage": "Exodus 20:1-17",
+    "passage_ref": [[["exo",20,1],["exo",20,17]]],
+    "quote": "Exodus 20:3",
+    "quote_ref": [[["exo",20,3]]],
+    "tags": [["choices","choices"],["consequences","consequences"],["decisions","decisions"],["temptation","temptation"],["thinking","thinking"],["wisdom","wisdom"]],
+    "title": "Murphy’s Laws",
+    "url": "http://odb.org/2009/01/28/murphys-laws/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relationships","relationships/"]],
     "date": [2010,7,7],
@@ -439,6 +472,19 @@
     "tags": [["anger","anger"],["Bible","bible"],["God's glory","gods-glory"],["God's majesty","gods-majesty"],["idolatry","idolatry"],["obedience","obedience"],["slavery","slavery"],["surrender","surrender"],["worship","worship"]],
     "title": "Stray Hearts",
     "url": "http://odb.org/2013/10/20/stray-hearts/"
+  }
+],
+"33": [
+  { "author": ["Philip Yancey","philipyancey"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Father","relationships/relating-to-god-relationships/father-relating-to-god-relationships/"],["God","basics-of-faith/worship-basics-of-faith/god-worship-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"],["Worship","basics-of-faith/worship-basics-of-faith/"]],
+    "date": [2009,2,3],
+    "passage": "Exodus 33:1-11",
+    "passage_ref": [[["exo",33,1],["exo",33,11]]],
+    "quote": "Exodus 33:20",
+    "quote_ref": [[["exo",33,20]]],
+    "tags": [["father","father"],["God","god"],["submission","submission"]],
+    "title": "A Refresher Course On God’s Majesty",
+    "url": "http://odb.org/2009/02/03/a-refresher-course-on-gods-majesty/"
   }
 ],
 "34": [

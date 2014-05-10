@@ -1,4 +1,17 @@
-{ "8": [
+{ "6": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Praise To","relationships/relating-to-god-relationships/praise-to-relating-to-god-relationships-relationships/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2009,1,25],
+    "passage": "Numbers 6:22-27",
+    "passage_ref": [[["num",6,22],["num",6,27]]],
+    "quote": "Numbers 6:24",
+    "quote_ref": [[["num",6,24]]],
+    "tags": [["blessings from","blessings-from"],["praise to","praise-to"],["prayer","prayer"]],
+    "title": "Benediction Blessing",
+    "url": "http://odb.org/2009/01/25/benediction-blessing/"
+  }
+],
+"8": [
   { "author": ["C. P. Hia","cphia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2010,7,22],
@@ -49,6 +62,17 @@
   }
 ],
 "14": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Christian Life","christian-life/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Freedom","christian-life/lifestyle-issues-christian-life/freedom-lifestyle-issues-christian-life-christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Power","bible-study/application-bible-study/power-application-bible-study/"],["Promises","bible-study/application-bible-study/promises-application-bible-study-bible-study/"],["Understanding","bible-study/application-bible-study/understanding-application-bible-study-bible-study/"]],
+    "date": [2009,6,25],
+    "passage": "Numbers 14:1-10",
+    "passage_ref": [[["num",14,1],["num",14,10]]],
+    "quote": "Numbers 14:8",
+    "quote_ref": [[["num",14,8]]],
+    "tags": [["effect","effect"],["freedom","freedom"],["power","power"],["promises","promises"],["understanding","understanding"]],
+    "title": "Chimp Eden",
+    "url": "http://odb.org/2009/06/25/chimp-eden/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2011,7,10],

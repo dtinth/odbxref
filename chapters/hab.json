@@ -1,4 +1,17 @@
-{ "3": [
+{ "1": [
+  { "author": ["Philip Yancey","philipyancey"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Honesty","christian-life/character-christian-life/honesty-character-christian-life-christian-life/"],["Power For Living","relationships/relating-to-god-relationships/power-for-living-relating-to-god-relationships-relationships/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2009,1,13],
+    "passage": "Habakkuk 1:1-4",
+    "passage_ref": [[["hab",1,1],["hab",1,4]]],
+    "quote": "Job 7:11",
+    "quote_ref": [[["job",7,11]]],
+    "tags": [["honesty","honesty"],["power for living","power-for-living"],["prayer","prayer"]],
+    "title": "The Bible’s School Of Prayer",
+    "url": "http://odb.org/2009/01/13/the-bibles-school-of-prayer/"
+  }
+],
+"3": [
   { "author": ["Richard De Haan","richarddehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1994,8,3],

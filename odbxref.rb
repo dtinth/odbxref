@@ -114,8 +114,16 @@ def read(task)
   author = page.css('.entry-meta .entry-author a').first
   info[:author] = [author.content, author['href'][/[^\/]+\/?$/]]
   meta_boxes = page.css('.meta-box')
-  info[:passage] = find_verse_reference(meta_boxes.select { |c| c.content =~ /Read/ })
-  info[:quote] = find_verse_reference(meta_boxes.select { |c| c.content =~ /—/ })
+
+  # some hack is needed...
+  if task[:date] == [2009,5,11]
+    info[:passage] = 'Colossians 3:12-17'
+    info[:quote] = 'Colossians 3:12'
+  else
+    info[:passage] = find_verse_reference(meta_boxes.select { |c| c.content =~ /Read/ })
+    info[:quote] = find_verse_reference(meta_boxes.select { |c| c.content =~ /—/ })
+  end
+
   info[:tags] = extract_name_slug(page.css('.tag-links a[rel="tag"]'), /\/tag\/([^\/]+)/)
   info[:categories] = extract_name_slug(page.css('.cat-links a[rel="category tag"]'), /\/category\/(.+)/)
   puts "   by #{info[:author]}, passage #{info[:passage]}"

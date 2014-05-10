@@ -1,4 +1,15 @@
 { "1": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Choices","christian-life/character-christian-life/choices-character-christian-life-christian-life/"],["Christian Life","christian-life/"],["Decisions","christian-life/character-christian-life/decisions-character-christian-life-christian-life/"],["Husband","relationships/marriage-relationships/husband-marriage-relationships-relationships/"],["Marriage","relationships/marriage-relationships/"],["Purity","christian-life/character-christian-life/purity-character-christian-life-christian-life/"],["Relationships","relationships/"],["Thinking","christian-life/character-christian-life/thinking-character-christian-life-christian-life/"],["Wife","relationships/marriage-relationships/wife-marriage-relationships-relationships/"],["Wisdom","christian-life/character-christian-life/wisdom-character-christian-life-christian-life/"]],
+    "date": [2009,6,27],
+    "passage": "Proverbs 1:1-9",
+    "passage_ref": [[["pro",1,1],["pro",1,9]]],
+    "quote": "Proverbs 1:8",
+    "quote_ref": [[["pro",1,8]]],
+    "tags": [["choices","choices"],["decisions","decisions"],["husband","husband"],["purity","purity"],["thinking","thinking"],["wife","wife"],["wisdom","wisdom"]],
+    "title": "Advice For The Groom",
+    "url": "http://odb.org/2009/06/27/advice-for-the-groom/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
     "date": [2011,9,7],
@@ -69,6 +80,17 @@
   }
 ],
 "3": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Courage","christian-life/attitudes-christian-life/courage-attitudes-christian-life-christian-life/"],["Hope","christian-life/attitudes-christian-life/hope-attitudes-christian-life-christian-life/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
+    "date": [2009,2,12],
+    "passage": "Proverbs 3:1-8",
+    "passage_ref": [[["pro",3,1],["pro",3,8]]],
+    "quote": "Proverbs 3:6",
+    "quote_ref": [[["pro",3,6]]],
+    "tags": [["belief","belief"],["courage","courage"],["hope","hope"],["trust","trust"]],
+    "title": "Learning From Lincoln",
+    "url": "http://odb.org/2009/02/12/learning-from-lincoln/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2010,11,25],
@@ -194,6 +216,17 @@
     "title": "A Deadly Pet",
     "url": "http://odb.org/1994/12/06/a-deadly-pet/"
   }, 
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Humility","christian-life/attitudes-christian-life/humility-attitudes-christian-life-christian-life/"],["Obedience","relationships/relating-to-god-relationships/obedience-relating-to-god-relationships-relationships/"],["Pride","christian-life/attitudes-christian-life/pride-attitudes-christian-life-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"]],
+    "date": [2009,6,9],
+    "passage": "Proverbs 6:16-19",
+    "passage_ref": [[["pro",6,16],["pro",6,19]]],
+    "quote": "1 Peter 5:6",
+    "quote_ref": [[["1pe",5,6]]],
+    "tags": [["humility","humility"],["obedience","obedience"],["pride","pride"],["submission","submission"]],
+    "title": "Risk",
+    "url": "http://odb.org/2009/06/09/risk/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,5,6],
@@ -274,6 +307,19 @@
     "url": "http://odb.org/2013/07/21/arrogance-and-pride/"
   }
 ],
+"9": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Fear","christian-life/emotions-christian-life/fear-emotions-christian-life-christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"],["Thinking","christian-life/character-christian-life/thinking-character-christian-life-christian-life/"],["Wisdom","christian-life/character-christian-life/wisdom-character-christian-life-christian-life/"]],
+    "date": [2009,11,3],
+    "passage": "Proverbs 9:1-12",
+    "passage_ref": [[["pro",9,1],["pro",9,12]]],
+    "quote": "Proverbs 9:10",
+    "quote_ref": [[["pro",9,10]]],
+    "tags": [["authority","authority"],["fear","fear"],["sovereignty","sovereignty"],["thinking","thinking"],["wisdom","wisdom"]],
+    "title": "Helped By Fear",
+    "url": "http://odb.org/2009/11/03/helped-by-fear/"
+  }
+],
 "10": [
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -296,6 +342,17 @@
     "tags": [],
     "title": "From Intake to Output",
     "url": "http://odb.org/1994/06/03/from-intake-to-output/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Integrity","christian-life/character-christian-life/integrity-character-christian-life-christian-life/"],["Thinking","christian-life/character-christian-life/thinking-character-christian-life-christian-life/"],["Wisdom","christian-life/character-christian-life/wisdom-character-christian-life-christian-life/"]],
+    "date": [2009,1,5],
+    "passage": "Proverbs 10:11-21",
+    "passage_ref": [[["pro",10,11],["pro",10,21]]],
+    "quote": "Proverbs 10:19",
+    "quote_ref": [[["pro",10,19]]],
+    "tags": [["christlikeness","christlikeness"],["integrity","integrity"],["thinking","thinking"],["wisdom","wisdom"]],
+    "title": "A Lot To Remember",
+    "url": "http://odb.org/2009/01/05/a-lot-to-remember/"
   }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relationships","relationships/"]],
@@ -569,6 +626,19 @@
     "url": "http://odb.org/2012/07/18/the-best-things-in-life/"
   }
 ],
+"26": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Courtesy","christian-life/attitudes-christian-life/courtesy-attitudes-christian-life-christian-life/"],["Honesty","christian-life/character-christian-life/honesty-character-christian-life-christian-life/"],["Integrity","christian-life/character-christian-life/integrity-character-christian-life-christian-life/"],["Kindness","christian-life/attitudes-christian-life/kindness-attitudes-christian-life-christian-life/"],["Self Control","christian-life/character-christian-life/self-control-character-christian-life-christian-life/"]],
+    "date": [2009,11,28],
+    "passage": "Proverbs 26:20-28",
+    "passage_ref": [[["pro",26,20],["pro",26,28]]],
+    "quote": "Proverbs 26:20",
+    "quote_ref": [[["pro",26,20]]],
+    "tags": [["courtesy","courtesy"],["honesty","honesty"],["integrity","integrity"],["kindness","kindness"],["self-control","self-control"]],
+    "title": "Delivering The Dirt",
+    "url": "http://odb.org/2009/11/28/delivering-the-dirt/"
+  }
+],
 "30": [
   { "author": ["Haddon W. Robinson","haddonwrobinson"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -594,6 +664,17 @@
   }
 ],
 "31": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Children","relationships/family-relationships/children-family-relationships-relationships/"],["Family","relationships/family-relationships/"],["Mother","relationships/family-relationships/mother-family-relationships-relationships/"],["Parenting","relationships/family-relationships/parenting-family-relationships-relationships/"],["Relationships","relationships/"],["Youth","relationships/family-relationships/youth-family-relationships-relationships/"]],
+    "date": [2009,5,10],
+    "passage": "Proverbs 31:26-31",
+    "passage_ref": [[["pro",31,26],["pro",31,31]]],
+    "quote": "Deuteronomy 5:16",
+    "quote_ref": [[["deu",5,16]]],
+    "tags": [["children","children"],["mother","mother"],["parenting","parenting"],["youth","youth"]],
+    "title": "Magnets And Mothers",
+    "url": "http://odb.org/2009/05/10/magnets-and-mothers/"
+  }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Integrity","christian-life/character-christian-life/integrity-character-christian-life-christian-life/"],["Self Images","christian-life/character-christian-life/self-images-character-christian-life-christian-life/"],["Thinking","christian-life/character-christian-life/thinking-character-christian-life-christian-life/"],["Wisdom","christian-life/character-christian-life/wisdom-character-christian-life-christian-life/"]],
     "date": [2010,3,19],

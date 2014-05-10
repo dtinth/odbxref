@@ -117,6 +117,17 @@
   }
 ],
 "7": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2009,3,23],
+    "passage": "1 Samuel 7:3-12",
+    "passage_ref": [[["1sa",7,3],["1sa",7,12]]],
+    "quote": "1 Samuel 7:12",
+    "quote_ref": [[["1sa",7,12]]],
+    "tags": [["faithfulness","faithfulness"]],
+    "title": "Crazy Horse",
+    "url": "http://odb.org/2009/03/23/crazy-horse/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2010,9,19],
@@ -263,6 +274,28 @@
   }
 ],
 "20": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Encouragement","christian-life/attitudes-christian-life/encouragement-attitudes-christian-life-christian-life/"],["Gratitude","christian-life/attitudes-christian-life/gratitude-attitudes-christian-life-christian-life/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Thankfulness","christian-life/attitudes-christian-life/thankfulness-attitudes-christian-life-christian-life/"]],
+    "date": [2009,7,28],
+    "passage": "1 Samuel 20:12-17",
+    "passage_ref": [[["1sa",20,12],["1sa",20,17]]],
+    "quote": "1 Samuel 20:17",
+    "quote_ref": [[["1sa",20,17]]],
+    "tags": [["encouragement","encouragement"],["gratitude","gratitude"],["love for","love-for"],["thankfulness","thankfulness"]],
+    "title": "The Value Of Friends",
+    "url": "http://odb.org/2009/07/28/the-value-of-friends/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Confrontation","relationships/relating-to-others-relationships/confrontation-relating-to-others-relationships-relationships/"],["Life Stories","relationships/relating-to-others-relationships/life-stories-relating-to-others-relationships-relationships/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Testimonies","relationships/relating-to-others-relationships/testimonies-relating-to-others-relationships-relationships/"]],
+    "date": [2009,8,2],
+    "passage": "1 Samuel 20:30-42",
+    "passage_ref": [[["1sa",20,30],["1sa",20,42]]],
+    "quote": "Proverbs 12:26",
+    "quote_ref": [[["pro",12,26]]],
+    "tags": [["confrontation","confrontation"],["life stories","life-stories"],["love for","love-for"],["testimonies","testimonies"]],
+    "title": "Best Friends",
+    "url": "http://odb.org/2009/08/02/best-friends/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Body Of Christ","basics-of-faith/church-basics-of-faith/body-of-christ-church-basics-of-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relationships","relationships/"]],
     "date": [2011,8,17],

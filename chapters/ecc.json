@@ -1,5 +1,16 @@
 { "2": [
   { "author": ["C. P. Hia","cphia"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Heaven","basics-of-faith/future-prophecy-basics-of-faith/heaven-future-prophecy-basics-of-faith-basics-of-faith/"]],
+    "date": [2009,11,22],
+    "passage": "Ecclesiastes 2:15-26",
+    "passage_ref": [[["ecc",2,15],["ecc",2,26]]],
+    "quote": "Colossians 3:2",
+    "quote_ref": [[["col",3,2]]],
+    "tags": [["eternity","eternity"],["heaven","heaven"]],
+    "title": "Heaven On Earth?",
+    "url": "http://odb.org/2009/11/22/heaven-on-earth/"
+  }, 
+  { "author": ["C. P. Hia","cphia"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Contentment","christian-life/attitudes-christian-life/contentment-attitudes-christian-life-christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Happiness","christian-life/emotions-christian-life/happiness-emotions-christian-life-christian-life/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Joy","christian-life/attitudes-christian-life/joy-attitudes-christian-life-christian-life/"],["Joy","christian-life/emotions-christian-life/joy-emotions-christian-life/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
     "date": [2010,3,4],
     "passage": "Ecclesiastes 2:1-11",
@@ -66,6 +77,17 @@
     "tags": [],
     "title": "The Beauty Of Life",
     "url": "http://odb.org/1994/11/17/the-beauty-of-life/"
+  }, 
+  { "author": ["Philip Yancey","philipyancey"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Creator","basics-of-faith/god-basics-of-faith/creator-god-basics-of-faith-basics-of-faith/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["Existence","basics-of-faith/god-basics-of-faith/existence-god-basics-of-faith-basics-of-faith/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2009,7,21],
+    "passage": "Ecclesiastes 3:9-17",
+    "passage_ref": [[["ecc",3,9],["ecc",3,17]]],
+    "quote": "Ecclesiastes 3:11",
+    "quote_ref": [[["ecc",3,11]]],
+    "tags": [["creator","creator"],["eternity","eternity"],["existence","existence"],["faithfulness","faithfulness"]],
+    "title": "Eternity In Our Hearts",
+    "url": "http://odb.org/2009/07/21/eternity-in-our-hearts/"
   }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Contentment","christian-life/attitudes-christian-life/contentment-attitudes-christian-life-christian-life/"],["Expressions Of","christian-life/worship-christian-life/expressions-of-worship-christian-life-christian-life/"],["Joy","christian-life/attitudes-christian-life/joy-attitudes-christian-life-christian-life/"],["Making Time For","ministry-and-outreach/serving-ministry-and-outreach/making-time-for-serving-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"],["Worship","christian-life/worship-christian-life/"]],
@@ -200,6 +222,17 @@
   }
 ],
 "12": [
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Aging","christian-life/lifestyle-issues-christian-life/aging-lifestyle-issues-christian-life-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Heaven","basics-of-faith/future-prophecy-basics-of-faith/heaven-future-prophecy-basics-of-faith-basics-of-faith/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"]],
+    "date": [2009,6,10],
+    "passage": "Ecclesiastes 12:1-7",
+    "passage_ref": [[["ecc",12,1],["ecc",12,7]]],
+    "quote": "Psalm 37:25",
+    "quote_ref": [[["psa",37,25]]],
+    "tags": [["aging","aging"],["eternity","eternity"],["heaven","heaven"]],
+    "title": "Land Of Eternal Spring",
+    "url": "http://odb.org/2009/06/10/land-of-eternal-spring/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2013,6,3],
