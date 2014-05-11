@@ -1,4 +1,17 @@
-{ "6": [
+{ "5": [
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2008,2,4],
+    "passage": "Numbers 5:5-8",
+    "passage_ref": [[["num",5,5],["num",5,8]]],
+    "quote": "Numbers 5:6-7",
+    "quote_ref": [[["num",5,6],["num",5,7]]],
+    "tags": [["repentance","repentance"]],
+    "title": "Unlocking The Gate",
+    "url": "http://odb.org/2008/02/04/unlocking-the-gate/"
+  }
+],
+"6": [
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Praise To","relationships/relating-to-god-relationships/praise-to-relating-to-god-relationships-relationships/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2009,1,25],
@@ -48,7 +61,42 @@
     "url": "http://odb.org/2010/02/20/parked-for-now/"
   }
 ],
+"11": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Christian Life","christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Perserverence","christian-life/personal-crisis-christian-life/perserverence-personal-crisis-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Work","christian-life/lifestyle-issues-christian-life/work-lifestyle-issues-christian-life-christian-life/"]],
+    "date": [2005,3,7],
+    "passage": "Numbers 11:1-9",
+    "passage_ref": [[["num",11,1],["num",11,9]]],
+    "quote": "Numbers 11:6",
+    "quote_ref": [[["num",11,6]]],
+    "tags": [["perserverence","perserverence"],["work","work"]],
+    "title": "Boring?",
+    "url": "http://odb.org/2005/03/07/boring/"
+  }, 
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Contentment","christian-life/attitudes-christian-life/contentment-attitudes-christian-life-christian-life/"],["Gratitude","christian-life/attitudes-christian-life/gratitude-attitudes-christian-life-christian-life/"],["Thankfulness","christian-life/attitudes-christian-life/thankfulness-attitudes-christian-life-christian-life/"]],
+    "date": [2006,5,18],
+    "passage": "Numbers 11:1-10",
+    "passage_ref": [[["num",11,1],["num",11,10]]],
+    "quote": "Numbers 11:1",
+    "quote_ref": [[["num",11,1]]],
+    "tags": [["contentment","contentment"],["gratitude","gratitude"],["thankfulness","thankfulness"]],
+    "title": "Are You A Complainer?",
+    "url": "http://odb.org/2006/05/18/are-you-a-complainer/"
+  }
+],
 "13": [
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Anxiety","christian-life/personal-crisis-christian-life/anxiety-personal-crisis-christian-life-christian-life/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Stress","christian-life/personal-crisis-christian-life/stress-personal-crisis-christian-life-christian-life/"],["Worry","christian-life/personal-crisis-christian-life/worry-personal-crisis-christian-life-christian-life/"]],
+    "date": [2008,7,3],
+    "passage": "Numbers 13:26-33",
+    "passage_ref": [[["num",13,26],["num",13,33]]],
+    "quote": "Philippians 4:6",
+    "quote_ref": [[["php",4,6]]],
+    "tags": [["anxiety","anxiety"],["care","care"],["protection from","protection-from"],["stress","stress"],["worry","worry"]],
+    "title": "What, Me Worry?",
+    "url": "http://odb.org/2008/07/03/what-me-worry/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2011,7,10],
@@ -62,6 +110,17 @@
   }
 ],
 "14": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Criticism","relationships/relating-to-others-relationships/criticism-relating-to-others-relationships-relationships/"],["Humility","christian-life/attitudes-christian-life/humility-attitudes-christian-life-christian-life/"],["Judging","relationships/relating-to-others-relationships/judging-relating-to-others-relationships-relationships/"],["Meekness","christian-life/attitudes-christian-life/meekness-attitudes-christian-life-christian-life/"],["Pride","christian-life/attitudes-christian-life/pride-attitudes-christian-life-christian-life/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
+    "date": [2008,3,3],
+    "passage": "Numbers 14:1-5,26-27",
+    "passage_ref": [[["num",14,1],["num",14,5]],[["num",14,26],["num",14,27]]],
+    "quote": "Philippians 2:14",
+    "quote_ref": [[["php",2,14]]],
+    "tags": [["criticism","criticism"],["humility","humility"],["judging","judging"],["meekness","meekness"],["pride","pride"]],
+    "title": "An Impossible Challenge?",
+    "url": "http://odb.org/2008/03/03/an-impossible-challenge/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Christian Life","christian-life/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Freedom","christian-life/lifestyle-issues-christian-life/freedom-lifestyle-issues-christian-life-christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Power","bible-study/application-bible-study/power-application-bible-study/"],["Promises","bible-study/application-bible-study/promises-application-bible-study-bible-study/"],["Understanding","bible-study/application-bible-study/understanding-application-bible-study-bible-study/"]],
     "date": [2009,6,25],
@@ -85,6 +144,19 @@
     "url": "http://odb.org/2011/07/10/trouble-ahead/"
   }
 ],
+"15": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Presence","relationships/relating-to-god-relationships/presence-relating-to-god-relationships-relationships/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2006,6,1],
+    "passage": "Numbers 15:37-41",
+    "passage_ref": [[["num",15,37],["num",15,41]]],
+    "quote": "Numbers 15:38",
+    "quote_ref": [[["num",15,38]]],
+    "tags": [["care","care"],["presence","presence"],["protection from","protection-from"]],
+    "title": "The Color Of Blue",
+    "url": "http://odb.org/2006/06/01/the-color-of-blue/"
+  }
+],
 "20": [
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -96,6 +168,19 @@
     "tags": [["Bible","bible"],["God's will","gods-will"],["guidance","guidance"],["leading","leading"],["obedience","obedience"],["submission","submission"]],
     "title": "Are You Listening?",
     "url": "http://odb.org/2011/05/28/are-you-listening-3/"
+  }
+],
+"21": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Cross","basics-of-faith/jesus-christ-basics-of-faith/cross-jesus-christ-basics-of-faith-basics-of-faith/"],["Death","basics-of-faith/jesus-christ-basics-of-faith/death-jesus-christ-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"]],
+    "date": [2007,11,9],
+    "passage": "Numbers 21:1-9",
+    "passage_ref": [[["num",21,1],["num",21,9]]],
+    "quote": "John 3:14-15",
+    "quote_ref": [[["jhn",3,14],["jhn",3,15]]],
+    "tags": [["cross","cross"],["death","death"]],
+    "title": "The Great Pandemic",
+    "url": "http://odb.org/2007/11/09/the-great-pandemic/"
   }
 ],
 "22": [

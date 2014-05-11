@@ -37,6 +37,9 @@ end
 def fix_passage(text)
   text = text.strip
   text.sub! %r(\.$),            ''                         # 1994-10-07
+  text.sub! 'Rev.',             'Revelation'               # 2005-03-31
+  text.sub! 'Psalms',           'Psalm'                    # 2005-12-01
+  text.sub! '7 Matthew',        '7; Matthew'               # 2005-12-04
   text.sub! 'Col.',             'Colossians'               # 2009-09-29
   text.sub! '1 Thess.',         '1 Thessalonians'          # 2010-03-05
   text.sub! '1 Cor.',           '1 Corinthians'            # 2010-03-12
@@ -105,7 +108,7 @@ command :chapters do |c|
 
     filename = "chapters/index.json"
     puts "==> #{filename}"
-    index[:state] = "Articles in 1994, 2009-2013, 2014 (Jan-Apr) have been indexed. 1995-2008 will be indexed by next month, hopefully."
+    index[:state] = "Articles in 1994, 2005-2013, 2014 (Jan-Apr) have been indexed. 1995-2004 will be indexed by next month, hopefully."
     File.write(filename, my_pretty_json(index, 3, 0))
 
   end

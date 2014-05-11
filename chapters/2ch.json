@@ -63,7 +63,42 @@
     "url": "http://odb.org/2012/10/11/panic-or-pray/"
   }
 ],
+"15": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Will","basics-of-faith/god-basics-of-faith/his-will-god-basics-of-faith-basics-of-faith/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2008,8,20],
+    "passage": "2 Chronicles 15:1-15",
+    "passage_ref": [[["2ch",15,1],["2ch",15,15]]],
+    "quote": "1 Chronicles 28:9",
+    "quote_ref": [[["1ch",28,9]]],
+    "tags": [["authority","authority"],["His will","his-will"],["sovereignty","sovereignty"]],
+    "title": "Whose Side Is God On?",
+    "url": "http://odb.org/2008/08/20/whose-side-is-god-on/"
+  }
+],
 "16": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Humility","christian-life/attitudes-christian-life/humility-attitudes-christian-life-christian-life/"],["Pride","christian-life/attitudes-christian-life/pride-attitudes-christian-life-christian-life/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
+    "date": [2005,7,18],
+    "passage": "2 Chronicles 16:1-13",
+    "passage_ref": [[["2ch",16,1],["2ch",16,13]]],
+    "quote": "2 Chronicles 14:11",
+    "quote_ref": [[["2ch",14,11]]],
+    "tags": [["belief","belief"],["humility","humility"],["pride","pride"],["trust","trust"]],
+    "title": "A Brilliant Idea",
+    "url": "http://odb.org/2005/07/18/a-brilliant-idea/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Power","basics-of-faith/god-basics-of-faith/power-god-basics-of-faith-basics-of-faith/"],["Presence","relationships/relating-to-god-relationships/presence-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Strength","basics-of-faith/god-basics-of-faith/strength-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2008,8,10],
+    "passage": "2 Chronicles 16:7-14",
+    "passage_ref": [[["2ch",16,7],["2ch",16,14]]],
+    "quote": "2 Chronicles 16:9",
+    "quote_ref": [[["2ch",16,9]]],
+    "tags": [["attributes","attributes"],["power","power"],["presence","presence"],["strength","strength"]],
+    "title": "The Eye Of God",
+    "url": "http://odb.org/2008/08/10/the-eye-of-god/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Uncategorized","uncategorized/"]],
     "date": [2013,9,12],
@@ -77,6 +112,17 @@
   }
 ],
 "17": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Obedience","relationships/relating-to-god-relationships/obedience-relating-to-god-relationships-relationships/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2005,3,18],
+    "passage": "2 Chronicles 17:3-10",
+    "passage_ref": [[["2ch",17,3],["2ch",17,10]]],
+    "quote": "Proverbs 15:33",
+    "quote_ref": [[["pro",15,33]]],
+    "tags": [["obedience","obedience"]],
+    "title": "Is Fear Healthy?",
+    "url": "http://odb.org/2005/03/18/is-fear-healthy/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Uncategorized","uncategorized/"]],
     "date": [2013,9,13],
@@ -87,6 +133,32 @@
     "tags": [["christlikeness","christlikeness"],["example","example"],["father","father"],["God the Father","god-the-father"],["idolatry","idolatry"],["the law","the-law"],["worship","worship"]],
     "title": "A Father To Follow",
     "url": "http://odb.org/2013/09/13/a-father-to-follow/"
+  }
+],
+"18": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Christian Life","christian-life/"],["Perserverence","christian-life/personal-crisis-christian-life/perserverence-personal-crisis-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"]],
+    "date": [2005,12,6],
+    "passage": "2 Chronicles 18:28,19:3",
+    "passage_ref": [[["2ch",18,28]],[["2ch",19,3]]],
+    "quote": "2 Corinthians 6:14",
+    "quote_ref": [[["2co",6,14]]],
+    "tags": [["perserverence","perserverence"],["submission","submission"]],
+    "title": "Choose Your Alliances Carefully",
+    "url": "http://odb.org/2005/12/06/choose-your-alliances-carefully/"
+  }
+],
+"19": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Christian Life","christian-life/"],["Perserverence","christian-life/personal-crisis-christian-life/perserverence-personal-crisis-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"]],
+    "date": [2005,12,6],
+    "passage": "2 Chronicles 18:28,19:3",
+    "passage_ref": [[["2ch",18,28]],[["2ch",19,3]]],
+    "quote": "2 Corinthians 6:14",
+    "quote_ref": [[["2co",6,14]]],
+    "tags": [["perserverence","perserverence"],["submission","submission"]],
+    "title": "Choose Your Alliances Carefully",
+    "url": "http://odb.org/2005/12/06/choose-your-alliances-carefully/"
   }
 ],
 "20": [
@@ -100,6 +172,17 @@
     "tags": [],
     "title": "Nothing Left But God",
     "url": "http://odb.org/1994/12/20/nothing-left-but-god/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Christian Life","christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Fear","christian-life/emotions-christian-life/fear-emotions-christian-life-christian-life/"]],
+    "date": [2006,10,27],
+    "passage": "2 Chronicles 20:5-17",
+    "passage_ref": [[["2ch",20,5],["2ch",20,17]]],
+    "quote": "2 Chronicles 20:12",
+    "quote_ref": [[["2ch",20,12]]],
+    "tags": [["fear","fear"]],
+    "title": "What Now?",
+    "url": "http://odb.org/2006/10/27/what-now/"
   }, 
   { "author": ["Joanie Yoder","joanieyoder"],
     "categories": [["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
@@ -196,6 +279,43 @@
     "tags": [],
     "title": "A Fresh Start",
     "url": "http://odb.org/1994/02/19/a-fresh-start/"
+  }
+],
+"34": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Understanding","bible-study/application-bible-study/understanding-application-bible-study-bible-study/"]],
+    "date": [2007,2,16],
+    "passage": "2 Chronicles 34:14-21",
+    "passage_ref": [[["2ch",34,14],["2ch",34,21]]],
+    "quote": "2 Chronicles 34:15",
+    "quote_ref": [[["2ch",34,15]]],
+    "tags": [["understanding","understanding"]],
+    "title": "The Best Find",
+    "url": "http://odb.org/2007/02/16/the-best-find/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Power","bible-study/application-bible-study/power-application-bible-study/"]],
+    "date": [2007,9,25],
+    "passage": "2 Chronicles 34:14-21",
+    "passage_ref": [[["2ch",34,14],["2ch",34,21]]],
+    "quote": "2 Chronicles 34:15",
+    "quote_ref": [[["2ch",34,15]]],
+    "tags": [["effect","effect"],["power","power"]],
+    "title": "Mosquito Paradise",
+    "url": "http://odb.org/2007/09/25/mosquito-paradise/"
+  }
+],
+"36": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Obedience","relationships/relating-to-god-relationships/obedience-relating-to-god-relationships-relationships/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2006,6,10],
+    "passage": "2 Chronicles 36:15-21",
+    "passage_ref": [[["2ch",36,15],["2ch",36,21]]],
+    "quote": "2 Chronicles 36:16",
+    "quote_ref": [[["2ch",36,16]]],
+    "tags": [["care","care"],["obedience","obedience"],["protection from","protection-from"]],
+    "title": "Who Knows Best?",
+    "url": "http://odb.org/2006/06/10/who-knows-best/"
   }
 ]
 }

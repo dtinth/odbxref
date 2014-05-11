@@ -1,4 +1,15 @@
 { "3": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Thinking","christian-life/character-christian-life/thinking-character-christian-life-christian-life/"],["Wisdom","christian-life/character-christian-life/wisdom-character-christian-life-christian-life/"]],
+    "date": [2007,9,22],
+    "passage": "1 Kings 3:4-14",
+    "passage_ref": [[["1ki",3,4],["1ki",3,14]]],
+    "quote": "1 Kings 3:9",
+    "quote_ref": [[["1ki",3,9]]],
+    "tags": [["thinking","thinking"],["wisdom","wisdom"]],
+    "title": "Wandering From Wisdom",
+    "url": "http://odb.org/2007/09/22/wandering-from-wisdom/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Thinking","christian-life/character-christian-life/thinking-character-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"],["Wisdom","christian-life/character-christian-life/wisdom-character-christian-life-christian-life/"]],
     "date": [2009,12,9],
@@ -36,6 +47,17 @@
   }
 ],
 "8": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Disappointment","christian-life/emotions-christian-life/disappointment-emotions-christian-life-christian-life/"],["Discouragement","christian-life/emotions-christian-life/discouragement-emotions-christian-life-christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"],["Role Of","basics-of-faith/jesus-christ-basics-of-faith/role-of-jesus-christ-basics-of-faith-basics-of-faith/"]],
+    "date": [2008,12,15],
+    "passage": "1 Kings 8:54-61",
+    "passage_ref": [[["1ki",8,54],["1ki",8,61]]],
+    "quote": "1 Kings 8:56",
+    "quote_ref": [[["1ki",8,56]]],
+    "tags": [["disappointment","disappointment"],["discouragement","discouragement"],["life example","life-example"],["role of","role-of"]],
+    "title": "Never Disappointed",
+    "url": "http://odb.org/2008/12/15/never-disappointed/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2012,8,7],
@@ -85,6 +107,17 @@
     "url": "http://odb.org/1994/05/02/what-does-he-want/"
   }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Choices","christian-life/character-christian-life/choices-character-christian-life-christian-life/"],["Christian Life","christian-life/"],["Decisions","christian-life/character-christian-life/decisions-character-christian-life-christian-life/"],["Thinking","christian-life/character-christian-life/thinking-character-christian-life-christian-life/"],["Wisdom","christian-life/character-christian-life/wisdom-character-christian-life-christian-life/"]],
+    "date": [2006,7,10],
+    "passage": "1 Kings 11:1-13",
+    "passage_ref": [[["1ki",11,1],["1ki",11,13]]],
+    "quote": "1 Kings 11:6",
+    "quote_ref": [[["1ki",11,6]]],
+    "tags": [["choices","choices"],["decisions","decisions"],["thinking","thinking"],["wisdom","wisdom"]],
+    "title": "Brains Are Not Enough",
+    "url": "http://odb.org/2006/07/10/brains-are-not-enough/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Character","christian-life/character-christian-life/"],["Choices","christian-life/character-christian-life/choices-character-christian-life-christian-life/"],["Christian Life","christian-life/"],["Decisions","christian-life/character-christian-life/decisions-character-christian-life-christian-life/"],["Husband","relationships/marriage-relationships/husband-marriage-relationships-relationships/"],["Marriage","relationships/marriage-relationships/"],["Relationships","relationships/"],["Thinking","christian-life/character-christian-life/thinking-character-christian-life-christian-life/"],["Wife","relationships/marriage-relationships/wife-marriage-relationships-relationships/"],["Wisdom","christian-life/character-christian-life/wisdom-character-christian-life-christian-life/"]],
     "date": [2009,8,26],
     "passage": "1 Kings 11:4-13",
@@ -129,6 +162,19 @@
     "url": "http://odb.org/2012/10/30/stand-fast/"
   }
 ],
+"13": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Choices","christian-life/character-christian-life/choices-character-christian-life-christian-life/"],["Christian Life","christian-life/"],["Decisions","christian-life/character-christian-life/decisions-character-christian-life-christian-life/"],["Peer Presures","relationships/relating-to-others-relationships/peer-presures-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
+    "date": [2006,6,5],
+    "passage": "1 Kings 13:7-22",
+    "passage_ref": [[["1ki",13,7],["1ki",13,22]]],
+    "quote": "1 Kings 13:9",
+    "quote_ref": [[["1ki",13,9]]],
+    "tags": [["choices","choices"],["decisions","decisions"],["peer presures","peer-presures"]],
+    "title": "It’s What God Says",
+    "url": "http://odb.org/2006/06/05/its-what-god-says/"
+  }
+],
 "14": [
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Uncategorized","uncategorized/"]],
@@ -140,6 +186,19 @@
     "tags": [["christlikeness","christlikeness"],["evil","evil"],["example","example"],["faithfulness","faithfulness"],["God's goodness","gods-goodness"],["idolatry","idolatry"],["leadership","leadership"],["sin","sin-christian-life"]],
     "title": "The Good And The Bad",
     "url": "http://odb.org/2013/09/22/the-good-and-the-bad-2/"
+  }
+],
+"15": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2007,5,9],
+    "passage": "1 Kings 15:1-5,11",
+    "passage_ref": [[["1ki",15,1],["1ki",15,5]],[["1ki",15,11]]],
+    "quote": "1 Kings 15:5",
+    "quote_ref": [[["1ki",15,5]]],
+    "tags": [["repentance","repentance"]],
+    "title": "The Truth About Sin",
+    "url": "http://odb.org/2007/05/09/the-truth-about-sin/"
   }
 ],
 "17": [
@@ -166,6 +225,50 @@
     "tags": [],
     "title": "Renewed Hope",
     "url": "http://odb.org/1994/11/05/renewed-hope/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Devotions","relationships/relating-to-god-relationships/devotions-relating-to-god-relationships-relationships/"],["Quiet Time","relationships/relating-to-god-relationships/quiet-time-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2007,2,8],
+    "passage": "1 Kings 19:1-10",
+    "passage_ref": [[["1ki",19,1],["1ki",19,10]]],
+    "quote": "Mark 1:35",
+    "quote_ref": [[["mrk",1,35]]],
+    "tags": [["devotions","devotions"],["quiet time","quiet-time"]],
+    "title": "Castaway",
+    "url": "http://odb.org/2007/02/08/castaway/"
+  }, 
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2007,9,2],
+    "passage": "1 Kings 19:1-12",
+    "passage_ref": [[["1ki",19,1],["1ki",19,12]]],
+    "quote": "1 Kings 19:12",
+    "quote_ref": [[["1ki",19,12]]],
+    "tags": [],
+    "title": "Quiet, Please",
+    "url": "http://odb.org/2007/09/02/quiet-please/"
+  }, 
+  { "author": ["Philip Yancey","philipyancey"],
+    "categories": [["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2008,5,27],
+    "passage": "1 Kings 19:9-12",
+    "passage_ref": [[["1ki",19,9],["1ki",19,12]]],
+    "quote": "Psalm 46:10",
+    "quote_ref": [[["psa",46,10]]],
+    "tags": [["guidance","guidance"],["leading","leading"],["prayer","prayer"]],
+    "title": "Can We Really Hear From God?",
+    "url": "http://odb.org/2008/05/27/can-we-really-hear-from-god/"
+  }, 
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Christian Life","christian-life/"],["Depression","christian-life/emotions-christian-life/depression-emotions-christian-life-christian-life/"],["Disappointment","christian-life/emotions-christian-life/disappointment-emotions-christian-life-christian-life/"],["Discouragement","christian-life/emotions-christian-life/discouragement-emotions-christian-life-christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2008,12,26],
+    "passage": "1 Kings 19:1-12",
+    "passage_ref": [[["1ki",19,1],["1ki",19,12]]],
+    "quote": "1 Kings 19:12",
+    "quote_ref": [[["1ki",19,12]]],
+    "tags": [["care","care"],["depression","depression"],["disappointment","disappointment"],["discouragement","discouragement"],["protection from","protection-from"]],
+    "title": "He Can Lead You Out Of It",
+    "url": "http://odb.org/2008/12/26/he-can-lead-you-out-of-it/"
   }, 
   { "author": ["Albert Lee","albertlee"],
     "categories": [["Devotions","relationships/relating-to-god-relationships/devotions-relating-to-god-relationships-relationships/"],["Fellowship With","relationships/relating-to-god-relationships/fellowship-with-relating-to-god-relationships-relationships/"],["Presence","relationships/relating-to-god-relationships/presence-relating-to-god-relationships-relationships/"],["Quiet Time","relationships/relating-to-god-relationships/quiet-time-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
@@ -260,6 +363,17 @@
     "tags": [],
     "title": "Learning From Dad",
     "url": "http://odb.org/1994/08/05/learning-from-dad/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Power","bible-study/application-bible-study/power-application-bible-study/"]],
+    "date": [2007,4,28],
+    "passage": "1 Kings 22:1-8",
+    "passage_ref": [[["1ki",22,1],["1ki",22,8]]],
+    "quote": "1 Kings 22:5",
+    "quote_ref": [[["1ki",22,5]]],
+    "tags": [["effect","effect"],["power","power"]],
+    "title": "Newsroom Mix-Up",
+    "url": "http://odb.org/2007/04/28/newsroom-mix-up/"
   }
 ]
 }

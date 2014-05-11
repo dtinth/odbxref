@@ -1,4 +1,15 @@
 { "2": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Grace","basics-of-faith/salvation-basics-of-faith/grace-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
+    "date": [2007,3,27],
+    "passage": "Judges 2:7-19",
+    "passage_ref": [[["jdg",2,7],["jdg",2,19]]],
+    "quote": "Judges 2:16",
+    "quote_ref": [[["jdg",2,16]]],
+    "tags": [["grace","grace"]],
+    "title": "Unlikely Heroes",
+    "url": "http://odb.org/2007/03/27/unlikely-heroes/"
+  }, 
   { "author": ["C. P. Hia","cphia"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["General Info","basics-of-faith/christian-faith-basics-of-faith/general-info-christian-faith-basics-of-faith-basics-of-faith/"],["New Birth","basics-of-faith/salvation-basics-of-faith/new-birth-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
     "date": [2010,5,19],
@@ -25,6 +36,17 @@
   }
 ],
 "6": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Fear","christian-life/emotions-christian-life/fear-emotions-christian-life-christian-life/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
+    "date": [2005,4,26],
+    "passage": "Judges 6:11-16,33-40",
+    "passage_ref": [[["jdg",6,11],["jdg",6,16]],[["jdg",6,33],["jdg",6,40]]],
+    "quote": "Judges 6:23",
+    "quote_ref": [[["jdg",6,23]]],
+    "tags": [["belief","belief"],["fear","fear"],["trust","trust"]],
+    "title": "From Worms To Wars",
+    "url": "http://odb.org/2005/04/26/from-worms-to-wars/"
+  }, 
   { "author": ["Albert Lee","albertlee"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relationships","relationships/"]],
     "date": [2011,6,22],
@@ -83,6 +105,19 @@
     "tags": [["anger","anger"],["compassion","compassion"],["God's glory","gods-glory"],["kindness","kindness"],["love for others","love-for-others"],["speech","speech"],["unity","unity"]],
     "title": "Talk Low, Talk Slow",
     "url": "http://odb.org/2011/03/29/talk-low-talk-slow/"
+  }
+],
+"13": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2005,3,22],
+    "passage": "Judges 13:15-23",
+    "passage_ref": [[["jdg",13,15],["jdg",13,23]]],
+    "quote": "Hebrews 1:1-2",
+    "quote_ref": [[["heb",1,1],["heb",1,2]]],
+    "tags": [["attributes","attributes"],["His love","his-love"]],
+    "title": "Our Mysterious God",
+    "url": "http://odb.org/2005/03/22/our-mysterious-god/"
   }
 ],
 "16": [

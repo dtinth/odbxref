@@ -1,4 +1,43 @@
-{ "12": [
+{ "1": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Heaven","basics-of-faith/future-prophecy-basics-of-faith/heaven-future-prophecy-basics-of-faith-basics-of-faith/"],["Hope","christian-life/attitudes-christian-life/hope-attitudes-christian-life-christian-life/"]],
+    "date": [2005,12,2],
+    "passage": "Ezekiel 1:1-5,22-28",
+    "passage_ref": [[["ezk",1,1],["ezk",1,5]],[["ezk",1,22],["ezk",1,28]]],
+    "quote": "Ezekiel 1:28",
+    "quote_ref": [[["ezk",1,28]]],
+    "tags": [["heaven","heaven"],["hope","hope"]],
+    "title": "Just Imagine!",
+    "url": "http://odb.org/2005/12/02/just-imagine/"
+  }
+],
+"2": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Life Stories","ministry-and-outreach/life-stories-ministry-and-outreach/"],["Ministry","ministry-and-outreach/life-stories-ministry-and-outreach/ministry-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Service","ministry-and-outreach/life-stories-ministry-and-outreach/service-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Sharign Christ","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/sharing-christ-sharing-the-gospel-ministry-and-outreach-ministry-and-outreach/"],["Sharing The Gospel","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/"]],
+    "date": [2005,1,15],
+    "passage": "Ezekiel 2:1-3:4",
+    "passage_ref": [[["ezk",2,1],["ezk",3,4]]],
+    "quote": "Psalm 119:1",
+    "quote_ref": [[["psa",119,1]]],
+    "tags": [["inviting others to Christ","inviting-others-to-christ"],["ministry","ministry"],["service","service"]],
+    "title": "Social Stomachs",
+    "url": "http://odb.org/2005/01/15/social-stomachs/"
+  }
+],
+"3": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Life Stories","ministry-and-outreach/life-stories-ministry-and-outreach/"],["Ministry","ministry-and-outreach/life-stories-ministry-and-outreach/ministry-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Service","ministry-and-outreach/life-stories-ministry-and-outreach/service-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Sharign Christ","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/sharing-christ-sharing-the-gospel-ministry-and-outreach-ministry-and-outreach/"],["Sharing The Gospel","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/"]],
+    "date": [2005,1,15],
+    "passage": "Ezekiel 2:1-3:4",
+    "passage_ref": [[["ezk",2,1],["ezk",3,4]]],
+    "quote": "Psalm 119:1",
+    "quote_ref": [[["psa",119,1]]],
+    "tags": [["inviting others to Christ","inviting-others-to-christ"],["ministry","ministry"],["service","service"]],
+    "title": "Social Stomachs",
+    "url": "http://odb.org/2005/01/15/social-stomachs/"
+  }
+],
+"12": [
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Forgiveness Of","basics-of-faith/sin-basics-of-faith/forgiveness-of-sin-basics-of-faith-basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
     "date": [2010,1,26],
@@ -83,6 +122,17 @@
     "tags": [],
     "title": "For Now—or Forever?",
     "url": "http://odb.org/1994/02/07/for-nowor-forever/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Power","bible-study/application-bible-study/power-application-bible-study/"],["Understanding","bible-study/application-bible-study/understanding-application-bible-study-bible-study/"]],
+    "date": [2005,5,26],
+    "passage": "Ezekiel 33:23-33",
+    "passage_ref": [[["ezk",33,23],["ezk",33,33]]],
+    "quote": "James 1:21",
+    "quote_ref": [[["jas",1,21]]],
+    "tags": [["effect","effect"],["power","power"],["understanding","understanding"]],
+    "title": "For Now And Forever",
+    "url": "http://odb.org/2005/05/26/for-now-and-forever/"
   }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Bible Study","bible-study/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Obedience","relationships/relating-to-god-relationships/obedience-relating-to-god-relationships-relationships/"],["Reading","bible-study/ways-to-study-bible-study/reading-ways-to-study-bible-study-bible-study/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Ways To Study","bible-study/ways-to-study-bible-study/"]],

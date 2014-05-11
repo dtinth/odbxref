@@ -11,6 +11,30 @@
     "url": "http://odb.org/2009/02/26/a-sad-split/"
   }
 ],
+"3": [
+  { "author": ["Paul Van Gorder","paulvangorder"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["God","basics-of-faith/god-basics-of-faith/"],["Power","bible-study/application-bible-study/power-application-bible-study/"]],
+    "date": [2005,4,20],
+    "passage": "Malachi 3:6-12",
+    "passage_ref": [[["mal",3,6],["mal",3,12]]],
+    "quote": "Malachi 3:6",
+    "quote_ref": [[["mal",3,6]]],
+    "tags": [["attributes","attributes"],["authority","authority"],["effect","effect"],["power","power"]],
+    "title": "A God Of Absolutes",
+    "url": "http://odb.org/2005/04/20/a-god-of-absolutes/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Love For","relationships/relating-to-god-relationships/love-for-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2007,10,12],
+    "passage": "Malachi 3:1-6",
+    "passage_ref": [[["mal",3,1],["mal",3,6]]],
+    "quote": "James 1:27",
+    "quote_ref": [[["jas",1,27]]],
+    "tags": [["love for","love-for"]],
+    "title": "Orphans And Widows",
+    "url": "http://odb.org/2007/10/12/orphans-and-widows/"
+  }
+],
 "4": [
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],

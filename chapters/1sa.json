@@ -21,6 +21,17 @@
     "title": "Who Gets Our Kids?",
     "url": "http://odb.org/1994/09/27/who-gets-our-kids/"
   }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Christian Life","christian-life/"],["Disappointment","christian-life/emotions-christian-life/disappointment-emotions-christian-life-christian-life/"],["Discouragement","christian-life/emotions-christian-life/discouragement-emotions-christian-life-christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Fellowship With","relationships/relating-to-god-relationships/fellowship-with-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2007,3,5],
+    "passage": "1 Samuel 1:9-18",
+    "passage_ref": [[["1sa",1,9],["1sa",1,18]]],
+    "quote": "1 Samuel 1:15",
+    "quote_ref": [[["1sa",1,15]]],
+    "tags": [["disappointment","disappointment"],["discouragement","discouragement"],["fellowship with","fellowship-with"]],
+    "title": "Inner Turmoil",
+    "url": "http://odb.org/2007/03/05/inner-turmoil/"
+  }, 
   { "author": ["Randy Kilgore","randykilgore"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2011,1,3],
@@ -69,6 +80,28 @@
   }
 ],
 "3": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Life Stories","ministry-and-outreach/life-stories-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Missions","ministry-and-outreach/life-stories-ministry-and-outreach/missions-life-stories-ministry-and-outreach/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2005,2,1],
+    "passage": "1 Samuel 3:1-10",
+    "passage_ref": [[["1sa",3,1],["1sa",3,10]]],
+    "quote": "1 Samuel 3:10",
+    "quote_ref": [[["1sa",3,10]]],
+    "tags": [["guidance","guidance"],["leading","leading"],["missions","missions"],["obedience","obedience"]],
+    "title": "A Clear Call",
+    "url": "http://odb.org/2005/02/01/a-clear-call/"
+  }, 
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Promises","bible-study/application-bible-study/promises-application-bible-study-bible-study/"]],
+    "date": [2006,11,21],
+    "passage": "1 Samuel 3:1-10",
+    "passage_ref": [[["1sa",3,1],["1sa",3,10]]],
+    "quote": "1 Samuel 3:9",
+    "quote_ref": [[["1sa",3,9]]],
+    "tags": [["promises","promises"]],
+    "title": "Hearing Aid",
+    "url": "http://odb.org/2006/11/21/hearing-aid/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,2,19],
@@ -202,6 +235,28 @@
   }
 ],
 "15": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Obedience","relationships/relating-to-god-relationships/obedience-relating-to-god-relationships-relationships/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2005,5,23],
+    "passage": "1 Samuel 15:10-23",
+    "passage_ref": [[["1sa",15,10],["1sa",15,23]]],
+    "quote": "1 Samuel 15:19",
+    "quote_ref": [[["1sa",15,19]]],
+    "tags": [["obedience","obedience"]],
+    "title": "\"I Will Be Good\"",
+    "url": "http://odb.org/2005/05/23/i-will-be-good/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2005,10,13],
+    "passage": "1 Samuel 15:13-23",
+    "passage_ref": [[["1sa",15,13],["1sa",15,23]]],
+    "quote": "1 Samuel 15:22",
+    "quote_ref": [[["1sa",15,22]]],
+    "tags": [["consequences","consequences"],["repentance","repentance"]],
+    "title": "Got Moles?",
+    "url": "http://odb.org/2005/10/13/got-moles/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,9,14],
@@ -238,6 +293,39 @@
 ],
 "16": [
   { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Criticism","relationships/relating-to-others-relationships/criticism-relating-to-others-relationships-relationships/"],["Judging","relationships/relating-to-others-relationships/judging-relating-to-others-relationships-relationships/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
+    "date": [2005,6,9],
+    "passage": "1 Samuel 16:1-7",
+    "passage_ref": [[["1sa",16,1],["1sa",16,7]]],
+    "quote": "1 Samuel 16:7",
+    "quote_ref": [[["1sa",16,7]]],
+    "tags": [["criticism","criticism"],["judging","judging"],["love for","love-for"]],
+    "title": "\"Dumb Ox\"",
+    "url": "http://odb.org/2005/06/09/dumb-ox/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Body Of Christ","basics-of-faith/church-basics-of-faith/body-of-christ-church-basics-of-faith-basics-of-faith/"],["Church","basics-of-faith/church-basics-of-faith/"],["Criticism","relationships/relating-to-others-relationships/criticism-relating-to-others-relationships-relationships/"],["Judging","relationships/relating-to-others-relationships/judging-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
+    "date": [2006,7,19],
+    "passage": "1 Samuel 16:1-13",
+    "passage_ref": [[["1sa",16,1],["1sa",16,13]]],
+    "quote": "1 Samuel 16:7",
+    "quote_ref": [[["1sa",16,7]]],
+    "tags": [["body of Christ","body-of-christ"],["criticism","criticism"],["judging","judging"]],
+    "title": "Looks And Life",
+    "url": "http://odb.org/2006/07/19/looks-and-life/"
+  }, 
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Criticism","relationships/relating-to-others-relationships/criticism-relating-to-others-relationships-relationships/"],["Judging","relationships/relating-to-others-relationships/judging-relating-to-others-relationships-relationships/"],["Life Stories","relationships/relating-to-others-relationships/life-stories-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Self Images","christian-life/character-christian-life/self-images-character-christian-life-christian-life/"],["Testimonies","relationships/relating-to-others-relationships/testimonies-relating-to-others-relationships-relationships/"]],
+    "date": [2008,11,20],
+    "passage": "1 Samuel 16:1-7",
+    "passage_ref": [[["1sa",16,1],["1sa",16,7]]],
+    "quote": "1 Samuel 16:7",
+    "quote_ref": [[["1sa",16,7]]],
+    "tags": [["criticism","criticism"],["judging","judging"],["life stories","life-stories"],["self-images","self-images"],["testimonies","testimonies"]],
+    "title": "Life’s Surprises",
+    "url": "http://odb.org/2008/11/20/lifes-surprises/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Uncategorized","uncategorized/"]],
     "date": [2013,11,29],
     "passage": "1 Samuel 16:1-7",
@@ -271,6 +359,19 @@
     "tags": [["christian faith","christian-faith"],["courage","courage"],["self-images","self-images"],["trust","trust"]],
     "title": "The Penny Syndrome",
     "url": "http://odb.org/2011/04/11/the-penny-syndrome/"
+  }
+],
+"18": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Thinking","christian-life/character-christian-life/thinking-character-christian-life-christian-life/"],["Wisdom","christian-life/character-christian-life/wisdom-character-christian-life-christian-life/"]],
+    "date": [2005,3,31],
+    "passage": "1 Samuel 18:1-5",
+    "passage_ref": [[["1sa",18,1],["1sa",18,5]]],
+    "quote": "1 Samuel 18:5",
+    "quote_ref": [[["1sa",18,5]]],
+    "tags": [["christlikeness","christlikeness"],["thinking","thinking"],["wisdom","wisdom"]],
+    "title": "Wise Behavior",
+    "url": "http://odb.org/2005/03/31/wise-behavior/"
   }
 ],
 "20": [
@@ -319,6 +420,32 @@
     "tags": [["eternal life","eternal-life"],["friendship","friendship"],["God's love","gods-love"],["God's will","gods-will"],["God's wisdom","gods-wisdom"],["love for others","love-for-others"],["prayer","prayer"]],
     "title": "Friendship",
     "url": "http://odb.org/2013/04/02/friendship/"
+  }
+],
+"25": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Bitterness","christian-life/emotions-christian-life/bitterness-emotions-christian-life-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Emotions","christian-life/emotions-christian-life/"]],
+    "date": [2008,5,2],
+    "passage": "1 Samuel 25:32-39",
+    "passage_ref": [[["1sa",25,32],["1sa",25,39]]],
+    "quote": "1 Samuel 25:39",
+    "quote_ref": [[["1sa",25,39]]],
+    "tags": [["bitterness","bitterness"],["christlikeness","christlikeness"]],
+    "title": "No Good Deed",
+    "url": "http://odb.org/2008/05/02/no-good-deed/"
+  }
+],
+"30": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Christian Life","christian-life/"],["Disappointment","christian-life/emotions-christian-life/disappointment-emotions-christian-life-christian-life/"],["Discouragement","christian-life/emotions-christian-life/discouragement-emotions-christian-life-christian-life/"],["Emotions","christian-life/emotions-christian-life/"]],
+    "date": [2008,1,8],
+    "passage": "1 Samuel 30:1-6",
+    "passage_ref": [[["1sa",30,1],["1sa",30,6]]],
+    "quote": "1 Samuel 30:6",
+    "quote_ref": [[["1sa",30,6]]],
+    "tags": [["disappointment","disappointment"],["discouragement","discouragement"]],
+    "title": "When Life Goes Bad",
+    "url": "http://odb.org/2008/01/08/when-life-goes-bad/"
   }
 ]
 }

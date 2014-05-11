@@ -9,6 +9,39 @@
     "tags": [],
     "title": "Teens and Those Who Love Them",
     "url": "http://odb.org/1994/03/25/teens-and-those-who-love-them/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Commitment","ministry-and-outreach/serving-ministry-and-outreach/commitment-serving-ministry-and-outreach-ministry-and-outreach/"],["Life Stories","relationships/relating-to-others-relationships/life-stories-relating-to-others-relationships-relationships/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"],["Testimonies","relationships/relating-to-others-relationships/testimonies-relating-to-others-relationships-relationships/"]],
+    "date": [2005,6,23],
+    "passage": "Daniel 1:1-16",
+    "passage_ref": [[["dan",1,1],["dan",1,16]]],
+    "quote": "Daniel 1:8",
+    "quote_ref": [[["dan",1,8]]],
+    "tags": [["commitment","commitment"],["life stories","life-stories"],["testimonies","testimonies"]],
+    "title": "Gaining Respect",
+    "url": "http://odb.org/2005/06/23/gaining-respect/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Idolatry","basics-of-faith/sin-basics-of-faith/idolatry-sin-basics-of-faith-basics-of-faith/"],["Life Stories","relationships/relating-to-others-relationships/life-stories-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["Testimonies","relationships/relating-to-others-relationships/testimonies-relating-to-others-relationships-relationships/"]],
+    "date": [2006,2,26],
+    "passage": "Daniel 1:1-6",
+    "passage_ref": [[["dan",1,1],["dan",1,6]]],
+    "quote": "Daniel 3:18",
+    "quote_ref": [[["dan",3,18]]],
+    "tags": [["idolatry","idolatry"],["life stories","life-stories"],["testimonies","testimonies"]],
+    "title": "Shine On!",
+    "url": "http://odb.org/2006/02/26/shine-on/"
+  }, 
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Criticism","relationships/relating-to-others-relationships/criticism-relating-to-others-relationships-relationships/"],["Encouragement","christian-life/attitudes-christian-life/encouragement-attitudes-christian-life-christian-life/"],["Judging","relationships/relating-to-others-relationships/judging-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
+    "date": [2006,8,2],
+    "passage": "Daniel 1:11-21",
+    "passage_ref": [[["dan",1,11],["dan",1,21]]],
+    "quote": "Proverbs 17:17",
+    "quote_ref": [[["pro",17,17]]],
+    "tags": [["criticism","criticism"],["encouragement","encouragement"],["judging","judging"]],
+    "title": "Three Friends",
+    "url": "http://odb.org/2006/08/02/three-friends/"
   }
 ],
 "2": [
@@ -25,6 +58,28 @@
   }
 ],
 "3": [
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Conscience","christian-life/attitudes-christian-life/conscience-attitudes-christian-life-christian-life/"],["Courage","christian-life/attitudes-christian-life/courage-attitudes-christian-life-christian-life/"]],
+    "date": [2005,10,18],
+    "passage": "Daniel 3:8-18",
+    "passage_ref": [[["dan",3,8],["dan",3,18]]],
+    "quote": "Daniel 3:18",
+    "quote_ref": [[["dan",3,18]]],
+    "tags": [["conscience","conscience"],["courage","courage"]],
+    "title": "Courage In The Crisis",
+    "url": "http://odb.org/2005/10/18/courage-in-the-crisis/"
+  }, 
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Anger","christian-life/emotions-christian-life/anger-emotions-christian-life-christian-life/"],["Christian Life","christian-life/"],["Emotions","christian-life/emotions-christian-life/"]],
+    "date": [2007,7,24],
+    "passage": "Daniel 3:8-20",
+    "passage_ref": [[["dan",3,8],["dan",3,20]]],
+    "quote": "Philippians 2:3",
+    "quote_ref": [[["php",2,3]]],
+    "tags": [["anger","anger"]],
+    "title": "Anger Management",
+    "url": "http://odb.org/2007/07/24/anger-management/"
+  }, 
   { "author": ["Albert Lee","albertlee"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,6,7],
@@ -46,6 +101,19 @@
     "tags": [["courage","courage"],["faithfulness","faithfulness"],["fear","fear"],["love for others","love-for-others"],["trials","trials"]],
     "title": "Standing In The Fire",
     "url": "http://odb.org/2012/09/19/standing-in-the-fire/"
+  }
+],
+"4": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Christian Life","christian-life/"],["Church Life","christian-life/church-life-christian-life/"],["Leadership","christian-life/church-life-christian-life/leadership-church-life-christian-life-christian-life/"]],
+    "date": [2006,10,11],
+    "passage": "Daniel 4:28-37",
+    "passage_ref": [[["dan",4,28],["dan",4,37]]],
+    "quote": "Daniel 4:37",
+    "quote_ref": [[["dan",4,37]]],
+    "tags": [["leadership","leadership"]],
+    "title": "Empire Building",
+    "url": "http://odb.org/2006/10/11/empire-building/"
   }
 ],
 "5": [
@@ -96,6 +164,17 @@
     "tags": [],
     "title": "Our Awesome God",
     "url": "http://odb.org/1994/03/20/our-awesome-god/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2007,11,28],
+    "passage": "Daniel 9:3-19",
+    "passage_ref": [[["dan",9,3],["dan",9,19]]],
+    "quote": "Daniel 9:3",
+    "quote_ref": [[["dan",9,3]]],
+    "tags": [["prayer","prayer"]],
+    "title": "An Old Man’s Prayer",
+    "url": "http://odb.org/2007/11/28/an-old-mans-prayer/"
   }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],

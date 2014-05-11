@@ -9,9 +9,31 @@
     "tags": [],
     "title": "Where Has Love Gone?",
     "url": "http://odb.org/1994/12/02/where-has-love-gone/"
+  }, 
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2005,8,3],
+    "passage": "Jeremiah 2:5-13",
+    "passage_ref": [[["jer",2,5],["jer",2,13]]],
+    "quote": "Jeremiah 2:5",
+    "quote_ref": [[["jer",2,5]]],
+    "tags": [["consequences","consequences"],["repentance","repentance"]],
+    "title": "We Don't Need You",
+    "url": "http://odb.org/2005/08/03/we-dont-need-you/"
   }
 ],
 "5": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Creator","basics-of-faith/god-basics-of-faith/creator-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2007,11,5],
+    "passage": "Jeremiah 5:20-29",
+    "passage_ref": [[["jer",5,20],["jer",5,29]]],
+    "quote": "Jeremiah 5:22",
+    "quote_ref": [[["jer",5,22]]],
+    "tags": [["creator","creator"]],
+    "title": "Boundaries",
+    "url": "http://odb.org/2007/11/05/boundaries/"
+  }, 
   { "author": ["C. P. Hia","cphia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,7,15],
@@ -37,6 +59,28 @@
     "url": "http://odb.org/1994/08/07/where-the-good-way-is/"
   }, 
   { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2005,6,24],
+    "passage": "Jeremiah 6:10-19",
+    "passage_ref": [[["jer",6,10],["jer",6,19]]],
+    "quote": "Jeremiah 6:14",
+    "quote_ref": [[["jer",6,14]]],
+    "tags": [["attributes","attributes"],["authority","authority"]],
+    "title": "Inadequate Treatment",
+    "url": "http://odb.org/2005/06/24/inadequate-treatment/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Bible Scripture","basics-of-faith/bible-scripture-basics-of-faith/"],["Reliability Of","basics-of-faith/bible-scripture-basics-of-faith/reliability-of-bible-scripture-basics-of-faith-basics-of-faith/"],["Truth Vs. Error","basics-of-faith/bible-scripture-basics-of-faith/truth-vs-error-bible-scripture-basics-of-faith-basics-of-faith/"]],
+    "date": [2008,5,9],
+    "passage": "Jeremiah 6:16-21",
+    "passage_ref": [[["jer",6,16],["jer",6,21]]],
+    "quote": "Jeremiah 6:16",
+    "quote_ref": [[["jer",6,16]]],
+    "tags": [["reliability of","reliability-of"],["truth vs. error","truth-vs-error"]],
+    "title": "Horsepower",
+    "url": "http://odb.org/2008/05/09/horsepower/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2010,7,28],
     "passage": "Jeremiah 6:14-20",
@@ -59,6 +103,32 @@
     "tags": [["empty religion","empty-religion"],["legalism","legalism"],["manipulation","manipulation"],["obedience","obedience"]],
     "title": "Is God Obligated?",
     "url": "http://odb.org/2011/08/14/is-god-obligated/"
+  }
+],
+"8": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2007,8,18],
+    "passage": "Jeremiah 8:4-12",
+    "passage_ref": [[["jer",8,4],["jer",8,12]]],
+    "quote": "Jeremiah 8:7",
+    "quote_ref": [[["jer",8,7]]],
+    "tags": [["repentance","repentance"]],
+    "title": "Tree Vs. Bear",
+    "url": "http://odb.org/2007/08/18/tree-vs-bear/"
+  }
+],
+"12": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Anxiety","christian-life/personal-crisis-christian-life/anxiety-personal-crisis-christian-life-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"],["Worry","christian-life/personal-crisis-christian-life/worry-personal-crisis-christian-life-christian-life/"]],
+    "date": [2006,8,5],
+    "passage": "Jeremiah 12",
+    "passage_ref": [[["jer",12,null]]],
+    "quote": "Jeremiah 12:5",
+    "quote_ref": [[["jer",12,5]]],
+    "tags": [["anxiety","anxiety"],["tests","tests"],["trials","trials"],["worry","worry"]],
+    "title": "Run With Horses",
+    "url": "http://odb.org/2006/08/05/run-with-horses/"
   }
 ],
 "15": [
@@ -86,6 +156,28 @@
   }
 ],
 "17": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2005,4,5],
+    "passage": "Jeremiah 17:5-10",
+    "passage_ref": [[["jer",17,5],["jer",17,10]]],
+    "quote": "Jeremiah 17:7",
+    "quote_ref": [[["jer",17,7]]],
+    "tags": [["attributes","attributes"],["faithfulness","faithfulness"]],
+    "title": "Where Is Your Trust?",
+    "url": "http://odb.org/2005/04/05/where-is-your-trust/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"]],
+    "date": [2007,11,15],
+    "passage": "Jeremiah 17:1-8",
+    "passage_ref": [[["jer",17,1],["jer",17,8]]],
+    "quote": "Psalm 28:7",
+    "quote_ref": [[["psa",28,7]]],
+    "tags": [["submission","submission"]],
+    "title": "Say No To Self-Help",
+    "url": "http://odb.org/2007/11/15/say-no-to-self-help/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,2,1],
@@ -194,6 +286,67 @@
     "tags": [["fellowship","fellowship"],["legalism","legalism"],["restoration","restoration"],["sin","sin-christian-life"]],
     "title": "Road Construction",
     "url": "http://odb.org/2013/07/23/road-construction/"
+  }
+],
+"32": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Power","basics-of-faith/god-basics-of-faith/power-god-basics-of-faith-basics-of-faith/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"],["Strength","basics-of-faith/god-basics-of-faith/strength-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2005,5,17],
+    "passage": "Jeremiah 32:16-25",
+    "passage_ref": [[["jer",32,16],["jer",32,25]]],
+    "quote": "Jeremiah 32:19",
+    "quote_ref": [[["jer",32,19]]],
+    "tags": [["power","power"],["sovereignty","sovereignty"],["strength","strength"]],
+    "title": "Duff Stuff",
+    "url": "http://odb.org/2005/05/17/duff-stuff/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
+    "date": [2006,8,12],
+    "passage": "Jeremiah 32:6-15",
+    "passage_ref": [[["jer",32,6],["jer",32,15]]],
+    "quote": "Jeremiah 32:27",
+    "quote_ref": [[["jer",32,27]]],
+    "tags": [["belief","belief"],["care","care"],["protection from","protection-from"],["trust","trust"]],
+    "title": "All The Facts",
+    "url": "http://odb.org/2006/08/12/all-the-facts/"
+  }
+],
+"33": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Forgiveness From","relationships/relating-to-god-relationships/forgiveness-from-relating-to-god-relationships-relationships/"],["Forgiveness Of","basics-of-faith/sin-basics-of-faith/forgiveness-of-sin-basics-of-faith-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2005,5,18],
+    "passage": "Jeremiah 33:1-9",
+    "passage_ref": [[["jer",33,1],["jer",33,9]]],
+    "quote": "Jeremiah 33:6",
+    "quote_ref": [[["jer",33,6]]],
+    "tags": [["forgiveness from","forgiveness-from"],["forgiveness of","forgiveness-of"]],
+    "title": "Recovery",
+    "url": "http://odb.org/2005/05/18/recovery/"
+  }
+],
+"36": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Obedience","relationships/relating-to-god-relationships/obedience-relating-to-god-relationships-relationships/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2005,6,28],
+    "passage": "Jeremiah 36:20-26",
+    "passage_ref": [[["jer",36,20],["jer",36,26]]],
+    "quote": "2 Timothy 3:16",
+    "quote_ref": [[["2ti",3,16]]],
+    "tags": [["obedience","obedience"]],
+    "title": "No Alteration Needed",
+    "url": "http://odb.org/2005/06/28/no-alteration-needed/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Meditation","bible-study/ways-to-study-bible-study/meditation-ways-to-study-bible-study-bible-study/"],["Memorization","bible-study/ways-to-study-bible-study/memorization-ways-to-study-bible-study-bible-study/"],["Reading","bible-study/ways-to-study-bible-study/reading-ways-to-study-bible-study-bible-study/"],["Understanding","bible-study/application-bible-study/understanding-application-bible-study-bible-study/"],["Ways To Study","bible-study/ways-to-study-bible-study/"]],
+    "date": [2008,10,3],
+    "passage": "Jeremiah 36:1-8,21-26",
+    "passage_ref": [[["jer",36,1],["jer",36,8]],[["jer",36,21],["jer",36,26]]],
+    "quote": "Jeremiah 36:2-3",
+    "quote_ref": [[["jer",36,2],["jer",36,3]]],
+    "tags": [["meditation","meditation"],["memorization","memorization"],["reading","reading"],["understanding","understanding"]],
+    "title": "Read A Banned Book",
+    "url": "http://odb.org/2008/10/03/read-a-banned-book/"
   }
 ]
 }

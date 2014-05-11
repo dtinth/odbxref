@@ -10,6 +10,17 @@
     "title": "A New Flax Shirt",
     "url": "http://odb.org/1994/04/27/a-new-flax-shirt/"
   }, 
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Forgiveness Of","basics-of-faith/sin-basics-of-faith/forgiveness-of-sin-basics-of-faith-basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2008,8,18],
+    "passage": "Philemon 1:8-19",
+    "passage_ref": [[["phm",1,8],["phm",1,19]]],
+    "quote": "Colossians 3:10",
+    "quote_ref": [[["col",3,10]]],
+    "tags": [["consequences","consequences"],["forgiveness of","forgiveness-of"],["repentance","repentance"]],
+    "title": "Another Chance",
+    "url": "http://odb.org/2008/08/18/another-chance/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2011,1,15],

@@ -1,4 +1,15 @@
 { "1": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Expressions Of","christian-life/worship-christian-life/expressions-of-worship-christian-life-christian-life/"],["Idolatry","basics-of-faith/sin-basics-of-faith/idolatry-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["Worship","christian-life/worship-christian-life/"]],
+    "date": [2008,6,20],
+    "passage": "Nehemiah 1:4-11",
+    "passage_ref": [[["neh",1,4],["neh",1,11]]],
+    "quote": "Deuteronomy 10:12",
+    "quote_ref": [[["deu",10,12]]],
+    "tags": [["expressions of","expressions-of"],["idolatry","idolatry"]],
+    "title": "Ghost Town",
+    "url": "http://odb.org/2008/06/20/ghost-town/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Character","christian-life/character-christian-life/"],["Children","relationships/family-relationships/children-family-relationships-relationships/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Family","relationships/family-relationships/"],["Home","relationships/family-relationships/home-family-relationships-relationships/"],["Integrity","christian-life/character-christian-life/integrity-character-christian-life-christian-life/"],["Relationships","relationships/"],["Youth","relationships/family-relationships/youth-family-relationships-relationships/"]],
     "date": [2010,1,27],
@@ -58,6 +69,28 @@
     "title": "God’s Minutemen",
     "url": "http://odb.org/1994/06/02/gods-minutemen/"
   }, 
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Peacemakers","relationships/relating-to-others-relationships/peacemakers-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
+    "date": [2007,2,4],
+    "passage": "Nehemiah 4:10-18",
+    "passage_ref": [[["neh",4,10],["neh",4,18]]],
+    "quote": "Nehemiah 4:6",
+    "quote_ref": [[["neh",4,6]]],
+    "tags": [["peacemakers","peacemakers"]],
+    "title": "A Unifying Wall",
+    "url": "http://odb.org/2007/02/04/a-unifying-wall/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Power","basics-of-faith/god-basics-of-faith/power-god-basics-of-faith-basics-of-faith/"],["Strength","basics-of-faith/god-basics-of-faith/strength-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2007,10,6],
+    "passage": "Nehemiah 4:1-14",
+    "passage_ref": [[["neh",4,1],["neh",4,14]]],
+    "quote": "Nehemiah 4:14",
+    "quote_ref": [[["neh",4,14]]],
+    "tags": [["power","power"],["strength","strength"]],
+    "title": "Crushing Responsibilities",
+    "url": "http://odb.org/2007/10/06/crushing-responsibilities/"
+  }, 
   { "author": ["C. P. Hia","cphia"],
     "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["sin","christian-life/sin-christian-life/"],["Temptation","basics-of-faith/sin-basics-of-faith/temptation-sin-basics-of-faith-basics-of-faith/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
     "date": [2009,1,31],
@@ -71,6 +104,17 @@
   }
 ],
 "8": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Understanding","bible-study/application-bible-study/understanding-application-bible-study-bible-study/"]],
+    "date": [2006,10,9],
+    "passage": "Nehemiah 8:5-11",
+    "passage_ref": [[["neh",8,5],["neh",8,11]]],
+    "quote": "Nehemiah 8:8",
+    "quote_ref": [[["neh",8,8]]],
+    "tags": [["understanding","understanding"]],
+    "title": "The Scrabble Syndrome",
+    "url": "http://odb.org/2006/10/09/the-scrabble-syndrome/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2013,2,3],
@@ -116,6 +160,19 @@
     "tags": [["backsliding","backsliding"],["compassion","compassion"],["fear","fear"],["God's goodness","gods-goodness"],["God's love","gods-love"],["grace","grace"],["kindness","kindness"],["mercy","mercy"]],
     "title": "Welcome Back",
     "url": "http://odb.org/2013/11/18/welcome-back/"
+  }
+],
+"10": [
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Obedience","relationships/relating-to-god-relationships/obedience-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2008,1,1],
+    "passage": "Nehemiah 10:28-31",
+    "passage_ref": [[["neh",10,28],["neh",10,31]]],
+    "quote": "Nehemiah 10:29",
+    "quote_ref": [[["neh",10,29]]],
+    "tags": [["obedience","obedience"]],
+    "title": "Resolutions",
+    "url": "http://odb.org/2008/01/01/resolutions/"
   }
 ]
 }

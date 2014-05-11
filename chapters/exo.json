@@ -1,4 +1,39 @@
-{ "3": [
+{ "2": [
+  { "author": ["C. P. Hia","cphia"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"],["His Will","basics-of-faith/god-basics-of-faith/his-will-god-basics-of-faith-basics-of-faith/"],["Power","basics-of-faith/god-basics-of-faith/power-god-basics-of-faith-basics-of-faith/"],["Strength","basics-of-faith/god-basics-of-faith/strength-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2008,7,24],
+    "passage": "Exodus 2:11-15; 3:7-12",
+    "passage_ref": [[["exo",2,11],["exo",2,15]],[["exo",3,7],["exo",3,12]]],
+    "quote": "Isaiah 30:15",
+    "quote_ref": [[["isa",30,15]]],
+    "tags": [["His love","his-love"],["His will","his-will"],["power","power"],["strength","strength"]],
+    "title": "The Power In Meekness",
+    "url": "http://odb.org/2008/07/24/the-power-in-meekness/"
+  }
+],
+"3": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"]],
+    "date": [2005,10,24],
+    "passage": "Exodus 3:13-22",
+    "passage_ref": [[["exo",3,13],["exo",3,22]]],
+    "quote": "Exodus 3:14",
+    "quote_ref": [[["exo",3,14]]],
+    "tags": [["christlikeness","christlikeness"],["life example","life-example"]],
+    "title": "Who Is God?",
+    "url": "http://odb.org/2005/10/24/who-is-god/"
+  }, 
+  { "author": ["C. P. Hia","cphia"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"],["His Will","basics-of-faith/god-basics-of-faith/his-will-god-basics-of-faith-basics-of-faith/"],["Power","basics-of-faith/god-basics-of-faith/power-god-basics-of-faith-basics-of-faith/"],["Strength","basics-of-faith/god-basics-of-faith/strength-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2008,7,24],
+    "passage": "Exodus 2:11-15; 3:7-12",
+    "passage_ref": [[["exo",2,11],["exo",2,15]],[["exo",3,7],["exo",3,12]]],
+    "quote": "Isaiah 30:15",
+    "quote_ref": [[["isa",30,15]]],
+    "tags": [["His love","his-love"],["His will","his-will"],["power","power"],["strength","strength"]],
+    "title": "The Power In Meekness",
+    "url": "http://odb.org/2008/07/24/the-power-in-meekness/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"]],
     "date": [2009,1,21],
@@ -34,6 +69,39 @@
   }
 ],
 "4": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Power","basics-of-faith/god-basics-of-faith/power-god-basics-of-faith-basics-of-faith/"],["Strength","basics-of-faith/god-basics-of-faith/strength-god-basics-of-faith-basics-of-faith/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2005,4,25],
+    "passage": "Exodus 4:10-17",
+    "passage_ref": [[["exo",4,10],["exo",4,17]]],
+    "quote": "Exodus 4:12",
+    "quote_ref": [[["exo",4,12]]],
+    "tags": [["power","power"],["strength","strength"],["tests","tests"],["trials","trials"]],
+    "title": "The Power Of Our Limits",
+    "url": "http://odb.org/2005/04/25/the-power-of-our-limits/"
+  }, 
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Commitment","ministry-and-outreach/serving-ministry-and-outreach/commitment-serving-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
+    "date": [2007,7,14],
+    "passage": "Exodus 4:1-5",
+    "passage_ref": [[["exo",4,1],["exo",4,5]]],
+    "quote": "Exodus 17:9",
+    "quote_ref": [[["exo",17,9]]],
+    "tags": [["commitment","commitment"]],
+    "title": "What’s In Your Hand?",
+    "url": "http://odb.org/2007/07/14/whats-in-your-hand/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Enablement","basics-of-faith/holy-spirit-basics-of-faith/enablement-holy-spirit-basics-of-faith-basics-of-faith/"],["Filling","basics-of-faith/holy-spirit-basics-of-faith/filling-holy-spirit-basics-of-faith-basics-of-faith/"],["Holy Spirit","basics-of-faith/holy-spirit-basics-of-faith/"],["Humility","christian-life/attitudes-christian-life/humility-attitudes-christian-life-christian-life/"],["Pride","christian-life/attitudes-christian-life/pride-attitudes-christian-life-christian-life/"],["Self Images","christian-life/character-christian-life/self-images-character-christian-life-christian-life/"]],
+    "date": [2008,12,11],
+    "passage": "Exodus 4:10-17",
+    "passage_ref": [[["exo",4,10],["exo",4,17]]],
+    "quote": "Proverbs 30:2",
+    "quote_ref": [[["pro",30,2]]],
+    "tags": [["enablement","enablement"],["filling","filling"],["humility","humility"],["pride","pride"],["self-images","self-images"]],
+    "title": "Absolutely Nobody",
+    "url": "http://odb.org/2008/12/11/absolutely-nobody/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2010,11,29],
@@ -58,6 +126,17 @@
   }
 ],
 "5": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2005,3,12],
+    "passage": "Exodus 5:1-14,22-23",
+    "passage_ref": [[["exo",5,1],["exo",5,14]],[["exo",5,22],["exo",5,23]]],
+    "quote": "Proverbs 28:26",
+    "quote_ref": [[["pro",28,26]]],
+    "tags": [["obedience","obedience"],["tests","tests"],["trials","trials"]],
+    "title": "The Storm Will Pass",
+    "url": "http://odb.org/2005/03/12/the-storm-will-pass/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Leadership","ministry-and-outreach/spiritual-gifts-ministry-and-outreach/leadership-spiritual-gifts-ministry-and-outreach/"]],
     "date": [2011,9,24],
@@ -71,6 +150,28 @@
   }
 ],
 "6": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Christian Life","christian-life/"],["Hope","christian-life/attitudes-christian-life/hope-attitudes-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2005,4,22],
+    "passage": "Exodus 6:1-9",
+    "passage_ref": [[["exo",6,1],["exo",6,9]]],
+    "quote": "Exodus 3:7",
+    "quote_ref": [[["exo",3,7]]],
+    "tags": [["care","care"],["hope","hope"],["protection from","protection-from"],["tests","tests"],["trials","trials"]],
+    "title": "Hurting And Hearing",
+    "url": "http://odb.org/2005/04/22/hurting-and-hearing/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Christian Life","christian-life/"],["Disappointment","christian-life/emotions-christian-life/disappointment-emotions-christian-life-christian-life/"],["Discouragement","christian-life/emotions-christian-life/discouragement-emotions-christian-life-christian-life/"],["Emotions","christian-life/emotions-christian-life/"]],
+    "date": [2008,1,25],
+    "passage": "Exodus 6:1-9",
+    "passage_ref": [[["exo",6,1],["exo",6,9]]],
+    "quote": "Matthew 14:27",
+    "quote_ref": [[["mat",14,27]]],
+    "tags": [["disappointment","disappointment"],["discouragement","discouragement"]],
+    "title": "The Most Depressing Day",
+    "url": "http://odb.org/2008/01/25/the-most-depressing-day/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,2,26],
@@ -129,6 +230,19 @@
     "url": "http://odb.org/2014/03/26/out-of-chaos/"
   }
 ],
+"11": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Obedience","relationships/relating-to-god-relationships/obedience-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"]],
+    "date": [2008,7,7],
+    "passage": "Exodus 11",
+    "passage_ref": [[["exo",11,null]]],
+    "quote": "Exodus 11:10",
+    "quote_ref": [[["exo",11,10]]],
+    "tags": [["obedience","obedience"],["submission","submission"]],
+    "title": "Fatal Frame Of Mind",
+    "url": "http://odb.org/2008/07/07/fatal-frame-of-mind/"
+  }
+],
 "12": [
   { "author": ["Haddon W. Robinson","haddonwrobinson"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -140,6 +254,39 @@
     "tags": [],
     "title": "Golden Gods",
     "url": "http://odb.org/1994/06/29/golden-gods/"
+  }, 
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Christian Life","christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Money","christian-life/lifestyle-issues-christian-life/money-lifestyle-issues-christian-life-christian-life/"],["Possessions","christian-life/lifestyle-issues-christian-life/possessions-lifestyle-issues-christian-life-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"]],
+    "date": [2005,11,10],
+    "passage": "Exodus 12:29-42",
+    "passage_ref": [[["exo",12,29],["exo",12,42]]],
+    "quote": "Exodus 20:3",
+    "quote_ref": [[["exo",20,3]]],
+    "tags": [["money","money"],["possessions","possessions"],["submission","submission"]],
+    "title": "Golden Gods",
+    "url": "http://odb.org/2005/11/10/golden-gods-2/"
+  }, 
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Joy","christian-life/attitudes-christian-life/joy-attitudes-christian-life-christian-life/"],["Judaism","basics-of-faith/world-religions-basics-of-faith/judaism-world-religions-basics-of-faith-basics-of-faith/"],["World Religions","basics-of-faith/world-religions-basics-of-faith/"]],
+    "date": [2006,5,15],
+    "passage": "Exodus 12:21-30",
+    "passage_ref": [[["exo",12,21],["exo",12,30]]],
+    "quote": "Exodus 12:23",
+    "quote_ref": [[["exo",12,23]]],
+    "tags": [["joy","joy"],["Judaism","judaism"]],
+    "title": "L’Chayim!",
+    "url": "http://odb.org/2006/05/15/lchayim/"
+  }, 
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Children","relationships/family-relationships/children-family-relationships-relationships/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Family","relationships/family-relationships/"],["Parenting","relationships/family-relationships/parenting-family-relationships-relationships/"],["Relationships","relationships/"],["Youth","relationships/family-relationships/youth-family-relationships-relationships/"]],
+    "date": [2008,11,15],
+    "passage": "Exodus 12:13-17,25-27",
+    "passage_ref": [[["exo",12,13],["exo",12,17]],[["exo",12,25],["exo",12,27]]],
+    "quote": "Exodus 12:26-27",
+    "quote_ref": [[["exo",12,26],["exo",12,27]]],
+    "tags": [["children","children"],["christlikeness","christlikeness"],["parenting","parenting"],["youth","youth"]],
+    "title": "Your Children Will Ask",
+    "url": "http://odb.org/2008/11/15/your-children-will-ask/"
   }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
@@ -154,6 +301,17 @@
   }
 ],
 "13": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2006,7,2],
+    "passage": "Exodus 13:17-22; 14:19-20",
+    "passage_ref": [[["exo",13,17],["exo",13,22]],[["exo",14,19],["exo",14,20]]],
+    "quote": "Exodus 13:21",
+    "quote_ref": [[["exo",13,21]]],
+    "tags": [["guidance","guidance"],["leading","leading"]],
+    "title": "The Cloud And The Spirit",
+    "url": "http://odb.org/2006/07/02/the-cloud-and-the-spirit/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Life Stories","life-stories-2/"],["New Testament","life-stories-2/new-testament-life-stories-2/"],["Old Testament","life-stories-2/old-testament-life-stories-2/"],["Power","bible-study/application-bible-study/power-application-bible-study/"]],
     "date": [2009,11,6],
@@ -178,6 +336,17 @@
   }
 ],
 "14": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2006,7,2],
+    "passage": "Exodus 13:17-22; 14:19-20",
+    "passage_ref": [[["exo",13,17],["exo",13,22]],[["exo",14,19],["exo",14,20]]],
+    "quote": "Exodus 13:21",
+    "quote_ref": [[["exo",13,21]]],
+    "tags": [["guidance","guidance"],["leading","leading"]],
+    "title": "The Cloud And The Spirit",
+    "url": "http://odb.org/2006/07/02/the-cloud-and-the-spirit/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,1,23],
@@ -224,6 +393,39 @@
   }
 ],
 "15": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Praise To","relationships/relating-to-god-relationships/praise-to-relating-to-god-relationships-relationships/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2006,2,12],
+    "passage": "Exodus 15:1-21",
+    "passage_ref": [[["exo",15,1],["exo",15,21]]],
+    "quote": "Exodus 15:1",
+    "quote_ref": [[["exo",15,1]]],
+    "tags": [["praise to","praise-to"],["prayer","prayer"]],
+    "title": "One More Miracle",
+    "url": "http://odb.org/2006/02/12/one-more-miracle/"
+  }, 
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Christian Life","christian-life/"],["Disappointment","christian-life/emotions-christian-life/disappointment-emotions-christian-life-christian-life/"],["Discouragement","christian-life/emotions-christian-life/discouragement-emotions-christian-life-christian-life/"],["Emotions","christian-life/emotions-christian-life/"]],
+    "date": [2007,1,26],
+    "passage": "Exodus 15:22-27",
+    "passage_ref": [[["exo",15,22],["exo",15,27]]],
+    "quote": "Exodus 15:26",
+    "quote_ref": [[["exo",15,26]]],
+    "tags": [["disappointment","disappointment"],["discouragement","discouragement"]],
+    "title": "Into The Desert",
+    "url": "http://odb.org/2007/01/26/into-the-desert/"
+  }, 
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2008,8,13],
+    "passage": "Exodus 15:22-27",
+    "passage_ref": [[["exo",15,22],["exo",15,27]]],
+    "quote": "Exodus 15:25",
+    "quote_ref": [[["exo",15,25]]],
+    "tags": [["blessings from","blessings-from"],["care","care"],["protection from","protection-from"]],
+    "title": "The Same Hand",
+    "url": "http://odb.org/2008/08/13/the-same-hand/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,1,23],
@@ -248,6 +450,17 @@
   }
 ],
 "16": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Anxiety","christian-life/personal-crisis-christian-life/anxiety-personal-crisis-christian-life-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Christian Life","christian-life/"],["Encouragement","christian-life/attitudes-christian-life/encouragement-attitudes-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Worry","christian-life/personal-crisis-christian-life/worry-personal-crisis-christian-life-christian-life/"]],
+    "date": [2008,10,18],
+    "passage": "Exodus 16:1-5",
+    "passage_ref": [[["exo",16,1],["exo",16,5]]],
+    "quote": "Matthew 6:34",
+    "quote_ref": [[["mat",6,34]]],
+    "tags": [["anxiety","anxiety"],["care","care"],["encouragement","encouragement"],["protection from","protection-from"],["worry","worry"]],
+    "title": "A Hill Too High",
+    "url": "http://odb.org/2008/10/18/a-hill-too-high/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,9,17],
@@ -282,6 +495,28 @@
     "tags": [],
     "title": "Invisible Support",
     "url": "http://odb.org/1994/03/04/invisible-support/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Life Stories","ministry-and-outreach/life-stories-ministry-and-outreach/"],["Ministry","ministry-and-outreach/life-stories-ministry-and-outreach/ministry-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Service","ministry-and-outreach/life-stories-ministry-and-outreach/service-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
+    "date": [2006,1,27],
+    "passage": "Exodus 17:1-6",
+    "passage_ref": [[["exo",17,1],["exo",17,6]]],
+    "quote": "1 Corinthians 3:9",
+    "quote_ref": [[["1co",3,9]]],
+    "tags": [["belief","belief"],["ministry","ministry"],["service","service"],["trust","trust"]],
+    "title": "Fellow Workers",
+    "url": "http://odb.org/2006/01/27/fellow-workers/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"],["Power","basics-of-faith/god-basics-of-faith/power-god-basics-of-faith-basics-of-faith/"],["Strength","basics-of-faith/god-basics-of-faith/strength-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2008,12,18],
+    "passage": "Exodus 17:1-7",
+    "passage_ref": [[["exo",17,1],["exo",17,7]]],
+    "quote": "Hebrews 4:2",
+    "quote_ref": [[["heb",4,2]]],
+    "tags": [["faithfulness","faithfulness"],["His love","his-love"],["power","power"],["strength","strength"]],
+    "title": "Desert Pete",
+    "url": "http://odb.org/2008/12/18/desert-pete/"
   }
 ],
 "18": [
@@ -295,6 +530,17 @@
     "tags": [],
     "title": "The Wisdom of Age",
     "url": "http://odb.org/1994/03/10/the-wisdom-of-age/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Making Time For","ministry-and-outreach/serving-ministry-and-outreach/making-time-for-serving-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
+    "date": [2008,1,31],
+    "passage": "Exodus 18:13-24",
+    "passage_ref": [[["exo",18,13],["exo",18,24]]],
+    "quote": "Exodus 18:24",
+    "quote_ref": [[["exo",18,24]]],
+    "tags": [["making time for","making-time-for"]],
+    "title": "Minister Mentor",
+    "url": "http://odb.org/2008/01/31/minister-mentor/"
   }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
@@ -319,6 +565,19 @@
     "url": "http://odb.org/2012/01/17/a-time-for-good-counsel/"
   }
 ],
+"19": [
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Commitment","ministry-and-outreach/serving-ministry-and-outreach/commitment-serving-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Priorities","christian-life/character-christian-life/priorities-character-christian-life-christian-life/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
+    "date": [2005,8,24],
+    "passage": "Exodus 19:1-8",
+    "passage_ref": [[["exo",19,1],["exo",19,8]]],
+    "quote": "Exodus 19:4",
+    "quote_ref": [[["exo",19,4]]],
+    "tags": [["commitment","commitment"],["priorities","priorities"]],
+    "title": "Our Main Calling",
+    "url": "http://odb.org/2005/08/24/our-main-calling/"
+  }
+],
 "20": [
   { "author": ["Dennis J. De Haan","dennisjdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -330,6 +589,17 @@
     "tags": [],
     "title": "Commandment 3—Respect God’s Name",
     "url": "http://odb.org/1994/09/13/commandment-3respect-gods-name/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["God","christian-life/worship-christian-life/god-worship-christian-life/"],["Worship","christian-life/worship-christian-life/"]],
+    "date": [2007,1,28],
+    "passage": "Exodus 20:1-7",
+    "passage_ref": [[["exo",20,1],["exo",20,7]]],
+    "quote": "Exodus 20:7",
+    "quote_ref": [[["exo",20,7]]],
+    "tags": [["authority","authority"],["God","god"]],
+    "title": "The Name",
+    "url": "http://odb.org/2007/01/28/the-name/"
   }, 
   { "author": ["Haddon W. Robinson","haddonwrobinson"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Choices","christian-life/character-christian-life/choices-character-christian-life-christian-life/"],["Christian Life","christian-life/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Decisions","christian-life/character-christian-life/decisions-character-christian-life-christian-life/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["Temptation","basics-of-faith/sin-basics-of-faith/temptation-sin-basics-of-faith-basics-of-faith/"],["Thinking","christian-life/character-christian-life/thinking-character-christian-life-christian-life/"],["Wisdom","christian-life/character-christian-life/wisdom-character-christian-life-christian-life/"]],
@@ -387,6 +657,30 @@
     "url": "http://odb.org/2014/02/25/lie-down/"
   }
 ],
+"22": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Courtesy","christian-life/attitudes-christian-life/courtesy-attitudes-christian-life-christian-life/"],["Kindness","christian-life/attitudes-christian-life/kindness-attitudes-christian-life-christian-life/"]],
+    "date": [2005,6,12],
+    "passage": "Exodus 22:21-27",
+    "passage_ref": [[["exo",22,21],["exo",22,27]]],
+    "quote": "Exodus 22:21",
+    "quote_ref": [[["exo",22,21]]],
+    "tags": [["courtesy","courtesy"],["kindness","kindness"]],
+    "title": "Have A Heart",
+    "url": "http://odb.org/2005/06/12/have-a-heart/"
+  }, 
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Making Time For","ministry-and-outreach/serving-ministry-and-outreach/making-time-for-serving-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
+    "date": [2008,9,10],
+    "passage": "Exodus 22:22-27",
+    "passage_ref": [[["exo",22,22],["exo",22,27]]],
+    "quote": "Exodus 22:22-23",
+    "quote_ref": [[["exo",22,22],["exo",22,23]]],
+    "tags": [["love for","love-for"],["making time for","making-time-for"]],
+    "title": "Hear Their Cry",
+    "url": "http://odb.org/2008/09/10/hear-their-cry/"
+  }
+],
 "23": [
   { "author": ["Joanie Yoder","joanieyoder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -398,6 +692,39 @@
     "tags": [],
     "title": "Little By Little!",
     "url": "http://odb.org/1994/09/22/little-by-little-2/"
+  }, 
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Christian Life","christian-life/"],["Perserverence","christian-life/personal-crisis-christian-life/perserverence-personal-crisis-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2005,3,2],
+    "passage": "Exodus 23:20-33",
+    "passage_ref": [[["exo",23,20],["exo",23,33]]],
+    "quote": "Exodus 23:30",
+    "quote_ref": [[["exo",23,30]]],
+    "tags": [["perserverence","perserverence"],["tests","tests"],["trials","trials"]],
+    "title": "Little By Little!",
+    "url": "http://odb.org/2005/03/02/little-by-little/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Courtesy","christian-life/attitudes-christian-life/courtesy-attitudes-christian-life-christian-life/"],["Honesty","christian-life/character-christian-life/honesty-character-christian-life-christian-life/"],["Kindness","christian-life/attitudes-christian-life/kindness-attitudes-christian-life-christian-life/"]],
+    "date": [2005,7,26],
+    "passage": "Exodus 23:1-13",
+    "passage_ref": [[["exo",23,1],["exo",23,13]]],
+    "quote": "Proverbs 19:22",
+    "quote_ref": [[["pro",19,22]]],
+    "tags": [["courtesy","courtesy"],["honesty","honesty"],["kindness","kindness"]],
+    "title": "A Wonderful Pair",
+    "url": "http://odb.org/2005/07/26/a-wonderful-pair/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Peer Presures","relationships/relating-to-others-relationships/peer-presures-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
+    "date": [2006,1,16],
+    "passage": "Exodus 23:1-9",
+    "passage_ref": [[["exo",23,1],["exo",23,9]]],
+    "quote": "Exodus 23:2",
+    "quote_ref": [[["exo",23,2]]],
+    "tags": [["love for","love-for"],["peer presures","peer-presures"]],
+    "title": "Doing Justice",
+    "url": "http://odb.org/2006/01/16/doing-justice/"
   }
 ],
 "25": [
@@ -475,6 +802,50 @@
   }
 ],
 "33": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Bible Study","bible-study/"],["Meditation","bible-study/ways-to-study-bible-study/meditation-ways-to-study-bible-study-bible-study/"],["Reading","bible-study/ways-to-study-bible-study/reading-ways-to-study-bible-study-bible-study/"],["Ways To Study","bible-study/ways-to-study-bible-study/"]],
+    "date": [2005,2,6],
+    "passage": "Exodus 33:18-34:8",
+    "passage_ref": [[["exo",33,18],["exo",34,8]]],
+    "quote": "Exodus 34:6",
+    "quote_ref": [[["exo",34,6]]],
+    "tags": [["meditation","meditation"],["reading","reading"]],
+    "title": "God's Description Of Himself",
+    "url": "http://odb.org/2005/02/06/gods-description-of-himself/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Presence","relationships/relating-to-god-relationships/presence-relating-to-god-relationships-relationships/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2005,8,10],
+    "passage": "Exodus 33:12-23",
+    "passage_ref": [[["exo",33,12],["exo",33,23]]],
+    "quote": "Exodus 33:14",
+    "quote_ref": [[["exo",33,14]]],
+    "tags": [["care","care"],["presence","presence"],["protection from","protection-from"]],
+    "title": "Walking Away",
+    "url": "http://odb.org/2005/08/10/walking-away/"
+  }, 
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Fellowship With","relationships/relating-to-god-relationships/fellowship-with-relating-to-god-relationships-relationships/"],["Growth","relationships/relating-to-god-relationships/growth-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Sanctification","relationships/relating-to-god-relationships/sanctification-relating-to-god-relationships-relationships/"]],
+    "date": [2005,12,23],
+    "passage": "Exodus 33:7-17",
+    "passage_ref": [[["exo",33,7],["exo",33,17]]],
+    "quote": "Psalm 103:7",
+    "quote_ref": [[["psa",103,7]]],
+    "tags": [["fellowship with","fellowship-with"],["growth","growth"],["sanctification","sanctification"]],
+    "title": "Knowing God Personally",
+    "url": "http://odb.org/2005/12/23/knowing-god-personally/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2007,9,9],
+    "passage": "Exodus 33:12-17",
+    "passage_ref": [[["exo",33,12],["exo",33,17]]],
+    "quote": "2 Chronicles 20:17",
+    "quote_ref": [[["2ch",20,17]]],
+    "tags": [],
+    "title": "Anywhere With Jesus",
+    "url": "http://odb.org/2007/09/09/anywhere-with-jesus/"
+  }, 
   { "author": ["Philip Yancey","philipyancey"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Father","relationships/relating-to-god-relationships/father-relating-to-god-relationships/"],["God","basics-of-faith/worship-basics-of-faith/god-worship-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"],["Worship","basics-of-faith/worship-basics-of-faith/"]],
     "date": [2009,2,3],
@@ -488,6 +859,17 @@
   }
 ],
 "34": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Bible Study","bible-study/"],["Meditation","bible-study/ways-to-study-bible-study/meditation-ways-to-study-bible-study-bible-study/"],["Reading","bible-study/ways-to-study-bible-study/reading-ways-to-study-bible-study-bible-study/"],["Ways To Study","bible-study/ways-to-study-bible-study/"]],
+    "date": [2005,2,6],
+    "passage": "Exodus 33:18-34:8",
+    "passage_ref": [[["exo",33,18],["exo",34,8]]],
+    "quote": "Exodus 34:6",
+    "quote_ref": [[["exo",34,6]]],
+    "tags": [["meditation","meditation"],["reading","reading"]],
+    "title": "God's Description Of Himself",
+    "url": "http://odb.org/2005/02/06/gods-description-of-himself/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,3,3],
@@ -512,6 +894,28 @@
   }
 ],
 "35": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Integrity","christian-life/character-christian-life/integrity-character-christian-life-christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Work","christian-life/lifestyle-issues-christian-life/work-lifestyle-issues-christian-life-christian-life/"]],
+    "date": [2005,11,23],
+    "passage": "Exodus 35:30-36:1",
+    "passage_ref": [[["exo",35,30],["exo",36,1]]],
+    "quote": "Proverbs 22:29",
+    "quote_ref": [[["pro",22,29]]],
+    "tags": [["integrity","integrity"],["work","work"]],
+    "title": "Good Workers",
+    "url": "http://odb.org/2005/11/23/good-workers/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Christian Life","christian-life/"],["Expressions Of","christian-life/worship-christian-life/expressions-of-worship-christian-life-christian-life/"],["Worship","christian-life/worship-christian-life/"]],
+    "date": [2007,6,13],
+    "passage": "Exodus 35:30-35",
+    "passage_ref": [[["exo",35,30],["exo",35,35]]],
+    "quote": "Exodus 35:31-32",
+    "quote_ref": [[["exo",35,31],["exo",35,32]]],
+    "tags": [["expressions of","expressions-of"]],
+    "title": "With All My Art",
+    "url": "http://odb.org/2007/06/13/with-all-my-art/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2014,4,1],
@@ -525,6 +929,17 @@
   }
 ],
 "36": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Integrity","christian-life/character-christian-life/integrity-character-christian-life-christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Work","christian-life/lifestyle-issues-christian-life/work-lifestyle-issues-christian-life-christian-life/"]],
+    "date": [2005,11,23],
+    "passage": "Exodus 35:30-36:1",
+    "passage_ref": [[["exo",35,30],["exo",36,1]]],
+    "quote": "Proverbs 22:29",
+    "quote_ref": [[["pro",22,29]]],
+    "tags": [["integrity","integrity"],["work","work"]],
+    "title": "Good Workers",
+    "url": "http://odb.org/2005/11/23/good-workers/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,3,11],
@@ -535,6 +950,19 @@
     "tags": [["beauty","beauty"],["eternity","eternity"],["God's","gods"],["God's majesty","gods-majesty"],["praise","praise"],["worship","worship"]],
     "title": "Beauty In The Church",
     "url": "http://odb.org/2012/03/11/beauty-in-the-church/"
+  }
+],
+"37": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Self Control","christian-life/character-christian-life/self-control-character-christian-life-christian-life/"]],
+    "date": [2006,2,5],
+    "passage": "Exodus 37:1-9",
+    "passage_ref": [[["exo",37,1],["exo",37,9]]],
+    "quote": "James 1:17",
+    "quote_ref": [[["jas",1,17]]],
+    "tags": [["blessings from","blessings-from"],["self-control","self-control"]],
+    "title": "The Sensuous Christian",
+    "url": "http://odb.org/2006/02/05/the-sensuous-christian/"
   }
 ]
 }

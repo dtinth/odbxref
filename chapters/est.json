@@ -1,4 +1,28 @@
-{ "3": [
+{ "1": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Grace","basics-of-faith/salvation-basics-of-faith/grace-salvation-basics-of-faith-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2005,7,9],
+    "passage": "Esther 1:1-9",
+    "passage_ref": [[["est",1,1],["est",1,9]]],
+    "quote": "Matthew 11:28",
+    "quote_ref": [[["mat",11,28]]],
+    "tags": [["grace","grace"],["tests","tests"],["trials","trials"]],
+    "title": "No Bad News",
+    "url": "http://odb.org/2005/07/09/no-bad-news/"
+  }, 
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Integrity","christian-life/character-christian-life/integrity-character-christian-life-christian-life/"],["Self Images","christian-life/character-christian-life/self-images-character-christian-life-christian-life/"]],
+    "date": [2008,4,26],
+    "passage": "Esther 1:1-5,9-12",
+    "passage_ref": [[["est",1,1],["est",1,5]],[["est",1,9],["est",1,12]]],
+    "quote": "Psalm 8:5",
+    "quote_ref": [[["psa",8,5]]],
+    "tags": [["integrity","integrity"],["self-images","self-images"]],
+    "title": "Respect",
+    "url": "http://odb.org/2008/04/26/respect/"
+  }
+],
+"3": [
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Judgment","basics-of-faith/future-prophecy-basics-of-faith/judgment-future-prophecy-basics-of-faith-basics-of-faith/"]],
     "date": [2011,10,25],
@@ -22,6 +46,39 @@
     "tags": [],
     "title": "The Price of  Freedom",
     "url": "http://odb.org/1994/05/30/the-price-of-freedom/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Christian Life","christian-life/"],["Death","christian-life/personal-crisis-christian-life/death-personal-crisis-christian-life-christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Fear","christian-life/emotions-christian-life/fear-emotions-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
+    "date": [2006,1,13],
+    "passage": "Esther 4:10-17",
+    "passage_ref": [[["est",4,10],["est",4,17]]],
+    "quote": "Esther 4:16",
+    "quote_ref": [[["est",4,16]]],
+    "tags": [["death","death"],["fear","fear"]],
+    "title": "The Greatest Honor",
+    "url": "http://odb.org/2006/01/13/the-greatest-honor/"
+  }, 
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
+    "date": [2007,5,8],
+    "passage": "Esther 4:13-17",
+    "passage_ref": [[["est",4,13],["est",4,17]]],
+    "quote": "Esther 4:14",
+    "quote_ref": [[["est",4,14]]],
+    "tags": [["belief","belief"],["trust","trust"]],
+    "title": "The Adventure",
+    "url": "http://odb.org/2007/05/08/the-adventure/"
+  }, 
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Conscience","christian-life/attitudes-christian-life/conscience-attitudes-christian-life-christian-life/"],["Courage","christian-life/attitudes-christian-life/courage-attitudes-christian-life-christian-life/"]],
+    "date": [2008,6,13],
+    "passage": "Esther 4:10-17",
+    "passage_ref": [[["est",4,10],["est",4,17]]],
+    "quote": "Esther 4:16",
+    "quote_ref": [[["est",4,16]]],
+    "tags": [["conscience","conscience"],["courage","courage"]],
+    "title": "For Such A Time As This",
+    "url": "http://odb.org/2008/06/13/for-such-a-time-as-this/"
   }
 ],
 "7": [
