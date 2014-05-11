@@ -2,8 +2,8 @@
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
     "date": [2007,6,19],
-    "passage": "2 John 1-6",
-    "passage_ref": [[["2jn",1,null],["2jn",6,null]]],
+    "passage": "2 John 1:1-6",
+    "passage_ref": [[["2jn",1,1],["2jn",1,6]]],
     "quote": "Matthew 11:29",
     "quote_ref": [[["mat",11,29]]],
     "tags": [["Savior","savior"]],
@@ -20,71 +20,6 @@
     "tags": [["compassion","compassion"],["God's love","gods-love"],["hospitality","hospitality"],["kindness","kindness"],["love for others","love-for-others"],["truth","truth"],["wisdom","wisdom"]],
     "title": "Godspeed!",
     "url": "http://odb.org/2013/02/16/godspeed/"
-  }
-],
-"2": [
-  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
-    "categories": [["Basics Of Faith","basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
-    "date": [2007,6,19],
-    "passage": "2 John 1-6",
-    "passage_ref": [[["2jn",1,null],["2jn",6,null]]],
-    "quote": "Matthew 11:29",
-    "quote_ref": [[["mat",11,29]]],
-    "tags": [["Savior","savior"]],
-    "title": "Not Boredom But Freedom",
-    "url": "http://odb.org/2007/06/19/not-boredom-but-freedom/"
-  }
-],
-"3": [
-  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
-    "categories": [["Basics Of Faith","basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
-    "date": [2007,6,19],
-    "passage": "2 John 1-6",
-    "passage_ref": [[["2jn",1,null],["2jn",6,null]]],
-    "quote": "Matthew 11:29",
-    "quote_ref": [[["mat",11,29]]],
-    "tags": [["Savior","savior"]],
-    "title": "Not Boredom But Freedom",
-    "url": "http://odb.org/2007/06/19/not-boredom-but-freedom/"
-  }
-],
-"4": [
-  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
-    "categories": [["Basics Of Faith","basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
-    "date": [2007,6,19],
-    "passage": "2 John 1-6",
-    "passage_ref": [[["2jn",1,null],["2jn",6,null]]],
-    "quote": "Matthew 11:29",
-    "quote_ref": [[["mat",11,29]]],
-    "tags": [["Savior","savior"]],
-    "title": "Not Boredom But Freedom",
-    "url": "http://odb.org/2007/06/19/not-boredom-but-freedom/"
-  }
-],
-"5": [
-  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
-    "categories": [["Basics Of Faith","basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
-    "date": [2007,6,19],
-    "passage": "2 John 1-6",
-    "passage_ref": [[["2jn",1,null],["2jn",6,null]]],
-    "quote": "Matthew 11:29",
-    "quote_ref": [[["mat",11,29]]],
-    "tags": [["Savior","savior"]],
-    "title": "Not Boredom But Freedom",
-    "url": "http://odb.org/2007/06/19/not-boredom-but-freedom/"
-  }
-],
-"6": [
-  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
-    "categories": [["Basics Of Faith","basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
-    "date": [2007,6,19],
-    "passage": "2 John 1-6",
-    "passage_ref": [[["2jn",1,null],["2jn",6,null]]],
-    "quote": "Matthew 11:29",
-    "quote_ref": [[["mat",11,29]]],
-    "tags": [["Savior","savior"]],
-    "title": "Not Boredom But Freedom",
-    "url": "http://odb.org/2007/06/19/not-boredom-but-freedom/"
   }
 ]
 }

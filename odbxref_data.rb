@@ -36,26 +36,27 @@ end
 
 def fix_passage(text)
   text = text.strip
-  text.sub! %r(\.$),            ''                         # 1994-10-07
-  text.sub! 'Rev.',             'Revelation'               # 2005-03-31
-  text.sub! 'Psalms',           'Psalm'                    # 2005-12-01
-  text.sub! '7 Matthew',        '7; Matthew'               # 2005-12-04
-  text.sub! 'Col.',             'Colossians'               # 2009-09-29
-  text.sub! '1 Thess.',         '1 Thessalonians'          # 2010-03-05
-  text.sub! '1 Cor.',           '1 Corinthians'            # 2010-03-12
-  text.sub! 'Phil.',            'Philippians'              # 2010-03-26
-  text.sub! '1 Tim.',           '1 Timothy'                # 2010-04-18
-  text.sub! '1 Chron.',         '1 Chronicles'             # 2010-05-02
-  text.sub! 'Heb.',             'Hebrews'                  # 2010-07-06
-  text.sub! '2 Cor.',           '2 Corinthians'            # 2010-07-10
-  text.sub! %r(\A—),            ''                         # 2010-07-25
-  text.sub! 'Gen.',             'Genesis'                  # 2010-08-21
-  text.sub! 'Eph.',             'Ephesians'                # 2010-09-08
-  text.sub! 'Deut.',            'Deuteronomy'              # 2011-01-30
-  text.sub! '21 Matthew',       '21; Matthew'              # 2011-05-17
-  text.sub! 'Corthians',        'Corinthians'              # 2011-12-08
-  text.sub! %r(\u00A0),         ' '                        # 2012-08-05
-  text.sub! 'Thessalonians.',   'Thessalonians'            # 2012-08-06
+  text.sub! %r(\.$),            ''                                # 1994-10-07
+  text.sub! 'Rev.',             'Revelation'                      # 2005-03-31
+  text.sub! 'Psalms',           'Psalm'                           # 2005-12-01
+  text.sub! '7 Matthew',        '7; Matthew'                      # 2005-12-04
+  text.sub! %r((2 John) (\d+)-(\d+)) do "#{$1} 1:#{$2}-#{$3}" end # 2007-06-19
+  text.sub! 'Col.',             'Colossians'                      # 2009-09-29
+  text.sub! '1 Thess.',         '1 Thessalonians'                 # 2010-03-05
+  text.sub! '1 Cor.',           '1 Corinthians'                   # 2010-03-12
+  text.sub! 'Phil.',            'Philippians'                     # 2010-03-26
+  text.sub! '1 Tim.',           '1 Timothy'                       # 2010-04-18
+  text.sub! '1 Chron.',         '1 Chronicles'                    # 2010-05-02
+  text.sub! 'Heb.',             'Hebrews'                         # 2010-07-06
+  text.sub! '2 Cor.',           '2 Corinthians'                   # 2010-07-10
+  text.sub! %r(\A—),            ''                                # 2010-07-25
+  text.sub! 'Gen.',             'Genesis'                         # 2010-08-21
+  text.sub! 'Eph.',             'Ephesians'                       # 2010-09-08
+  text.sub! 'Deut.',            'Deuteronomy'                     # 2011-01-30
+  text.sub! '21 Matthew',       '21; Matthew'                     # 2011-05-17
+  text.sub! 'Corthians',        'Corinthians'                     # 2011-12-08
+  text.sub! %r(\u00A0),         ' '                               # 2012-08-05
+  text.sub! 'Thessalonians.',   'Thessalonians'                   # 2012-08-06
   text
 end
 
