@@ -2,8 +2,11 @@
 require_relative 'parse_bible_ref'
 
 def each_archive
-  Dir['archive/*.json'].each do |file|
-    yield JSON.parse(File.read(file))
+  Dir['archive/*.json'].group_by { |c| c[/\d+/] }.sort.each do |year, files|
+    puts "Processing year #{year}... (#{files.length} files)"
+    files.each do |file|
+      yield JSON.parse(File.read(file))
+    end
   end
 end
 
@@ -143,12 +146,14 @@ def split_book(book_list, lookup_table, book_to_split, chapters)
     old_book.merge({
       :id => new_id,
       :name => "#{old_book[:name]} #{1 + range.first} – #{1 + range.last}",
-      :verses => "#{old_book[:verses][range]}",
+      :verses => old_book[:verses][range],
       :index => old_book[:index] + (0.1 * (1 + index)),
       :count => count
     })
   }
 
+  # replace and delete
+  lookup_table.delete(book_to_split)
   book_list[old_book_index..old_book_index] = new_books
   
 end
