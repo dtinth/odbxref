@@ -37,7 +37,7 @@
 <script type="text/ng-template" id="book.html">
   <h2>{{book.name}}</h2>
   <div ng-repeat="chapter in chapters">
-    <h3>{{book.name}} {{chapter.number}}</h3>
+    <h3>{{book.book_name}} {{chapter.number}}</h3>
     <table class="table table-bordered" ng-controller="ChapterController">
       <thead><tr>
         <th ng-class="sorter.class('date')" ng-click="sorter.sort('date')">Date</th>

@@ -67,9 +67,9 @@ angular.module('odbxref', ['ngRoute'])
   $scope.groups = []
   resources.books.then(function(data) {
     $scope.groups = [
-      data.books.slice(0, 22),
-      data.books.slice(22, 39),
-      data.books.slice(39)
+      data.books.slice(0, 26),
+      data.books.slice(26, 43),
+      data.books.slice(43)
     ]
   })
 })

@@ -96,11 +96,14 @@ command :chapters do |c|
         :id => book,
         :index => i,
         :name => BibleReference::BOOKS[i],
+        :book_name => BibleReference::BOOKS[i],
         :count => book_counter[book],
         :verses => BibleReference::VERSES[i],
         :chapters => BibleReference::VERSES[i].length
       }
     end
+
+    split_book(index[:books], chapter_files, 'psa', [1, 42, 73, 90, 107, 151])
 
     chapter_files.each do |book, hash|
       filename = "chapters/#{book}.json"
@@ -114,6 +117,40 @@ command :chapters do |c|
     File.write(filename, my_pretty_json(index, 3, 0))
 
   end
+end
+
+def split_book(book_list, lookup_table, book_to_split, chapters)
+
+  old_book_index = book_list.index { |book| book[:id] == book_to_split }
+  old_book = book_list[old_book_index]
+  old_articles = lookup_table[book_to_split]
+  id = old_book[:id]
+
+  # split the book into many chapters
+  book_range = chapters.each_cons(2).map { |a, b| ((a - 1)..(b - 2)) }
+
+  # move books from old index to new
+  old_articles.each do |chapter_number, articles|
+    new_id = "#{id}#{1 + book_range.index { |x| x.include? chapter_number - 1 }}"
+    lookup_table[new_id][chapter_number] = articles
+  end
+  
+  # create a listing of new books
+  new_books = book_range.each_with_index.map { |range, index|
+    number = index + 1
+    new_id = "#{id}#{number}"
+    count = lookup_table[new_id].values.flatten(1).uniq.length
+    old_book.merge({
+      :id => new_id,
+      :name => "#{old_book[:name]} #{1 + range.first} – #{1 + range.last}",
+      :verses => "#{old_book[:verses][range]}",
+      :index => old_book[:index] + (0.1 * (1 + index)),
+      :count => count
+    })
+  }
+
+  book_list[old_book_index..old_book_index] = new_books
+  
 end
 
 
