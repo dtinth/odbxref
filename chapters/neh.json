@@ -1,5 +1,16 @@
 { "1": [
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,8,31],
+    "passage": "Nehemiah 1:1-2:8",
+    "passage_ref": [[["neh",1,1],["neh",2,8]]],
+    "quote": "Nehemiah 1:11",
+    "quote_ref": [[["neh",1,11]]],
+    "tags": [],
+    "title": "Pray—And Plan!",
+    "url": "http://odb.org/1998/08/31/prayand-plan/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Patience","christian-life/attitudes-christian-life/patience-attitudes-christian-life-christian-life/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2004,6,15],
     "passage": "Nehemiah 1:5-11",
@@ -45,6 +56,17 @@
   }
 ],
 "2": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,8,31],
+    "passage": "Nehemiah 1:1-2:8",
+    "passage_ref": [[["neh",1,1],["neh",2,8]]],
+    "quote": "Nehemiah 1:11",
+    "quote_ref": [[["neh",1,11]]],
+    "tags": [],
+    "title": "Pray—And Plan!",
+    "url": "http://odb.org/1998/08/31/prayand-plan/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Character","christian-life/character-christian-life/"],["Children","relationships/family-relationships/children-family-relationships-relationships/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Family","relationships/family-relationships/"],["Home","relationships/family-relationships/home-family-relationships-relationships/"],["Integrity","christian-life/character-christian-life/integrity-character-christian-life-christian-life/"],["Relationships","relationships/"],["Youth","relationships/family-relationships/youth-family-relationships-relationships/"]],
     "date": [2010,1,27],
@@ -79,6 +101,28 @@
     "tags": [],
     "title": "God’s Minutemen",
     "url": "http://odb.org/1994/06/02/gods-minutemen/"
+  }, 
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,9,18],
+    "passage": "Nehemiah 4:1-6",
+    "passage_ref": [[["neh",4,1],["neh",4,6]]],
+    "quote": "Proverbs 12:18",
+    "quote_ref": [[["pro",12,18]]],
+    "tags": [],
+    "title": "The Problem With Critics",
+    "url": "http://odb.org/1998/09/18/the-problem-with-critics/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1999,9,6],
+    "passage": "Nehemiah 4:1-23",
+    "passage_ref": [[["neh",4,1],["neh",4,23]]],
+    "quote": "Nehemiah 4:6",
+    "quote_ref": [[["neh",4,6]]],
+    "tags": [],
+    "title": "A Mind To Work",
+    "url": "http://odb.org/1999/09/06/a-mind-to-work/"
   }, 
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Peacemakers","relationships/relating-to-others-relationships/peacemakers-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
@@ -125,6 +169,19 @@
     "tags": [],
     "title": "A Leader Who Serves",
     "url": "http://odb.org/2002/06/17/a-leader-who-serves/"
+  }
+],
+"6": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2000,7,18],
+    "passage": "Nehemiah 6:1-19",
+    "passage_ref": [[["neh",6,1],["neh",6,19]]],
+    "quote": "Nehemiah 6:9",
+    "quote_ref": [[["neh",6,9]]],
+    "tags": [],
+    "title": "A Trusted Friend",
+    "url": "http://odb.org/2000/07/18/a-trusted-friend/"
   }
 ],
 "8": [

@@ -99,6 +99,28 @@
   }
 ],
 "11": [
+  { "author": ["Dennis J. De Haan","dennisjdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2000,1,18],
+    "passage": "Hosea 11:1-12",
+    "passage_ref": [[["hos",11,1],["hos",11,12]]],
+    "quote": "Hosea 11:8",
+    "quote_ref": [[["hos",11,8]]],
+    "tags": [],
+    "title": "A Love That Won't Let Go",
+    "url": "http://odb.org/2000/01/18/a-love-that-wont-let-go/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2001,5,8],
+    "passage": "Hosea 11:1-12",
+    "passage_ref": [[["hos",11,1],["hos",11,12]]],
+    "quote": "Hosea 13:6",
+    "quote_ref": [[["hos",13,6]]],
+    "tags": [],
+    "title": "My Life, My Plant",
+    "url": "http://odb.org/2001/05/08/my-life-my-plant/"
+  }, 
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2002,6,7],
@@ -166,7 +188,31 @@
     "url": "http://odb.org/2008/10/21/gods-love-story/"
   }
 ],
+"13": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1999,10,7],
+    "passage": "Hosea 13:1-8",
+    "passage_ref": [[["hos",13,1],["hos",13,8]]],
+    "quote": "Hosea 13:8",
+    "quote_ref": [[["hos",13,8]]],
+    "tags": [],
+    "title": "Beware Of The Bear!",
+    "url": "http://odb.org/1999/10/07/beware-of-the-bear/"
+  }
+],
 "14": [
+  { "author": ["M.R. De Haan","mrdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2001,4,11],
+    "passage": "Hosea 14:1-9",
+    "passage_ref": [[["hos",14,1],["hos",14,9]]],
+    "quote": "Hosea 14:5",
+    "quote_ref": [[["hos",14,5]]],
+    "tags": [],
+    "title": "Dewdrops",
+    "url": "http://odb.org/2001/04/11/dewdrops/"
+  }, 
   { "author": ["Joanie Yoder","joanieyoder"],
     "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Christian Life","christian-life/"],["Forgiveness From","relationships/relating-to-god-relationships/forgiveness-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["sin","christian-life/sin-christian-life/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
     "date": [2004,7,24],

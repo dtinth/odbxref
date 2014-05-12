@@ -10,6 +10,17 @@
     "title": "What If?",
     "url": "http://odb.org/1994/11/27/what-if/"
   }, 
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2001,12,22],
+    "passage": "Micah 5:1-5",
+    "passage_ref": [[["mic",5,1],["mic",5,5]]],
+    "quote": "Galatians 4:4",
+    "quote_ref": [[["gal",4,4]]],
+    "tags": [],
+    "title": "What If?",
+    "url": "http://odb.org/2001/12/22/what-if-2/"
+  }, 
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Birth","basics-of-faith/jesus-christ-basics-of-faith/birth-jesus-christ-basics-of-faith-basics-of-faith/"],["Deity","basics-of-faith/jesus-christ-basics-of-faith/deity-jesus-christ-basics-of-faith-basics-of-faith/"],["Humanity","basics-of-faith/jesus-christ-basics-of-faith/humanity-jesus-christ-basics-of-faith-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"]],
     "date": [2004,12,27],
@@ -45,6 +56,17 @@
   }
 ],
 "6": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2000,8,11],
+    "passage": "Micah 6:1-8",
+    "passage_ref": [[["mic",6,1],["mic",6,8]]],
+    "quote": "Micah 6:8",
+    "quote_ref": [[["mic",6,8]]],
+    "tags": [],
+    "title": "Let Right Be Done",
+    "url": "http://odb.org/2000/08/11/let-right-be-done/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"]],
     "date": [2007,12,22],

@@ -1,4 +1,17 @@
-{ "2": [
+{ "1": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,8,18],
+    "passage": "Jeremiah 1:1-10",
+    "passage_ref": [[["jer",1,1],["jer",1,10]]],
+    "quote": "Jeremiah 1:8",
+    "quote_ref": [[["jer",1,8]]],
+    "tags": [],
+    "title": "Feelings Of Inadequacy",
+    "url": "http://odb.org/1998/08/18/feelings-of-inadequacy/"
+  }
+],
+"2": [
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1994,12,2],
@@ -9,6 +22,39 @@
     "tags": [],
     "title": "Where Has Love Gone?",
     "url": "http://odb.org/1994/12/02/where-has-love-gone/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,3,10],
+    "passage": "Jeremiah 2:9-13",
+    "passage_ref": [[["jer",2,9],["jer",2,13]]],
+    "quote": "Jeremiah 2:11",
+    "quote_ref": [[["jer",2,11]]],
+    "tags": [],
+    "title": "Winners Of Nothing",
+    "url": "http://odb.org/1998/03/10/winners-of-nothing/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2000,12,10],
+    "passage": "Jeremiah 2:26-37",
+    "passage_ref": [[["jer",2,26],["jer",2,37]]],
+    "quote": "Jeremiah 2:28",
+    "quote_ref": [[["jer",2,28]]],
+    "tags": [],
+    "title": "God Help Me!",
+    "url": "http://odb.org/2000/12/10/god-help-me/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2001,8,18],
+    "passage": "Jeremiah 2:1-13",
+    "passage_ref": [[["jer",2,1],["jer",2,13]]],
+    "quote": "Jeremiah 2:13",
+    "quote_ref": [[["jer",2,13]]],
+    "tags": [],
+    "title": "Thirst-Quencher",
+    "url": "http://odb.org/2001/08/18/thirst-quencher/"
   }, 
   { "author": ["Vernon C. Grounds","vernongrounds"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Church","basics-of-faith/church-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Will","basics-of-faith/god-basics-of-faith/his-will-god-basics-of-faith-basics-of-faith/"],["Purpose","basics-of-faith/church-basics-of-faith/purpose-church-basics-of-faith-basics-of-faith/"]],
@@ -44,7 +90,55 @@
     "url": "http://odb.org/2005/08/03/we-dont-need-you/"
   }
 ],
+"3": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,2,1],
+    "passage": "Jeremiah 3:4-10",
+    "passage_ref": [[["jer",3,4],["jer",3,10]]],
+    "quote": "Jeremiah 3:10",
+    "quote_ref": [[["jer",3,10]]],
+    "tags": [],
+    "title": "Only Pretending",
+    "url": "http://odb.org/1998/02/01/only-pretending/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,8,19],
+    "passage": "Jeremiah 3:11-15",
+    "passage_ref": [[["jer",3,11],["jer",3,15]]],
+    "quote": "Proverbs 28:13",
+    "quote_ref": [[["pro",28,13]]],
+    "tags": [],
+    "title": "Cover-up",
+    "url": "http://odb.org/1998/08/19/cover-up/"
+  }
+],
+"4": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,5,23],
+    "passage": "Jeremiah 4:1-19",
+    "passage_ref": [[["jer",4,1],["jer",4,19]]],
+    "quote": "James 1:15",
+    "quote_ref": [[["jas",1,15]]],
+    "tags": [],
+    "title": "Full-GrownTrouble",
+    "url": "http://odb.org/1998/05/23/full-growntrouble/"
+  }
+],
 "5": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2001,10,18],
+    "passage": "Jeremiah 5:20-31",
+    "passage_ref": [[["jer",5,20],["jer",5,31]]],
+    "quote": "Jeremiah 5:22",
+    "quote_ref": [[["jer",5,22]]],
+    "tags": [],
+    "title": "Out Of Our Minds",
+    "url": "http://odb.org/2001/10/18/out-of-our-minds/"
+  }, 
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Life Stories","ministry-and-outreach/life-stories-ministry-and-outreach/"],["Ministry","ministry-and-outreach/life-stories-ministry-and-outreach/ministry-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Service","ministry-and-outreach/life-stories-ministry-and-outreach/service-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Sharign Christ","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/sharing-christ-sharing-the-gospel-ministry-and-outreach-ministry-and-outreach/"],["Sharing The Gospel","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/"]],
     "date": [2002,11,3],
@@ -90,6 +184,17 @@
     "tags": [],
     "title": "Where the Good Way Is",
     "url": "http://odb.org/1994/08/07/where-the-good-way-is/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,2,15],
+    "passage": "Jeremiah 6:10-17",
+    "passage_ref": [[["jer",6,10],["jer",6,17]]],
+    "quote": "Jeremiah 6:13",
+    "quote_ref": [[["jer",6,13]]],
+    "tags": [],
+    "title": "False Claims",
+    "url": "http://odb.org/1998/02/15/false-claims/"
   }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
@@ -140,6 +245,17 @@
 ],
 "8": [
   { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2001,9,14],
+    "passage": "Jeremiah 8:4-7",
+    "passage_ref": [[["jer",8,4],["jer",8,7]]],
+    "quote": "Jeremiah 8:5",
+    "quote_ref": [[["jer",8,5]]],
+    "tags": [],
+    "title": "Even Animals Come Home",
+    "url": "http://odb.org/2001/09/14/even-animals-come-home/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
     "date": [2007,8,18],
     "passage": "Jeremiah 8:4-12",
@@ -151,7 +267,55 @@
     "url": "http://odb.org/2007/08/18/tree-vs-bear/"
   }
 ],
+"9": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1999,8,5],
+    "passage": "Jeremiah 9:23-24",
+    "passage_ref": [[["jer",9,23],["jer",9,24]]],
+    "quote": "Jeremiah 9:24",
+    "quote_ref": [[["jer",9,24]]],
+    "tags": [],
+    "title": "Getting To Know Him",
+    "url": "http://odb.org/1999/08/05/getting-to-know-him/"
+  }
+],
+"10": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2001,10,24],
+    "passage": "Jeremiah 10:6-13",
+    "passage_ref": [[["jer",10,6],["jer",10,13]]],
+    "quote": "Jeremiah 10:10",
+    "quote_ref": [[["jer",10,10]]],
+    "tags": [],
+    "title": "The Eternal God",
+    "url": "http://odb.org/2001/10/24/the-eternal-god/"
+  }
+],
 "12": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,8,21],
+    "passage": "Jeremiah 12:1-17",
+    "passage_ref": [[["jer",12,1],["jer",12,17]]],
+    "quote": "Jeremiah 12:5",
+    "quote_ref": [[["jer",12,5]]],
+    "tags": [],
+    "title": "When Things Get Worse",
+    "url": "http://odb.org/1998/08/21/when-things-get-worse/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1999,6,26],
+    "passage": "Jeremiah 12:1-17",
+    "passage_ref": [[["jer",12,1],["jer",12,17]]],
+    "quote": "Jeremiah 12:15",
+    "quote_ref": [[["jer",12,15]]],
+    "tags": [],
+    "title": "Truth And Tenderness",
+    "url": "http://odb.org/1999/06/26/truth-and-tenderness/"
+  }, 
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Anxiety","christian-life/personal-crisis-christian-life/anxiety-personal-crisis-christian-life-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"],["Worry","christian-life/personal-crisis-christian-life/worry-personal-crisis-christian-life-christian-life/"]],
     "date": [2006,8,5],
@@ -189,6 +353,17 @@
   }
 ],
 "17": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,12,4],
+    "passage": "Jeremiah 17:5-11",
+    "passage_ref": [[["jer",17,5],["jer",17,11]]],
+    "quote": "Jeremiah 17:11",
+    "quote_ref": [[["jer",17,11]]],
+    "tags": [],
+    "title": "No Regrets",
+    "url": "http://odb.org/1998/12/04/no-regrets-2/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Growth","relationships/relating-to-god-relationships/growth-relating-to-god-relationships-relationships/"],["Power For Living","relationships/relating-to-god-relationships/power-for-living-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Sanctification","relationships/relating-to-god-relationships/sanctification-relating-to-god-relationships-relationships/"]],
     "date": [2004,11,1],
@@ -246,6 +421,17 @@
   }
 ],
 "18": [
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1999,1,27],
+    "passage": "Jeremiah 18:1-10",
+    "passage_ref": [[["jer",18,1],["jer",18,10]]],
+    "quote": "Jeremiah 18:6",
+    "quote_ref": [[["jer",18,6]]],
+    "tags": [],
+    "title": "God’s Pottery",
+    "url": "http://odb.org/1999/01/27/gods-pottery/"
+  }, 
   { "author": ["Joanie Yoder","joanieyoder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2002,1,23],
@@ -294,6 +480,17 @@
   }
 ],
 "23": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,1,13],
+    "passage": "Jeremiah 23:25-40",
+    "passage_ref": [[["jer",23,25],["jer",23,40]]],
+    "quote": "Jeremiah 23:29",
+    "quote_ref": [[["jer",23,29]]],
+    "tags": [],
+    "title": "The Right Tool",
+    "url": "http://odb.org/1998/01/13/the-right-tool/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"]],
     "date": [2004,12,7],
@@ -328,7 +525,31 @@
     "url": "http://odb.org/2011/03/27/theology-is-for-everyone/"
   }
 ],
+"26": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,1,11],
+    "passage": "Jeremiah 26:1-16",
+    "passage_ref": [[["jer",26,1],["jer",26,16]]],
+    "quote": "James 5:20",
+    "quote_ref": [[["jas",5,20]]],
+    "tags": [],
+    "title": "Danger Ahead!",
+    "url": "http://odb.org/1998/01/11/danger-ahead/"
+  }
+],
 "29": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2000,3,20],
+    "passage": "Jeremiah 29:4-14",
+    "passage_ref": [[["jer",29,4],["jer",29,14]]],
+    "quote": "Colossians 3:23",
+    "quote_ref": [[["col",3,23]]],
+    "tags": [],
+    "title": "Be All There",
+    "url": "http://odb.org/2000/03/20/be-all-there/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Uncategorized","uncategorized/"]],
     "date": [2013,12,27],

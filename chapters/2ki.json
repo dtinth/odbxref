@@ -11,6 +11,32 @@
     "url": "http://odb.org/1994/06/22/step-aside-gracefully/"
   }
 ],
+"3": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2000,5,29],
+    "passage": "2 Kings 3:1-12",
+    "passage_ref": [[["2ki",3,1],["2ki",3,12]]],
+    "quote": "2 Kings 3:11",
+    "quote_ref": [[["2ki",3,11]]],
+    "tags": [],
+    "title": "Medal Of Honor",
+    "url": "http://odb.org/2000/05/29/medal-of-honor/"
+  }
+],
+"4": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2001,8,23],
+    "passage": "2 Kings 4:38-44",
+    "passage_ref": [[["2ki",4,38],["2ki",4,44]]],
+    "quote": "Ephesians 3:20",
+    "quote_ref": [[["eph",3,20]]],
+    "tags": [],
+    "title": "More Than Enough",
+    "url": "http://odb.org/2001/08/23/more-than-enough/"
+  }
+],
 "5": [
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Character","christian-life/character-christian-life/"],["Choices","christian-life/character-christian-life/choices-character-christian-life-christian-life/"],["Christian Life","christian-life/"],["Decisions","christian-life/character-christian-life/decisions-character-christian-life-christian-life/"],["sin","christian-life/sin-christian-life/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
@@ -91,6 +117,17 @@
   }
 ],
 "6": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1999,9,23],
+    "passage": "2 Kings 6:8-23",
+    "passage_ref": [[["2ki",6,8],["2ki",6,23]]],
+    "quote": "2 Kings 6:16",
+    "quote_ref": [[["2ki",6,16]]],
+    "tags": [],
+    "title": "We Are Not Alone",
+    "url": "http://odb.org/1999/09/23/we-are-not-alone/"
+  }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2002,6,20],
@@ -126,6 +163,17 @@
   }
 ],
 "7": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,9,6],
+    "passage": "2 Kings 7:1-16",
+    "passage_ref": [[["2ki",7,1],["2ki",7,16]]],
+    "quote": "2 Kings 7:9",
+    "quote_ref": [[["2ki",7,9]]],
+    "tags": [],
+    "title": "Good News Is For Sharing",
+    "url": "http://odb.org/1998/09/06/good-news-is-for-sharing/"
+  }, 
   { "author": ["Haddon W. Robinson","haddonwrobinson"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Grace","basics-of-faith/salvation-basics-of-faith/grace-salvation-basics-of-faith-basics-of-faith/"],["Justification","basics-of-faith/salvation-basics-of-faith/justification-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
     "date": [2005,2,23],
@@ -171,6 +219,19 @@
     "tags": [["encouragement","encouragement"],["obedience","obedience"]],
     "title": "Zealous For God",
     "url": "http://odb.org/2004/10/23/zealous-for-god/"
+  }
+],
+"18": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1999,7,6],
+    "passage": "2 Kings 18:1-8",
+    "passage_ref": [[["2ki",18,1],["2ki",18,8]]],
+    "quote": "2 Kings 18:3-4",
+    "quote_ref": [[["2ki",18,3],["2ki",18,4]]],
+    "tags": [],
+    "title": "When Good Turns Bad",
+    "url": "http://odb.org/1999/07/06/when-good-turns-bad/"
   }
 ],
 "19": [
@@ -233,6 +294,17 @@
   }
 ],
 "22": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2000,10,19],
+    "passage": "2 Kings 22:1-20",
+    "passage_ref": [[["2ki",22,1],["2ki",22,20]]],
+    "quote": "2 Kings 22:11",
+    "quote_ref": [[["2ki",22,11]]],
+    "tags": [],
+    "title": "'Hey, That's Me!'",
+    "url": "http://odb.org/2000/10/19/hey-thats-me/"
+  }, 
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Power","bible-study/application-bible-study/power-application-bible-study/"],["Reading","bible-study/ways-to-study-bible-study/reading-ways-to-study-bible-study-bible-study/"],["Ways To Study","bible-study/ways-to-study-bible-study/"]],
     "date": [2004,5,15],
