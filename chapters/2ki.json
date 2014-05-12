@@ -92,6 +92,28 @@
 ],
 "6": [
   { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,6,20],
+    "passage": "2 Kings 6:1-7",
+    "passage_ref": [[["2ki",6,1],["2ki",6,7]]],
+    "quote": "1 Peter 5:7",
+    "quote_ref": [[["1pe",5,7]]],
+    "tags": [],
+    "title": "The Small Stuff",
+    "url": "http://odb.org/2002/06/20/the-small-stuff/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Fear","christian-life/emotions-christian-life/fear-emotions-christian-life-christian-life/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
+    "date": [2003,12,8],
+    "passage": "2 Kings 6:8-17",
+    "passage_ref": [[["2ki",6,8],["2ki",6,17]]],
+    "quote": "2 Kings 6:16",
+    "quote_ref": [[["2ki",6,16]]],
+    "tags": [["belief","belief"],["fear","fear"],["trust","trust"]],
+    "title": "Why Am I Afraid?",
+    "url": "http://odb.org/2003/12/08/why-am-i-afraid/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,2,7],
     "passage": "2 Kings 6:8-17",
@@ -138,7 +160,31 @@
     "url": "http://odb.org/2010/05/26/day-of-good-news/"
   }
 ],
+"13": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Encouragement","christian-life/attitudes-christian-life/encouragement-attitudes-christian-life-christian-life/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"]],
+    "date": [2004,10,23],
+    "passage": "2 Kings 13:14-19",
+    "passage_ref": [[["2ki",13,14],["2ki",13,19]]],
+    "quote": "Colossians 4:12-13",
+    "quote_ref": [[["col",4,12],["col",4,13]]],
+    "tags": [["encouragement","encouragement"],["obedience","obedience"]],
+    "title": "Zealous For God",
+    "url": "http://odb.org/2004/10/23/zealous-for-god/"
+  }
+],
 "19": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,5,14],
+    "passage": "2 Kings 19:1-19",
+    "passage_ref": [[["2ki",19,1],["2ki",19,19]]],
+    "quote": "2 Kings 19:19",
+    "quote_ref": [[["2ki",19,19]]],
+    "tags": [],
+    "title": "Facing Danger With Prayer",
+    "url": "http://odb.org/2002/05/14/facing-danger-with-prayer/"
+  }, 
   { "author": ["C. P. Hia","cphia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2010,6,2],
@@ -187,6 +233,17 @@
   }
 ],
 "22": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Power","bible-study/application-bible-study/power-application-bible-study/"],["Reading","bible-study/ways-to-study-bible-study/reading-ways-to-study-bible-study-bible-study/"],["Ways To Study","bible-study/ways-to-study-bible-study/"]],
+    "date": [2004,5,15],
+    "passage": "2 Kings 22:8-13",
+    "passage_ref": [[["2ki",22,8],["2ki",22,13]]],
+    "quote": "2 Kings 22:8",
+    "quote_ref": [[["2ki",22,8]]],
+    "tags": [["effect","effect"],["power","power"],["reading","reading"]],
+    "title": "The Lost Book",
+    "url": "http://odb.org/2004/05/15/the-lost-book/"
+  }, 
   { "author": ["Marvin Williams","marvinwilliams"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Bible Scripture","basics-of-faith/bible-scripture-basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["Truth Vs. Error","basics-of-faith/bible-scripture-basics-of-faith/truth-vs-error-bible-scripture-basics-of-faith-basics-of-faith/"]],
     "date": [2007,8,15],
@@ -243,6 +300,19 @@
     "tags": [["Bible","bible"],["diligence","diligence"],["excitement","excitement"]],
     "title": "Find The Book",
     "url": "http://odb.org/2011/09/01/find-the-book/"
+  }
+],
+"25": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Love For","relationships/relating-to-god-relationships/love-for-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2004,4,24],
+    "passage": "2 Kings 25:1-21",
+    "passage_ref": [[["2ki",25,1],["2ki",25,21]]],
+    "quote": "2 Kings 24:20",
+    "quote_ref": [[["2ki",24,20]]],
+    "tags": [["consequences","consequences"],["love for","love-for"]],
+    "title": "The Worst Defeat",
+    "url": "http://odb.org/2004/04/24/the-worst-defeat/"
   }
 ]
 }

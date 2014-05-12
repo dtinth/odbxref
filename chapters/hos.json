@@ -1,4 +1,91 @@
-{ "10": [
+{ "1": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"],["Love For","relationships/relating-to-god-relationships/love-for-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2002,12,10],
+    "passage": "Hosea 1:1-3; 2:14-20",
+    "passage_ref": [[["hos",1,1],["hos",1,3]],[["hos",2,14],["hos",2,20]]],
+    "quote": "Hosea 2:14",
+    "quote_ref": [[["hos",2,14]]],
+    "tags": [["His love","his-love"],["love for","love-for"]],
+    "title": "The God Of Hosea",
+    "url": "http://odb.org/2002/12/10/the-god-of-hosea/"
+  }
+],
+"2": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"],["Love For","relationships/relating-to-god-relationships/love-for-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2002,12,10],
+    "passage": "Hosea 1:1-3; 2:14-20",
+    "passage_ref": [[["hos",1,1],["hos",1,3]],[["hos",2,14],["hos",2,20]]],
+    "quote": "Hosea 2:14",
+    "quote_ref": [[["hos",2,14]]],
+    "tags": [["His love","his-love"],["love for","love-for"]],
+    "title": "The God Of Hosea",
+    "url": "http://odb.org/2002/12/10/the-god-of-hosea/"
+  }
+],
+"3": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,8,27],
+    "passage": "Hosea 3:1-5",
+    "passage_ref": [[["hos",3,1],["hos",3,5]]],
+    "quote": "Hosea 3:1",
+    "quote_ref": [[["hos",3,1]]],
+    "tags": [],
+    "title": "Unconditional Love",
+    "url": "http://odb.org/2002/08/27/unconditional-love/"
+  }
+],
+"6": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Forgiveness Of","basics-of-faith/sin-basics-of-faith/forgiveness-of-sin-basics-of-faith-basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2003,8,22],
+    "passage": "Hosea 6:1-6",
+    "passage_ref": [[["hos",6,1],["hos",6,6]]],
+    "quote": "2 Corinthians 7:10",
+    "quote_ref": [[["2co",7,10]]],
+    "tags": [["forgiveness of","forgiveness-of"],["repentance","repentance"]],
+    "title": "When You Say, \"I'm Sorry\"",
+    "url": "http://odb.org/2003/08/22/when-you-say-im-sorry/"
+  }
+],
+"7": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["sin","christian-life/sin-christian-life/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
+    "date": [2003,8,23],
+    "passage": "Hosea 7:8-12",
+    "passage_ref": [[["hos",7,8],["hos",7,12]]],
+    "quote": "Psalm 86:11",
+    "quote_ref": [[["psa",86,11]]],
+    "tags": [["backsliding","backsliding"],["consequences","consequences"],["worldliness","worldliness"]],
+    "title": "The Divided Heart",
+    "url": "http://odb.org/2003/08/23/the-divided-heart/"
+  }, 
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["sin","christian-life/sin-christian-life/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
+    "date": [2004,8,25],
+    "passage": "Hosea 7",
+    "passage_ref": [[["hos",7,null]]],
+    "quote": "Hosea 7:8,10",
+    "quote_ref": [[["hos",7,8]],[["hos",7,10]]],
+    "tags": [["backsliding","backsliding"],["repentance","repentance"],["worldliness","worldliness"]],
+    "title": "Half-Baked Christians",
+    "url": "http://odb.org/2004/08/25/half-baked-christians/"
+  }
+],
+"10": [
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2003,5,13],
+    "passage": "Hosea 10:12-15",
+    "passage_ref": [[["hos",10,12],["hos",10,15]]],
+    "quote": "Hosea 10:12",
+    "quote_ref": [[["hos",10,12]]],
+    "tags": [["consequences","consequences"],["repentance","repentance"]],
+    "title": "Planting Good Seeds",
+    "url": "http://odb.org/2003/05/13/planting-good-seeds/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2012,4,19],
@@ -12,6 +99,28 @@
   }
 ],
 "11": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,6,7],
+    "passage": "Hosea 11:1-11",
+    "passage_ref": [[["hos",11,1],["hos",11,11]]],
+    "quote": "Psalm 103:13",
+    "quote_ref": [[["psa",103,13]]],
+    "tags": [],
+    "title": "Our Heavenly Father",
+    "url": "http://odb.org/2002/06/07/our-heavenly-father/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"],["Love For","relationships/relating-to-god-relationships/love-for-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2004,7,2],
+    "passage": "Hosea 11:1-11",
+    "passage_ref": [[["hos",11,1],["hos",11,11]]],
+    "quote": "Hosea 11:8",
+    "quote_ref": [[["hos",11,8]]],
+    "tags": [["His love","his-love"],["love for","love-for"]],
+    "title": "Love Is Vulnerable",
+    "url": "http://odb.org/2004/07/02/love-is-vulnerable/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["Temptation","basics-of-faith/sin-basics-of-faith/temptation-sin-basics-of-faith-basics-of-faith/"]],
     "date": [2005,1,12],
@@ -58,6 +167,17 @@
   }
 ],
 "14": [
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Christian Life","christian-life/"],["Forgiveness From","relationships/relating-to-god-relationships/forgiveness-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["sin","christian-life/sin-christian-life/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
+    "date": [2004,7,24],
+    "passage": "Hosea 14",
+    "passage_ref": [[["hos",14,null]]],
+    "quote": "Hosea 14:4",
+    "quote_ref": [[["hos",14,4]]],
+    "tags": [["backsliding","backsliding"],["forgiveness from","forgiveness-from"],["worldliness","worldliness"]],
+    "title": "God Forgives Disobedience",
+    "url": "http://odb.org/2004/07/24/god-forgives-disobedience/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2010,9,29],

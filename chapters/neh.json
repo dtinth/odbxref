@@ -1,4 +1,15 @@
 { "1": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Patience","christian-life/attitudes-christian-life/patience-attitudes-christian-life-christian-life/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2004,6,15],
+    "passage": "Nehemiah 1:5-11",
+    "passage_ref": [[["neh",1,5],["neh",1,11]]],
+    "quote": "Psalm 37:7",
+    "quote_ref": [[["psa",37,7]]],
+    "tags": [["patience","patience"],["prayer","prayer"]],
+    "title": "Praying And Waiting",
+    "url": "http://odb.org/2004/06/15/praying-and-waiting/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Expressions Of","christian-life/worship-christian-life/expressions-of-worship-christian-life-christian-life/"],["Idolatry","basics-of-faith/sin-basics-of-faith/idolatry-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["Worship","christian-life/worship-christian-life/"]],
     "date": [2008,6,20],
@@ -103,6 +114,19 @@
     "url": "http://odb.org/2009/01/31/a-breach-in-the-wall/"
   }
 ],
+"5": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,6,17],
+    "passage": "Nehemiah 5:14-19",
+    "passage_ref": [[["neh",5,14],["neh",5,19]]],
+    "quote": "Nehemiah 5:15",
+    "quote_ref": [[["neh",5,15]]],
+    "tags": [],
+    "title": "A Leader Who Serves",
+    "url": "http://odb.org/2002/06/17/a-leader-who-serves/"
+  }
+],
 "8": [
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Understanding","bible-study/application-bible-study/understanding-application-bible-study-bible-study/"]],
@@ -173,6 +197,19 @@
     "tags": [["obedience","obedience"]],
     "title": "Resolutions",
     "url": "http://odb.org/2008/01/01/resolutions/"
+  }
+],
+"12": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Happiness","christian-life/emotions-christian-life/happiness-emotions-christian-life-christian-life/"],["Joy","christian-life/attitudes-christian-life/joy-attitudes-christian-life-christian-life/"],["Joy","christian-life/emotions-christian-life/joy-emotions-christian-life/"]],
+    "date": [2003,11,27],
+    "passage": "Nehemiah 12:27-43",
+    "passage_ref": [[["neh",12,27],["neh",12,43]]],
+    "quote": "Nehemiah 12:43",
+    "quote_ref": [[["neh",12,43]]],
+    "tags": [["happiness","happiness"],["joy","joy"]],
+    "title": "The Music Of Joy",
+    "url": "http://odb.org/2003/11/27/the-music-of-joy/"
   }
 ]
 }

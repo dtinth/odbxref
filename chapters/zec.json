@@ -1,4 +1,17 @@
-{ "3": [
+{ "2": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2003,10,8],
+    "passage": "Zechariah 2:1-5",
+    "passage_ref": [[["zec",2,1],["zec",2,5]]],
+    "quote": "Zechariah 2:5",
+    "quote_ref": [[["zec",2,5]]],
+    "tags": [["blessings from","blessings-from"],["care","care"],["guidance","guidance"],["leading","leading"],["protection from","protection-from"]],
+    "title": "A Wall Of Fire",
+    "url": "http://odb.org/2003/10/08/a-wall-of-fire/"
+  }
+],
+"3": [
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
     "date": [2012,2,26],
@@ -11,7 +24,31 @@
     "url": "http://odb.org/2012/02/26/the-devil-in-court/"
   }
 ],
+"4": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Enablement","basics-of-faith/holy-spirit-basics-of-faith/enablement-holy-spirit-basics-of-faith-basics-of-faith/"],["Filling","basics-of-faith/holy-spirit-basics-of-faith/filling-holy-spirit-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Holy Spirit","basics-of-faith/holy-spirit-basics-of-faith/"],["Life Stories","relationships/relating-to-others-relationships/life-stories-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Testimonies","relationships/relating-to-others-relationships/testimonies-relating-to-others-relationships-relationships/"]],
+    "date": [2004,4,30],
+    "passage": "Zechariah 4:1-6",
+    "passage_ref": [[["zec",4,1],["zec",4,6]]],
+    "quote": "Zechariah 4:6",
+    "quote_ref": [[["zec",4,6]]],
+    "tags": [["attributes","attributes"],["enablement","enablement"],["filling","filling"],["life stories","life-stories"],["testimonies","testimonies"]],
+    "title": "Go Light Your World",
+    "url": "http://odb.org/2004/04/30/go-light-your-world/"
+  }
+],
 "7": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Compassion","christian-life/attitudes-christian-life/compassion-attitudes-christian-life-christian-life/"],["Courtesy","christian-life/attitudes-christian-life/courtesy-attitudes-christian-life-christian-life/"],["Kindness","christian-life/attitudes-christian-life/kindness-attitudes-christian-life-christian-life/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"]],
+    "date": [2003,12,15],
+    "passage": "Zechariah 7",
+    "passage_ref": [[["zec",7,null]]],
+    "quote": "Zechariah 7:7",
+    "quote_ref": [[["zec",7,7]]],
+    "tags": [["compassion","compassion"],["courtesy","courtesy"],["kindness","kindness"],["obedience","obedience"]],
+    "title": "The Gift Of Obedience",
+    "url": "http://odb.org/2003/12/15/the-gift-of-obedience/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Commitment","ministry-and-outreach/serving-ministry-and-outreach/commitment-serving-ministry-and-outreach-ministry-and-outreach/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Making Time For","ministry-and-outreach/serving-ministry-and-outreach/making-time-for-serving-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
     "date": [2008,5,23],
@@ -35,6 +72,17 @@
     "tags": [],
     "title": "Commandment 9—Tell The Truth",
     "url": "http://odb.org/1994/09/19/commandment-9tell-the-truth/"
+  }, 
+  { "author": ["Dennis J. De Haan","dennisjdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,10,7],
+    "passage": "Zechariah 8:14-17",
+    "passage_ref": [[["zec",8,14],["zec",8,17]]],
+    "quote": "Ephesians 4:25",
+    "quote_ref": [[["eph",4,25]]],
+    "tags": [],
+    "title": "Two Pats Of Butter",
+    "url": "http://odb.org/2002/10/07/two-pats-of-butter/"
   }
 ],
 "12": [

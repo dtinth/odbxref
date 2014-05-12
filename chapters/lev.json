@@ -11,6 +11,19 @@
     "url": "http://odb.org/2014/02/08/unintentional/"
   }
 ],
+"6": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Inherited","christian-life/sin-christian-life/inherited-sin-christian-life-christian-life/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["sin","christian-life/sin-christian-life/"]],
+    "date": [2002,11,10],
+    "passage": "Leviticus 6:1-7",
+    "passage_ref": [[["lev",6,1],["lev",6,7]]],
+    "quote": "Leviticus 6:2,4",
+    "quote_ref": [[["lev",6,2]],[["lev",6,4]]],
+    "tags": [["consequences","consequences"],["inherited","inherited"]],
+    "title": "Whose Property?",
+    "url": "http://odb.org/2002/11/10/whose-property/"
+  }
+],
 "10": [
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Christian Life","christian-life/"],["Growth","relationships/relating-to-god-relationships/growth-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Sanctification","relationships/relating-to-god-relationships/sanctification-relating-to-god-relationships-relationships/"],["sin","christian-life/sin-christian-life/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
@@ -61,6 +74,28 @@
     "tags": [],
     "title": "Commandment 8—Keep Your Hands Off",
     "url": "http://odb.org/1994/09/18/commandment-8keep-your-hands-off/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Honesty","christian-life/character-christian-life/honesty-character-christian-life-christian-life/"],["Integrity","christian-life/character-christian-life/integrity-character-christian-life-christian-life/"]],
+    "date": [2004,2,17],
+    "passage": "Leviticus 19:32-37",
+    "passage_ref": [[["lev",19,32],["lev",19,37]]],
+    "quote": "Leviticus 19:36",
+    "quote_ref": [[["lev",19,36]]],
+    "tags": [["honesty","honesty"],["integrity","integrity"]],
+    "title": "The Best Policy",
+    "url": "http://odb.org/2004/02/17/the-best-policy/"
+  }, 
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Criticism","relationships/relating-to-others-relationships/criticism-relating-to-others-relationships-relationships/"],["Judging","relationships/relating-to-others-relationships/judging-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
+    "date": [2004,2,16],
+    "passage": "Leviticus 19:15-18",
+    "passage_ref": [[["lev",19,15],["lev",19,18]]],
+    "quote": "Proverbs 27:6",
+    "quote_ref": [[["pro",27,6]]],
+    "tags": [["criticism","criticism"],["judging","judging"]],
+    "title": "The Tests Of Criticism",
+    "url": "http://odb.org/2004/02/16/the-tests-of-criticism/"
   }, 
   { "author": ["Marvin Williams","marvinwilliams"],
     "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
@@ -129,6 +164,19 @@
     "tags": [["God","god"]],
     "title": "Empty-Handed",
     "url": "http://odb.org/2007/05/23/empty-handed/"
+  }
+],
+"24": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Death","christian-life/personal-crisis-christian-life/death-personal-crisis-christian-life-christian-life/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
+    "date": [2004,8,29],
+    "passage": "Leviticus 24:1-9",
+    "passage_ref": [[["lev",24,1],["lev",24,9]]],
+    "quote": "John 6:51",
+    "quote_ref": [[["jhn",6,51]]],
+    "tags": [["death","death"],["eternity","eternity"]],
+    "title": "Daily Bread",
+    "url": "http://odb.org/2004/08/29/daily-bread/"
   }
 ],
 "25": [

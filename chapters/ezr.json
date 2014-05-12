@@ -1,4 +1,15 @@
 { "3": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,6,12],
+    "passage": "Ezra 3:8-13",
+    "passage_ref": [[["ezr",3,8],["ezr",3,13]]],
+    "quote": "Ezra 3:12",
+    "quote_ref": [[["ezr",3,12]]],
+    "tags": [],
+    "title": "All Generations",
+    "url": "http://odb.org/2002/06/12/all-generations/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Comfort","christian-life/personal-crisis-christian-life/comfort-personal-crisis-christian-life-christian-life/"],["Grief","christian-life/personal-crisis-christian-life/grief-personal-crisis-christian-life-christian-life/"],["Joy","christian-life/attitudes-christian-life/joy-attitudes-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Sorrow","christian-life/personal-crisis-christian-life/sorrow-personal-crisis-christian-life-christian-life/"]],
     "date": [2009,11,14],
@@ -9,6 +20,19 @@
     "tags": [["comfort","comfort"],["grief","grief"],["joy","joy"],["sorrow","sorrow"]],
     "title": "Joy In The Midst Of Grief",
     "url": "http://odb.org/2009/11/14/joy-in-the-midst-of-grief/"
+  }
+],
+"4": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Christian Life","christian-life/"],["God","christian-life/worship-christian-life/god-worship-christian-life/"],["Worship","christian-life/worship-christian-life/"]],
+    "date": [2004,1,11],
+    "passage": "Ezra 4:1-5",
+    "passage_ref": [[["ezr",4,1],["ezr",4,5]]],
+    "quote": "Ezra 4:3",
+    "quote_ref": [[["ezr",4,3]]],
+    "tags": [["God","god"]],
+    "title": "Him Only",
+    "url": "http://odb.org/2004/01/11/him-only/"
   }
 ],
 "7": [

@@ -10,6 +10,17 @@
     "title": "Imitation Faith",
     "url": "http://odb.org/1994/07/07/imitation-faith/"
   }, 
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,7,23],
+    "passage": "Isaiah 1:1-4,12-17",
+    "passage_ref": [[["isa",1,1],["isa",1,4]],[["isa",1,12],["isa",1,17]]],
+    "quote": "Isaiah 29:13",
+    "quote_ref": [[["isa",29,13]]],
+    "tags": [],
+    "title": "Imitation Faith",
+    "url": "http://odb.org/2002/07/23/imitation-faith-2/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Power","bible-study/application-bible-study/power-application-bible-study/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2007,10,21],
@@ -23,6 +34,17 @@
   }
 ],
 "2": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Hope","christian-life/attitudes-christian-life/hope-attitudes-christian-life-christian-life/"]],
+    "date": [2003,7,27],
+    "passage": "Isaiah 2:1-5",
+    "passage_ref": [[["isa",2,1],["isa",2,5]]],
+    "quote": "Titus 2:13",
+    "quote_ref": [[["tit",2,13]]],
+    "tags": [["future","future"],["hope","hope"],["prophecy","prophecy"]],
+    "title": "Hope For The World",
+    "url": "http://odb.org/2003/07/27/hope-for-the-world/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"]],
     "date": [2012,12,23],
@@ -46,6 +68,17 @@
     "tags": [],
     "title": "Rearranging the Price Tags",
     "url": "http://odb.org/1994/07/08/rearranging-the-price-tags/"
+  }, 
+  { "author": ["Dennis J. De Haan","dennisjdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,9,21],
+    "passage": "Isaiah 5:20-25",
+    "passage_ref": [[["isa",5,20],["isa",5,25]]],
+    "quote": "Isaiah 5:20",
+    "quote_ref": [[["isa",5,20]]],
+    "tags": [],
+    "title": "When Evil Is Good",
+    "url": "http://odb.org/2002/09/21/when-evil-is-good/"
   }, 
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"]],
@@ -71,6 +104,28 @@
   }
 ],
 "6": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Evangelism","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/evangelism-sharing-the-gospel-ministry-and-outreach-ministry-and-outreach/"],["Life Stories","ministry-and-outreach/life-stories-ministry-and-outreach/"],["Ministry","ministry-and-outreach/life-stories-ministry-and-outreach/ministry-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Missions","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/missions-sharing-the-gospel-ministry-and-outreach-ministry-and-outreach/"],["Service","ministry-and-outreach/life-stories-ministry-and-outreach/service-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Sharing The Gospel","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/"]],
+    "date": [2003,6,19],
+    "passage": "Isaiah 6:8-13",
+    "passage_ref": [[["isa",6,8],["isa",6,13]]],
+    "quote": "Isaiah 6:8",
+    "quote_ref": [[["isa",6,8]]],
+    "tags": [["evangelism","evangelism"],["ministry","ministry"],["missions","missions"],["service","service"]],
+    "title": "Is Faithfulness Enough?",
+    "url": "http://odb.org/2003/06/19/is-faithfulness-enough/"
+  }, 
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Grace","basics-of-faith/salvation-basics-of-faith/grace-salvation-basics-of-faith-basics-of-faith/"],["Justification","basics-of-faith/salvation-basics-of-faith/justification-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
+    "date": [2003,7,28],
+    "passage": "Isaiah 6:1-5",
+    "passage_ref": [[["isa",6,1],["isa",6,5]]],
+    "quote": "Isaiah 6:5",
+    "quote_ref": [[["isa",6,5]]],
+    "tags": [["grace","grace"],["justification","justification"]],
+    "title": "The Wrong Standard",
+    "url": "http://odb.org/2003/07/28/the-wrong-standard/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Making Time For","ministry-and-outreach/serving-ministry-and-outreach/making-time-for-serving-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
     "date": [2006,7,23],
@@ -149,7 +204,42 @@
     "url": "http://odb.org/2013/09/17/seeing-god-in-familiar-places/"
   }
 ],
+"8": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Birth","basics-of-faith/jesus-christ-basics-of-faith/birth-jesus-christ-basics-of-faith-basics-of-faith/"],["Humanity","basics-of-faith/jesus-christ-basics-of-faith/humanity-jesus-christ-basics-of-faith-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
+    "date": [2003,12,14],
+    "passage": "Isaiah 8:1-10",
+    "passage_ref": [[["isa",8,1],["isa",8,10]]],
+    "quote": "Matthew 1:23",
+    "quote_ref": [[["mat",1,23]]],
+    "tags": [["birth","birth"],["humanity","humanity"],["Savior","savior"]],
+    "title": "Immanuel",
+    "url": "http://odb.org/2003/12/14/immanuel/"
+  }
+],
 "9": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Life Stories","relationships/relating-to-others-relationships/life-stories-relating-to-others-relationships-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"],["Testimonies","relationships/relating-to-others-relationships/testimonies-relating-to-others-relationships-relationships/"]],
+    "date": [2003,12,1],
+    "passage": "Isaiah 9:1-7",
+    "passage_ref": [[["isa",9,1],["isa",9,7]]],
+    "quote": "Isaiah 9:2",
+    "quote_ref": [[["isa",9,2]]],
+    "tags": [["life stories","life-stories"],["Savior","savior"],["testimonies","testimonies"]],
+    "title": "A Great Light",
+    "url": "http://odb.org/2003/12/01/a-great-light/"
+  }, 
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Birth","basics-of-faith/jesus-christ-basics-of-faith/birth-jesus-christ-basics-of-faith-basics-of-faith/"],["Humanity","basics-of-faith/jesus-christ-basics-of-faith/humanity-jesus-christ-basics-of-faith-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Role Of","basics-of-faith/jesus-christ-basics-of-faith/role-of-jesus-christ-basics-of-faith-basics-of-faith/"]],
+    "date": [2004,12,19],
+    "passage": "Isaiah 9:1-7",
+    "passage_ref": [[["isa",9,1],["isa",9,7]]],
+    "quote": "Isaiah 9:6",
+    "quote_ref": [[["isa",9,6]]],
+    "tags": [["birth","birth"],["humanity","humanity"],["role of","role-of"]],
+    "title": "Isn't He Beautiful!",
+    "url": "http://odb.org/2004/12/19/isnt-he-beautiful/"
+  }, 
   { "author": ["Richard De Haan","richarddehaan"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Birth","basics-of-faith/jesus-christ-basics-of-faith/birth-jesus-christ-basics-of-faith-basics-of-faith/"],["Humanity","basics-of-faith/jesus-christ-basics-of-faith/humanity-jesus-christ-basics-of-faith-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
     "date": [2005,12,10],
@@ -272,6 +362,17 @@
   }
 ],
 "26": [
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Peace","christian-life/attitudes-christian-life/peace-attitudes-christian-life-christian-life/"]],
+    "date": [2004,12,15],
+    "passage": "Isaiah 26:1-9",
+    "passage_ref": [[["isa",26,1],["isa",26,9]]],
+    "quote": "Isaiah 26:3",
+    "quote_ref": [[["isa",26,3]]],
+    "tags": [["peace","peace"]],
+    "title": "Perfect Peace Is Possible",
+    "url": "http://odb.org/2004/12/15/perfect-peace-is-possible/"
+  }, 
   { "author": ["Richard De Haan","richarddehaan"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Peace","christian-life/attitudes-christian-life/peace-attitudes-christian-life-christian-life/"]],
     "date": [2006,10,20],
@@ -295,7 +396,42 @@
     "url": "http://odb.org/2011/04/15/dealing-with-delay/"
   }
 ],
+"28": [
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2004,11,17],
+    "passage": "Isaiah 28:23-29",
+    "passage_ref": [[["isa",28,23],["isa",28,29]]],
+    "quote": "Isaiah 28:29",
+    "quote_ref": [[["isa",28,29]]],
+    "tags": [["attributes","attributes"],["authority","authority"]],
+    "title": "Pain Is Not Pointless",
+    "url": "http://odb.org/2004/11/17/pain-is-not-pointless/"
+  }
+],
 "30": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,5,25],
+    "passage": "Isaiah 30:15-18",
+    "passage_ref": [[["isa",30,15],["isa",30,18]]],
+    "quote": "Isaiah 30:15",
+    "quote_ref": [[["isa",30,15]]],
+    "tags": [],
+    "title": "Calm Under Pressure",
+    "url": "http://odb.org/2002/05/25/calm-under-pressure/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Obedience","relationships/relating-to-god-relationships/obedience-relating-to-god-relationships-relationships/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2004,2,1],
+    "passage": "Isaiah 30:8-17",
+    "passage_ref": [[["isa",30,8],["isa",30,17]]],
+    "quote": "Isaiah 30:9",
+    "quote_ref": [[["isa",30,9]]],
+    "tags": [["obedience","obedience"]],
+    "title": "The Resisters",
+    "url": "http://odb.org/2004/02/01/the-resisters/"
+  }, 
   { "author": ["C. P. Hia","cphia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2010,9,21],
@@ -343,7 +479,31 @@
     "url": "http://odb.org/2011/01/05/lion-of-judah/"
   }
 ],
+"32": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Giving","ministry-and-outreach/spiritual-gifts-ministry-and-outreach/giving-spiritual-gifts-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Spiritual Gifts","ministry-and-outreach/spiritual-gifts-ministry-and-outreach/"]],
+    "date": [2004,1,2],
+    "passage": "Isaiah 32:1-8",
+    "passage_ref": [[["isa",32,1],["isa",32,8]]],
+    "quote": "Isaiah 32:8",
+    "quote_ref": [[["isa",32,8]]],
+    "tags": [["giving","giving"]],
+    "title": "Noble Plans",
+    "url": "http://odb.org/2004/01/02/noble-plans/"
+  }
+],
 "35": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Death","christian-life/personal-crisis-christian-life/death-personal-crisis-christian-life-christian-life/"],["Hope","christian-life/attitudes-christian-life/hope-attitudes-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
+    "date": [2003,8,7],
+    "passage": "Isaiah 35",
+    "passage_ref": [[["isa",35,null]]],
+    "quote": "Isaiah 35:10",
+    "quote_ref": [[["isa",35,10]]],
+    "tags": [["death","death"],["hope","hope"]],
+    "title": "Obsolete",
+    "url": "http://odb.org/2003/08/07/obsolete/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2013,4,14],
@@ -370,6 +530,61 @@
   }
 ],
 "40": [
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,8,30],
+    "passage": "Isaiah 40:25-31",
+    "passage_ref": [[["isa",40,25],["isa",40,31]]],
+    "quote": "Psalm 144:3",
+    "quote_ref": [[["psa",144,3]]],
+    "tags": [],
+    "title": "Souls And Stars",
+    "url": "http://odb.org/2002/08/30/souls-and-stars/"
+  }, 
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"]],
+    "date": [2002,12,12],
+    "passage": "Isaiah 40:1-11",
+    "passage_ref": [[["isa",40,1],["isa",40,11]]],
+    "quote": "Matthew 3:2",
+    "quote_ref": [[["mat",3,2]]],
+    "tags": [["repentance","repentance"],["submission","submission"]],
+    "title": "Getting Ready For Christmas",
+    "url": "http://odb.org/2002/12/12/getting-ready-for-christmas/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["God","basics-of-faith/god-basics-of-faith/"],["Power","basics-of-faith/god-basics-of-faith/power-god-basics-of-faith-basics-of-faith/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Strength","basics-of-faith/god-basics-of-faith/strength-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2003,2,24],
+    "passage": "Isaiah 40:29-31",
+    "passage_ref": [[["isa",40,29],["isa",40,31]]],
+    "quote": "Isaiah 40:29",
+    "quote_ref": [[["isa",40,29]]],
+    "tags": [["care","care"],["power","power"],["protection from","protection-from"],["strength","strength"]],
+    "title": "Eagle Flight",
+    "url": "http://odb.org/2003/02/24/eagle-flight/"
+  }, 
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Christian Life","christian-life/"],["Comfort","christian-life/personal-crisis-christian-life/comfort-personal-crisis-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2004,4,22],
+    "passage": "Isaiah 40:25-31",
+    "passage_ref": [[["isa",40,25],["isa",40,31]]],
+    "quote": "Isaiah 40:26",
+    "quote_ref": [[["isa",40,26]]],
+    "tags": [["comfort","comfort"],["tests","tests"],["trials","trials"]],
+    "title": "Unlimited Power",
+    "url": "http://odb.org/2004/04/22/unlimited-power/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Aging","christian-life/lifestyle-issues-christian-life/aging-lifestyle-issues-christian-life-christian-life/"],["Christian Life","christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"]],
+    "date": [2004,8,16],
+    "passage": "Isaiah 40:25-31",
+    "passage_ref": [[["isa",40,25],["isa",40,31]]],
+    "quote": "Isaiah 40:31",
+    "quote_ref": [[["isa",40,31]]],
+    "tags": [["aging","aging"]],
+    "title": "Think Young",
+    "url": "http://odb.org/2004/08/16/think-young/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Gratitude","christian-life/attitudes-christian-life/gratitude-attitudes-christian-life-christian-life/"],["Praise To","relationships/relating-to-god-relationships/praise-to-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Thankfulness","christian-life/attitudes-christian-life/thankfulness-attitudes-christian-life-christian-life/"]],
     "date": [2006,1,30],
@@ -630,6 +845,17 @@
 ],
 "43": [
   { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Christian Life","christian-life/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2003,1,21],
+    "passage": "Isaiah 43:1-13",
+    "passage_ref": [[["isa",43,1],["isa",43,13]]],
+    "quote": "Isaiah 43:2",
+    "quote_ref": [[["isa",43,2]]],
+    "tags": [["guidance","guidance"],["leading","leading"],["tests","tests"],["trials","trials"]],
+    "title": "In The Car Wash",
+    "url": "http://odb.org/2003/01/21/in-the-car-wash-2/"
+  }, 
+  { "author": ["Joanie Yoder","joanieyoder"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Christian Life","christian-life/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
     "date": [2010,2,17],
     "passage": "Isaiah 43:1-13",
@@ -722,6 +948,19 @@
     "url": "http://odb.org/2011/04/09/bel-bows-down/"
   }
 ],
+"48": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
+    "date": [2004,4,3],
+    "passage": "Isaiah 48:17-22",
+    "passage_ref": [[["isa",48,17],["isa",48,22]]],
+    "quote": "Isaiah 48:21",
+    "quote_ref": [[["isa",48,21]]],
+    "tags": [["belief","belief"],["care","care"],["protection from","protection-from"],["trust","trust"]],
+    "title": "Chess Master",
+    "url": "http://odb.org/2004/04/03/chess-master/"
+  }
+],
 "49": [
   { "author": ["Joanie Yoder","joanieyoder"],
     "categories": [["Christian Life","christian-life/"],["Forgiveness From","relationships/relating-to-god-relationships/forgiveness-from-relating-to-god-relationships-relationships/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Speech","christian-life/lifestyle-issues-christian-life/speech-lifestyle-issues-christian-life-christian-life/"]],
@@ -769,6 +1008,17 @@
   }
 ],
 "50": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Christian Life","christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Power For Living","relationships/relating-to-god-relationships/power-for-living-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Speech","christian-life/lifestyle-issues-christian-life/speech-lifestyle-issues-christian-life-christian-life/"]],
+    "date": [2003,6,18],
+    "passage": "Isaiah 50:4-10",
+    "passage_ref": [[["isa",50,4],["isa",50,10]]],
+    "quote": "Isaiah 50:4",
+    "quote_ref": [[["isa",50,4]]],
+    "tags": [["power for living","power-for-living"],["speech","speech"]],
+    "title": "Something To Say",
+    "url": "http://odb.org/2003/06/18/something-to-say/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"]],
     "date": [2007,8,4],
@@ -814,6 +1064,19 @@
     "url": "http://odb.org/2012/03/17/a-word-to-the-weary/"
   }
 ],
+"52": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,1,1],
+    "passage": "Isaiah 52:7-15",
+    "passage_ref": [[["isa",52,7],["isa",52,15]]],
+    "quote": "Isaiah 52:12",
+    "quote_ref": [[["isa",52,12]]],
+    "tags": [],
+    "title": "Yesterday And Tomorrow",
+    "url": "http://odb.org/2002/01/01/yesterday-and-tomorrow/"
+  }
+],
 "53": [
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -825,6 +1088,39 @@
     "tags": [],
     "title": "The Clue of Silence",
     "url": "http://odb.org/1994/07/24/the-clue-of-silence/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Cross","basics-of-faith/jesus-christ-basics-of-faith/cross-jesus-christ-basics-of-faith-basics-of-faith/"],["Death","basics-of-faith/jesus-christ-basics-of-faith/death-jesus-christ-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
+    "date": [2003,4,9],
+    "passage": "Isaiah 53",
+    "passage_ref": [[["isa",53,null]]],
+    "quote": "Matthew 27:42",
+    "quote_ref": [[["mat",27,42]]],
+    "tags": [["cross","cross"],["death","death"],["Savior","savior"]],
+    "title": "He Died For Me!",
+    "url": "http://odb.org/2003/04/09/he-died-for-me/"
+  }, 
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Cross","basics-of-faith/jesus-christ-basics-of-faith/cross-jesus-christ-basics-of-faith-basics-of-faith/"],["Death","basics-of-faith/jesus-christ-basics-of-faith/death-jesus-christ-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
+    "date": [2004,7,14],
+    "passage": "Isaiah 53",
+    "passage_ref": [[["isa",53,null]]],
+    "quote": "Mark 15:3",
+    "quote_ref": [[["mrk",15,3]]],
+    "tags": [["cross","cross"],["death","death"],["Savior","savior"]],
+    "title": "The Clue Of Silence",
+    "url": "http://odb.org/2004/07/14/the-clue-of-silence-2/"
+  }, 
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Cross","basics-of-faith/jesus-christ-basics-of-faith/cross-jesus-christ-basics-of-faith-basics-of-faith/"],["Death","basics-of-faith/jesus-christ-basics-of-faith/death-jesus-christ-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
+    "date": [2004,11,11],
+    "passage": "Isaiah 53",
+    "passage_ref": [[["isa",53,null]]],
+    "quote": "Philippians 2:8",
+    "quote_ref": [[["php",2,8]]],
+    "tags": [["cross","cross"],["death","death"],["Savior","savior"]],
+    "title": "The Agony Of The Cross",
+    "url": "http://odb.org/2004/11/11/the-agony-of-the-cross/"
   }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Cross","basics-of-faith/jesus-christ-basics-of-faith/cross-jesus-christ-basics-of-faith-basics-of-faith/"],["Death","basics-of-faith/jesus-christ-basics-of-faith/death-jesus-christ-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
@@ -937,6 +1233,19 @@
     "url": "http://odb.org/2013/07/12/thats-jesus/"
   }
 ],
+"54": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Forgiveness From","relationships/relating-to-god-relationships/forgiveness-from-relating-to-god-relationships-relationships/"],["Forgiveness Of","basics-of-faith/sin-basics-of-faith/forgiveness-of-sin-basics-of-faith-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2003,8,13],
+    "passage": "Isaiah 54:1-10",
+    "passage_ref": [[["isa",54,1],["isa",54,10]]],
+    "quote": "Isaiah 54:8",
+    "quote_ref": [[["isa",54,8]]],
+    "tags": [["forgiveness from","forgiveness-from"],["forgiveness of","forgiveness-of"]],
+    "title": "Close The Gate",
+    "url": "http://odb.org/2003/08/13/close-the-gate/"
+  }
+],
 "55": [
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -948,6 +1257,28 @@
     "tags": [],
     "title": "Keep at It!",
     "url": "http://odb.org/1994/08/19/keep-at-it/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Church","basics-of-faith/church-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"],["Purpose","basics-of-faith/church-basics-of-faith/purpose-church-basics-of-faith-basics-of-faith/"]],
+    "date": [2003,8,14],
+    "passage": "Isaiah 55",
+    "passage_ref": [[["isa",55,null]]],
+    "quote": "Isaiah 55:2",
+    "quote_ref": [[["isa",55,2]]],
+    "tags": [["His love","his-love"],["purpose","purpose"]],
+    "title": "The Price Of Food",
+    "url": "http://odb.org/2003/08/14/the-price-of-food/"
+  }, 
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Commitment","ministry-and-outreach/serving-ministry-and-outreach/commitment-serving-ministry-and-outreach-ministry-and-outreach/"],["Life Stories","ministry-and-outreach/life-stories-ministry-and-outreach/"],["Ministry","ministry-and-outreach/life-stories-ministry-and-outreach/ministry-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Service","ministry-and-outreach/life-stories-ministry-and-outreach/service-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
+    "date": [2004,7,30],
+    "passage": "Isaiah 55:6-13",
+    "passage_ref": [[["isa",55,6],["isa",55,13]]],
+    "quote": "Isaiah 55:11",
+    "quote_ref": [[["isa",55,11]]],
+    "tags": [["commitment","commitment"],["ministry","ministry"],["service","service"]],
+    "title": "Keep At It!",
+    "url": "http://odb.org/2004/07/30/keep-at-it-2/"
   }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Grace","basics-of-faith/salvation-basics-of-faith/grace-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
@@ -1083,6 +1414,28 @@
   }
 ],
 "58": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,10,19],
+    "passage": "Isaiah 58:6-12",
+    "passage_ref": [[["isa",58,6],["isa",58,12]]],
+    "quote": "Isaiah 58:9-10",
+    "quote_ref": [[["isa",58,9],["isa",58,10]]],
+    "tags": [],
+    "title": "Helping Hand",
+    "url": "http://odb.org/2002/10/19/helping-hand/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Giving","ministry-and-outreach/spiritual-gifts-ministry-and-outreach/giving-spiritual-gifts-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Spiritual Gifts","ministry-and-outreach/spiritual-gifts-ministry-and-outreach/"]],
+    "date": [2002,12,6],
+    "passage": "Isaiah 58:1-10",
+    "passage_ref": [[["isa",58,1],["isa",58,10]]],
+    "quote": "Isaiah 58:10",
+    "quote_ref": [[["isa",58,10]]],
+    "tags": [["christlikeness","christlikeness"],["giving","giving"]],
+    "title": "Spend Less, Give More",
+    "url": "http://odb.org/2002/12/06/spend-less-give-more/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Courtesy","christian-life/attitudes-christian-life/courtesy-attitudes-christian-life-christian-life/"],["Giving","ministry-and-outreach/spiritual-gifts-ministry-and-outreach/giving-spiritual-gifts-ministry-and-outreach-ministry-and-outreach/"],["Kindness","christian-life/attitudes-christian-life/kindness-attitudes-christian-life-christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Spiritual Gifts","ministry-and-outreach/spiritual-gifts-ministry-and-outreach/"]],
     "date": [2005,2,15],
@@ -1128,6 +1481,17 @@
     "tags": [],
     "title": "Inner-City Injustice",
     "url": "http://odb.org/1994/04/09/inner-city-injustice/"
+  }, 
+  { "author": ["Dennis J. De Haan","dennisjdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Social Concern","christian-life/lifestyle-issues-christian-life/social-concern-lifestyle-issues-christian-life-christian-life/"]],
+    "date": [2003,1,20],
+    "passage": "Isaiah 59",
+    "passage_ref": [[["isa",59,null]]],
+    "quote": "Isaiah 59:4",
+    "quote_ref": [[["isa",59,4]]],
+    "tags": [["His love","his-love"],["social concern","social-concern"]],
+    "title": "A Call For Justice",
+    "url": "http://odb.org/2003/01/20/a-call-for-justice/"
   }
 ],
 "60": [
@@ -1144,6 +1508,17 @@
   }
 ],
 "61": [
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Encouragement","christian-life/attitudes-christian-life/encouragement-attitudes-christian-life-christian-life/"],["Works","basics-of-faith/christian-faith-basics-of-faith/works-christian-faith-basics-of-faith-basics-of-faith/"]],
+    "date": [2004,8,2],
+    "passage": "Isaiah 61:1-3",
+    "passage_ref": [[["isa",61,1],["isa",61,3]]],
+    "quote": "Isaiah 61:1,3",
+    "quote_ref": [[["isa",61,1]],[["isa",61,3]]],
+    "tags": [["encouragement","encouragement"],["relation to works","relation-to-works"]],
+    "title": "The Oil Of Helpfulness",
+    "url": "http://odb.org/2004/08/02/the-oil-of-helpfulness/"
+  }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Growth","relationships/relating-to-god-relationships/growth-relating-to-god-relationships-relationships/"],["Power For Living","relationships/relating-to-god-relationships/power-for-living-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Sanctification","relationships/relating-to-god-relationships/sanctification-relating-to-god-relationships-relationships/"]],
     "date": [2006,8,28],
@@ -1165,6 +1540,19 @@
     "tags": [["expressions of","expressions-of"],["God","god"]],
     "title": "The Power Of Praise",
     "url": "http://odb.org/2010/04/05/the-power-of-praise/"
+  }
+],
+"64": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Grace","basics-of-faith/salvation-basics-of-faith/grace-salvation-basics-of-faith-basics-of-faith/"],["Justification","basics-of-faith/salvation-basics-of-faith/justification-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
+    "date": [2003,1,19],
+    "passage": "Isaiah 64",
+    "passage_ref": [[["isa",64,null]]],
+    "quote": "Isaiah 64:6",
+    "quote_ref": [[["isa",64,6]]],
+    "tags": [["grace","grace"],["justification","justification"]],
+    "title": "New Clothes",
+    "url": "http://odb.org/2003/01/19/new-clothes/"
   }
 ],
 "65": [

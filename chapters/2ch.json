@@ -37,6 +37,19 @@
     "url": "http://odb.org/2009/08/04/our-moral-compass/"
   }
 ],
+"10": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Leadership","ministry-and-outreach/spiritual-gifts-ministry-and-outreach/leadership-spiritual-gifts-ministry-and-outreach/"],["Life Stories","ministry-and-outreach/life-stories-ministry-and-outreach/"],["Ministry","ministry-and-outreach/life-stories-ministry-and-outreach/ministry-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Service","ministry-and-outreach/life-stories-ministry-and-outreach/service-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Spiritual Gifts","ministry-and-outreach/spiritual-gifts-ministry-and-outreach/"]],
+    "date": [2004,2,23],
+    "passage": "2 Chronicles 10",
+    "passage_ref": [[["2ch",10,null]]],
+    "quote": "Ephesians 5:21",
+    "quote_ref": [[["eph",5,21]]],
+    "tags": [["leadership","leadership"],["ministry","ministry"],["service","service"]],
+    "title": "Submissive Leadership",
+    "url": "http://odb.org/2004/02/23/submissive-leadership/"
+  }
+],
 "12": [
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relationships","relationships/"]],
@@ -77,6 +90,17 @@
   }
 ],
 "16": [
+  { "author": ["Dennis J. De Haan","dennisjdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,10,23],
+    "passage": "2 Chronicles 16:1-9",
+    "passage_ref": [[["2ch",16,1],["2ch",16,9]]],
+    "quote": "2 Chronicles 16:9",
+    "quote_ref": [[["2ch",16,9]]],
+    "tags": [],
+    "title": "From God's Viewpoint",
+    "url": "http://odb.org/2002/10/23/from-gods-viewpoint/"
+  }, 
   { "author": ["Albert Lee","albertlee"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Humility","christian-life/attitudes-christian-life/humility-attitudes-christian-life-christian-life/"],["Pride","christian-life/attitudes-christian-life/pride-attitudes-christian-life-christian-life/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"]],
     "date": [2005,7,18],
@@ -136,6 +160,17 @@
   }
 ],
 "18": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Angels","basics-of-faith/spirit-world-basics-of-faith/angels-spirit-world-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Spirit World","basics-of-faith/spirit-world-basics-of-faith/"]],
+    "date": [2003,6,10],
+    "passage": "2 Chronicles 18:1-7",
+    "passage_ref": [[["2ch",18,1],["2ch",18,7]]],
+    "quote": "Galatians 4:16",
+    "quote_ref": [[["gal",4,16]]],
+    "tags": [["angels","angels"],["blessings from","blessings-from"]],
+    "title": "Truth: Friend Or Foe?",
+    "url": "http://odb.org/2003/06/10/truth-friend-or-foe/"
+  }, 
   { "author": ["Albert Lee","albertlee"],
     "categories": [["Christian Life","christian-life/"],["Perserverence","christian-life/personal-crisis-christian-life/perserverence-personal-crisis-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"]],
     "date": [2005,12,6],
@@ -173,6 +208,28 @@
     "title": "Nothing Left But God",
     "url": "http://odb.org/1994/12/20/nothing-left-but-god/"
   }, 
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Burdens","christian-life/personal-crisis-christian-life/burdens-personal-crisis-christian-life-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2002,11,15],
+    "passage": "2 Chronicles 20:1-17",
+    "passage_ref": [[["2ch",20,1],["2ch",20,17]]],
+    "quote": "2 Chronicles 20:15",
+    "quote_ref": [[["2ch",20,15]]],
+    "tags": [["burdens","burdens"],["tests","tests"],["trials","trials"]],
+    "title": "Nothing Left But God",
+    "url": "http://odb.org/2002/11/15/nothing-left-but-god-3/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Christian Life","christian-life/"],["God","christian-life/worship-christian-life/god-worship-christian-life/"],["Praise To","relationships/relating-to-god-relationships/praise-to-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Worship","christian-life/worship-christian-life/"]],
+    "date": [2003,5,20],
+    "passage": "2 Chronicles 20:1-22",
+    "passage_ref": [[["2ch",20,1],["2ch",20,22]]],
+    "quote": "2 Chronicles 20:22",
+    "quote_ref": [[["2ch",20,22]]],
+    "tags": [["God","god"],["praise to","praise-to"]],
+    "title": "Battle Praise",
+    "url": "http://odb.org/2003/05/20/battle-praise/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Christian Life","christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Fear","christian-life/emotions-christian-life/fear-emotions-christian-life-christian-life/"]],
     "date": [2006,10,27],
@@ -207,6 +264,19 @@
     "url": "http://odb.org/2013/10/06/a-dangerous-challenge/"
   }
 ],
+"21": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Life Stories","relationships/relating-to-others-relationships/life-stories-relating-to-others-relationships-relationships/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Sharign Christ","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/sharing-christ-sharing-the-gospel-ministry-and-outreach-ministry-and-outreach/"],["Sharing The Gospel","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/"],["Testimonies","relationships/relating-to-others-relationships/testimonies-relating-to-others-relationships-relationships/"]],
+    "date": [2003,5,7],
+    "passage": "2 Chronicles 21:4-20",
+    "passage_ref": [[["2ch",21,4],["2ch",21,20]]],
+    "quote": "2 Chronicles 21:20",
+    "quote_ref": [[["2ch",21,20]]],
+    "tags": [["inviting others to Christ","inviting-others-to-christ"],["life stories","life-stories"],["testimonies","testimonies"]],
+    "title": "The Man Nobody Missed",
+    "url": "http://odb.org/2003/05/07/the-man-nobody-missed/"
+  }
+],
 "24": [
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -221,6 +291,17 @@
   }
 ],
 "26": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Humility","christian-life/attitudes-christian-life/humility-attitudes-christian-life-christian-life/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"],["Pride","christian-life/attitudes-christian-life/pride-attitudes-christian-life-christian-life/"]],
+    "date": [2004,2,8],
+    "passage": "2 Chronicles 26",
+    "passage_ref": [[["2ch",26,null]]],
+    "quote": "2 Chronicles 26:5",
+    "quote_ref": [[["2ch",26,5]]],
+    "tags": [["humility","humility"],["obedience","obedience"],["pride","pride"]],
+    "title": "Hearts Lifted Up",
+    "url": "http://odb.org/2004/02/08/hearts-lifted-up/"
+  }, 
   { "author": ["Albert Lee","albertlee"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2009,7,19],
@@ -253,6 +334,19 @@
     "tags": [["consequences","consequences"],["humility","humility"],["obedience","obedience"],["Old Testament","old-testament"],["pride","pride"],["sin","sin-christian-life"]],
     "title": "The Tragic Flaw",
     "url": "http://odb.org/2013/05/30/the-tragic-flaw/"
+  }
+],
+"30": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2004,5,5],
+    "passage": "2 Chronicles 30:21-27",
+    "passage_ref": [[["2ch",30,21],["2ch",30,27]]],
+    "quote": "2 Chronicles 30:27",
+    "quote_ref": [[["2ch",30,27]]],
+    "tags": [["care","care"],["prayer","prayer"],["protection from","protection-from"]],
+    "title": "The Miracle Goes On",
+    "url": "http://odb.org/2004/05/05/the-miracle-goes-on/"
   }
 ],
 "32": [
@@ -306,6 +400,17 @@
   }
 ],
 "36": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Confession","christian-life/sin-christian-life/confession-sin-christian-life-christian-life/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["sin","christian-life/sin-christian-life/"]],
+    "date": [2004,6,29],
+    "passage": "2 Chronicles 36:11-17",
+    "passage_ref": [[["2ch",36,11],["2ch",36,17]]],
+    "quote": "Proverbs 29:1",
+    "quote_ref": [[["pro",29,1]]],
+    "tags": [["confession","confession"],["consequences","consequences"]],
+    "title": "It's A Long Story",
+    "url": "http://odb.org/2004/06/29/its-a-long-story/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Obedience","relationships/relating-to-god-relationships/obedience-relating-to-god-relationships-relationships/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2006,6,10],

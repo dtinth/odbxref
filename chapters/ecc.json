@@ -1,4 +1,15 @@
 { "1": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Church","basics-of-faith/church-basics-of-faith/"],["Purpose","basics-of-faith/church-basics-of-faith/purpose-church-basics-of-faith-basics-of-faith/"]],
+    "date": [2003,11,17],
+    "passage": "Ecclesiastes 1:1-9",
+    "passage_ref": [[["ecc",1,1],["ecc",1,9]]],
+    "quote": "Ecclesiastes 1:9",
+    "quote_ref": [[["ecc",1,9]]],
+    "tags": [["christlikeness","christlikeness"],["purpose","purpose"]],
+    "title": "Routinely Fresh",
+    "url": "http://odb.org/2003/11/17/routinely-fresh/"
+  }, 
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Church","basics-of-faith/church-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Will","basics-of-faith/god-basics-of-faith/his-will-god-basics-of-faith-basics-of-faith/"],["Purpose","basics-of-faith/church-basics-of-faith/purpose-church-basics-of-faith-basics-of-faith/"]],
     "date": [2005,1,11],
@@ -23,6 +34,28 @@
   }
 ],
 "2": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Church","basics-of-faith/church-basics-of-faith/"],["Priorities","christian-life/character-christian-life/priorities-character-christian-life-christian-life/"],["Purpose","basics-of-faith/church-basics-of-faith/purpose-church-basics-of-faith-basics-of-faith/"]],
+    "date": [2003,3,14],
+    "passage": "Ecclesiastes 2:1-11",
+    "passage_ref": [[["ecc",2,1],["ecc",2,11]]],
+    "quote": "Ecclesiastes 1:8",
+    "quote_ref": [[["ecc",1,8]]],
+    "tags": [["priorities","priorities"],["purpose","purpose"]],
+    "title": "True Satisfaction",
+    "url": "http://odb.org/2003/03/14/true-satisfaction/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Christian Life","christian-life/"],["Current Events","christian-life/our-world-christian-life/current-events-our-world-christian-life-christian-life/"],["Our World","christian-life/our-world-christian-life/"]],
+    "date": [2004,2,9],
+    "passage": "Ecclesiastes 2:1-11",
+    "passage_ref": [[["ecc",2,1],["ecc",2,11]]],
+    "quote": "Ecclesiastes 2:10-11",
+    "quote_ref": [[["ecc",2,10],["ecc",2,11]]],
+    "tags": [["current events","current-events"]],
+    "title": "Work: A Narcotic",
+    "url": "http://odb.org/2004/02/09/work-a-narcotic/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Contentment","christian-life/attitudes-christian-life/contentment-attitudes-christian-life-christian-life/"],["Eternal Life","basics-of-faith/salvation-basics-of-faith/eternal-life-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
     "date": [2005,8,11],
@@ -134,6 +167,17 @@
     "tags": [],
     "title": "The Beauty Of Life",
     "url": "http://odb.org/1994/11/17/the-beauty-of-life/"
+  }, 
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,4,5],
+    "passage": "Ecclesiastes 3:1-11",
+    "passage_ref": [[["ecc",3,1],["ecc",3,11]]],
+    "quote": "Colossians 4:5",
+    "quote_ref": [[["col",4,5]]],
+    "tags": [],
+    "title": "Time: Handle With Care",
+    "url": "http://odb.org/2002/04/05/time-handle-with-care/"
   }, 
   { "author": ["Dennis J. De Haan","dennisjdehaan"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"],["Work","christian-life/lifestyle-issues-christian-life/work-lifestyle-issues-christian-life-christian-life/"]],
@@ -294,6 +338,17 @@
     "tags": [],
     "title": "Funeral or Birthday?",
     "url": "http://odb.org/1994/01/15/funeral-or-birthday/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Christian Life","christian-life/"],["Grief","christian-life/personal-crisis-christian-life/grief-personal-crisis-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Sorrow","christian-life/personal-crisis-christian-life/sorrow-personal-crisis-christian-life-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2003,5,27],
+    "passage": "Ecclesiastes 7:1-14",
+    "passage_ref": [[["ecc",7,1],["ecc",7,14]]],
+    "quote": "Ecclesiastes 7:3",
+    "quote_ref": [[["ecc",7,3]]],
+    "tags": [["grief","grief"],["sorrow","sorrow"],["tests","tests"],["trials","trials"]],
+    "title": "The Upside Of Sorrow",
+    "url": "http://odb.org/2003/05/27/the-upside-of-sorrow/"
   }
 ],
 "9": [

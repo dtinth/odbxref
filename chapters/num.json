@@ -62,6 +62,17 @@
   }
 ],
 "11": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,2,24],
+    "passage": "Numbers 11:1-9",
+    "passage_ref": [[["num",11,1],["num",11,9]]],
+    "quote": "Numbers 11:4,6",
+    "quote_ref": [[["num",11,4]],[["num",11,6]]],
+    "tags": [],
+    "title": "Tired Of Manna?",
+    "url": "http://odb.org/2002/02/24/tired-of-manna/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Christian Life","christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Perserverence","christian-life/personal-crisis-christian-life/perserverence-personal-crisis-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Work","christian-life/lifestyle-issues-christian-life/work-lifestyle-issues-christian-life-christian-life/"]],
     "date": [2005,3,7],
@@ -110,6 +121,39 @@
   }
 ],
 "14": [
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,2,25],
+    "passage": "Numbers 14:2,11-23",
+    "passage_ref": [[["num",14,2]],[["num",14,11],["num",14,23]]],
+    "quote": "Galatians 5:1",
+    "quote_ref": [[["gal",5,1]]],
+    "tags": [],
+    "title": "Rearview Mirror",
+    "url": "http://odb.org/2002/02/25/rearview-mirror/"
+  }, 
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Christian Life","christian-life/"],["Gratitude","christian-life/attitudes-christian-life/gratitude-attitudes-christian-life-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Thankfulness","christian-life/attitudes-christian-life/thankfulness-attitudes-christian-life-christian-life/"]],
+    "date": [2004,3,21],
+    "passage": "Numbers 14:1-11",
+    "passage_ref": [[["num",14,1],["num",14,11]]],
+    "quote": "Numbers 11:1",
+    "quote_ref": [[["num",11,1]]],
+    "tags": [["blessings from","blessings-from"],["gratitude","gratitude"],["thankfulness","thankfulness"]],
+    "title": "Thorns Or Roses?",
+    "url": "http://odb.org/2004/03/21/thorns-or-roses/"
+  }, 
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Justification","basics-of-faith/salvation-basics-of-faith/justification-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
+    "date": [2004,5,2],
+    "passage": "Numbers 14:26-35",
+    "passage_ref": [[["num",14,26],["num",14,35]]],
+    "quote": "Romans 10:13",
+    "quote_ref": [[["rom",10,13]]],
+    "tags": [["justification","justification"]],
+    "title": "So Near And Yet So Far",
+    "url": "http://odb.org/2004/05/02/so-near-and-yet-so-far/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Criticism","relationships/relating-to-others-relationships/criticism-relating-to-others-relationships-relationships/"],["Humility","christian-life/attitudes-christian-life/humility-attitudes-christian-life-christian-life/"],["Judging","relationships/relating-to-others-relationships/judging-relating-to-others-relationships-relationships/"],["Meekness","christian-life/attitudes-christian-life/meekness-attitudes-christian-life-christian-life/"],["Pride","christian-life/attitudes-christian-life/pride-attitudes-christian-life-christian-life/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
     "date": [2008,3,3],
@@ -194,6 +238,30 @@
     "tags": [["attitude","attitude"],["God's care","gods-care"],["God's plan","gods-plan"],["God's will","gods-will"],["prayer","prayer"],["protection","protection"]],
     "title": "Unstoppable",
     "url": "http://odb.org/2013/01/30/unstoppable/"
+  }
+],
+"27": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,3,2],
+    "passage": "Numbers 27:12-23",
+    "passage_ref": [[["num",27,12],["num",27,23]]],
+    "quote": "Numbers 27:18",
+    "quote_ref": [[["num",27,18]]],
+    "tags": [],
+    "title": "Change Of Leaders",
+    "url": "http://odb.org/2002/03/02/change-of-leaders/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2004,3,2],
+    "passage": "Numbers 27:15-23",
+    "passage_ref": [[["num",27,15],["num",27,23]]],
+    "quote": "Numbers 27:21",
+    "quote_ref": [[["num",27,21]]],
+    "tags": [["guidance","guidance"],["leading","leading"],["prayer","prayer"]],
+    "title": "Going Out & Coming In",
+    "url": "http://odb.org/2004/03/02/going-out-coming-in/"
   }
 ]
 }

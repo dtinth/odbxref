@@ -1,4 +1,15 @@
 { "1": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2004,3,7],
+    "passage": "Esther 1",
+    "passage_ref": [[["est",1,null]]],
+    "quote": "Daniel 2:21",
+    "quote_ref": [[["dan",2,21]]],
+    "tags": [["attributes","attributes"]],
+    "title": "Behind The Throne",
+    "url": "http://odb.org/2004/03/07/behind-the-throne/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Grace","basics-of-faith/salvation-basics-of-faith/grace-salvation-basics-of-faith-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
     "date": [2005,7,9],
@@ -46,6 +57,17 @@
     "tags": [],
     "title": "The Price of  Freedom",
     "url": "http://odb.org/1994/05/30/the-price-of-freedom/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,7,26],
+    "passage": "Esther 4:1-17",
+    "passage_ref": [[["est",4,1],["est",4,17]]],
+    "quote": "Esther 4:14",
+    "quote_ref": [[["est",4,14]]],
+    "tags": [],
+    "title": "Your Place In Time",
+    "url": "http://odb.org/2002/07/26/your-place-in-time/"
   }, 
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Christian Life","christian-life/"],["Death","christian-life/personal-crisis-christian-life/death-personal-crisis-christian-life-christian-life/"],["Emotions","christian-life/emotions-christian-life/"],["Fear","christian-life/emotions-christian-life/fear-emotions-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],

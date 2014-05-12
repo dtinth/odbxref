@@ -10,6 +10,28 @@
     "title": "Where Has Love Gone?",
     "url": "http://odb.org/1994/12/02/where-has-love-gone/"
   }, 
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Church","basics-of-faith/church-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Will","basics-of-faith/god-basics-of-faith/his-will-god-basics-of-faith-basics-of-faith/"],["Purpose","basics-of-faith/church-basics-of-faith/purpose-church-basics-of-faith-basics-of-faith/"]],
+    "date": [2003,3,30],
+    "passage": "Jeremiah 2:4-13",
+    "passage_ref": [[["jer",2,4],["jer",2,13]]],
+    "quote": "John 7:37",
+    "quote_ref": [[["jhn",7,37]]],
+    "tags": [["His will","his-will"],["purpose","purpose"]],
+    "title": "Living Water",
+    "url": "http://odb.org/2003/03/30/living-water/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Justification","basics-of-faith/salvation-basics-of-faith/justification-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2003,8,18],
+    "passage": "Jeremiah 2:4-19",
+    "passage_ref": [[["jer",2,4],["jer",2,19]]],
+    "quote": "Jeremiah 2:8",
+    "quote_ref": [[["jer",2,8]]],
+    "tags": [["consequences","consequences"],["justification","justification"]],
+    "title": "Caught Red-Handed",
+    "url": "http://odb.org/2003/08/18/caught-red-handed/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
     "date": [2005,8,3],
@@ -23,6 +45,17 @@
   }
 ],
 "5": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Life Stories","ministry-and-outreach/life-stories-ministry-and-outreach/"],["Ministry","ministry-and-outreach/life-stories-ministry-and-outreach/ministry-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Service","ministry-and-outreach/life-stories-ministry-and-outreach/service-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Sharign Christ","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/sharing-christ-sharing-the-gospel-ministry-and-outreach-ministry-and-outreach/"],["Sharing The Gospel","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/"]],
+    "date": [2002,11,3],
+    "passage": "Jeremiah 5:20-25",
+    "passage_ref": [[["jer",5,20],["jer",5,25]]],
+    "quote": "Jeremiah 5:21",
+    "quote_ref": [[["jer",5,21]]],
+    "tags": [["inviting others to Christ","inviting-others-to-christ"],["ministry","ministry"],["service","service"]],
+    "title": "Tuned In",
+    "url": "http://odb.org/2002/11/03/tuned-in/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Creator","basics-of-faith/god-basics-of-faith/creator-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2007,11,5],
@@ -156,6 +189,17 @@
   }
 ],
 "17": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Growth","relationships/relating-to-god-relationships/growth-relating-to-god-relationships-relationships/"],["Power For Living","relationships/relating-to-god-relationships/power-for-living-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Sanctification","relationships/relating-to-god-relationships/sanctification-relating-to-god-relationships-relationships/"]],
+    "date": [2004,11,1],
+    "passage": "Jeremiah 17:1-10",
+    "passage_ref": [[["jer",17,1],["jer",17,10]]],
+    "quote": "Jeremiah 17:8",
+    "quote_ref": [[["jer",17,8]]],
+    "tags": [["growth","growth"],["power for living","power-for-living"],["sanctification","sanctification"]],
+    "title": "The Pine Looper",
+    "url": "http://odb.org/2004/11/01/the-pine-looper/"
+  }, 
   { "author": ["Albert Lee","albertlee"],
     "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2005,4,5],
@@ -202,6 +246,28 @@
   }
 ],
 "18": [
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,1,23],
+    "passage": "Jeremiah 18:1-10",
+    "passage_ref": [[["jer",18,1],["jer",18,10]]],
+    "quote": "Jeremiah 18:6",
+    "quote_ref": [[["jer",18,6]]],
+    "tags": [],
+    "title": "God Knows Best",
+    "url": "http://odb.org/2002/01/23/god-knows-best/"
+  }, 
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"]],
+    "date": [2004,1,6],
+    "passage": "Jeremiah 18:1-6",
+    "passage_ref": [[["jer",18,1],["jer",18,6]]],
+    "quote": "Jeremiah 18:6",
+    "quote_ref": [[["jer",18,6]]],
+    "tags": [["obedience","obedience"]],
+    "title": "The Great Potter",
+    "url": "http://odb.org/2004/01/06/the-great-potter/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"]],
     "date": [2011,8,13],
@@ -228,6 +294,17 @@
   }
 ],
 "23": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"]],
+    "date": [2004,12,7],
+    "passage": "Jeremiah 23:16-23",
+    "passage_ref": [[["jer",23,16],["jer",23,23]]],
+    "quote": "Jeremiah 23:1",
+    "quote_ref": [[["jer",23,1]]],
+    "tags": [["obedience","obedience"]],
+    "title": "How To Be Unpopular",
+    "url": "http://odb.org/2004/12/07/how-to-be-unpopular/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"],["Relationships","relationships/"]],
     "date": [2010,10,16],
@@ -289,6 +366,17 @@
   }
 ],
 "32": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["God","basics-of-faith/god-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2002,11,19],
+    "passage": "Jeremiah 32:1-2,16-30",
+    "passage_ref": [[["jer",32,1],["jer",32,2]],[["jer",32,16],["jer",32,30]]],
+    "quote": "Jeremiah 32:18-19",
+    "quote_ref": [[["jer",32,18],["jer",32,19]]],
+    "tags": [["attributes","attributes"],["blessings from","blessings-from"]],
+    "title": "Are Good Times Bad?",
+    "url": "http://odb.org/2002/11/19/are-good-times-bad/"
+  }, 
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Power","basics-of-faith/god-basics-of-faith/power-god-basics-of-faith-basics-of-faith/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"],["Strength","basics-of-faith/god-basics-of-faith/strength-god-basics-of-faith-basics-of-faith/"]],
     "date": [2005,5,17],
@@ -323,6 +411,19 @@
     "tags": [["forgiveness from","forgiveness-from"],["forgiveness of","forgiveness-of"]],
     "title": "Recovery",
     "url": "http://odb.org/2005/05/18/recovery/"
+  }
+],
+"35": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,2,8],
+    "passage": "Jeremiah 35:12-19",
+    "passage_ref": [[["jer",35,12],["jer",35,19]]],
+    "quote": "Jeremiah 35:14",
+    "quote_ref": [[["jer",35,14]]],
+    "tags": [],
+    "title": "Examples Of Obedience",
+    "url": "http://odb.org/2002/02/08/examples-of-obedience/"
   }
 ],
 "36": [

@@ -21,6 +21,17 @@
     "title": "When Trust Is Tested",
     "url": "http://odb.org/1994/10/05/when-trust-is-tested/"
   }, 
+  { "author": ["Dennis J. De Haan","dennisjdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,7,3],
+    "passage": "Job 1:6-12",
+    "passage_ref": [[["job",1,6],["job",1,12]]],
+    "quote": "Job 1:20",
+    "quote_ref": [[["job",1,20]]],
+    "tags": [],
+    "title": "Wind And Worship",
+    "url": "http://odb.org/2002/07/03/wind-and-worship/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Christian Life","christian-life/"],["Fellowship With","relationships/relating-to-god-relationships/fellowship-with-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["sin","christian-life/sin-christian-life/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
     "date": [2009,4,29],
@@ -219,6 +230,19 @@
     "url": "http://odb.org/2013/06/26/her-worst-day-ever/"
   }
 ],
+"9": [
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Creator","basics-of-faith/god-basics-of-faith/creator-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2004,8,10],
+    "passage": "Job 9:1-10",
+    "passage_ref": [[["job",9,1],["job",9,10]]],
+    "quote": "Job 9:10",
+    "quote_ref": [[["job",9,10]]],
+    "tags": [["creator","creator"]],
+    "title": "Countless Wonders",
+    "url": "http://odb.org/2004/08/10/countless-wonders/"
+  }
+],
 "12": [
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -254,9 +278,31 @@
     "tags": [],
     "title": "Pressed Close to God",
     "url": "http://odb.org/1994/01/19/pressed-close-to-god/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Body Of Christ","basics-of-faith/church-basics-of-faith/body-of-christ-church-basics-of-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Church","basics-of-faith/church-basics-of-faith/"],["Church Life","christian-life/church-life-christian-life/"],["Fellowship","christian-life/church-life-christian-life/fellowship-church-life-christian-life-christian-life/"]],
+    "date": [2004,3,18],
+    "passage": "Job 13:1-9",
+    "passage_ref": [[["job",13,1],["job",13,9]]],
+    "quote": "Job 13:5",
+    "quote_ref": [[["job",13,5]]],
+    "tags": [["body of Christ","body-of-christ"],["fellowship","fellowship"]],
+    "title": "Friends Listen",
+    "url": "http://odb.org/2004/03/18/friends-listen/"
   }
 ],
 "16": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,3,3],
+    "passage": "Job 16:1-5",
+    "passage_ref": [[["job",16,1],["job",16,5]]],
+    "quote": "Romans 12:15",
+    "quote_ref": [[["rom",12,15]]],
+    "tags": [],
+    "title": "Sharing The Pain",
+    "url": "http://odb.org/2002/03/03/sharing-the-pain/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Suffering","christian-life/personal-crisis-christian-life/suffering-personal-crisis-christian-life-christian-life/"]],
     "date": [2006,10,10],
@@ -270,6 +316,17 @@
   }
 ],
 "23": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,7,2],
+    "passage": "Job 23:1-12",
+    "passage_ref": [[["job",23,1],["job",23,12]]],
+    "quote": "Job 23:3",
+    "quote_ref": [[["job",23,3]]],
+    "tags": [],
+    "title": "Where Is He?",
+    "url": "http://odb.org/2002/07/02/where-is-he/"
+  }, 
   { "author": ["Dennis J. De Haan","dennisjdehaan"],
     "categories": [["Christian Life","christian-life/"],["Growth","relationships/relating-to-god-relationships/growth-relating-to-god-relationships-relationships/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Sanctification","relationships/relating-to-god-relationships/sanctification-relating-to-god-relationships-relationships/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
     "date": [2005,9,22],
@@ -370,6 +427,17 @@
   }
 ],
 "38": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,7,9],
+    "passage": "Job 38:1-18",
+    "passage_ref": [[["job",38,1],["job",38,18]]],
+    "quote": "Job 38:4",
+    "quote_ref": [[["job",38,4]]],
+    "tags": [],
+    "title": "Reasons To Praise",
+    "url": "http://odb.org/2002/07/09/reasons-to-praise/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2005,5,28],
@@ -448,6 +516,19 @@
     "url": "http://odb.org/2013/07/09/space-music/"
   }
 ],
+"40": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["sin","christian-life/sin-christian-life/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
+    "date": [2004,5,25],
+    "passage": "Job 40:1-14",
+    "passage_ref": [[["job",40,1],["job",40,14]]],
+    "quote": "Job 40:2",
+    "quote_ref": [[["job",40,2]]],
+    "tags": [["backsliding","backsliding"],["consequences","consequences"],["worldliness","worldliness"]],
+    "title": "Who Calls The Game?",
+    "url": "http://odb.org/2004/05/25/who-calls-the-game/"
+  }
+],
 "41": [
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Creator","basics-of-faith/god-basics-of-faith/creator-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
@@ -473,6 +554,28 @@
   }
 ],
 "42": [
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Integrity","christian-life/character-christian-life/integrity-character-christian-life-christian-life/"]],
+    "date": [2002,11,1],
+    "passage": "Job 42",
+    "passage_ref": [[["job",42,null]]],
+    "quote": "John 17:20",
+    "quote_ref": [[["jhn",17,20]]],
+    "tags": [["christlikeness","christlikeness"],["integrity","integrity"]],
+    "title": "When Friends Fail You",
+    "url": "http://odb.org/2002/11/01/when-friends-fail-you/"
+  }, 
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Bible Scripture","basics-of-faith/bible-scripture-basics-of-faith/"],["Bible Study","bible-study/"],["Inspiration Of","basics-of-faith/bible-scripture-basics-of-faith/inspiration-of-bible-scripture-basics-of-faith-basics-of-faith/"],["Reading","bible-study/ways-to-study-bible-study/reading-ways-to-study-bible-study-bible-study/"],["Ways To Study","bible-study/ways-to-study-bible-study/"]],
+    "date": [2004,12,5],
+    "passage": "Job 42:1-6",
+    "passage_ref": [[["job",42,1],["job",42,6]]],
+    "quote": "Job 40:2",
+    "quote_ref": [[["job",40,2]]],
+    "tags": [["inspiration of","inspiration-of"],["reading","reading"]],
+    "title": "No Answers",
+    "url": "http://odb.org/2004/12/05/no-answers/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Christian Life","christian-life/"],["Expressions Of","christian-life/worship-christian-life/expressions-of-worship-christian-life-christian-life/"],["God","christian-life/worship-christian-life/god-worship-christian-life/"],["Praise To","relationships/relating-to-god-relationships/praise-to-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Worship","christian-life/worship-christian-life/"]],
     "date": [2008,11,23],

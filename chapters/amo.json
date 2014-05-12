@@ -34,5 +34,29 @@
     "title": "A Mighty Stream",
     "url": "http://odb.org/2010/03/03/a-mighty-stream/"
   }
+],
+"7": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Love For","relationships/relating-to-god-relationships/love-for-relating-to-god-relationships-relationships/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2002,12,17],
+    "passage": "Amos 7:1-9",
+    "passage_ref": [[["amo",7,1],["amo",7,9]]],
+    "quote": "Amos 7:8",
+    "quote_ref": [[["amo",7,8]]],
+    "tags": [["love for","love-for"],["obedience","obedience"]],
+    "title": "A Straight Wall",
+    "url": "http://odb.org/2002/12/17/a-straight-wall/"
+  }, 
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Evangelism","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/evangelism-sharing-the-gospel-ministry-and-outreach-ministry-and-outreach/"],["Life Stories","ministry-and-outreach/life-stories-ministry-and-outreach/"],["Ministry","ministry-and-outreach/life-stories-ministry-and-outreach/ministry-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Missions","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/missions-sharing-the-gospel-ministry-and-outreach-ministry-and-outreach/"],["Service","ministry-and-outreach/life-stories-ministry-and-outreach/service-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Sharing The Gospel","ministry-and-outreach/sharing-the-gospel-ministry-and-outreach/"]],
+    "date": [2003,11,16],
+    "passage": "Amos 7:7-15",
+    "passage_ref": [[["amo",7,7],["amo",7,15]]],
+    "quote": "Amos 7:15",
+    "quote_ref": [[["amo",7,15]]],
+    "tags": [["evangelism","evangelism"],["ministry","ministry"],["missions","missions"],["service","service"]],
+    "title": "Handling Criticism",
+    "url": "http://odb.org/2003/11/16/handling-criticism/"
+  }
 ]
 }
