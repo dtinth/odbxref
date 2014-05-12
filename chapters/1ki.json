@@ -128,6 +128,17 @@
   }
 ],
 "10": [
+  { "author": ["C. P. Hia","cphia"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Humility","christian-life/attitudes-christian-life/humility-attitudes-christian-life-christian-life/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Pride","christian-life/attitudes-christian-life/pride-attitudes-christian-life-christian-life/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
+    "date": [2009,10,13],
+    "passage": "1 Kings 10:4-10",
+    "passage_ref": [[["1ki",10,4],["1ki",10,10]]],
+    "quote": "Matthew 5:16",
+    "quote_ref": [[["mat",5,16]]],
+    "tags": [["christlikeness","christlikeness"],["humility","humility"],["love for","love-for"],["pride","pride"]],
+    "title": "Olympic Extravaganza",
+    "url": "http://odb.org/2009/10/13/olympic-extravaganza/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,1,29],

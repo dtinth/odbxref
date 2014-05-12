@@ -1327,6 +1327,17 @@
     "url": "http://odb.org/2009/09/10/untended-places/"
   }, 
   { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Meditation","bible-study/ways-to-study-bible-study/meditation-ways-to-study-bible-study-bible-study/"],["Memorization","bible-study/ways-to-study-bible-study/memorization-ways-to-study-bible-study-bible-study/"],["Power","bible-study/application-bible-study/power-application-bible-study/"],["Understanding","bible-study/application-bible-study/understanding-application-bible-study-bible-study/"],["Ways To Study","bible-study/ways-to-study-bible-study/"]],
+    "date": [2009,10,22],
+    "passage": "Psalm 119:33-40",
+    "passage_ref": [[["psa",119,33],["psa",119,40]]],
+    "quote": "Psalm 119:37",
+    "quote_ref": [[["psa",119,37]]],
+    "tags": [["effect","effect"],["meditation","meditation"],["memorization","memorization"],["power","power"],["understanding","understanding"]],
+    "title": "Failing Memory",
+    "url": "http://odb.org/2009/10/22/failing-memory/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Power","bible-study/application-bible-study/power-application-bible-study/"],["Reading","bible-study/ways-to-study-bible-study/reading-ways-to-study-bible-study-bible-study/"],["Understanding","bible-study/application-bible-study/understanding-application-bible-study-bible-study/"],["Ways To Study","bible-study/ways-to-study-bible-study/"]],
     "date": [2009,12,15],
     "passage": "Psalm 119:89-96",
