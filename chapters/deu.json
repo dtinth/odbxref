@@ -38,6 +38,17 @@
   }
 ],
 "4": [
+  { "author": ["Dennis J. De Haan","dennisjdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,8,27],
+    "passage": "Deuteronomy 4:15-31",
+    "passage_ref": [[["deu",4,15],["deu",4,31]]],
+    "quote": "Exodus 20:4",
+    "quote_ref": [[["exo",20,4]]],
+    "tags": [],
+    "title": "Unseen Majesty",
+    "url": "http://odb.org/1995/08/27/unseen-majesty/"
+  }, 
   { "author": ["Haddon W. Robinson","haddonwrobinson"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2000,8,13],
@@ -163,6 +174,39 @@
   }
 ],
 "6": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,8,28],
+    "passage": "Deuteronomy 6:1-9",
+    "passage_ref": [[["deu",6,1],["deu",6,9]]],
+    "quote": "Isaiah 38:19",
+    "quote_ref": [[["isa",38,19]]],
+    "tags": [],
+    "title": "Education Starts At Home",
+    "url": "http://odb.org/1995/08/28/education-starts-at-home/"
+  }, 
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,6,1],
+    "passage": "Deuteronomy 6:13-19",
+    "passage_ref": [[["deu",6,13],["deu",6,19]]],
+    "quote": "Exodus 20:3",
+    "quote_ref": [[["exo",20,3]]],
+    "tags": [],
+    "title": "A Slow Fourth",
+    "url": "http://odb.org/1996/06/01/a-slow-fourth/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,10,12],
+    "passage": "Deuteronomy 6:6-25",
+    "passage_ref": [[["deu",6,6],["deu",6,25]]],
+    "quote": "Deuteronomy 32:46",
+    "quote_ref": [[["deu",32,46]]],
+    "tags": [],
+    "title": "A Child's World",
+    "url": "http://odb.org/1997/10/12/a-childs-world-2/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1998,2,17],
@@ -385,6 +429,17 @@
   }
 ],
 "7": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,3,17],
+    "passage": "Deuteronomy 7:6-16",
+    "passage_ref": [[["deu",7,6],["deu",7,16]]],
+    "quote": "Deuteronomy 7:10",
+    "quote_ref": [[["deu",7,10]]],
+    "tags": [],
+    "title": "News Bulletin",
+    "url": "http://odb.org/1997/03/17/news-bulletin-2/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Judgment","basics-of-faith/future-prophecy-basics-of-faith/judgment-future-prophecy-basics-of-faith-basics-of-faith/"]],
     "date": [2005,2,21],
@@ -961,6 +1016,17 @@
   }
 ],
 "32": [
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,7,17],
+    "passage": "Deuteronomy 32:1-14",
+    "passage_ref": [[["deu",32,1],["deu",32,14]]],
+    "quote": "Deuteronomy 33:27",
+    "quote_ref": [[["deu",33,27]]],
+    "tags": [],
+    "title": "Free-Falling",
+    "url": "http://odb.org/1995/07/17/free-falling-2/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1998,3,24],

@@ -40,6 +40,8 @@ end
 def fix_passage(text)
   text = text.strip
   text.sub! %r(\.$),            ''                                # 1994-10-07
+  text.sub! '(NIV)',            ''                                # 1995-01-08
+  text.sub! 'Acts:',            'Acts'                            # 1995-02-13
   text.sub! 'Eccl.',            'Ecclesiastes'                    # 1998-05-11
   text.sub! 'Dt.',              'Deuteronomy'                     # 1998-10-17
   text.sub! '1 Th.',            '1 Thessalonians'                 # 1998-10-19
@@ -76,10 +78,12 @@ command :chapters do |c|
 
     chapter_files = Hash.new { |h, k| h[k] = Hash.new { |h, k| h[k] = [ ] } }
     book_counter = Hash.new(0)
+    max_date = [0,0,0]
 
     each_article do |article|
       passages = []
       books = []
+      max_date = [max_date, article["date"]].max
       article["passage_ref"].each do |start, finish=nil|
         finish = start unless finish
         raise "Cross book!" if start[0] != finish[0]
@@ -120,9 +124,13 @@ command :chapters do |c|
       File.write(filename, my_pretty_json(hash, 3, -1))
     end
 
+
     filename = "chapters/index.json"
     puts "==> #{filename}"
-    index[:state] = "Articles in 1994, 1998-2013, 2014 (Jan-Apr) have been indexed. 1995-1997 will be indexed by next month, hopefully."
+
+    max_date = max_date.join('-')
+    index[:state] = "Articles from 1994-01-01 to #{max_date} have been indexed."
+
     File.write(filename, my_pretty_json(index, 3, 0))
 
   end

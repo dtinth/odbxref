@@ -1,4 +1,15 @@
 { "1": [
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,5,15],
+    "passage": "Ruth 1:1-17",
+    "passage_ref": [[["rut",1,1],["rut",1,17]]],
+    "quote": "Psalm 107:8",
+    "quote_ref": [[["psa",107,8]]],
+    "tags": [],
+    "title": "Poisoned Well",
+    "url": "http://odb.org/1995/05/15/poisoned-well/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Commitment","ministry-and-outreach/serving-ministry-and-outreach/commitment-serving-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"]],
     "date": [2003,9,23],
@@ -67,6 +78,17 @@
   }
 ],
 "2": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,9,2],
+    "passage": "Ruth 2:1-23",
+    "passage_ref": [[["rut",2,1],["rut",2,23]]],
+    "quote": "Ruth 2:12",
+    "quote_ref": [[["rut",2,12]]],
+    "tags": [],
+    "title": "Two Sides Of Work",
+    "url": "http://odb.org/1996/09/02/two-sides-of-work/"
+  }, 
   { "author": ["Albert Lee","albertlee"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Encouragement","christian-life/attitudes-christian-life/encouragement-attitudes-christian-life-christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Speech","christian-life/lifestyle-issues-christian-life/speech-lifestyle-issues-christian-life-christian-life/"]],
     "date": [2002,11,14],

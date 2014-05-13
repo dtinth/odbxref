@@ -1,4 +1,17 @@
-{ "2": [
+{ "1": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,11,30],
+    "passage": "Zechariah 1:1-6",
+    "passage_ref": [[["zec",1,1],["zec",1,6]]],
+    "quote": "Mark 1:15",
+    "quote_ref": [[["mrk",1,15]]],
+    "tags": [],
+    "title": "The First Word Of Salvation",
+    "url": "http://odb.org/1996/11/30/the-first-word-of-salvation/"
+  }
+],
+"2": [
   { "author": ["Albert Lee","albertlee"],
     "categories": [["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Guidance","relationships/relating-to-god-relationships/guidance-relating-to-god-relationships-relationships/"],["Leading","relationships/relating-to-god-relationships/leading-relating-to-god-relationships-relationships/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2003,10,8],
@@ -25,6 +38,17 @@
   }
 ],
 "4": [
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,10,9],
+    "passage": "Zechariah 4:1-10",
+    "passage_ref": [[["zec",4,1],["zec",4,10]]],
+    "quote": "Zechariah 4:10",
+    "quote_ref": [[["zec",4,10]]],
+    "tags": [],
+    "title": "No Job Too Small",
+    "url": "http://odb.org/1997/10/09/no-job-too-small/"
+  }, 
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2000,7,11],

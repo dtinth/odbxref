@@ -36,6 +36,17 @@
   }
 ],
 "6": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,8,3],
+    "passage": "2 Samuel 6:1-11",
+    "passage_ref": [[["2sa",6,1],["2sa",6,11]]],
+    "quote": "Hebrews 12:28-29",
+    "quote_ref": [[["heb",12,28],["heb",12,29]]],
+    "tags": [],
+    "title": "Fear And Love",
+    "url": "http://odb.org/1997/08/03/fear-and-love/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2001,11,11],
@@ -71,6 +82,17 @@
     "title": "Greatly Valued",
     "url": "http://odb.org/1994/04/06/greatly-valued/"
   }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,1,26],
+    "passage": "2 Samuel 9:1-13",
+    "passage_ref": [[["2sa",9,1],["2sa",9,13]]],
+    "quote": "1 Peter 3:8",
+    "quote_ref": [[["1pe",3,8]]],
+    "tags": [],
+    "title": "Special People",
+    "url": "http://odb.org/1995/01/26/special-people/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["God","basics-of-faith/god-basics-of-faith/"],["His Love","basics-of-faith/god-basics-of-faith/his-love-god-basics-of-faith-basics-of-faith/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2003,1,26],
@@ -95,6 +117,28 @@
   }
 ],
 "12": [
+  { "author": ["Dennis J. De Haan","dennisjdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,4,11],
+    "passage": "2 Samuel 12:1-14",
+    "passage_ref": [[["2sa",12,1],["2sa",12,14]]],
+    "quote": "Psalm 32:5",
+    "quote_ref": [[["psa",32,5]]],
+    "tags": [],
+    "title": "Nail Holes",
+    "url": "http://odb.org/1995/04/11/nail-holes/"
+  }, 
+  { "author": ["M.R. De Haan","mrdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,4,24],
+    "passage": "2 Samuel 12:1-10",
+    "passage_ref": [[["2sa",12,1],["2sa",12,10]]],
+    "quote": "2 Samuel 12:7,13",
+    "quote_ref": [[["2sa",12,7]],[["2sa",12,13]]],
+    "tags": [],
+    "title": "The Mirror",
+    "url": "http://odb.org/1997/04/24/the-mirror-2/"
+  }, 
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2000,7,2],
@@ -253,6 +297,17 @@
   }
 ],
 "16": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,7,16],
+    "passage": "2 Samuel 16:23-17:23",
+    "passage_ref": [[["2sa",16,23],["2sa",17,23]]],
+    "quote": "Romans 12:19",
+    "quote_ref": [[["rom",12,19]]],
+    "tags": [],
+    "title": "When You Want Revenge",
+    "url": "http://odb.org/1996/07/16/when-you-want-revenge/"
+  }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2004,2,10],
@@ -274,6 +329,19 @@
     "tags": [["care","care"],["His love","his-love"],["protection from","protection-from"]],
     "title": "Father Knows Best",
     "url": "http://odb.org/2006/07/06/father-knows-best/"
+  }
+],
+"17": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,7,16],
+    "passage": "2 Samuel 16:23-17:23",
+    "passage_ref": [[["2sa",16,23],["2sa",17,23]]],
+    "quote": "Romans 12:19",
+    "quote_ref": [[["rom",12,19]]],
+    "tags": [],
+    "title": "When You Want Revenge",
+    "url": "http://odb.org/1996/07/16/when-you-want-revenge/"
   }
 ],
 "18": [
@@ -337,6 +405,17 @@
     "tags": [],
     "title": "Where’s Your Anchor?",
     "url": "http://odb.org/1994/08/10/wheres-your-anchor/"
+  }, 
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,2,15],
+    "passage": "2 Samuel 22:1-20",
+    "passage_ref": [[["2sa",22,1],["2sa",22,20]]],
+    "quote": "Proverbs 30:26",
+    "quote_ref": [[["pro",30,26]]],
+    "tags": [],
+    "title": "Badger Brains",
+    "url": "http://odb.org/1995/02/15/badger-brains/"
   }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],

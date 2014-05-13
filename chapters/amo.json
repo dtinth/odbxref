@@ -23,6 +23,28 @@
   }
 ],
 "5": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,8,6],
+    "passage": "Amos 5:21-27",
+    "passage_ref": [[["amo",5,21],["amo",5,27]]],
+    "quote": "Psalm 51:17",
+    "quote_ref": [[["psa",51,17]]],
+    "tags": [],
+    "title": "Wasted Worship",
+    "url": "http://odb.org/1995/08/06/wasted-worship/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,10,26],
+    "passage": "Amos 5:14-24",
+    "passage_ref": [[["amo",5,14],["amo",5,24]]],
+    "quote": "Amos 5:18-19",
+    "quote_ref": [[["amo",5,18],["amo",5,19]]],
+    "tags": [],
+    "title": "No Place To Hide",
+    "url": "http://odb.org/1996/10/26/no-place-to-hide/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christ's Return","basics-of-faith/future-prophecy-basics-of-faith/christs-return-future-prophecy-basics-of-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Commitment","ministry-and-outreach/serving-ministry-and-outreach/commitment-serving-ministry-and-outreach-ministry-and-outreach/"],["Compassion","christian-life/attitudes-christian-life/compassion-attitudes-christian-life-christian-life/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
     "date": [2010,3,3],

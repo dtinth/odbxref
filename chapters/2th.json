@@ -23,6 +23,17 @@
   }
 ],
 "3": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,4,1],
+    "passage": "2 Thessalonians 3:6-15",
+    "passage_ref": [[["2th",3,6],["2th",3,15]]],
+    "quote": "2 Thessalonians 3:11",
+    "quote_ref": [[["2th",3,11]]],
+    "tags": [],
+    "title": "Cuckoo Behavior",
+    "url": "http://odb.org/1995/04/01/cuckoo-behavior/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1999,11,22],

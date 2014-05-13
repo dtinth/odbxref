@@ -23,6 +23,17 @@
   }
 ],
 "3": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,1,16],
+    "passage": "Exodus 3:1-12",
+    "passage_ref": [[["exo",3,1],["exo",3,12]]],
+    "quote": "Exodus 3:12",
+    "quote_ref": [[["exo",3,12]]],
+    "tags": [],
+    "title": "He'll Make It Work",
+    "url": "http://odb.org/1997/01/16/hell-make-it-work/"
+  }, 
   { "author": ["Joanie Yoder","joanieyoder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2001,5,30],
@@ -91,6 +102,17 @@
   }
 ],
 "4": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,7,27],
+    "passage": "Exodus 4:1-12",
+    "passage_ref": [[["exo",4,1],["exo",4,12]]],
+    "quote": "Exodus 4:2",
+    "quote_ref": [[["exo",4,2]]],
+    "tags": [],
+    "title": "Little Things",
+    "url": "http://odb.org/1997/07/27/little-things-2/"
+  }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2003,6,26],
@@ -160,6 +182,17 @@
 ],
 "5": [
   { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,10,15],
+    "passage": "Exodus 5:1-14,22-23",
+    "passage_ref": [[["exo",5,1],["exo",5,14]],[["exo",5,22],["exo",5,23]]],
+    "quote": "Proverbs 28:26",
+    "quote_ref": [[["pro",28,26]]],
+    "tags": [],
+    "title": "The Storm Will Pass",
+    "url": "http://odb.org/1997/10/15/the-storm-will-pass-2/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
     "date": [2005,3,12],
     "passage": "Exodus 5:1-14,22-23",
@@ -183,6 +216,17 @@
   }
 ],
 "6": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,11,7],
+    "passage": "Exodus 6:1-8",
+    "passage_ref": [[["exo",6,1],["exo",6,8]]],
+    "quote": "Exodus 6:3",
+    "quote_ref": [[["exo",6,3]]],
+    "tags": [],
+    "title": "El-Shaddai",
+    "url": "http://odb.org/1996/11/07/el-shaddai/"
+  }, 
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1998,5,16],
@@ -437,6 +481,17 @@
   }
 ],
 "14": [
+  { "author": ["M.R. De Haan","mrdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,4,1],
+    "passage": "Exodus 14:1-14",
+    "passage_ref": [[["exo",14,1],["exo",14,14]]],
+    "quote": "Exodus 14:13",
+    "quote_ref": [[["exo",14,13]]],
+    "tags": [],
+    "title": "Standing Still",
+    "url": "http://odb.org/1996/04/01/standing-still/"
+  }, 
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Obedience","relationships/relating-to-god-relationships/obedience-relating-to-god-relationships-relationships/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Submission","relationships/relating-to-god-relationships/submission-relating-to-god-relationships-relationships/"]],
     "date": [2004,1,26],
@@ -779,6 +834,17 @@
     "title": "Commandment 3—Respect God’s Name",
     "url": "http://odb.org/1994/09/13/commandment-3respect-gods-name/"
   }, 
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,11,2],
+    "passage": "Exodus 20:1-17",
+    "passage_ref": [[["exo",20,1],["exo",20,17]]],
+    "quote": "John 4:14",
+    "quote_ref": [[["jhn",4,14]]],
+    "tags": [],
+    "title": "Windmills And Fences",
+    "url": "http://odb.org/1995/11/02/windmills-and-fences/"
+  }, 
   { "author": ["Haddon W. Robinson","haddonwrobinson"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2002,5,20],
@@ -974,6 +1040,17 @@
   }
 ],
 "25": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,1,23],
+    "passage": "Exodus 25:10-22",
+    "passage_ref": [[["exo",25,10],["exo",25,22]]],
+    "quote": "2 Corinthians 1:22",
+    "quote_ref": [[["2co",1,22]]],
+    "tags": [],
+    "title": "The Intrigue Of The Ark",
+    "url": "http://odb.org/1995/01/23/the-intrigue-of-the-ark/"
+  }, 
   { "author": ["Marvin Williams","marvinwilliams"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Holy Spirit","basics-of-faith/holy-spirit-basics-of-faith/"],["Love For","relationships/relating-to-others-relationships/love-for-relating-to-others-relationships-relationships/"],["Ministry","basics-of-faith/holy-spirit-basics-of-faith/ministry-holy-spirit-basics-of-faith/"],["Presence","relationships/relating-to-god-relationships/presence-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
     "date": [2010,5,10],
@@ -997,6 +1074,30 @@
     "tags": [["Church","church-basics-of-faith"],["confrontation","confrontation"],["criticism","criticism"],["judgment","judgment"],["love for others","love-for-others"],["unity","unity"]],
     "title": "Perfect Fit",
     "url": "http://odb.org/2011/07/17/perfect-fit/"
+  }
+],
+"30": [
+  { "author": ["M.R. De Haan","mrdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,4,4],
+    "passage": "Exodus 30:34-36",
+    "passage_ref": [[["exo",30,34],["exo",30,36]]],
+    "quote": "Exodus 30:36",
+    "quote_ref": [[["exo",30,36]]],
+    "tags": [],
+    "title": "Broken Things",
+    "url": "http://odb.org/1996/04/04/broken-things-2/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,9,19],
+    "passage": "Exodus 30:17-21",
+    "passage_ref": [[["exo",30,17],["exo",30,21]]],
+    "quote": "James 4:8",
+    "quote_ref": [[["jas",4,8]]],
+    "tags": [],
+    "title": "Spiritual Cleansing",
+    "url": "http://odb.org/1996/09/19/spiritual-cleansing/"
   }
 ],
 "31": [
@@ -1058,6 +1159,17 @@
     "url": "http://odb.org/1994/09/12/commandment-2refuse-idolatry/"
   }, 
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,2,5],
+    "passage": "Exodus 32:1-20",
+    "passage_ref": [[["exo",32,1],["exo",32,20]]],
+    "quote": "1 Corinthians 2:12",
+    "quote_ref": [[["1co",2,12]]],
+    "tags": [],
+    "title": "Blurred Vision",
+    "url": "http://odb.org/1996/02/05/blurred-vision/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Confession","christian-life/sin-christian-life/confession-sin-christian-life-christian-life/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["sin","christian-life/sin-christian-life/"],["Temptation","basics-of-faith/sin-basics-of-faith/temptation-sin-basics-of-faith-basics-of-faith/"]],
     "date": [2003,1,25],
     "passage": "Exodus 32:15-29",
@@ -1081,6 +1193,17 @@
   }
 ],
 "33": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,1,25],
+    "passage": "Exodus 33:1-11",
+    "passage_ref": [[["exo",33,1],["exo",33,11]]],
+    "quote": "Exodus 33:11",
+    "quote_ref": [[["exo",33,11]]],
+    "tags": [],
+    "title": "'We Just Have To Talk'",
+    "url": "http://odb.org/1995/01/25/we-just-have-to-talk/"
+  }, 
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2002,5,2],

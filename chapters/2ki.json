@@ -38,6 +38,17 @@
   }
 ],
 "5": [
+  { "author": ["Dennis J. De Haan","dennisjdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,9,12],
+    "passage": "2 Kings 5:1,9-27",
+    "passage_ref": [[["2ki",5,1]],[["2ki",5,9],["2ki",5,27]]],
+    "quote": "Proverbs 15:27",
+    "quote_ref": [[["pro",15,27]]],
+    "tags": [],
+    "title": "Gripped By Greed",
+    "url": "http://odb.org/1997/09/12/gripped-by-greed/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Character","christian-life/character-christian-life/"],["Choices","christian-life/character-christian-life/choices-character-christian-life-christian-life/"],["Christian Life","christian-life/"],["Decisions","christian-life/character-christian-life/decisions-character-christian-life-christian-life/"],["sin","christian-life/sin-christian-life/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
     "date": [2006,5,8],
@@ -117,6 +128,17 @@
   }
 ],
 "6": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,9,7],
+    "passage": "2 Kings 6:1-7",
+    "passage_ref": [[["2ki",6,1],["2ki",6,7]]],
+    "quote": "Philippians 4:19",
+    "quote_ref": [[["php",4,19]]],
+    "tags": [],
+    "title": "The Little Things Too",
+    "url": "http://odb.org/1995/09/07/the-little-things-too/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1999,9,23],
@@ -208,7 +230,31 @@
     "url": "http://odb.org/2010/05/26/day-of-good-news/"
   }
 ],
+"10": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,6,30],
+    "passage": "2 Kings 10:18-31",
+    "passage_ref": [[["2ki",10,18],["2ki",10,31]]],
+    "quote": "Hosea 1:4",
+    "quote_ref": [[["hos",1,4]]],
+    "tags": [],
+    "title": "Right War, Wrong Way",
+    "url": "http://odb.org/1996/06/30/right-war-wrong-way/"
+  }
+],
 "13": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,10,7],
+    "passage": "2 Kings 13:1-13",
+    "passage_ref": [[["2ki",13,1],["2ki",13,13]]],
+    "quote": "1 Timothy 4:12",
+    "quote_ref": [[["1ti",4,12]]],
+    "tags": [],
+    "title": "In Your Footsteps",
+    "url": "http://odb.org/1995/10/07/in-your-footsteps/"
+  }, 
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Encouragement","christian-life/attitudes-christian-life/encouragement-attitudes-christian-life-christian-life/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"]],
     "date": [2004,10,23],

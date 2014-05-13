@@ -119,6 +119,28 @@
   }
 ],
 "13": [
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,4,6],
+    "passage": "Numbers 13:17-33",
+    "passage_ref": [[["num",13,17],["num",13,33]]],
+    "quote": "1 John 4:4",
+    "quote_ref": [[["1jn",4,4]]],
+    "tags": [],
+    "title": "Only A Scarecrow",
+    "url": "http://odb.org/1995/04/06/only-a-scarecrow/"
+  }, 
+  { "author": ["Henry G. Bosch","henrygbosch"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,2,8],
+    "passage": "Numbers 13:1-2,26-33",
+    "passage_ref": [[["num",13,1],["num",13,2]],[["num",13,26],["num",13,33]]],
+    "quote": "Hebrews 4:2",
+    "quote_ref": [[["heb",4,2]]],
+    "tags": [],
+    "title": "Recipe For Victory",
+    "url": "http://odb.org/1996/02/08/recipe-for-victory/"
+  }, 
   { "author": ["M.R. De Haan","mrdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1998,4,17],
@@ -187,6 +209,17 @@
   }
 ],
 "14": [
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,3,15],
+    "passage": "Numbers 14:1-4,11-23",
+    "passage_ref": [[["num",14,1],["num",14,4]],[["num",14,11],["num",14,23]]],
+    "quote": "Galatians 5:1",
+    "quote_ref": [[["gal",5,1]]],
+    "tags": [],
+    "title": "Rearview Mirror",
+    "url": "http://odb.org/1995/03/15/rearview-mirror-2/"
+  }, 
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1999,2,20],
@@ -299,6 +332,17 @@
   }
 ],
 "15": [
+  { "author": ["Henry G. Bosch","henrygbosch"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,4,21],
+    "passage": "Numbers 15:37-41",
+    "passage_ref": [[["num",15,37],["num",15,41]]],
+    "quote": "Numbers 15:38,40",
+    "quote_ref": [[["num",15,38]],[["num",15,40]]],
+    "tags": [],
+    "title": "Holy Blue",
+    "url": "http://odb.org/1997/04/21/holy-blue/"
+  }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["Presence","relationships/relating-to-god-relationships/presence-relating-to-god-relationships-relationships/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2006,6,1],
@@ -309,6 +353,19 @@
     "tags": [["care","care"],["presence","presence"],["protection from","protection-from"]],
     "title": "The Color Of Blue",
     "url": "http://odb.org/2006/06/01/the-color-of-blue/"
+  }
+],
+"16": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,3,1],
+    "passage": "Numbers 16:41-50",
+    "passage_ref": [[["num",16,41],["num",16,50]]],
+    "quote": "1 Corinthians 10:10",
+    "quote_ref": [[["1co",10,10]]],
+    "tags": [],
+    "title": "Rumblings",
+    "url": "http://odb.org/1997/03/01/rumblings/"
   }
 ],
 "20": [

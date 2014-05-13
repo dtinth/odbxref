@@ -25,6 +25,17 @@
   }
 ],
 "10": [
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,9,4],
+    "passage": "Leviticus 10:1-11",
+    "passage_ref": [[["lev",10,1],["lev",10,11]]],
+    "quote": "Leviticus 10:3",
+    "quote_ref": [[["lev",10,3]]],
+    "tags": [],
+    "title": "Holiness",
+    "url": "http://odb.org/1996/09/04/holiness/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Christian Life","christian-life/"],["Growth","relationships/relating-to-god-relationships/growth-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Sanctification","relationships/relating-to-god-relationships/sanctification-relating-to-god-relationships-relationships/"],["sin","christian-life/sin-christian-life/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
     "date": [2005,9,23],
@@ -51,6 +62,17 @@
   }
 ],
 "16": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,2,1],
+    "passage": "Leviticus 16:1-10,20-22",
+    "passage_ref": [[["lev",16,1],["lev",16,10]],[["lev",16,20],["lev",16,22]]],
+    "quote": "John 11:50",
+    "quote_ref": [[["jhn",11,50]]],
+    "tags": [],
+    "title": "The Scapegoat",
+    "url": "http://odb.org/1995/02/01/the-scapegoat/"
+  }, 
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2001,3,29],
@@ -225,6 +247,17 @@
 ],
 "24": [
   { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,5,4],
+    "passage": "Leviticus 24:1-9",
+    "passage_ref": [[["lev",24,1],["lev",24,9]]],
+    "quote": "John 6:51",
+    "quote_ref": [[["jhn",6,51]]],
+    "tags": [],
+    "title": "Daily Bread",
+    "url": "http://odb.org/1997/05/04/daily-bread-2/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Death","christian-life/personal-crisis-christian-life/death-personal-crisis-christian-life-christian-life/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
     "date": [2004,8,29],
     "passage": "Leviticus 24:1-9",
@@ -250,6 +283,17 @@
   }
 ],
 "26": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,5,23],
+    "passage": "Leviticus 26:36-45",
+    "passage_ref": [[["lev",26,36],["lev",26,45]]],
+    "quote": "Proverbs 28:1",
+    "quote_ref": [[["pro",28,1]]],
+    "tags": [],
+    "title": "How To Get Rid Of Fear",
+    "url": "http://odb.org/1996/05/23/how-to-get-rid-of-fear/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Cost Of","basics-of-faith/salvation-basics-of-faith/cost-of-salvation-basics-of-faith-basics-of-faith/"],["Justification","basics-of-faith/salvation-basics-of-faith/justification-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
     "date": [2006,5,16],

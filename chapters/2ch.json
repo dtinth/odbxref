@@ -25,6 +25,17 @@
   }
 ],
 "7": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,5,4],
+    "passage": "2 Chronicles 7:12-18",
+    "passage_ref": [[["2ch",7,12],["2ch",7,18]]],
+    "quote": "2 Chronicles 7:14",
+    "quote_ref": [[["2ch",7,14]]],
+    "tags": [],
+    "title": "'Look At Me'",
+    "url": "http://odb.org/1995/05/04/look-at-me/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Confession","christian-life/sin-christian-life/confession-sin-christian-life-christian-life/"],["Humility","christian-life/attitudes-christian-life/humility-attitudes-christian-life-christian-life/"],["Pride","christian-life/attitudes-christian-life/pride-attitudes-christian-life-christian-life/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["sin","christian-life/sin-christian-life/"]],
     "date": [2009,8,4],
@@ -90,6 +101,17 @@
   }
 ],
 "16": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,9,15],
+    "passage": "2 Chronicles 16:1-10",
+    "passage_ref": [[["2ch",16,1],["2ch",16,10]]],
+    "quote": "2 Chronicles 16:9",
+    "quote_ref": [[["2ch",16,9]]],
+    "tags": [],
+    "title": "To Show His Strength",
+    "url": "http://odb.org/1997/09/15/to-show-his-strength/"
+  }, 
   { "author": ["Dennis J. De Haan","dennisjdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2002,10,23],
@@ -277,6 +299,19 @@
     "url": "http://odb.org/2003/05/07/the-man-nobody-missed/"
   }
 ],
+"22": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,4,29],
+    "passage": "2 Chronicles 22:1-9",
+    "passage_ref": [[["2ch",22,1],["2ch",22,9]]],
+    "quote": "Galatians 3:1",
+    "quote_ref": [[["gal",3,1]]],
+    "tags": [],
+    "title": "The Power Of Influence",
+    "url": "http://odb.org/1995/04/29/the-power-of-influence-2/"
+  }
+],
 "24": [
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Integrity","christian-life/character-christian-life/integrity-character-christian-life-christian-life/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"]],
@@ -441,6 +476,17 @@
     "tags": [],
     "title": "A Fresh Start",
     "url": "http://odb.org/1994/02/19/a-fresh-start/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,1,25],
+    "passage": "2 Chronicles 33:1-20",
+    "passage_ref": [[["2ch",33,1],["2ch",33,20]]],
+    "quote": "2 Chronicles 33:12",
+    "quote_ref": [[["2ch",33,12]]],
+    "tags": [],
+    "title": "Changed!",
+    "url": "http://odb.org/1997/01/25/changed-3/"
   }
 ],
 "34": [

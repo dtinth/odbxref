@@ -51,6 +51,17 @@
   }
 ],
 "7": [
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,11,8],
+    "passage": "Hosea 7:1-16",
+    "passage_ref": [[["hos",7,1],["hos",7,16]]],
+    "quote": "Hosea 7:8,10",
+    "quote_ref": [[["hos",7,8]],[["hos",7,10]]],
+    "tags": [],
+    "title": "Half-Baked Christians",
+    "url": "http://odb.org/1996/11/08/half-baked-christians-2/"
+  }, 
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["sin","christian-life/sin-christian-life/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
     "date": [2003,8,23],
@@ -99,6 +110,28 @@
   }
 ],
 "11": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,8,26],
+    "passage": "Hosea 11:1-12",
+    "passage_ref": [[["hos",11,1],["hos",11,12]]],
+    "quote": "Hosea 11:4",
+    "quote_ref": [[["hos",11,4]]],
+    "tags": [],
+    "title": "God's Gentle Leading",
+    "url": "http://odb.org/1995/08/26/gods-gentle-leading/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,11,14],
+    "passage": "Hosea 11:1-12",
+    "passage_ref": [[["hos",11,1],["hos",11,12]]],
+    "quote": "Hosea 11:8-9",
+    "quote_ref": [[["hos",11,8],["hos",11,9]]],
+    "tags": [],
+    "title": "Our Father's Anguish",
+    "url": "http://odb.org/1997/11/14/our-fathers-anguish/"
+  }, 
   { "author": ["Dennis J. De Haan","dennisjdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2000,1,18],

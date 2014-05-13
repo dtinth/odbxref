@@ -1,4 +1,17 @@
-{ "2": [
+{ "1": [
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,7,27],
+    "passage": "Judges 1:1-7",
+    "passage_ref": [[["jdg",1,1],["jdg",1,7]]],
+    "quote": "Galatians 6:7",
+    "quote_ref": [[["gal",6,7]]],
+    "tags": [],
+    "title": "Now—Or Later",
+    "url": "http://odb.org/1996/07/27/nowor-later/"
+  }
+],
+"2": [
   { "author": ["Dennis J. De Haan","dennisjdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1999,7,4],
