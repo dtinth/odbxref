@@ -79,11 +79,15 @@ command :chapters do |c|
     chapter_files = Hash.new { |h, k| h[k] = Hash.new { |h, k| h[k] = [ ] } }
     book_counter = Hash.new(0)
     max_date = [0,0,0]
+    max_article = nil
 
     each_article do |article|
       passages = []
       books = []
       max_date = [max_date, article["date"]].max
+      if article["date"] == max_date
+        max_article = article
+      end
       article["passage_ref"].each do |start, finish=nil|
         finish = start unless finish
         raise "Cross book!" if start[0] != finish[0]
@@ -127,10 +131,8 @@ command :chapters do |c|
 
     filename = "chapters/index.json"
     puts "==> #{filename}"
-
-    max_date = max_date.join('-')
-    index[:state] = "Articles from 1994-01-01 to #{max_date} have been indexed."
-
+    index[:state] = "Articles from 1994-01-01 to #{'%04d-%02d-%02d' % max_date} (#{max_article["title"]}) have been indexed."
+    File.write("commit.msg", %Q(Index up to #{'%04d-%02d-%02d' % max_date} "#{max_article["title"]}"))
     File.write(filename, my_pretty_json(index, 3, 0))
 
   end
