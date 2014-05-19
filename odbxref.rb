@@ -25,7 +25,7 @@ def cached(key)
 end
 
 # Cached HTTP request...
-def fetch(key, url)
+def fetch_raw(key, url)
   cached key do |hit, filename|
     if hit
       puts "#{key}: CACHE HIT #{filename}"
@@ -38,8 +38,11 @@ def fetch(key, url)
       end
       sleep 0.3 + rand * 2.7
     end
-    Nokogiri::HTML(File.read(filename))
+    File.read(filename, :encoding => 'utf-8')
   end
+end
+def fetch(key, url)
+  Nokogiri::HTML(fetch_raw(key, url))
 end
 
 # Fetches an article index of a specified month...
@@ -92,7 +95,7 @@ def fetch_article(key, url)
       File.write(filename, page.to_html)
       File.unlink(cache_filename(key))
     end
-    Nokogiri::HTML(File.read(filename))
+    Nokogiri::HTML(File.read(filename, :encoding => 'utf-8'))
   end
 end
 

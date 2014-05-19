@@ -5,7 +5,7 @@ def each_archive
   Dir['archive/*.json'].group_by { |c| c[/\d+/] }.sort.each do |year, files|
     puts "Processing year #{year}... (#{files.length} files)"
     files.each do |file|
-      yield JSON.parse(File.read(file))
+      yield JSON.parse(File.read(file, :encoding => 'utf-8'))
     end
   end
 end
