@@ -295,17 +295,6 @@
   }
 ],
 "6": [
-  { "author": ["Mart De Haan","martdehaan"],
-    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
-    "date": [1995,1,19],
-    "passage": "Daniel 6:1-23",
-    "passage_ref": [[["dan",6,1],["dan",6,23]]],
-    "quote": "Daniel 6:10",
-    "quote_ref": [[["dan",6,10]]],
-    "tags": [],
-    "title": "Pigeon Walk",
-    "url": "http://odb.org/1995/01/19/pigeon-walk/"
-  }, 
   { "author": ["Richard De Haan","richarddehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1995,12,13],
@@ -316,6 +305,17 @@
     "tags": [],
     "title": "Dare To Be A Daniel",
     "url": "http://odb.org/1995/12/13/dare-to-be-a-daniel-2/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,1,19],
+    "passage": "Daniel 6:1-23",
+    "passage_ref": [[["dan",6,1],["dan",6,23]]],
+    "quote": "Daniel 6:10",
+    "quote_ref": [[["dan",6,10]]],
+    "tags": [],
+    "title": "Pigeon Walk",
+    "url": "http://odb.org/1995/01/19/pigeon-walk/"
   }, 
   { "author": ["Richard De Haan","richarddehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
