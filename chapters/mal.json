@@ -23,17 +23,6 @@
   }, 
   { "author": ["Albert Lee","albertlee"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
-    "date": [2002,8,16],
-    "passage": "Malachi 1:1-5",
-    "passage_ref": [[["mal",1,1],["mal",1,5]]],
-    "quote": "Malachi 1:2-3",
-    "quote_ref": [[["mal",1,2],["mal",1,3]]],
-    "tags": [],
-    "title": "It's So Unfair!",
-    "url": "http://odb.org/2002/08/16/its-so-unfair/"
-  }, 
-  { "author": ["Albert Lee","albertlee"],
-    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2002,4,12],
     "passage": "Malachi 1:1-8",
     "passage_ref": [[["mal",1,1],["mal",1,8]]],
@@ -42,6 +31,17 @@
     "tags": [],
     "title": "Meaning And Purpose",
     "url": "http://odb.org/2002/04/12/meaning-and-purpose/"
+  }, 
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,8,16],
+    "passage": "Malachi 1:1-5",
+    "passage_ref": [[["mal",1,1],["mal",1,5]]],
+    "quote": "Malachi 1:2-3",
+    "quote_ref": [[["mal",1,2],["mal",1,3]]],
+    "tags": [],
+    "title": "It's So Unfair!",
+    "url": "http://odb.org/2002/08/16/its-so-unfair/"
   }, 
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Church","basics-of-faith/church-basics-of-faith/"],["Service","basics-of-faith/church-basics-of-faith/service-church-basics-of-faith/"],["Worship","basics-of-faith/church-basics-of-faith/worship-church-basics-of-faith/"]],
@@ -137,17 +137,6 @@
   }
 ],
 "4": [
-  { "author": ["David H. Roper","davidhroper"],
-    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
-    "date": [2011,6,2],
-    "passage": "Malachi 4:1-6",
-    "passage_ref": [[["mal",4,1],["mal",4,6]]],
-    "quote": "Malachi 4:2",
-    "quote_ref": [[["mal",4,2]]],
-    "tags": [["ascension","ascension"],["Christ's return","christs-return"],["creator","creator"],["future","future"],["heaven","heaven"],["hope","hope"]],
-    "title": "Sonrise!",
-    "url": "http://odb.org/2011/06/02/sonrise/"
-  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2011,4,23],
@@ -158,6 +147,17 @@
     "tags": [["burdens","burdens"],["care","care"],["forgiveness from","forgiveness-from"],["God's love","gods-love"],["life example","life-example"],["protection","protection"],["resurrection","resurrection"]],
     "title": "A Family In Trouble",
     "url": "http://odb.org/2011/04/23/a-family-in-trouble/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,6,2],
+    "passage": "Malachi 4:1-6",
+    "passage_ref": [[["mal",4,1],["mal",4,6]]],
+    "quote": "Malachi 4:2",
+    "quote_ref": [[["mal",4,2]]],
+    "tags": [["ascension","ascension"],["Christ's return","christs-return"],["creator","creator"],["future","future"],["heaven","heaven"],["hope","hope"]],
+    "title": "Sonrise!",
+    "url": "http://odb.org/2011/06/02/sonrise/"
   }
 ]
 }
