@@ -501,17 +501,6 @@
     "title": "Invisible Observer",
     "url": "http://odb.org/1998/09/16/invisible-observer/"
   }, 
-  { "author": ["David C. McCasland","davidcmccasland"],
-    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
-    "date": [2000,8,27],
-    "passage": "2 Chronicles 34:19-33",
-    "passage_ref": [[["2ch",34,19],["2ch",34,33]]],
-    "quote": "2 Chronicles 34:27",
-    "quote_ref": [[["2ch",34,27]]],
-    "tags": [],
-    "title": "'Begin With Me'",
-    "url": "http://odb.org/2000/08/27/begin-with-me/"
-  }, 
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2000,11,2],
@@ -523,16 +512,16 @@
     "title": "Early Influences",
     "url": "http://odb.org/2000/11/02/early-influences/"
   }, 
-  { "author": ["Anne Cetas","annecetas"],
-    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Understanding","bible-study/application-bible-study/understanding-application-bible-study-bible-study/"]],
-    "date": [2007,2,16],
-    "passage": "2 Chronicles 34:14-21",
-    "passage_ref": [[["2ch",34,14],["2ch",34,21]]],
-    "quote": "2 Chronicles 34:15",
-    "quote_ref": [[["2ch",34,15]]],
-    "tags": [["understanding","understanding"]],
-    "title": "The Best Find",
-    "url": "http://odb.org/2007/02/16/the-best-find/"
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2000,8,27],
+    "passage": "2 Chronicles 34:19-33",
+    "passage_ref": [[["2ch",34,19],["2ch",34,33]]],
+    "quote": "2 Chronicles 34:27",
+    "quote_ref": [[["2ch",34,27]]],
+    "tags": [],
+    "title": "'Begin With Me'",
+    "url": "http://odb.org/2000/08/27/begin-with-me/"
   }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Power","bible-study/application-bible-study/power-application-bible-study/"]],
@@ -544,6 +533,17 @@
     "tags": [["effect","effect"],["power","power"]],
     "title": "Mosquito Paradise",
     "url": "http://odb.org/2007/09/25/mosquito-paradise/"
+  }, 
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Understanding","bible-study/application-bible-study/understanding-application-bible-study-bible-study/"]],
+    "date": [2007,2,16],
+    "passage": "2 Chronicles 34:14-21",
+    "passage_ref": [[["2ch",34,14],["2ch",34,21]]],
+    "quote": "2 Chronicles 34:15",
+    "quote_ref": [[["2ch",34,15]]],
+    "tags": [["understanding","understanding"]],
+    "title": "The Best Find",
+    "url": "http://odb.org/2007/02/16/the-best-find/"
   }
 ],
 "36": [

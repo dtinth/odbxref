@@ -161,17 +161,6 @@
 "7": [
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
-    "date": [1997,6,3],
-    "passage": "Micah 7:14-20",
-    "passage_ref": [[["mic",7,14],["mic",7,20]]],
-    "quote": "Micah 7:18",
-    "quote_ref": [[["mic",7,18]]],
-    "tags": [],
-    "title": "Who Is Like Him?",
-    "url": "http://odb.org/1997/06/03/who-is-like-him/"
-  }, 
-  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
-    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1997,10,3],
     "passage": "Micah 7:1-13",
     "passage_ref": [[["mic",7,1],["mic",7,13]]],
@@ -180,6 +169,17 @@
     "tags": [],
     "title": "Hopeful Realists",
     "url": "http://odb.org/1997/10/03/hopeful-realists/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,6,3],
+    "passage": "Micah 7:14-20",
+    "passage_ref": [[["mic",7,14],["mic",7,20]]],
+    "quote": "Micah 7:18",
+    "quote_ref": [[["mic",7,18]]],
+    "tags": [],
+    "title": "Who Is Like Him?",
+    "url": "http://odb.org/1997/06/03/who-is-like-him/"
   }
 ]
 }
