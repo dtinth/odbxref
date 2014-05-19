@@ -125,9 +125,11 @@ command :chapters do |c|
     chapter_files.each do |book, hash|
       filename = "chapters/#{book}.json"
       puts "==> #{filename}"
+      hash.each do |date, articles|
+        articles.sort_by! { |article| article[:date] }
+      end
       File.write(filename, my_pretty_json(hash, 3, -1))
     end
-
 
     filename = "chapters/index.json"
     puts "==> #{filename}"

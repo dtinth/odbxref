@@ -54,6 +54,17 @@
     "title": "Details, Details",
     "url": "http://odb.org/2009/10/12/details-details/"
   }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2011,1,15],
+    "passage": "Philemon 1:4-16",
+    "passage_ref": [[["phm",1,4],["phm",1,16]]],
+    "quote": "Philemon 1:10",
+    "quote_ref": [[["phm",1,10]]],
+    "tags": [["forgiveness from","forgiveness-from"],["freedom","freedom"],["suffering","suffering"],["trials","trials"]],
+    "title": "Freedom At Alcatraz",
+    "url": "http://odb.org/2011/01/15/freedom-at-alcatraz/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"]],
     "date": [2011,7,13],
@@ -75,17 +86,6 @@
     "tags": [["Relationships","relationships"],["sharing the gospel","sharing-the-gospel"],["slavery","slavery"],["transformation","transformation"]],
     "title": "One Heart At A Time",
     "url": "http://odb.org/2011/10/21/one-heart-at-a-time/"
-  }, 
-  { "author": ["Mart De Haan","martdehaan"],
-    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
-    "date": [2011,1,15],
-    "passage": "Philemon 1:4-16",
-    "passage_ref": [[["phm",1,4],["phm",1,16]]],
-    "quote": "Philemon 1:10",
-    "quote_ref": [[["phm",1,10]]],
-    "tags": [["forgiveness from","forgiveness-from"],["freedom","freedom"],["suffering","suffering"],["trials","trials"]],
-    "title": "Freedom At Alcatraz",
-    "url": "http://odb.org/2011/01/15/freedom-at-alcatraz/"
   }
 ]
 }

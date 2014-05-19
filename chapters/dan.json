@@ -295,17 +295,6 @@
   }
 ],
 "6": [
-  { "author": ["Richard De Haan","richarddehaan"],
-    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
-    "date": [1995,12,13],
-    "passage": "Daniel 6:1-10",
-    "passage_ref": [[["dan",6,1],["dan",6,10]]],
-    "quote": "Daniel 1:8",
-    "quote_ref": [[["dan",1,8]]],
-    "tags": [],
-    "title": "Dare To Be A Daniel",
-    "url": "http://odb.org/1995/12/13/dare-to-be-a-daniel-2/"
-  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1995,1,19],
@@ -316,6 +305,17 @@
     "tags": [],
     "title": "Pigeon Walk",
     "url": "http://odb.org/1995/01/19/pigeon-walk/"
+  }, 
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,12,13],
+    "passage": "Daniel 6:1-10",
+    "passage_ref": [[["dan",6,1],["dan",6,10]]],
+    "quote": "Daniel 1:8",
+    "quote_ref": [[["dan",1,8]]],
+    "tags": [],
+    "title": "Dare To Be A Daniel",
+    "url": "http://odb.org/1995/12/13/dare-to-be-a-daniel-2/"
   }, 
   { "author": ["Richard De Haan","richarddehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
