@@ -41,7 +41,7 @@
     }, 
     { "book_name": "Joshua",
       "chapters": 24,
-      "count": 56,
+      "count": 57,
       "id": "jos",
       "index": 5,
       "name": "Joshua",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-05-20 (Once Upon A Time) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-05-21 (Anchors In The Storm) have been indexed."
 }
