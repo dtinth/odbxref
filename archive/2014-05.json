@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,5,22],
+    "passage": "Job 2:11-13",
+    "quote": "Job 31:35",
+    "tags": [],
+    "title": "Listening",
+    "url": "http://odb.org/2014/05/22/listening/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,5,21],

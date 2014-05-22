@@ -137,7 +137,7 @@
     }, 
     { "book_name": "Job",
       "chapters": 42,
-      "count": 84,
+      "count": 85,
       "id": "job",
       "index": 17,
       "name": "Job",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-05-21 (Anchors In The Storm) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-05-22 (Listening) have been indexed."
 }
