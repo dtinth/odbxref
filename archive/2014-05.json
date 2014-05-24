@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,5,24],
+    "passage": "Matthew 1:18-25",
+    "quote": "Matthew 1:21",
+    "tags": [],
+    "title": "An Appropriate Name",
+    "url": "http://odb.org/2014/05/24/an-appropriate-name/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2014,5,23],
