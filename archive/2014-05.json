@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,5,25],
+    "passage": "Mark 6:30-36",
+    "quote": "Mark 6:31",
+    "tags": [],
+    "title": "Pace Yourself",
+    "url": "http://odb.org/2014/05/25/pace-yourself/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,5,24],
