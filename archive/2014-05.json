@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,5,26],
+    "passage": "2 Corinthians 1:3-11",
+    "quote": "2 Corinthians 1:3",
+    "tags": [],
+    "title": "A Call To Comfort",
+    "url": "http://odb.org/2014/05/26/a-call-to-comfort/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,5,25],
