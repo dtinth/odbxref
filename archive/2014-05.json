@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Randy Kilgore","randykilgore"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2014,5,28],
+    "passage": "Micah 7:8-9,18-20",
+    "quote": "Micah 7:9",
+    "tags": [["eternity","eternity"],["fear","fear"],["freedom","freedom"],["mercy","mercy"],["serving","serving"],["shame","shame"],["trials","trials"]],
+    "title": "The Crash",
+    "url": "http://odb.org/2014/05/28/the-crash/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,5,27],
