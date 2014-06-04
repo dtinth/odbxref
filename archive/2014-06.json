@@ -1,4 +1,22 @@
 { "articles": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,6,4],
+    "passage": "John 14:1-11",
+    "quote": "John 14:2",
+    "tags": [],
+    "title": "Room And Board",
+    "url": "http://odb.org/2014/06/04/room-and-board/"
+  }, 
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,6,3],
+    "passage": "Deuteronomy 8:1-3, 11-16",
+    "quote": "Romans 8:28",
+    "tags": [],
+    "title": "The View From The End",
+    "url": "http://odb.org/2014/06/03/the-view-from-the-end/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,6,2],
