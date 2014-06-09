@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relationships","relationships/"]],
+    "date": [2014,6,9],
+    "passage": "Ephesians 3:14-21",
+    "quote": "Ephesians 3:20",
+    "tags": [["blessings from","blessings-from"],["generosity","generosity"],["God's forgiveness","gods-forgiveness"],["God's love","gods-love"],["grace","grace"],["mercy","mercy"]],
+    "title": "Generous God",
+    "url": "http://odb.org/2014/06/09/generous-god/"
+  }, 
   { "author": ["Poh Fang Chia","pohfangchia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2014,6,8],
