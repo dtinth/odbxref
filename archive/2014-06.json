@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2014,6,10],
+    "passage": "John 19:1-8",
+    "quote": "John 19:2",
+    "tags": [["cross","cross"],["hate","hate"],["honor","honor"],["Jesus Christ","jesus-christ"],["sacrifice","sacrifice"],["Savior","savior"],["shame","shame"],["sin","sin-christian-life"],["suffering","suffering"]],
+    "title": "Crowns Of Honor",
+    "url": "http://odb.org/2014/06/10/crowns-of-honor/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relationships","relationships/"]],
     "date": [2014,6,9],
