@@ -113,7 +113,7 @@
     }, 
     { "book_name": "Ezra",
       "chapters": 10,
-      "count": 7,
+      "count": 8,
       "id": "ezr",
       "index": 14,
       "name": "Ezra",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-06-11 (An Honest Heart) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-06-12 (Keep Calm And Carry On) have been indexed."
 }
