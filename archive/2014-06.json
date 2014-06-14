@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2014,6,14],
+    "passage": "Psalm 34:15-22",
+    "quote": "Psalm 34:15",
+    "tags": [["creation","creation"],["God's presence","gods-presence"],["God's protection","gods-protection"],["prayer","prayer"]],
+    "title": "Rock-Solid",
+    "url": "http://odb.org/2014/06/14/rock-solid-2/"
+  }, 
   { "author": ["Marvin Williams","marvinwilliams"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2014,6,13],
