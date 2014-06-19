@@ -233,7 +233,7 @@
     }, 
     { "book_name": "Ezekiel",
       "chapters": 48,
-      "count": 29,
+      "count": 30,
       "id": "ezk",
       "index": 25,
       "name": "Ezekiel",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-06-18 (Smile!) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-06-19 (Meet Shrek) have been indexed."
 }

@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,6,19],
+    "passage": "Ezekiel 34:11-16",
+    "quote": "Ezekiel 34:11",
+    "tags": [],
+    "title": "Meet Shrek",
+    "url": "http://odb.org/2014/06/19/meet-shrek/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2014,6,18],
