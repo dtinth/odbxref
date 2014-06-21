@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Poh Fang Chia","pohfangchia"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,6,21],
+    "passage": "Luke 10:38-42",
+    "quote": "Luke 10:39",
+    "tags": [],
+    "title": "World’s Fastest Walkers",
+    "url": "http://odb.org/2014/06/21/worlds-fastest-walkers/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,6,20],

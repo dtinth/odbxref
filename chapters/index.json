@@ -361,7 +361,7 @@
     }, 
     { "book_name": "Luke",
       "chapters": 24,
-      "count": 425,
+      "count": 426,
       "id": "luk",
       "index": 41,
       "name": "Luke",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-06-20 (Forgotten Memories) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-06-21 (World’s Fastest Walkers) have been indexed."
 }
