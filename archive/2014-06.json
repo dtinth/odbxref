@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,6,26],
+    "passage": "Psalm 46",
+    "quote": "Psalm 46:1",
+    "tags": [],
+    "title": "Roadside Assistance",
+    "url": "http://odb.org/2014/06/26/roadside-assistance/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,6,25],
