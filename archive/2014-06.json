@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,6,27],
+    "passage": "Romans 13:8-10",
+    "quote": "Romans 13:10",
+    "tags": [],
+    "title": "Do No Harm",
+    "url": "http://odb.org/2014/06/27/do-no-harm/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,6,26],
