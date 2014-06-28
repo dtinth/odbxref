@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,6,28],
+    "passage": "Colossians 4:2-6",
+    "quote": "Colossians 4:5",
+    "tags": [],
+    "title": "Make It Attractive",
+    "url": "http://odb.org/2014/06/28/make-it-attractive/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,6,27],
