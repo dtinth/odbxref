@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,6,29],
+    "passage": "2 Peter 1:2-11",
+    "quote": "2 Peter 1:8",
+    "tags": [],
+    "title": "Focus On The Process",
+    "url": "http://odb.org/2014/06/29/focus-on-the-process/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,6,28],
