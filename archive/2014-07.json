@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,2],
+    "passage": "Psalm 3",
+    "quote": "Psalm 3:1",
+    "tags": [],
+    "title": "A Lesson In Worry",
+    "url": "http://odb.org/2014/07/02/a-lesson-in-worry/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"]],
     "date": [2014,7,1],
