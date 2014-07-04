@@ -369,7 +369,7 @@
     }, 
     { "book_name": "John",
       "chapters": 21,
-      "count": 474,
+      "count": 475,
       "id": "jhn",
       "index": 42,
       "name": "John",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-07-03 (Tender Loving Care) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-07-04 (Dependence Day) have been indexed."
 }
