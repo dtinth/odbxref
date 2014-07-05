@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,5],
+    "passage": "2 Peter 3:10-18",
+    "quote": "2 Peter 3:18",
+    "tags": [],
+    "title": "The Growth Chart",
+    "url": "http://odb.org/2014/07/05/the-growth-chart/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,4],
