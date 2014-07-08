@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Poh Fang Chia","pohfangchia"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,8],
+    "passage": "Philippians 4:6-9",
+    "quote": "Philippians 4:7",
+    "tags": [],
+    "title": "Uncertain Times",
+    "url": "http://odb.org/2014/07/08/uncertain-times/"
+  }, 
   { "author": ["Marvin Williams","marvinwilliams"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,7],

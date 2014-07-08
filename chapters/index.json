@@ -425,7 +425,7 @@
     }, 
     { "book_name": "Philippians",
       "chapters": 4,
-      "count": 206,
+      "count": 207,
       "id": "php",
       "index": 49,
       "name": "Philippians",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-07-07 (The Jaws Of Death) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-07-08 (Uncertain Times) have been indexed."
 }
