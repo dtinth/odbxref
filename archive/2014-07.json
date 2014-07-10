@@ -1,4 +1,22 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,10],
+    "passage": "Psalm 121",
+    "quote": "Psalm 121:1-2",
+    "tags": [],
+    "title": "Look To The Hills",
+    "url": "http://odb.org/2014/07/10/look-to-the-hills/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,9],
+    "passage": "Job 38:1-11",
+    "quote": "Job 38:4",
+    "tags": [],
+    "title": "Asking Different Questions",
+    "url": "http://odb.org/2014/07/09/asking-different-questions/"
+  }, 
   { "author": ["Poh Fang Chia","pohfangchia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,8],

@@ -137,7 +137,7 @@
     }, 
     { "book_name": "Job",
       "chapters": 42,
-      "count": 85,
+      "count": 86,
       "id": "job",
       "index": 17,
       "name": "Job",
@@ -177,7 +177,7 @@
     }, 
     { "book_name": "Psalm",
       "chapters": 150,
-      "count": 332,
+      "count": 333,
       "id": "psa5",
       "index": 18.5,
       "name": "Psalm 107 – 150",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-07-08 (Uncertain Times) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-07-10 (Look To The Hills) have been indexed."
 }
