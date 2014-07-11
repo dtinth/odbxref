@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Philip Yancey","philipyancey"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,11],
+    "passage": "1 John 4:1-6,17-19",
+    "quote": "1 John 4:18",
+    "tags": [],
+    "title": "Paranoia In Reverse",
+    "url": "http://odb.org/2014/07/11/paranoia-in-reverse/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,10],
