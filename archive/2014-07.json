@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,12],
+    "passage": "Proverbs 18:1-10",
+    "quote": "Proverbs 18:10",
+    "tags": [],
+    "title": "The Power Of A Name",
+    "url": "http://odb.org/2014/07/12/the-power-of-a-name/"
+  }, 
   { "author": ["Philip Yancey","philipyancey"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,11],
