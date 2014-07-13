@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,13],
+    "passage": "1 Peter 4:1-11",
+    "quote": "Proverbs 19:11",
+    "tags": [],
+    "title": "“No Grace”",
+    "url": "http://odb.org/2014/07/13/no-grace/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,12],
