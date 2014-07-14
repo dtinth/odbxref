@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,14],
+    "passage": "Psalm 72:12-20",
+    "quote": "Psalm 72:16",
+    "tags": [],
+    "title": "Grain On The Mountaintop",
+    "url": "http://odb.org/2014/07/14/grain-on-the-mountaintop/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,13],
