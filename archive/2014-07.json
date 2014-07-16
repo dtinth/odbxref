@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,16],
+    "passage": "Psalm 16",
+    "quote": "Philippians 4:11",
+    "tags": [],
+    "title": "Feeling Chained?",
+    "url": "http://odb.org/2014/07/16/feeling-chained/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2014,7,15],
