@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2014,7,18],
+    "passage": "Jeremiah 17:5-10",
+    "quote": "Jeremiah 17:7",
+    "tags": [["christian faith","christian-faith"],["christlikeness","christlikeness"],["God's faithfulness","gods-faithfulness"],["God's guidance","gods-guidance"],["obedience","obedience"],["spiritual fruit","spiritual-fruit"],["spiritual growth","spiritual-growth"]],
+    "title": "Living Bridges",
+    "url": "http://odb.org/2014/07/18/living-bridges/"
+  }, 
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,17],
