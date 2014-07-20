@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,20],
+    "passage": "Isaiah 49:1-6",
+    "quote": "Zechariah 4:10",
+    "tags": [],
+    "title": "Small Ways In Small Places",
+    "url": "http://odb.org/2014/07/20/small-ways-in-small-places/"
+  }, 
   { "author": ["Randy Kilgore","randykilgore"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,19],
