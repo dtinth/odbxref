@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["C. P. Hia","cphia"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,21],
+    "passage": "John 4:7-15",
+    "quote": "John 7:38",
+    "tags": [],
+    "title": "Water For The World",
+    "url": "http://odb.org/2014/07/21/water-for-the-world/"
+  }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,20],
