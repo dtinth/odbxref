@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,22],
+    "passage": "Psalm 32:1-7",
+    "quote": "Psalm 32:3",
+    "tags": [],
+    "title": "Lasting Regrets",
+    "url": "http://odb.org/2014/07/22/lasting-regrets/"
+  }, 
   { "author": ["C. P. Hia","cphia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,21],
