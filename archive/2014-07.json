@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,23],
+    "passage": "Deuteronomy 6:1-9",
+    "quote": "Deuteronomy 6:4-5",
+    "tags": [],
+    "title": "Waving The White Flag",
+    "url": "http://odb.org/2014/07/23/waving-the-white-flag/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,22],
