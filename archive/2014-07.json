@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,24],
+    "passage": "Psalm 147:1-9",
+    "quote": "Psalm 147:4",
+    "tags": [],
+    "title": "He Calls The Stars By Name",
+    "url": "http://odb.org/2014/07/24/he-calls-the-stars-by-name/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,23],
