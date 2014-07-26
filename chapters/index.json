@@ -209,7 +209,7 @@
     }, 
     { "book_name": "Isaiah",
       "chapters": 66,
-      "count": 206,
+      "count": 207,
       "id": "isa",
       "index": 22,
       "name": "Isaiah",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-07-25 (Looking For Zacchaeus) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-07-26 (The Work Of Our Hands) have been indexed."
 }
