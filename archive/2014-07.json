@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Poh Fang Chia","pohfangchia"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2014,7,27],
+    "passage": "Habakkuk 2:2-14",
+    "quote": "Habakkuk 2:3",
+    "tags": [["christlikeness","christlikeness"],["evil","evil"],["God's plan","gods-plan"],["God's purpose","gods-purpose"],["sin","sin-christian-life"],["sovereignty","sovereignty"]],
+    "title": "Divine Perspective",
+    "url": "http://odb.org/2014/07/27/divine-perspective/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2014,7,26],
