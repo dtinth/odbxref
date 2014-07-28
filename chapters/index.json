@@ -377,7 +377,7 @@
     }, 
     { "book_name": "Acts",
       "chapters": 28,
-      "count": 256,
+      "count": 257,
       "id": "act",
       "index": 43,
       "name": "Acts",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-07-27 (Divine Perspective) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-07-28 (Courageous And Consistent) have been indexed."
 }
