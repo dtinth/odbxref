@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,29],
+    "passage": "Hebrews 4:14-16",
+    "quote": "Hebrews 4:16",
+    "tags": [],
+    "title": "Confident Access",
+    "url": "http://odb.org/2014/07/29/confident-access/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,28],
