@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,30],
+    "passage": "1 John 4:7-16",
+    "quote": "1 John 4:7",
+    "tags": [],
+    "title": "Family Trademarks",
+    "url": "http://odb.org/2014/07/30/family-trademarks/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,7,29],
