@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,8,2],
+    "passage": "Romans 5:15-21",
+    "quote": "Romans 5:15",
+    "tags": [],
+    "title": "Graceland",
+    "url": "http://odb.org/2014/08/02/graceland/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,8,1],
