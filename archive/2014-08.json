@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,8,3],
+    "passage": "Ephesians 2:11-18",
+    "quote": "Galatians 3:28",
+    "tags": [],
+    "title": "A Shared Bond",
+    "url": "http://odb.org/2014/08/03/a-shared-bond/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,8,2],
