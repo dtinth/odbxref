@@ -1,4 +1,22 @@
 { "articles": [
+  { "author": ["Poh Fang Chia","pohfangchia"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,8,5],
+    "passage": "Romans 8:1-11",
+    "quote": "Romans 8:1",
+    "tags": [],
+    "title": "Breaking Free",
+    "url": "http://odb.org/2014/08/05/breaking-free/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,8,4],
+    "passage": "Romans 7:18-25",
+    "quote": "Romans 7:18",
+    "tags": [],
+    "title": "All We Need To Know",
+    "url": "http://odb.org/2014/08/04/all-we-need-to-know/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,8,3],
