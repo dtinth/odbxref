@@ -217,7 +217,7 @@
     }, 
     { "book_name": "Jeremiah",
       "chapters": 52,
-      "count": 74,
+      "count": 75,
       "id": "jer",
       "index": 23,
       "name": "Jeremiah",
@@ -417,7 +417,7 @@
     }, 
     { "book_name": "Ephesians",
       "chapters": 6,
-      "count": 278,
+      "count": 279,
       "id": "eph",
       "index": 48,
       "name": "Ephesians",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-08-05 (Breaking Free) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-08-07 (Difficult People) have been indexed."
 }
