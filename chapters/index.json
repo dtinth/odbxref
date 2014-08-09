@@ -161,7 +161,7 @@
     }, 
     { "book_name": "Psalm",
       "chapters": 150,
-      "count": 60,
+      "count": 61,
       "id": "psa3",
       "index": 18.3,
       "name": "Psalm 73 – 89",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-08-08 (The Upright Thumb) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-08-09 (Finding God’s Pathway) have been indexed."
 }
