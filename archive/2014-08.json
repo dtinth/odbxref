@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,8,10],
+    "passage": "Revelation 4",
+    "quote": "Revelation 4:8",
+    "tags": [],
+    "title": "Holy, Holy, Holy",
+    "url": "http://odb.org/2014/08/10/holy-holy-holy-2/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,8,9],
