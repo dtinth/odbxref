@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,8,11],
+    "passage": "Mark 12:28-34",
+    "quote": "Mark 12:28",
+    "tags": [],
+    "title": "Power Of Simplicity",
+    "url": "http://odb.org/2014/08/11/power-of-simplicity/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,8,10],
