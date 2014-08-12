@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Albert Lee","albertlee"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,8,12],
+    "passage": "2 Timothy 2:1-7",
+    "quote": "John 13:14-15",
+    "tags": [],
+    "title": "Example That Encourages",
+    "url": "http://odb.org/2014/08/12/example-that-encourages/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,8,11],
