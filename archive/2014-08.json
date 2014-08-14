@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Randy Kilgore","randykilgore"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,8,14],
+    "passage": "1 Peter 2:9-12",
+    "quote": "1 Peter 2:12",
+    "tags": [],
+    "title": "The Parable Of The Sting",
+    "url": "http://odb.org/2014/08/14/the-parable-of-the-sting/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,8,13],
