@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,8,17],
+    "passage": "John 17:20-26",
+    "quote": "Ephesians 4:2-3",
+    "tags": [],
+    "title": "Is Somebody Singing?",
+    "url": "http://odb.org/2014/08/17/is-somebody-singing/"
+  }, 
   { "author": ["C. P. Hia","cphia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,8,16],
