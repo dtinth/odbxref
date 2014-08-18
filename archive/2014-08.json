@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Philip Yancey","philipyancey"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,8,18],
+    "passage": "Revelation 22:12-21",
+    "quote": "Revelation 22:20",
+    "tags": [],
+    "title": "Believing In Advance",
+    "url": "http://odb.org/2014/08/18/believing-in-advance/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,8,17],
