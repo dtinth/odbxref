@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2014,8,19],
+    "passage": "Numbers 9:15-23",
+    "quote": "Numbers 9:23",
+    "tags": [["Bible","bible"],["fellowship","fellowship"],["God's faithfulness","gods-faithfulness"],["God's guidance","gods-guidance"],["God's love","gods-love"],["God's presence","gods-presence"],["leading","leading"]],
+    "title": "Following The Master",
+    "url": "http://odb.org/2014/08/19/following-the-master/"
+  }, 
   { "author": ["Philip Yancey","philipyancey"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,8,18],
