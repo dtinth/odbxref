@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,8,20],
+    "passage": "1 Corinthians 3:1-11",
+    "quote": "1 Corinthians 3:11",
+    "tags": [],
+    "title": "Our Foundation",
+    "url": "http://odb.org/2014/08/20/our-foundation/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2014,8,19],
