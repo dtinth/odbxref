@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,8,24],
+    "passage": "Psalm 118:1-14",
+    "quote": "Psalm 118:1",
+    "tags": [],
+    "title": "Memory Loss",
+    "url": "http://odb.org/2014/08/24/memory-loss/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,8,23],
