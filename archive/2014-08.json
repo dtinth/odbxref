@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,8,25],
+    "passage": "Acts 1:1-11",
+    "quote": "John 16:16",
+    "tags": [],
+    "title": "More Than Waiting",
+    "url": "http://odb.org/2014/08/25/more-than-waiting/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,8,24],
