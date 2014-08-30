@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"]],
+    "date": [2014,8,30],
+    "passage": "2 Chronicles 15:1-12",
+    "quote": "2 Chronicles 15:8",
+    "tags": [["courage","courage"],["fear","fear"],["serving","serving"]],
+    "title": "Step Up!",
+    "url": "http://odb.org/2014/08/30/step-up/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2014,8,29],
