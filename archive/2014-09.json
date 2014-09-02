@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Randy Kilgore","randykilgore"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,2],
+    "passage": "Luke 17:11-19",
+    "quote": "Luke 17:15",
+    "tags": [],
+    "title": "Not Even A Nod",
+    "url": "http://odb.org/2014/09/02/not-even-a-nod/"
+  }, 
   { "author": ["Marion Stroud","mstroud"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,1],
