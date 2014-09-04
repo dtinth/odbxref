@@ -185,7 +185,7 @@
     }, 
     { "book_name": "Proverbs",
       "chapters": 31,
-      "count": 218,
+      "count": 219,
       "id": "pro",
       "index": 19,
       "name": "Proverbs",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-09-03 (Hope To Continue On) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-09-04 (The Barking Lion) have been indexed."
 }

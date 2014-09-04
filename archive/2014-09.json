@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Poh Fang Chia","pohfangchia"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,4],
+    "passage": "Proverbs 22:1-5",
+    "quote": "Proverbs 22:1",
+    "tags": [],
+    "title": "The Barking Lion",
+    "url": "http://odb.org/2014/09/04/the-barking-lion/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,3],
