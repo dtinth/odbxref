@@ -177,7 +177,7 @@
     }, 
     { "book_name": "Psalm",
       "chapters": 150,
-      "count": 337,
+      "count": 338,
       "id": "psa5",
       "index": 18.5,
       "name": "Psalm 107 – 150",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-09-05 (With Him Forever!) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-09-06 (Let Me Be Singing) have been indexed."
 }
