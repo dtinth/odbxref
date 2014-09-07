@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,7],
+    "passage": "Philippians 3:1-11",
+    "quote": "Philippians 3:8",
+    "tags": [],
+    "title": "More Of Him, Less Of Me",
+    "url": "http://odb.org/2014/09/07/more-of-him-less-of-me/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,6],
