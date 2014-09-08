@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,8],
+    "passage": "Mark 4:1-20",
+    "quote": "Proverbs 11:18",
+    "tags": [],
+    "title": "Sow What?",
+    "url": "http://odb.org/2014/09/08/sow-what/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,7],
