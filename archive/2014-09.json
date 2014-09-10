@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,10],
+    "passage": "Psalm 119:9-16",
+    "quote": "Psalm 119:16",
+    "tags": [],
+    "title": "One Amazing Letter",
+    "url": "http://odb.org/2014/09/10/one-amazing-letter/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,9],
