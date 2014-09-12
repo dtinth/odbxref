@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Poh Fang Chia","pohfangchia"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,12],
+    "passage": "1 Samuel 17:32-37",
+    "quote": "1 Samuel 17:37",
+    "tags": [],
+    "title": "The Small Giant",
+    "url": "http://odb.org/2014/09/12/the-small-giant/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,11],

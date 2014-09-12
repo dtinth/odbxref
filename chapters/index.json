@@ -65,7 +65,7 @@
     }, 
     { "book_name": "1 Samuel",
       "chapters": 31,
-      "count": 83,
+      "count": 84,
       "id": "1sa",
       "index": 8,
       "name": "1 Samuel",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-09-11 (Born To Rescue) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-09-12 (The Small Giant) have been indexed."
 }
