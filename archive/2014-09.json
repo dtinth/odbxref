@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Marion Stroud","mstroud"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,15],
+    "passage": "Genesis 16:1-6; 21:8-13",
+    "quote": "Genesis 16:5",
+    "tags": [],
+    "title": "The Blame Game",
+    "url": "http://odb.org/2014/09/15/the-blame-game-2/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,14],
