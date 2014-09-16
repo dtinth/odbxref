@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,16],
+    "passage": "Psalm 27:7-14",
+    "quote": "Psalm 27:8",
+    "tags": [],
+    "title": "A Heart For Prayer",
+    "url": "http://odb.org/2014/09/16/a-heart-for-prayer/"
+  }, 
   { "author": ["Marion Stroud","mstroud"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,15],
