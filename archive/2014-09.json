@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,19],
+    "passage": "James 5:16-20",
+    "quote": "Psalm 32:5",
+    "tags": [],
+    "title": "On Being Known",
+    "url": "http://odb.org/2014/09/19/on-being-known/"
+  }, 
   { "author": ["Randy Kilgore","randykilgore"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,18],
