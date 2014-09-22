@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,22],
+    "passage": "Galatians 1:6-10",
+    "quote": "Galatians 1:6",
+    "tags": [],
+    "title": "Repeat Warnings",
+    "url": "http://odb.org/2014/09/22/repeat-warnings/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,21],
