@@ -185,7 +185,7 @@
     }, 
     { "book_name": "Proverbs",
       "chapters": 31,
-      "count": 219,
+      "count": 220,
       "id": "pro",
       "index": 19,
       "name": "Proverbs",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-09-24 (The Language Of Whistling) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-09-25 (The Wise Old Owl) have been indexed."
 }
