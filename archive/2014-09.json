@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,26],
+    "passage": "Psalm 5",
+    "quote": "Psalm 5:11",
+    "tags": [],
+    "title": "A Matter Of Trust",
+    "url": "http://odb.org/2014/09/26/a-matter-of-trust/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,25],
