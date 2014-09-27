@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,27],
+    "passage": "1 Thessalonians 4:13-18",
+    "quote": "1 Thessalonians 4:17",
+    "tags": [],
+    "title": "The Ultimate Reunion",
+    "url": "http://odb.org/2014/09/27/the-ultimate-reunion-2/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,26],

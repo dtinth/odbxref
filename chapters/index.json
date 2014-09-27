@@ -441,7 +441,7 @@
     }, 
     { "book_name": "1 Thessalonians",
       "chapters": 5,
-      "count": 86,
+      "count": 87,
       "id": "1th",
       "index": 51,
       "name": "1 Thessalonians",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-09-26 (A Matter Of Trust) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-09-27 (The Ultimate Reunion) have been indexed."
 }
