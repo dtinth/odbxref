@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Philip Yancey","philipyancey"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,29],
+    "passage": "Ephesians 2:1-10",
+    "quote": "Ephesians 2:8",
+    "tags": [],
+    "title": "Amazing Grace",
+    "url": "http://odb.org/2014/09/29/amazing-grace-2/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,28],
