@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,9,30],
+    "passage": "Luke 5:17-26",
+    "quote": "Luke 5:31",
+    "tags": [],
+    "title": "A Fresh Start",
+    "url": "http://odb.org/2014/09/30/a-fresh-start-3/"
+  }, 
   { "author": ["Philip Yancey","philipyancey"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,9,29],
