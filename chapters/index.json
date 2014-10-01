@@ -393,7 +393,7 @@
     }, 
     { "book_name": "1 Corinthians",
       "chapters": 16,
-      "count": 273,
+      "count": 274,
       "id": "1co",
       "index": 45,
       "name": "1 Corinthians",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-09-30 (A Fresh Start) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-10-01 (The Power Of Ritual) have been indexed."
 }
