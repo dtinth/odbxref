@@ -5,4 +5,15 @@ ODBXREF is a cross-referencing search engine for [Our Daily Bread®](http://odb.
 
 ODBXREF is a personal project, created by Thai Pangsakulyanont, and is not affiliated with Our Daily Bread®, odb.org, or RBC Ministries.
 
-Contact: <odbxref@dt.in.th>.
+
+Raw Data Files
+--------------
+
+* [Organized by Chapters](chapters)
+* [Organized by Months](archive)
+
+
+Contact
+-------
+
+<odbxref@dt.in.th>
