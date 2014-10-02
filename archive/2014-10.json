@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Poh Fang Chia","pohfangchia"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,2],
+    "passage": "Mark 4:35-41",
+    "quote": "Mark 4:39",
+    "tags": [],
+    "title": "In The Storm",
+    "url": "http://odb.org/2014/10/02/in-the-storm/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,10,1],
