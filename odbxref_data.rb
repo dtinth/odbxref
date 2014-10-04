@@ -28,7 +28,7 @@ end
 
 def preprocess_reference(article, field)
   begin
-    article[field] = fix_passage(article[field])
+    article[field] = fix_passage(article[field], article['date'], field)
     ref = BibleReference.parse(article[field])
     article[field + "_ref"] = ref
   rescue => e
@@ -37,7 +37,8 @@ def preprocess_reference(article, field)
   end
 end
 
-def fix_passage(text)
+def fix_passage(text, date, field)
+  return 'Luke 24:2-3' if date == [2010, 6, 14] && field == 'quote'
   text = text.strip
   text.sub! %r(\.$),            ''                                # 1994-10-07
   text.sub! '(NIV)',            ''                                # 1995-01-08
@@ -88,7 +89,7 @@ command :chapters do |c|
       if article["date"] == max_date
         max_article = article
       end
-      article["passage_ref"].each do |start, finish=nil|
+      (article["passage_ref"] + article["quote_ref"]).each do |start, finish=nil|
         finish = start unless finish
         raise "Cross book!" if start[0] != finish[0]
         book = start[0]

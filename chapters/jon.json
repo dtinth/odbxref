@@ -75,6 +75,17 @@
     "tags": [["anger","anger"],["bitterness","bitterness"],["compassion","compassion"],["kindness","kindness"],["spiritual fruit","spiritual-fruit"]],
     "title": "When God Cleans House",
     "url": "http://odb.org/2011/11/19/when-god-cleans-house/"
+  }, 
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2014,5,20],
+    "passage": "Matthew 24:32-44",
+    "passage_ref": [[["mat",24,32],["mat",24,44]]],
+    "quote": "Jonah 1:17",
+    "quote_ref": [[["jon",1,17]]],
+    "tags": [["Bible","bible"],["Christ's return","christs-return"],["future","future"],["reading","reading"],["resurrection","resurrection"]],
+    "title": "Once Upon A Time",
+    "url": "http://odb.org/2014/05/20/once-upon-a-time/"
   }
 ],
 "2": [
@@ -88,6 +99,50 @@
     "tags": [],
     "title": "In The Belly Of A Fish",
     "url": "http://odb.org/1996/04/20/in-the-belly-of-a-fish/"
+  }, 
+  { "author": ["M.R. De Haan","mrdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,4,16],
+    "passage": "Psalm 40:1-8",
+    "passage_ref": [[["psa",40,1],["psa",40,8]]],
+    "quote": "Jonah 2:1",
+    "quote_ref": [[["jon",2,1]]],
+    "tags": [],
+    "title": "Unusual Places",
+    "url": "http://odb.org/1997/04/16/unusual-places/"
+  }, 
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2001,6,2],
+    "passage": "Jonah 1:1-17",
+    "passage_ref": [[["jon",1,1],["jon",1,17]]],
+    "quote": "Jonah 2:7",
+    "quote_ref": [[["jon",2,7]]],
+    "tags": [],
+    "title": "Swallowed Up",
+    "url": "http://odb.org/2001/06/02/swallowed-up/"
+  }, 
+  { "author": ["M.R. De Haan","mrdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2006,4,22],
+    "passage": "Psalm 40:1-8",
+    "passage_ref": [[["psa",40,1],["psa",40,8]]],
+    "quote": "Jonah 2:1",
+    "quote_ref": [[["jon",2,1]]],
+    "tags": [["prayer","prayer"],["repentance","repentance"]],
+    "title": "Strange Places",
+    "url": "http://odb.org/2006/04/22/strange-places/"
+  }, 
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2007,8,10],
+    "passage": "Jonah 1",
+    "passage_ref": [[["jon",1,null]]],
+    "quote": "Jonah 2:2",
+    "quote_ref": [[["jon",2,2]]],
+    "tags": [["tests","tests"],["trials","trials"]],
+    "title": "Lessons From Jonah",
+    "url": "http://odb.org/2007/08/10/lessons-from-jonah/"
   }
 ],
 "3": [

@@ -46,6 +46,19 @@
     "url": "http://odb.org/2003/12/09/showing-respect/"
   }
 ],
+"15": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Ministry & Outreach","ministry-and-outreach/"]],
+    "date": [2013,6,15],
+    "passage": "1 Chronicles 25:1-8",
+    "passage_ref": [[["1ch",25,1],["1ch",25,8]]],
+    "quote": "1 Chronicles 15:22",
+    "quote_ref": [[["1ch",15,22]]],
+    "tags": [["God's glory","gods-glory"],["honor","honor"],["leadership","leadership"],["pride","pride"],["spiritual gifts","spiritual-gifts"],["worship","worship"]],
+    "title": "To God Be The Glory",
+    "url": "http://odb.org/2013/06/15/to-god-be-the-glory/"
+  }
+],
 "16": [
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -57,6 +70,17 @@
     "tags": [],
     "title": "Dancing Birds",
     "url": "http://odb.org/2001/08/03/dancing-birds/"
+  }, 
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Gratitude","christian-life/attitudes-christian-life/gratitude-attitudes-christian-life-christian-life/"],["Thankfulness","christian-life/attitudes-christian-life/thankfulness-attitudes-christian-life-christian-life/"]],
+    "date": [2003,7,10],
+    "passage": "Psalm 147",
+    "passage_ref": [[["psa",147,null]]],
+    "quote": "1 Chronicles 16:34",
+    "quote_ref": [[["1ch",16,34]]],
+    "tags": [["attributes","attributes"],["gratitude","gratitude"],["thankfulness","thankfulness"]],
+    "title": "Not Enough Stars!",
+    "url": "http://odb.org/2003/07/10/not-enough-stars/"
   }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/worship-basics-of-faith/god-worship-basics-of-faith/"],["Sunday Worship","christian-life/worship-christian-life/sunday-worship-worship-christian-life-christian-life/"],["Worship","basics-of-faith/worship-basics-of-faith/"],["Worship","christian-life/worship-christian-life/"]],
@@ -222,6 +246,28 @@
     "title": "Whitewater Experiences",
     "url": "http://odb.org/2007/07/01/whitewater-experiences/"
   }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["His Will","basics-of-faith/god-basics-of-faith/his-will-god-basics-of-faith-basics-of-faith/"],["Sovereignty","basics-of-faith/god-basics-of-faith/sovereignty-god-basics-of-faith-basics-of-faith/"]],
+    "date": [2008,8,20],
+    "passage": "2 Chronicles 15:1-15",
+    "passage_ref": [[["2ch",15,1],["2ch",15,15]]],
+    "quote": "1 Chronicles 28:9",
+    "quote_ref": [[["1ch",28,9]]],
+    "tags": [["authority","authority"],["His will","his-will"],["sovereignty","sovereignty"]],
+    "title": "Whose Side Is God On?",
+    "url": "http://odb.org/2008/08/20/whose-side-is-god-on/"
+  }, 
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2012,3,1],
+    "passage": "Joshua 9:1-16",
+    "passage_ref": [[["jos",9,1],["jos",9,16]]],
+    "quote": "1 Chronicles 28:9",
+    "quote_ref": [[["1ch",28,9]]],
+    "tags": [["Character","character-christian-life"],["integrity","integrity"],["truth","truth"],["wisdom","wisdom"]],
+    "title": "Can I Trust You?",
+    "url": "http://odb.org/2012/03/01/can-i-trust-you/"
+  }, 
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2013,3,19],
@@ -235,6 +281,17 @@
   }
 ],
 "29": [
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1994,3,23],
+    "passage": "Psalm 95",
+    "passage_ref": [[["psa",95,null]]],
+    "quote": "1 Chronicles 29:14",
+    "quote_ref": [[["1ch",29,14]]],
+    "tags": [],
+    "title": "Caretakers, Not Owners",
+    "url": "http://odb.org/1994/03/23/caretakers-not-owners/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1995,10,9],
@@ -279,6 +336,17 @@
     "title": "Who Owns Your Home?",
     "url": "http://odb.org/2003/01/15/who-owns-your-home/"
   }, 
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Christian Life","christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Money","christian-life/lifestyle-issues-christian-life/money-lifestyle-issues-christian-life-christian-life/"],["Possessions","christian-life/lifestyle-issues-christian-life/possessions-lifestyle-issues-christian-life-christian-life/"]],
+    "date": [2004,12,18],
+    "passage": "Psalm 95",
+    "passage_ref": [[["psa",95,null]]],
+    "quote": "1 Chronicles 29:14",
+    "quote_ref": [[["1ch",29,14]]],
+    "tags": [["money","money"],["possessions","possessions"]],
+    "title": "Caretakers, Not Owners",
+    "url": "http://odb.org/2004/12/18/caretakers-not-owners-2/"
+  }, 
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Belief","basics-of-faith/christian-faith-basics-of-faith/belief-christian-faith-basics-of-faith-basics-of-faith/"],["Christian Faith","basics-of-faith/christian-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Faithfulness","basics-of-faith/god-basics-of-faith/faithfulness-god-basics-of-faith-basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Money","christian-life/lifestyle-issues-christian-life/money-lifestyle-issues-christian-life-christian-life/"],["Possessions","christian-life/lifestyle-issues-christian-life/possessions-lifestyle-issues-christian-life-christian-life/"],["Trust","basics-of-faith/christian-faith-basics-of-faith/trust-christian-faith-basics-of-faith-basics-of-faith/"],["Work","christian-life/lifestyle-issues-christian-life/work-lifestyle-issues-christian-life-christian-life/"]],
     "date": [2010,5,2],
@@ -300,6 +368,17 @@
     "tags": [["cheerfulness","cheerfulness"],["generosity","generosity"],["giving","giving"],["money","money"],["riches","riches"]],
     "title": "Birthday Giveaway",
     "url": "http://odb.org/2012/01/08/birthday-giveaway/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2014,6,11],
+    "passage": "Psalm 15",
+    "passage_ref": [[["psa",15,null]]],
+    "quote": "1 Chronicles 29:17",
+    "quote_ref": [[["1ch",29,17]]],
+    "tags": [["faithfulness","faithfulness"],["God's forgiveness","gods-forgiveness"],["God's presence","gods-presence"],["honesty","honesty"],["honor","honor"],["integrity","integrity"],["love for others","love-for-others"],["truth","truth"]],
+    "title": "An Honest Heart",
+    "url": "http://odb.org/2014/06/11/an-honest-heart/"
   }
 ]
 }

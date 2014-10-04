@@ -1,4 +1,28 @@
-{ "2": [
+{ "1": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2000,9,20],
+    "passage": "Matthew 7:7-11",
+    "passage_ref": [[["mat",7,7],["mat",7,11]]],
+    "quote": "2 Thessalonians 1:11",
+    "quote_ref": [[["2th",1,11]]],
+    "tags": [],
+    "title": "Keeping Track Of Prayers",
+    "url": "http://odb.org/2000/09/20/keeping-track-of-prayers/"
+  }, 
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Encouragement","christian-life/attitudes-christian-life/encouragement-attitudes-christian-life-christian-life/"]],
+    "date": [2007,12,30],
+    "passage": "2 Thessalonians 2:13-17",
+    "passage_ref": [[["2th",2,13],["2th",2,17]]],
+    "quote": "2 Thessalonians 1:11-12",
+    "quote_ref": [[["2th",1,11],["2th",1,12]]],
+    "tags": [["encouragement","encouragement"]],
+    "title": "The Belayers",
+    "url": "http://odb.org/2007/12/30/the-belayers/"
+  }
+],
+"2": [
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Encouragement","christian-life/attitudes-christian-life/encouragement-attitudes-christian-life-christian-life/"]],
     "date": [2007,12,30],
@@ -78,6 +102,17 @@
     "title": "Shirkers Or Workers?",
     "url": "http://odb.org/2001/09/03/shirkers-or-workers/"
   }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Christian Life","christian-life/"],["Life Stories","ministry-and-outreach/life-stories-ministry-and-outreach/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Ministry","ministry-and-outreach/life-stories-ministry-and-outreach/ministry-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Service","ministry-and-outreach/life-stories-ministry-and-outreach/service-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Speech","christian-life/lifestyle-issues-christian-life/speech-lifestyle-issues-christian-life-christian-life/"]],
+    "date": [2004,4,29],
+    "passage": "1 Timothy 5:8-16",
+    "passage_ref": [[["1ti",5,8],["1ti",5,16]]],
+    "quote": "2 Thessalonians 3:11",
+    "quote_ref": [[["2th",3,11]]],
+    "tags": [["ministry","ministry"],["service","service"],["speech","speech"]],
+    "title": "Drones",
+    "url": "http://odb.org/2004/04/29/drones/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Integrity","christian-life/character-christian-life/integrity-character-christian-life-christian-life/"],["Lifestyle Issues","christian-life/lifestyle-issues-christian-life/"],["Work","christian-life/lifestyle-issues-christian-life/work-lifestyle-issues-christian-life-christian-life/"]],
     "date": [2005,9,5],
@@ -88,6 +123,17 @@
     "tags": [["integrity","integrity"],["work","work"]],
     "title": "Hard Labor",
     "url": "http://odb.org/2005/09/05/hard-labor/"
+  }, 
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2012,10,1],
+    "passage": "Philippians 4:6-9",
+    "passage_ref": [[["php",4,6],["php",4,9]]],
+    "quote": "2 Thessalonians 3:16",
+    "quote_ref": [[["2th",3,16]]],
+    "tags": [["calm","calm"],["God's presence","gods-presence"],["peace","peace"]],
+    "title": "Quaking Aspens",
+    "url": "http://odb.org/2012/10/01/quaking-aspens/"
   }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relationships","relationships/"]],

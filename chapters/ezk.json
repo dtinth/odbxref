@@ -245,6 +245,19 @@
     "url": "http://odb.org/2002/09/28/sin-is-serious/"
   }
 ],
+"28": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Guilt","christian-life/sin-christian-life/guilt-sin-christian-life/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["sin","christian-life/sin-christian-life/"]],
+    "date": [2006,3,22],
+    "passage": "Isaiah 14:12-15",
+    "passage_ref": [[["isa",14,12],["isa",14,15]]],
+    "quote": "Ezekiel 28:15",
+    "quote_ref": [[["ezk",28,15]]],
+    "tags": [["consequences","consequences"],["guilt","guilt"]],
+    "title": "Blackbeard",
+    "url": "http://odb.org/2006/03/22/blackbeard/"
+  }
+],
 "33": [
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -338,6 +351,17 @@
     "title": "A Help Or A Hindrance?",
     "url": "http://odb.org/1995/04/28/a-help-or-a-hindrance/"
   }, 
+  { "author": ["M.R. De Haan","mrdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,5,10],
+    "passage": "Romans 5:6-19",
+    "passage_ref": [[["rom",5,6],["rom",5,19]]],
+    "quote": "Ezekiel 36:26",
+    "quote_ref": [[["ezk",36,26]]],
+    "tags": [],
+    "title": "Heart Trouble",
+    "url": "http://odb.org/1996/05/10/heart-trouble-2/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1997,5,25],
@@ -360,6 +384,17 @@
     "title": "The Name",
     "url": "http://odb.org/1999/12/12/the-name-4/"
   }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Life Stories","relationships/relating-to-others-relationships/life-stories-relating-to-others-relationships-relationships/"],["Obedience","christian-life/attitudes-christian-life/obedience-attitudes-christian-life/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"],["Testimonies","relationships/relating-to-others-relationships/testimonies-relating-to-others-relationships-relationships/"]],
+    "date": [2003,2,23],
+    "passage": "2 Samuel 21:1-14",
+    "passage_ref": [[["2sa",21,1],["2sa",21,14]]],
+    "quote": "Ezekiel 36:21",
+    "quote_ref": [[["ezk",36,21]]],
+    "tags": [["life stories","life-stories"],["obedience","obedience"],["testimonies","testimonies"]],
+    "title": "God's People, God's Honor",
+    "url": "http://odb.org/2003/02/23/gods-people-gods-honor/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2012,2,29],
@@ -370,6 +405,19 @@
     "tags": [],
     "title": "How To Get A New Heart",
     "url": "http://odb.org/2012/02/29/how-to-get-a-new-heart/"
+  }
+],
+"39": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,5,25],
+    "passage": "Ezekiel 36:20-28",
+    "passage_ref": [[["ezk",36,20],["ezk",36,28]]],
+    "quote": "Ezekiel 39:25",
+    "quote_ref": [[["ezk",39,25]]],
+    "tags": [],
+    "title": "The Name Of Names",
+    "url": "http://odb.org/1997/05/25/the-name-of-names/"
   }
 ],
 "43": [

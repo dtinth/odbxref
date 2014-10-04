@@ -229,6 +229,17 @@
     "title": "The Scrabble Syndrome",
     "url": "http://odb.org/2006/10/09/the-scrabble-syndrome/"
   }, 
+  { "author": ["Randy Kilgore","randykilgore"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2013,1,2],
+    "passage": "Luke 15:1-7",
+    "passage_ref": [[["luk",15,1],["luk",15,7]]],
+    "quote": "Nehemiah 8:10",
+    "quote_ref": [[["neh",8,10]]],
+    "tags": [["commitment","commitment"],["discouragement","discouragement"],["happiness","happiness"],["joy","joy"],["new birth","new-birth"],["new life","new-life"],["salvation","salvation"],["worship","worship"]],
+    "title": "T-Ball Faith",
+    "url": "http://odb.org/2013/01/02/t-ball-faith/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2013,2,3],
@@ -253,6 +264,17 @@
   }
 ],
 "9": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2000,1,1],
+    "passage": "Genesis 1:1-13",
+    "passage_ref": [[["gen",1,1],["gen",1,13]]],
+    "quote": "Nehemiah 9:6",
+    "quote_ref": [[["neh",9,6]]],
+    "tags": [],
+    "title": "Creator Praise",
+    "url": "http://odb.org/2000/01/01/creator-praise/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Confession","christian-life/sin-christian-life/confession-sin-christian-life-christian-life/"],["Gratitude","christian-life/attitudes-christian-life/gratitude-attitudes-christian-life-christian-life/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"],["sin","christian-life/sin-christian-life/"],["Thankfulness","christian-life/attitudes-christian-life/thankfulness-attitudes-christian-life-christian-life/"]],
     "date": [2009,11,26],

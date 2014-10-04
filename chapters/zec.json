@@ -81,6 +81,28 @@
     "tags": [["attributes","attributes"],["enablement","enablement"],["filling","filling"],["life stories","life-stories"],["testimonies","testimonies"]],
     "title": "Go Light Your World",
     "url": "http://odb.org/2004/04/30/go-light-your-world/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Commitment","ministry-and-outreach/serving-ministry-and-outreach/commitment-serving-ministry-and-outreach-ministry-and-outreach/"],["Life Stories","ministry-and-outreach/life-stories-ministry-and-outreach/"],["Ministry","ministry-and-outreach/life-stories-ministry-and-outreach/ministry-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Ministry & Outreach","ministry-and-outreach/"],["Rewards For","ministry-and-outreach/serving-ministry-and-outreach/rewards-for-serving-ministry-and-outreach-ministry-and-outreach/"],["Service","ministry-and-outreach/life-stories-ministry-and-outreach/service-life-stories-ministry-and-outreach-ministry-and-outreach/"],["Serving","ministry-and-outreach/serving-ministry-and-outreach/"]],
+    "date": [2009,1,24],
+    "passage": "John 6:53-71",
+    "passage_ref": [[["jhn",6,53],["jhn",6,71]]],
+    "quote": "Zechariah 4:10",
+    "quote_ref": [[["zec",4,10]]],
+    "tags": [["commitment","commitment"],["ministry","ministry"],["rewards for","rewards-for"],["service","service"]],
+    "title": "Small Is Beautiful",
+    "url": "http://odb.org/2009/01/24/small-is-beautiful/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,7,20],
+    "passage": "Isaiah 49:1-6",
+    "passage_ref": [[["isa",49,1],["isa",49,6]]],
+    "quote": "Zechariah 4:10",
+    "quote_ref": [[["zec",4,10]]],
+    "tags": [],
+    "title": "Small Ways In Small Places",
+    "url": "http://odb.org/2014/07/20/small-ways-in-small-places/"
   }
 ],
 "7": [
@@ -131,6 +153,30 @@
     "url": "http://odb.org/2002/10/07/two-pats-of-butter/"
   }
 ],
+"9": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,3,23],
+    "passage": "Matthew 21:1-11",
+    "passage_ref": [[["mat",21,1],["mat",21,11]]],
+    "quote": "Zechariah 9:9",
+    "quote_ref": [[["zec",9,9]]],
+    "tags": [],
+    "title": "A Parade Of One",
+    "url": "http://odb.org/1997/03/23/a-parade-of-one/"
+  }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Cross","basics-of-faith/jesus-christ-basics-of-faith/cross-jesus-christ-basics-of-faith-basics-of-faith/"],["Death","basics-of-faith/jesus-christ-basics-of-faith/death-jesus-christ-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"]],
+    "date": [2005,4,9],
+    "passage": "Mark 11:1-11",
+    "passage_ref": [[["mrk",11,1],["mrk",11,11]]],
+    "quote": "Zechariah 9:9",
+    "quote_ref": [[["zec",9,9]]],
+    "tags": [["cross","cross"],["death","death"],["Savior","savior"]],
+    "title": "The Cross And The Crown",
+    "url": "http://odb.org/2005/04/09/the-cross-and-the-crown/"
+  }
+],
 "10": [
   { "author": ["mart de haan","mart-de-haan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -155,6 +201,30 @@
     "tags": [["attributes","attributes"],["Bible","bible"],["Christ's return","christs-return"],["cross","cross"],["Jesus Christ","jesus-christ"]],
     "title": "Jesus At The Center",
     "url": "http://odb.org/2010/12/18/jesus-at-the-center/"
+  }
+],
+"14": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,5,9],
+    "passage": "Revelation 19:11-21",
+    "passage_ref": [[["rev",19,11],["rev",19,21]]],
+    "quote": "Zechariah 14:3",
+    "quote_ref": [[["zec",14,3]]],
+    "tags": [],
+    "title": "Victory Day",
+    "url": "http://odb.org/1998/05/09/victory-day/"
+  }, 
+  { "author": ["M.R. De Haan","mrdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["His Will","basics-of-faith/god-basics-of-faith/his-will-god-basics-of-faith-basics-of-faith/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2006,4,11],
+    "passage": "Psalm 71:9-18",
+    "passage_ref": [[["psa",71,9],["psa",71,18]]],
+    "quote": "Zechariah 14:7",
+    "quote_ref": [[["zec",14,7]]],
+    "tags": [["His will","his-will"],["tests","tests"],["trials","trials"]],
+    "title": "The Glorious Sunset",
+    "url": "http://odb.org/2006/04/11/the-glorious-sunset/"
   }
 ]
 }

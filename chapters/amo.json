@@ -1,4 +1,50 @@
-{ "4": [
+{ "3": [
+  { "author": ["M.R. De Haan","mrdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2000,4,7],
+    "passage": "2 Corinthians 6:11-18",
+    "passage_ref": [[["2co",6,11],["2co",6,18]]],
+    "quote": "Amos 3:3",
+    "quote_ref": [[["amo",3,3]]],
+    "tags": [],
+    "title": "Two Rivers",
+    "url": "http://odb.org/2000/04/07/two-rivers/"
+  }
+],
+"4": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,1,31],
+    "passage": "Luke 12:16-21",
+    "passage_ref": [[["luk",12,16],["luk",12,21]]],
+    "quote": "Amos 4:12",
+    "quote_ref": [[["amo",4,12]]],
+    "tags": [],
+    "title": "Life's Final Deadline",
+    "url": "http://odb.org/1995/01/31/lifes-final-deadline/"
+  }, 
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,11,12],
+    "passage": "Luke 12:16-21",
+    "passage_ref": [[["luk",12,16],["luk",12,21]]],
+    "quote": "Amos 4:12",
+    "quote_ref": [[["amo",4,12]]],
+    "tags": [],
+    "title": "Be Prepared!",
+    "url": "http://odb.org/1998/11/12/be-prepared/"
+  }, 
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Eternity","basics-of-faith/future-prophecy-basics-of-faith/eternity-future-prophecy-basics-of-faith-basics-of-faith/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Justification","basics-of-faith/salvation-basics-of-faith/justification-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
+    "date": [2003,7,12],
+    "passage": "Luke 12:16-21",
+    "passage_ref": [[["luk",12,16],["luk",12,21]]],
+    "quote": "Amos 4:12",
+    "quote_ref": [[["amo",4,12]]],
+    "tags": [["eternity","eternity"],["justification","justification"]],
+    "title": "Life's Final Deadline",
+    "url": "http://odb.org/2003/07/12/lifes-final-deadline-2/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Basics Of Faith","basics-of-faith/"],["Consequences","basics-of-faith/sin-basics-of-faith/consequences-sin-basics-of-faith-basics-of-faith/"],["Repentance","basics-of-faith/sin-basics-of-faith/repentance-sin-basics-of-faith-basics-of-faith/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
     "date": [2005,6,29],
@@ -55,6 +101,17 @@
     "tags": [["Christ's return","christs-return"],["christlikeness","christlikeness"],["commitment","commitment"],["compassion","compassion"]],
     "title": "A Mighty Stream",
     "url": "http://odb.org/2010/03/03/a-mighty-stream/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Life Example","basics-of-faith/jesus-christ-basics-of-faith/life-example-jesus-christ-basics-of-faith-basics-of-faith/"],["Relating To Others","relationships/relating-to-others-relationships/"],["Relationships","relationships/"]],
+    "date": [2011,9,7],
+    "passage": "Proverbs 1:1-9",
+    "passage_ref": [[["pro",1,1],["pro",1,9]]],
+    "quote": "Amos 5:15",
+    "quote_ref": [[["amo",5,15]]],
+    "tags": [["anger","anger"],["justice","justice"],["mercy","mercy"]],
+    "title": "A Focus On Fairness",
+    "url": "http://odb.org/2011/09/07/a-focus-on-fairness/"
   }
 ],
 "7": [
@@ -79,6 +136,19 @@
     "tags": [["evangelism","evangelism"],["ministry","ministry"],["missions","missions"],["service","service"]],
     "title": "Handling Criticism",
     "url": "http://odb.org/2003/11/16/handling-criticism/"
+  }
+],
+"8": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Application","bible-study/application-bible-study/"],["Bible Study","bible-study/"],["Effect","bible-study/application-bible-study/effect-application-bible-study-bible-study/"],["Power","bible-study/application-bible-study/power-application-bible-study/"]],
+    "date": [2007,1,21],
+    "passage": "1 Peter 2:1-10",
+    "passage_ref": [[["1pe",2,1],["1pe",2,10]]],
+    "quote": "Amos 8:11",
+    "quote_ref": [[["amo",8,11]]],
+    "tags": [["effect","effect"],["power","power"]],
+    "title": "Spiritual Famine",
+    "url": "http://odb.org/2007/01/21/spiritual-famine/"
   }
 ],
 "9": [

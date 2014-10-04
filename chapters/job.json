@@ -54,6 +54,17 @@
     "title": "Why Good People Suffer",
     "url": "http://odb.org/2000/07/21/why-good-people-suffer/"
   }, 
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2000,8,25],
+    "passage": "Job 2:1-10",
+    "passage_ref": [[["job",2,1],["job",2,10]]],
+    "quote": "Job 1:21",
+    "quote_ref": [[["job",1,21]]],
+    "tags": [],
+    "title": "Unfaltering Faith",
+    "url": "http://odb.org/2000/08/25/unfaltering-faith/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2001,10,2],
@@ -75,6 +86,17 @@
     "tags": [],
     "title": "Wind And Worship",
     "url": "http://odb.org/2002/07/03/wind-and-worship/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Suffering","christian-life/personal-crisis-christian-life/suffering-personal-crisis-christian-life-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2006,1,19],
+    "passage": "Job 2:1-10",
+    "passage_ref": [[["job",2,1],["job",2,10]]],
+    "quote": "Job 1:8",
+    "quote_ref": [[["job",1,8]]],
+    "tags": [["suffering","suffering"],["tests","tests"],["trials","trials"]],
+    "title": "Learn To Teach",
+    "url": "http://odb.org/2006/01/19/learn-to-teach/"
   }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Christian Life","christian-life/"],["Fellowship With","relationships/relating-to-god-relationships/fellowship-with-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["sin","christian-life/sin-christian-life/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
@@ -133,6 +155,17 @@
   }
 ],
 "2": [
+  { "author": ["Dennis J. De Haan","dennisjdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1994,6,1],
+    "passage": "Job 1:13-22",
+    "passage_ref": [[["job",1,13],["job",1,22]]],
+    "quote": "Job 2:10",
+    "quote_ref": [[["job",2,10]]],
+    "tags": [],
+    "title": "Why Me?",
+    "url": "http://odb.org/1994/06/01/why-me/"
+  }, 
   { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1997,12,7],
@@ -143,6 +176,17 @@
     "tags": [],
     "title": "Reason To Live",
     "url": "http://odb.org/1997/12/07/reason-to-live/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1999,11,9],
+    "passage": "Job 29:1-17",
+    "passage_ref": [[["job",29,1],["job",29,17]]],
+    "quote": "Job 2:3",
+    "quote_ref": [[["job",2,3]]],
+    "tags": [],
+    "title": "One In A Million",
+    "url": "http://odb.org/1999/11/09/one-in-a-million/"
   }, 
   { "author": ["Dennis J. De Haan","dennisjdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -209,6 +253,28 @@
     "tags": [["death","death"],["grief","grief"],["sorrow","sorrow"]],
     "title": "The Greatest Gift",
     "url": "http://odb.org/2008/04/28/the-greatest-gift/"
+  }, 
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Backsliding","christian-life/sin-christian-life/backsliding-sin-christian-life-christian-life/"],["Christian Life","christian-life/"],["Fellowship With","relationships/relating-to-god-relationships/fellowship-with-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["sin","christian-life/sin-christian-life/"],["Worldliness","christian-life/sin-christian-life/worldliness-sin-christian-life-christian-life/"]],
+    "date": [2009,4,29],
+    "passage": "Job 1:13-22",
+    "passage_ref": [[["job",1,13],["job",1,22]]],
+    "quote": "Job 2:10",
+    "quote_ref": [[["job",2,10]]],
+    "tags": [["backsliding","backsliding"],["fellowship with","fellowship-with"],["worldliness","worldliness"]],
+    "title": "Drifting Away",
+    "url": "http://odb.org/2009/04/29/drifting-away/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Blessings From","relationships/relating-to-god-relationships/blessings-from-relating-to-god-relationships-relationships/"],["Christian Life","christian-life/"],["Contentment","christian-life/attitudes-christian-life/contentment-attitudes-christian-life-christian-life/"],["Gratitude","christian-life/attitudes-christian-life/gratitude-attitudes-christian-life-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Thankfulness","christian-life/attitudes-christian-life/thankfulness-attitudes-christian-life-christian-life/"]],
+    "date": [2009,7,3],
+    "passage": "Philippians 4:10-13",
+    "passage_ref": [[["php",4,10],["php",4,13]]],
+    "quote": "Job 2:10",
+    "quote_ref": [[["job",2,10]]],
+    "tags": [["blessings from","blessings-from"],["contentment","contentment"],["gratitude","gratitude"],["thankfulness","thankfulness"]],
+    "title": "Job’s Principle",
+    "url": "http://odb.org/2009/07/03/jobs-principle/"
   }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
@@ -303,7 +369,31 @@
     "url": "http://odb.org/2006/03/27/strength-support/"
   }
 ],
+"5": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Creator","basics-of-faith/god-basics-of-faith/creator-god-basics-of-faith-basics-of-faith/"],["Expressions Of","christian-life/worship-christian-life/expressions-of-worship-christian-life-christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Power","basics-of-faith/god-basics-of-faith/power-god-basics-of-faith-basics-of-faith/"],["Strength","basics-of-faith/god-basics-of-faith/strength-god-basics-of-faith-basics-of-faith/"],["Worship","christian-life/worship-christian-life/"]],
+    "date": [2009,10,27],
+    "passage": "Job 37:1-18",
+    "passage_ref": [[["job",37,1],["job",37,18]]],
+    "quote": "Job 5:9",
+    "quote_ref": [[["job",5,9]]],
+    "tags": [["attributes","attributes"],["creator","creator"],["expressions of","expressions-of"],["power","power"],["strength","strength"]],
+    "title": "“Light” Of Creation",
+    "url": "http://odb.org/2009/10/27/light-of-creation/"
+  }
+],
 "6": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Christlikeness","christian-life/character-christian-life/christlikeness-character-christian-life-christian-life/"],["Courtesy","christian-life/attitudes-christian-life/courtesy-attitudes-christian-life-christian-life/"],["Kindness","christian-life/attitudes-christian-life/kindness-attitudes-christian-life-christian-life/"]],
+    "date": [2005,9,8],
+    "passage": "Luke 5:17-26",
+    "passage_ref": [[["luk",5,17],["luk",5,26]]],
+    "quote": "Job 6:14",
+    "quote_ref": [[["job",6,14]]],
+    "tags": [["christlikeness","christlikeness"],["courtesy","courtesy"],["kindness","kindness"]],
+    "title": "A Helping Hand",
+    "url": "http://odb.org/2005/09/08/a-helping-hand/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Christian Life","christian-life/"],["Grief","christian-life/personal-crisis-christian-life/grief-personal-crisis-christian-life-christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Sorrow","christian-life/personal-crisis-christian-life/sorrow-personal-crisis-christian-life-christian-life/"]],
     "date": [2007,10,18],
@@ -317,6 +407,28 @@
   }
 ],
 "7": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2001,6,23],
+    "passage": "Psalm 90:1-12",
+    "passage_ref": [[["psa",90,1],["psa",90,12]]],
+    "quote": "Job 7:6",
+    "quote_ref": [[["job",7,6]]],
+    "tags": [],
+    "title": "Where Are We Going So Fast?",
+    "url": "http://odb.org/2001/06/23/where-are-we-going-so-fast/"
+  }, 
+  { "author": ["Philip Yancey","philipyancey"],
+    "categories": [["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Honesty","christian-life/character-christian-life/honesty-character-christian-life-christian-life/"],["Power For Living","relationships/relating-to-god-relationships/power-for-living-relating-to-god-relationships-relationships/"],["Prayer","relationships/relating-to-god-relationships/prayer-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2009,1,13],
+    "passage": "Habakkuk 1:1-4",
+    "passage_ref": [[["hab",1,1],["hab",1,4]]],
+    "quote": "Job 7:11",
+    "quote_ref": [[["job",7,11]]],
+    "tags": [["honesty","honesty"],["power for living","power-for-living"],["prayer","prayer"]],
+    "title": "The Bible’s School Of Prayer",
+    "url": "http://odb.org/2009/01/13/the-bibles-school-of-prayer/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relationships","relationships/"]],
     "date": [2013,6,26],
@@ -437,6 +549,17 @@
   }, 
   { "author": ["Vernon C. Grounds","vernongrounds"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1996,3,7],
+    "passage": "1 Corinthians 15:51-58",
+    "passage_ref": [[["1co",15,51],["1co",15,58]]],
+    "quote": "Job 14:14",
+    "quote_ref": [[["job",14,14]]],
+    "tags": [],
+    "title": "A Mystery Solved",
+    "url": "http://odb.org/1996/03/07/a-mystery-solved/"
+  }, 
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1998,3,21],
     "passage": "Job 14:1-14",
     "passage_ref": [[["job",14,1],["job",14,14]]],
@@ -456,6 +579,17 @@
     "tags": [],
     "title": "Sizing Up Our Troubles",
     "url": "http://odb.org/1999/03/18/sizing-up-our-troubles/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Suffering","christian-life/personal-crisis-christian-life/suffering-personal-crisis-christian-life-christian-life/"]],
+    "date": [2006,10,10],
+    "passage": "Job 16:6-17",
+    "passage_ref": [[["job",16,6],["job",16,17]]],
+    "quote": "Job 14:1",
+    "quote_ref": [[["job",14,1]]],
+    "tags": [["suffering","suffering"]],
+    "title": "Suffering: How Do We Respond?",
+    "url": "http://odb.org/2006/10/10/suffering-how-do-we-respond/"
   }
 ],
 "16": [
@@ -481,6 +615,17 @@
     "title": "Sharing The Pain",
     "url": "http://odb.org/2002/03/03/sharing-the-pain/"
   }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
+    "date": [2004,8,30],
+    "passage": "Romans 8:27-39",
+    "passage_ref": [[["rom",8,27],["rom",8,39]]],
+    "quote": "Job 16:12",
+    "quote_ref": [[["job",16,12]]],
+    "tags": [["tests","tests"],["trials","trials"]],
+    "title": "Ground Squirrels",
+    "url": "http://odb.org/2004/08/30/ground-squirrels/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Suffering","christian-life/personal-crisis-christian-life/suffering-personal-crisis-christian-life-christian-life/"]],
     "date": [2006,10,10],
@@ -491,6 +636,19 @@
     "tags": [["suffering","suffering"]],
     "title": "Suffering: How Do We Respond?",
     "url": "http://odb.org/2006/10/10/suffering-how-do-we-respond/"
+  }
+],
+"19": [
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Birth","basics-of-faith/jesus-christ-basics-of-faith/birth-jesus-christ-basics-of-faith-basics-of-faith/"],["Christian Life","christian-life/"],["Gratitude","christian-life/attitudes-christian-life/gratitude-attitudes-christian-life-christian-life/"],["Humanity","basics-of-faith/jesus-christ-basics-of-faith/humanity-jesus-christ-basics-of-faith-basics-of-faith/"],["Jesus Christ","basics-of-faith/jesus-christ-basics-of-faith/"],["Savior","basics-of-faith/jesus-christ-basics-of-faith/savior-jesus-christ-basics-of-faith-basics-of-faith/"],["Thankfulness","christian-life/attitudes-christian-life/thankfulness-attitudes-christian-life-christian-life/"]],
+    "date": [2008,12,20],
+    "passage": "Isaiah 9:1-7",
+    "passage_ref": [[["isa",9,1],["isa",9,7]]],
+    "quote": "Job 19:25",
+    "quote_ref": [[["job",19,25]]],
+    "tags": [["birth","birth"],["gratitude","gratitude"],["humanity","humanity"],["Savior","savior"],["thankfulness","thankfulness"]],
+    "title": "Hallelujah!",
+    "url": "http://odb.org/2008/12/20/hallelujah/"
   }
 ],
 "20": [
@@ -504,6 +662,19 @@
     "tags": [],
     "title": "About That Sandwich",
     "url": "http://odb.org/1998/10/05/about-that-sandwich/"
+  }
+],
+"21": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Authority","basics-of-faith/god-basics-of-faith/authority-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2004,9,19],
+    "passage": "Psalm 139:1-6",
+    "passage_ref": [[["psa",139,1],["psa",139,6]]],
+    "quote": "Job 21:22",
+    "quote_ref": [[["job",21,22]]],
+    "tags": [["attributes","attributes"],["authority","authority"]],
+    "title": "Informing God",
+    "url": "http://odb.org/2004/09/19/informing-god/"
   }
 ],
 "22": [
@@ -553,6 +724,17 @@
     "title": "From Complaining To Trusting",
     "url": "http://odb.org/1999/01/23/from-complaining-to-trusting/"
   }, 
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1999,2,10],
+    "passage": "Psalm 19:7-11",
+    "passage_ref": [[["psa",19,7],["psa",19,11]]],
+    "quote": "Job 23:12",
+    "quote_ref": [[["job",23,12]]],
+    "tags": [],
+    "title": "The Book To Treasure",
+    "url": "http://odb.org/1999/02/10/the-book-to-treasure/"
+  }, 
   { "author": ["Dennis J. De Haan","dennisjdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2000,9,6],
@@ -563,6 +745,17 @@
     "tags": [],
     "title": "God Was At Columbine",
     "url": "http://odb.org/2000/09/06/god-was-at-columbine/"
+  }, 
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2001,11,20],
+    "passage": "Hebrews 12:1-29",
+    "passage_ref": [[["heb",12,1],["heb",12,29]]],
+    "quote": "Job 23:10",
+    "quote_ref": [[["job",23,10]]],
+    "tags": [],
+    "title": "Blue-ribbon Christians",
+    "url": "http://odb.org/2001/11/20/blue-ribbon-christians/"
   }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -575,6 +768,17 @@
     "title": "Where Is He?",
     "url": "http://odb.org/2002/07/02/where-is-he/"
   }, 
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2002,10,25],
+    "passage": "1 Peter 1:3-9",
+    "passage_ref": [[["1pe",1,3],["1pe",1,9]]],
+    "quote": "Job 23:10",
+    "quote_ref": [[["job",23,10]]],
+    "tags": [],
+    "title": "Tested By Fire",
+    "url": "http://odb.org/2002/10/25/tested-by-fire/"
+  }, 
   { "author": ["Dennis J. De Haan","dennisjdehaan"],
     "categories": [["Christian Life","christian-life/"],["Growth","relationships/relating-to-god-relationships/growth-relating-to-god-relationships-relationships/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Sanctification","relationships/relating-to-god-relationships/sanctification-relating-to-god-relationships-relationships/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"]],
     "date": [2005,9,22],
@@ -585,6 +789,17 @@
     "tags": [["growth","growth"],["sanctification","sanctification"],["tests","tests"],["trials","trials"]],
     "title": "Bring Out The Shine",
     "url": "http://odb.org/2005/09/22/bring-out-the-shine/"
+  }, 
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Anxiety","christian-life/personal-crisis-christian-life/anxiety-personal-crisis-christian-life-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Suffering","christian-life/personal-crisis-christian-life/suffering-personal-crisis-christian-life-christian-life/"],["Tests","christian-life/personal-crisis-christian-life/tests-personal-crisis-christian-life-christian-life/"],["Trials","christian-life/personal-crisis-christian-life/trials-personal-crisis-christian-life-christian-life/"],["Worry","christian-life/personal-crisis-christian-life/worry-personal-crisis-christian-life-christian-life/"]],
+    "date": [2010,3,24],
+    "passage": "Job 1:13-22",
+    "passage_ref": [[["job",1,13],["job",1,22]]],
+    "quote": "Job 23:10",
+    "quote_ref": [[["job",23,10]]],
+    "tags": [["anxiety","anxiety"],["suffering","suffering"],["tests","tests"],["trials","trials"],["worry","worry"]],
+    "title": "Worst Possible Scenario!",
+    "url": "http://odb.org/2010/03/24/worst-possible-scenario/"
   }
 ],
 "26": [
@@ -660,6 +875,17 @@
   }
 ],
 "31": [
+  { "author": ["Joanie Yoder","joanieyoder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,11,3],
+    "passage": "Job 16:1-6",
+    "passage_ref": [[["job",16,1],["job",16,6]]],
+    "quote": "Job 31:35",
+    "quote_ref": [[["job",31,35]]],
+    "tags": [],
+    "title": "A Way Of Loving",
+    "url": "http://odb.org/1995/11/03/a-way-of-loving/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2012,2,11],
@@ -670,6 +896,67 @@
     "tags": [["christlikeness","christlikeness"],["consequences","consequences"],["holiness","holiness"],["lust","lust"],["morality","morality"],["purity","purity"],["temptation","temptation"]],
     "title": "A Covenant With My Eyes",
     "url": "http://odb.org/2012/02/11/a-covenant-with-my-eyes/"
+  }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,5,22],
+    "passage": "Job 2:11-13",
+    "passage_ref": [[["job",2,11],["job",2,13]]],
+    "quote": "Job 31:35",
+    "quote_ref": [[["job",31,35]]],
+    "tags": [],
+    "title": "Listening",
+    "url": "http://odb.org/2014/05/22/listening/"
+  }
+],
+"33": [
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,4,14],
+    "passage": "Psalm 139:13-18",
+    "passage_ref": [[["psa",139,13],["psa",139,18]]],
+    "quote": "Job 33:4",
+    "quote_ref": [[["job",33,4]]],
+    "tags": [["care","care"],["death","death"],["forgiveness from","forgiveness-from"],["future","future"],["God's care","gods-care"]],
+    "title": "Breath Of Life",
+    "url": "http://odb.org/2011/04/14/breath-of-life/"
+  }
+],
+"34": [
+  { "author": ["Cindy Hess Kasper","cindyhesskasper"],
+    "categories": [["Attributes","basics-of-faith/god-basics-of-faith/attributes-god-basics-of-faith-basics-of-faith/"],["Basics Of Faith","basics-of-faith/"],["Care","relationships/relating-to-god-relationships/care-relating-to-god-relationships-relationships/"],["God","basics-of-faith/god-basics-of-faith/"],["Protection From","relationships/relating-to-god-relationships/protection-from-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2007,7,18],
+    "passage": "Isaiah 55:6-9",
+    "passage_ref": [[["isa",55,6],["isa",55,9]]],
+    "quote": "Job 34:21",
+    "quote_ref": [[["job",34,21]]],
+    "tags": [["attributes","attributes"],["care","care"],["protection from","protection-from"]],
+    "title": "“That Ain’t It!”",
+    "url": "http://odb.org/2007/07/18/that-aint-it/"
+  }
+],
+"35": [
+  { "author": ["M.R. De Haan","mrdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,4,18],
+    "passage": "Psalm 20:1-9",
+    "passage_ref": [[["psa",20,1],["psa",20,9]]],
+    "quote": "Job 35:10",
+    "quote_ref": [[["job",35,10]]],
+    "tags": [],
+    "title": "Singing At Night",
+    "url": "http://odb.org/1997/04/18/singing-at-night/"
+  }, 
+  { "author": ["Henry G. Bosch","henrygbosch"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,4,23],
+    "passage": "Psalm 42:1-11",
+    "passage_ref": [[["psa",42,1],["psa",42,11]]],
+    "quote": "Job 35:10",
+    "quote_ref": [[["job",35,10]]],
+    "tags": [],
+    "title": "Midnight Melodies",
+    "url": "http://odb.org/1998/04/23/midnight-melodies/"
   }
 ],
 "36": [
@@ -876,6 +1163,17 @@
     "tags": [["backsliding","backsliding"],["consequences","consequences"],["worldliness","worldliness"]],
     "title": "Who Calls The Game?",
     "url": "http://odb.org/2004/05/25/who-calls-the-game/"
+  }, 
+  { "author": ["Anne Cetas","annecetas"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Bible Scripture","basics-of-faith/bible-scripture-basics-of-faith/"],["Bible Study","bible-study/"],["Inspiration Of","basics-of-faith/bible-scripture-basics-of-faith/inspiration-of-bible-scripture-basics-of-faith-basics-of-faith/"],["Reading","bible-study/ways-to-study-bible-study/reading-ways-to-study-bible-study-bible-study/"],["Ways To Study","bible-study/ways-to-study-bible-study/"]],
+    "date": [2004,12,5],
+    "passage": "Job 42:1-6",
+    "passage_ref": [[["job",42,1],["job",42,6]]],
+    "quote": "Job 40:2",
+    "quote_ref": [[["job",40,2]]],
+    "tags": [["inspiration of","inspiration-of"],["reading","reading"]],
+    "title": "No Answers",
+    "url": "http://odb.org/2004/12/05/no-answers/"
   }
 ],
 "41": [
@@ -914,6 +1212,28 @@
     "title": "Praying Like Christ",
     "url": "http://odb.org/1995/03/06/praying-like-christ/"
   }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,10,10],
+    "passage": "Job 29:1-25",
+    "passage_ref": [[["job",29,1],["job",29,25]]],
+    "quote": "Job 42:5-6",
+    "quote_ref": [[["job",42,5],["job",42,6]]],
+    "tags": [],
+    "title": "Goodness And Grace",
+    "url": "http://odb.org/1995/10/10/goodness-and-grace-2/"
+  }, 
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,1,29],
+    "passage": "Acts 16:16-26",
+    "passage_ref": [[["act",16,16],["act",16,26]]],
+    "quote": "Job 42:2",
+    "quote_ref": [[["job",42,2]]],
+    "tags": [],
+    "title": "God Will Make A Way",
+    "url": "http://odb.org/1998/01/29/god-will-make-a-way-2/"
+  }, 
   { "author": ["Joanie Yoder","joanieyoder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2000,8,9],
@@ -947,6 +1267,17 @@
     "title": "No Answers",
     "url": "http://odb.org/2004/12/05/no-answers/"
   }, 
+  { "author": ["Herbert Vander Lugt","herbertvanderlugt"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Forgiveness From","relationships/relating-to-god-relationships/forgiveness-from-relating-to-god-relationships-relationships/"],["Forgiveness Of","basics-of-faith/sin-basics-of-faith/forgiveness-of-sin-basics-of-faith-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Sin","basics-of-faith/sin-basics-of-faith/"]],
+    "date": [2005,1,24],
+    "passage": "Job 29",
+    "passage_ref": [[["job",29,null]]],
+    "quote": "Job 42:5-6",
+    "quote_ref": [[["job",42,5],["job",42,6]]],
+    "tags": [["forgiveness from","forgiveness-from"],["forgiveness of","forgiveness-of"]],
+    "title": "Goodness And Grace",
+    "url": "http://odb.org/2005/01/24/goodness-and-grace/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Christian Life","christian-life/"],["Expressions Of","christian-life/worship-christian-life/expressions-of-worship-christian-life-christian-life/"],["God","christian-life/worship-christian-life/god-worship-christian-life/"],["Praise To","relationships/relating-to-god-relationships/praise-to-relating-to-god-relationships-relationships/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"],["Worship","christian-life/worship-christian-life/"]],
     "date": [2008,11,23],
@@ -957,6 +1288,17 @@
     "tags": [["expressions of","expressions-of"],["God","god"],["praise to","praise-to"]],
     "title": "How Great Is Our God!",
     "url": "http://odb.org/2008/11/23/how-great-is-our-god/"
+  }, 
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2010,9,16],
+    "passage": "Job 36:26-33",
+    "passage_ref": [[["job",36,26],["job",36,33]]],
+    "quote": "Job 42:5",
+    "quote_ref": [[["job",42,5]]],
+    "tags": [["care","care"],["creator","creator"],["protection","protection"],["suffering","suffering"],["worship","worship"]],
+    "title": "The Wonder Of Nature",
+    "url": "http://odb.org/2010/09/16/the-wonder-of-nature/"
   }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],

@@ -44,13 +44,15 @@
         <th ng-class="sorter.class('title')" ng-click="sorter.sort('title')">Title</th>
         <th ng-class="sorter.class('author')" ng-click="sorter.sort('author')">Author</th>
         <th ng-class="sorter.class('passage')" ng-click="sorter.sort('passage')">Scripture</th>
+        <th ng-class="sorter.class('quote')" ng-click="sorter.sort('quote')">Verse</th>
       </tr></thead>
       <tbody>
         <tr ng-repeat="article in chapter.articles | orderBy : sorter.predicate : sorter.reverse">
           <td class="td-date">{{fmtDate(article.date)}}</td>
           <td class="td-title"><a href="{{article.url}}">{{article.title}}</a></td>
           <td class="td-author"><a href="http://odb.org/authors/{{article.author[1]}}/">{{article.author[0]}}</a></td>
-          <td class="td-passage"><a href="{{bible(article)}}">{{article.passage}}</a></td>
+          <td class="td-passage"><a ng-class="{'text-muted':!inside(article.passage_ref)}" href="{{bible(article.passage)}}">{{article.passage}}</a></td>
+          <td class="td-quote"><a ng-class="{'text-muted':!inside(article.quote_ref)}" href="{{bible(article.quote)}}">{{article.quote}}</a></td>
         </tr>
       </tbody>
     </table>

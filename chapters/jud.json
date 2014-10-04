@@ -43,6 +43,17 @@
     "title": "To Pray Or Prey",
     "url": "http://odb.org/1998/09/26/to-pray-or-prey/"
   }, 
+  { "author": ["Vernon C. Grounds","vernongrounds"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1999,1,16],
+    "passage": "2 Timothy 3:1-5",
+    "passage_ref": [[["2ti",3,1],["2ti",3,5]]],
+    "quote": "Jude 1:14-15",
+    "quote_ref": [[["jud",1,14],["jud",1,15]]],
+    "tags": [],
+    "title": "What Means Most To Us?",
+    "url": "http://odb.org/1999/01/16/what-means-most-to-us/"
+  }, 
   { "author": ["Dennis J. De Haan","dennisjdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2002,4,19],
@@ -76,6 +87,17 @@
     "title": "End Of Construction",
     "url": "http://odb.org/2008/09/14/end-of-construction/"
   }, 
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Uncategorized","uncategorized/"]],
+    "date": [2013,7,8],
+    "passage": "Romans 8:31-39",
+    "passage_ref": [[["rom",8,31],["rom",8,39]]],
+    "quote": "Jude 1:21",
+    "quote_ref": [[["jud",1,21]]],
+    "tags": [["God's care","gods-care"],["God's love","gods-love"],["God's protection","gods-protection"],["identity","identity"],["Jesus","jesus"]],
+    "title": "Jesus Loves Me",
+    "url": "http://odb.org/2013/07/08/jesus-loves-me/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2014,1,18],
@@ -86,6 +108,45 @@
     "tags": [["Bible","bible"],["blessing","blessing"],["God's love","gods-love"],["Holy Spirit","holy-spirit"],["righteousness","righteousness"]],
     "title": "All Spruced Up",
     "url": "http://odb.org/2014/01/18/all-spruced-up/"
+  }
+],
+"4": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1998,9,26],
+    "passage": "Jude 1",
+    "passage_ref": [[["jud",1,null]]],
+    "quote": "Jude 4",
+    "quote_ref": [[["jud",4,null]]],
+    "tags": [],
+    "title": "To Pray Or Prey",
+    "url": "http://odb.org/1998/09/26/to-pray-or-prey/"
+  }
+],
+"12": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Justification","basics-of-faith/salvation-basics-of-faith/justification-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
+    "date": [2005,2,5],
+    "passage": "Revelation 20",
+    "passage_ref": [[["rev",20,null]]],
+    "quote": "Jude 12-13",
+    "quote_ref": [[["jud",12,null],["jud",13,null]]],
+    "tags": [["hell","hell"],["justification","justification"]],
+    "title": "The Blackness Of Midnight",
+    "url": "http://odb.org/2005/02/05/the-blackness-of-midnight/"
+  }
+],
+"13": [
+  { "author": ["Richard De Haan","richarddehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Future Prophecy","basics-of-faith/future-prophecy-basics-of-faith/"],["Justification","basics-of-faith/salvation-basics-of-faith/justification-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
+    "date": [2005,2,5],
+    "passage": "Revelation 20",
+    "passage_ref": [[["rev",20,null]]],
+    "quote": "Jude 12-13",
+    "quote_ref": [[["jud",12,null],["jud",13,null]]],
+    "tags": [["hell","hell"],["justification","justification"]],
+    "title": "The Blackness Of Midnight",
+    "url": "http://odb.org/2005/02/05/the-blackness-of-midnight/"
   }
 ],
 "17": [
@@ -177,6 +238,32 @@
     "tags": [["love for","love-for"],["obedience","obedience"]],
     "title": "Keep The Romance",
     "url": "http://odb.org/2004/02/14/keep-the-romance/"
+  }
+],
+"24": [
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,1,28],
+    "passage": "Jude 1:20-25",
+    "passage_ref": [[["jud",1,20],["jud",1,25]]],
+    "quote": "Jude 24-25",
+    "quote_ref": [[["jud",24,null],["jud",25,null]]],
+    "tags": [],
+    "title": "The Strength Of Our Bridge",
+    "url": "http://odb.org/1995/01/28/the-strength-of-our-bridge/"
+  }
+],
+"25": [
+  { "author": ["Haddon W. Robinson","haddonwrobinson"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1995,1,28],
+    "passage": "Jude 1:20-25",
+    "passage_ref": [[["jud",1,20],["jud",1,25]]],
+    "quote": "Jude 24-25",
+    "quote_ref": [[["jud",24,null],["jud",25,null]]],
+    "tags": [],
+    "title": "The Strength Of Our Bridge",
+    "url": "http://odb.org/1995/01/28/the-strength-of-our-bridge/"
   }
 ]
 }

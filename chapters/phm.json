@@ -87,5 +87,18 @@
     "title": "One Heart At A Time",
     "url": "http://odb.org/2011/10/21/one-heart-at-a-time/"
   }
+],
+"18": [
+  { "author": ["Dennis J. De Haan","dennisjdehaan"],
+    "categories": [["Basics Of Faith","basics-of-faith/"],["Grace","basics-of-faith/salvation-basics-of-faith/grace-salvation-basics-of-faith-basics-of-faith/"],["Justification","basics-of-faith/salvation-basics-of-faith/justification-salvation-basics-of-faith-basics-of-faith/"],["Salvation","basics-of-faith/salvation-basics-of-faith/"]],
+    "date": [2003,10,26],
+    "passage": "Philemon",
+    "passage_ref": [[["phm",1,null]]],
+    "quote": "Philemon 18",
+    "quote_ref": [[["phm",18,null]]],
+    "tags": [["grace","grace"],["justification","justification"]],
+    "title": "A Good Account",
+    "url": "http://odb.org/2003/10/26/a-good-account/"
+  }
 ]
 }

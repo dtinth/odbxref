@@ -105,8 +105,16 @@ angular.module('odbxref', ['ngRoute'])
   $scope.fmtDate = function(date) {
     return date[0] + t(date[1]) + t(date[2])
   }
-  $scope.bible = function(p) {
-    return 'http://www.biblegateway.com/passage/?search=' + encodeURIComponent(p.passage)
+  $scope.bible = function(ref) {
+    return 'http://www.biblegateway.com/passage/?search=' + encodeURIComponent(ref)
+  }
+  $scope.inside = function(ref) {
+    for (var i = 0; i < ref.length; i ++) {
+      var range = ref[i]
+      if (range[0][0] != $scope.book.id) continue
+      if (range[0][1] <= $scope.chapter.number && $scope.chapter.number <= range[1][1]) return true
+    }
+    return false
   }
   function Sorter(initial, predicates) {
     var sorter = { }
@@ -146,6 +154,10 @@ angular.module('odbxref', ['ngRoute'])
     passage: [
       function(item) { return item.passage_ref[0][0][1] },
       function(item) { return item.passage_ref[0][0][2] }
+    ],
+    quote: [
+      function(item) { return item.quote_ref[0][0][1] },
+      function(item) { return item.quote_ref[0][0][2] }
     ]
   })
 })

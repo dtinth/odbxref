@@ -1,8 +1,9 @@
 
 .td-date { width: 15%; }
 .td-title { font-weight: bold; }
-.td-author { width: 25%; }
-.td-passage { width: 20%; }
+.td-author { width: 20%; }
+.td-passage { width: 18%; }
+.td-quote { width: 18%; }
 .sorta {
   cursor: pointer;
 }

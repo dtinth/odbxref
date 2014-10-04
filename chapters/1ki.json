@@ -82,6 +82,17 @@
   }
 ],
 "8": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [1997,9,16],
+    "passage": "Psalm 15:1-5",
+    "passage_ref": [[["psa",15,1],["psa",15,5]]],
+    "quote": "1 Kings 8:56",
+    "quote_ref": [[["1ki",8,56]]],
+    "tags": [],
+    "title": "A Promise Kept",
+    "url": "http://odb.org/1997/09/16/a-promise-kept/"
+  }, 
   { "author": ["Dennis J. De Haan","dennisjdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [1999,12,11],
@@ -114,6 +125,17 @@
     "tags": [["disappointment","disappointment"],["discouragement","discouragement"],["life example","life-example"],["role of","role-of"]],
     "title": "Never Disappointed",
     "url": "http://odb.org/2008/12/15/never-disappointed/"
+  }, 
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2011,5,1],
+    "passage": "1 Kings 10:23–11:4",
+    "passage_ref": [[["1ki",10,23],["1ki",11,4]]],
+    "quote": "1 Kings 8:11",
+    "quote_ref": [[["1ki",8,11]]],
+    "tags": [["Character","character-christian-life"],["confession","confession"],["death","death"],["eternity","eternity"],["God's glory","gods-glory"],["heaven","heaven"],["promises","promises"],["success","success"]],
+    "title": "If I Could Stop The Clock",
+    "url": "http://odb.org/2011/05/01/if-i-could-stop-the-clock/"
   }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
