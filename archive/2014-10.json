@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,4],
+    "passage": "Psalm 136:1-9,23-26",
+    "quote": "Psalm 136:1",
+    "tags": [],
+    "title": "Disposable Culture",
+    "url": "http://odb.org/2014/10/04/disposable-culture/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,10,3],
