@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,5],
+    "passage": "John 10:7-18",
+    "quote": "John 13:35",
+    "tags": [],
+    "title": "Pink Sheep",
+    "url": "http://odb.org/2014/10/05/pink-sheep/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,10,4],
