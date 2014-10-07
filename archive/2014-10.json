@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,7],
+    "passage": "Ephesians 5:1-13",
+    "quote": "Ephesians 5:1",
+    "tags": [],
+    "title": "Fly The Flag",
+    "url": "http://odb.org/2014/10/07/fly-the-flag/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,10,6],
