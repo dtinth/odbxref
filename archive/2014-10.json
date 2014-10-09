@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,9],
+    "passage": "John 16:25-33",
+    "quote": "John 16:33",
+    "tags": [],
+    "title": "What Do You Expect?",
+    "url": "http://odb.org/2014/10/09/what-do-you-expect-2/"
+  }, 
   { "author": ["C. P. Hia","cphia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,10,8],
