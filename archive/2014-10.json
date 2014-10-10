@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Julie Ackerman Link","julieackermanlink"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,10],
+    "passage": "Mark 6:34-44",
+    "quote": "Galatians 6:9",
+    "tags": [],
+    "title": "The Lesson Of The Hula Hoop",
+    "url": "http://odb.org/2014/10/10/the-lesson-of-the-hula-hoop/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,10,9],

@@ -353,7 +353,7 @@
     }, 
     { "book_name": "Mark",
       "chapters": 16,
-      "count": 183,
+      "count": 184,
       "id": "mrk",
       "index": 40,
       "name": "Mark",
@@ -409,7 +409,7 @@
     }, 
     { "book_name": "Galatians",
       "chapters": 6,
-      "count": 162,
+      "count": 163,
       "id": "gal",
       "index": 47,
       "name": "Galatians",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-10-09 (What Do You Expect?) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-10-10 (The Lesson Of The Hula Hoop) have been indexed."
 }
