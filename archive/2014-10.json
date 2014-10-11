@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,11],
+    "passage": "Romans 12:1-8",
+    "quote": "Romans 12:2",
+    "tags": [],
+    "title": "The Power To Change",
+    "url": "http://odb.org/2014/10/11/the-power-to-change/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,10,10],
