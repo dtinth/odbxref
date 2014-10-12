@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,12],
+    "passage": "Matthew 11:25-30",
+    "quote": "Matthew 11:28",
+    "tags": [],
+    "title": "A Sanctuary",
+    "url": "http://odb.org/2014/10/12/a-sanctuary/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,10,11],
