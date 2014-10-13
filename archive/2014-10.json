@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,13],
+    "passage": "Proverbs 25:11-15",
+    "quote": "Proverbs 25:11",
+    "tags": [],
+    "title": "Timely Words",
+    "url": "http://odb.org/2014/10/13/timely-words/"
+  }, 
   { "author": ["Bill Crowder","billcrowder"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,10,12],
