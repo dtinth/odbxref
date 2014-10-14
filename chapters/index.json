@@ -401,7 +401,7 @@
     }, 
     { "book_name": "2 Corinthians",
       "chapters": 13,
-      "count": 331,
+      "count": 332,
       "id": "2co",
       "index": 46,
       "name": "2 Corinthians",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-10-13 (Timely Words) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-10-14 (A Forever Hello) have been indexed."
 }
