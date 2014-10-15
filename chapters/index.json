@@ -345,7 +345,7 @@
     }, 
     { "book_name": "Matthew",
       "chapters": 28,
-      "count": 614,
+      "count": 615,
       "id": "mat",
       "index": 39,
       "name": "Matthew",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-10-14 (A Forever Hello) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-10-15 (Seeing Upside Down) have been indexed."
 }

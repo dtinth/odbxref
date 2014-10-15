@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Philip Yancey","philipyancey"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,15],
+    "passage": "Matthew 8:1-4; 9:9-12",
+    "quote": "Matthew 9:12",
+    "tags": [],
+    "title": "Seeing Upside Down",
+    "url": "http://odb.org/2014/10/15/seeing-upside-down/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,10,14],
