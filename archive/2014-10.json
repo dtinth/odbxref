@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,16],
+    "passage": "Genesis 12:1-10; 13:1",
+    "quote": "Psalm 22:4",
+    "tags": [],
+    "title": "Mysterious Detours",
+    "url": "http://odb.org/2014/10/16/mysterious-detours/"
+  }, 
   { "author": ["Philip Yancey","philipyancey"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,10,15],
