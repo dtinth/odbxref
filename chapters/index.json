@@ -281,7 +281,7 @@
     }, 
     { "book_name": "Jonah",
       "chapters": 4,
-      "count": 17,
+      "count": 18,
       "id": "jon",
       "index": 31,
       "name": "Jonah",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-10-16 (Mysterious Detours) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-10-17 (From Peeker To Seeker) have been indexed."
 }
