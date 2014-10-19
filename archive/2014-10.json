@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Marion Stroud","mstroud"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,19],
+    "passage": "Matthew 7:24–29",
+    "quote": "Matthew 7:24",
+    "tags": [],
+    "title": "The Right Foundation",
+    "url": "http://odb.org/2014/10/19/the-right-foundation/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,10,18],
