@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,20],
+    "passage": "Proverbs 15:1-23",
+    "quote": "Proverbs 15:1",
+    "tags": [],
+    "title": "A War Of Words",
+    "url": "http://odb.org/2014/10/20/a-war-of-words/"
+  }, 
   { "author": ["Marion Stroud","mstroud"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,10,19],
