@@ -1113,6 +1113,19 @@
     "url": "http://odb.org/2008/10/03/read-a-banned-book/"
   }
 ],
+"42": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,10,29],
+    "passage": "Jeremiah 42:1-12",
+    "passage_ref": [[["jer",42,1],["jer",42,12]]],
+    "quote": "Psalm 27:1",
+    "quote_ref": [[["psa",27,1]]],
+    "tags": [],
+    "title": "Shadowed",
+    "url": "http://odb.org/2014/10/29/shadowed/"
+  }
+],
 "45": [
   { "author": ["David H. Roper","davidhroper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
