@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,11,11],
+    "passage": "Philippians 2:12-18",
+    "quote": "Philippians 2:15-16",
+    "tags": [],
+    "title": "The Drinking Gourd",
+    "url": "http://odb.org/2014/11/11/the-drinking-gourd/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,11,10],
