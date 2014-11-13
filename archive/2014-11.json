@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,11,13],
+    "passage": "Galatians 4:1-7",
+    "quote": "2 Corinthians 9:15",
+    "tags": [],
+    "title": "Creeping Christmas?",
+    "url": "http://odb.org/2014/11/13/creeping-christmas/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,11,12],
