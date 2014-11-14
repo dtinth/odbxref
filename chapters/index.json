@@ -225,7 +225,7 @@
     }, 
     { "book_name": "Lamentations",
       "chapters": 5,
-      "count": 30,
+      "count": 31,
       "id": "lam",
       "index": 24,
       "name": "Lamentations",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-11-13 (Creeping Christmas?) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-11-14 (Heartbreak And Hope) have been indexed."
 }
