@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Poh Fang Chia","pohfangchia"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,11,16],
+    "passage": "Joshua 1:1-9",
+    "quote": "Joshua 21:45",
+    "tags": [],
+    "title": "Amazing Guide",
+    "url": "http://odb.org/2014/11/16/amazing-guide/"
+  }, 
   { "author": ["Mart De Haan","martdehaan"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,11,15],
