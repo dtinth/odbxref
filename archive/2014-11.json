@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,11,18],
+    "passage": "Hebrews 13:15-25",
+    "quote": "Hebrews 13:16",
+    "tags": [],
+    "title": "Rooted Love",
+    "url": "http://odb.org/2014/11/18/rooted-love/"
+  }, 
   { "author": ["Cindy Hess Kasper","cindyhesskasper"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,11,17],
