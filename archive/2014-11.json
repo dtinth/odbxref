@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,11,19],
+    "passage": "Numbers 11:1-10",
+    "quote": "Numbers 11:1",
+    "tags": [],
+    "title": "Goodbye",
+    "url": "http://odb.org/2014/11/19/goodbye/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,11,18],
