@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,11,22],
+    "passage": "Psalm 6",
+    "quote": "Psalm 6:6",
+    "tags": [],
+    "title": "The Warmth Of The Sun",
+    "url": "http://odb.org/2014/11/22/the-warmth-of-the-sun/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,11,21],
