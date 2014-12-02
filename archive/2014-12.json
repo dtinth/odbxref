@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Marvin Williams","marvinwilliams"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,12,2],
+    "passage": "1 Timothy 6:6-10",
+    "quote": "1 Timothy 6:10",
+    "tags": [],
+    "title": "Losing Our Way",
+    "url": "http://odb.org/2014/12/02/losing-our-way/"
+  }, 
   { "author": ["Anne Cetas","annecetas"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,12,1],
