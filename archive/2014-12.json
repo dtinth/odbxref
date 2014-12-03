@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,12,3],
+    "passage": "Psalm 73",
+    "quote": "Psalm 73:28",
+    "tags": [],
+    "title": "Whose Side Are You On?",
+    "url": "http://odb.org/2014/12/03/whose-side-are-you-on/"
+  }, 
   { "author": ["Marvin Williams","marvinwilliams"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,12,2],
