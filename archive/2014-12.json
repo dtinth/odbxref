@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2014,12,4],
+    "passage": "Luke 19:1-10",
+    "quote": "Luke 19:5",
+    "tags": [["God's care","gods-care"],["God's glory","gods-glory"],["God's love","gods-love"],["Jesus Christ","jesus-christ"]],
+    "title": "Called By Name",
+    "url": "http://odb.org/2014/12/04/called-by-name/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,12,3],
