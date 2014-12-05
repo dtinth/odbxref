@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2014,12,5],
+    "passage": "1 John 4:7-12",
+    "quote": "1 John 4:7",
+    "tags": [["creator","creator"],["goals","goals"],["God's love","gods-love"],["love for God","love-for-god"],["love for others","love-for-others"]],
+    "title": "Human Chess",
+    "url": "http://odb.org/2014/12/05/human-chess/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2014,12,4],
