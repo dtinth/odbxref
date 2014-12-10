@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Mart De Haan","martdehaan"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2014,12,10],
+    "passage": "Job 38:1-11",
+    "quote": "Psalm 71:6",
+    "tags": [["creator","creator"],["God's power","gods-power"],["God's wisdom","gods-wisdom"],["suffering","suffering"],["trials","trials"]],
+    "title": "Wonders Of The Heart",
+    "url": "http://odb.org/2014/12/10/wonders-of-the-heart/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2014,12,9],
