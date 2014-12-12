@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David H. Roper","davidhroper"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2014,12,12],
+    "passage": "Psalm 91:9-16",
+    "quote": "Psalm 4:8",
+    "tags": [["God's care","gods-care"],["God's love","gods-love"],["God's protection","gods-protection"],["security","security"]],
+    "title": "Snug As A Bug In A Rug!",
+    "url": "http://odb.org/2014/12/12/snug-as-a-bug-in-a-rug/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2014,12,11],
