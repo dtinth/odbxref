@@ -457,7 +457,7 @@
     }, 
     { "book_name": "1 Timothy",
       "chapters": 6,
-      "count": 116,
+      "count": 117,
       "id": "1ti",
       "index": 53,
       "name": "1 Timothy",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-12-18 (My Friends And I) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-12-19 (The Heart Of Christmas) have been indexed."
 }
