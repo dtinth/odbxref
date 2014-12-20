@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,12,20],
+    "passage": "John 14:12-21",
+    "quote": "John 16:24",
+    "tags": [],
+    "title": "In Jesus’ Name",
+    "url": "http://odb.org/2014/12/20/in-jesus-name/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,12,19],
