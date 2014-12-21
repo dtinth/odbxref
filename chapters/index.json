@@ -489,7 +489,7 @@
     }, 
     { "book_name": "Hebrews",
       "chapters": 13,
-      "count": 323,
+      "count": 324,
       "id": "heb",
       "index": 57,
       "name": "Hebrews",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-12-20 (In Jesus’ Name) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-12-21 (Just The Right Time) have been indexed."
 }
