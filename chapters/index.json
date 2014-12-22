@@ -425,7 +425,7 @@
     }, 
     { "book_name": "Philippians",
       "chapters": 4,
-      "count": 273,
+      "count": 274,
       "id": "php",
       "index": 49,
       "name": "Philippians",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2014-12-21 (Just The Right Time) have been indexed."
+  "state": "Articles from 1994-01-01 to 2014-12-22 (Remember The Wrapping) have been indexed."
 }
