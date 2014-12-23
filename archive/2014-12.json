@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,12,23],
+    "passage": "2 Corinthians 9:10-15",
+    "quote": "2 Corinthians 9:15",
+    "tags": [],
+    "title": "What Really Matters",
+    "url": "http://odb.org/2014/12/23/what-really-matters-4/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,12,22],
