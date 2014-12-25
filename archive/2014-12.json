@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Randy Kilgore","randykilgore"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,12,25],
+    "passage": "Luke 2:15-20",
+    "quote": "Matthew 1:23",
+    "tags": [],
+    "title": "The Smells Of The Stable",
+    "url": "http://odb.org/2014/12/25/the-smells-of-the-stable/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,12,24],
