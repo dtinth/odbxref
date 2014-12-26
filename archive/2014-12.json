@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,12,26],
+    "passage": "John 1:1-14",
+    "quote": "John 1:14",
+    "tags": [],
+    "title": "In The Neighborhood",
+    "url": "http://odb.org/2014/12/26/in-the-neighborhood/"
+  }, 
   { "author": ["Randy Kilgore","randykilgore"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,12,25],
