@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,12,27],
+    "passage": "Matthew 2:13-21",
+    "quote": "Matthew 2:13",
+    "tags": [],
+    "title": "Out Of Egypt",
+    "url": "http://odb.org/2014/12/27/out-of-egypt/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,12,26],
