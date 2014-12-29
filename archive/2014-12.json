@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Marion Stroud","mstroud"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,12,29],
+    "passage": "John 11:21-35",
+    "quote": "John 11:6",
+    "tags": [],
+    "title": "Delay May Not Mean Denial",
+    "url": "http://odb.org/2014/12/29/delay-may-not-mean-denial/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,12,28],
