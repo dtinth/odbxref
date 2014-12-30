@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. Egner","davidcegner"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,12,30],
+    "passage": "Psalm 23",
+    "quote": "Psalm 23:2",
+    "tags": [],
+    "title": "He Leads Me",
+    "url": "http://odb.org/2014/12/30/he-leads-me/"
+  }, 
   { "author": ["Marion Stroud","mstroud"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,12,29],
