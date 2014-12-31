@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2014,12,31],
+    "passage": "Joshua 3:9-17",
+    "quote": "Joshua 3:14",
+    "tags": [],
+    "title": "Standing On The Edge",
+    "url": "http://odb.org/2014/12/31/standing-on-the-edge/"
+  }, 
   { "author": ["David C. Egner","davidcegner"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2014,12,30],
