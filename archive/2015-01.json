@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,1,4],
+    "passage": "Revelation 19:4-9",
+    "quote": "Revelation 19:7",
+    "tags": [],
+    "title": "The Beautiful Bride",
+    "url": "http://odb.org/2015/01/04/the-beautiful-bride/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,1,3],
