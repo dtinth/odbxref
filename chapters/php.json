@@ -3139,6 +3139,17 @@
     "tags": [],
     "title": "First Response",
     "url": "http://odb.org/2014/10/25/first-response/"
+  }, 
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,1,5],
+    "passage": "Philippians 4:4-13",
+    "passage_ref": [[["php",4,4],["php",4,13]]],
+    "quote": "Philippians 4:6",
+    "quote_ref": [[["php",4,6]]],
+    "tags": [],
+    "title": "Assembly Required",
+    "url": "http://odb.org/2015/01/05/assembly-required/"
   }
 ]
 }

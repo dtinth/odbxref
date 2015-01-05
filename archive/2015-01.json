@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,1,5],
+    "passage": "Philippians 4:4-13",
+    "quote": "Philippians 4:6",
+    "tags": [],
+    "title": "Assembly Required",
+    "url": "http://odb.org/2015/01/05/assembly-required/"
+  }, 
   { "author": ["Joe Stowell","joestowell"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,1,4],
