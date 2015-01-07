@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dennis Fisher","dennisfisher"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,1,7],
+    "passage": "Galatians 6:1-10",
+    "quote": "Galatians 6:10",
+    "tags": [],
+    "title": "Where Can I Help?",
+    "url": "http://odb.org/2015/01/07/where-can-i-help/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,1,6],
