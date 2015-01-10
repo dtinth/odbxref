@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. McCasland","davidcmccasland"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2015,1,10],
+    "passage": "John 3:1-8,13-16",
+    "quote": "John 3:4",
+    "tags": [["God's love","gods-love"],["God's power","gods-power"],["life","life"],["new birth","new-birth"],["salvation","salvation"]],
+    "title": "Too Late To Change?",
+    "url": "http://odb.org/2015/01/10/too-late-to-change/"
+  }, 
   { "author": ["Poh Fang Chia","pohfangchia"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2015,1,9],
