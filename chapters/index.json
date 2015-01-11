@@ -361,7 +361,7 @@
     }, 
     { "book_name": "Luke",
       "chapters": 24,
-      "count": 478,
+      "count": 479,
       "id": "luk",
       "index": 41,
       "name": "Luke",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2015-01-10 (Too Late To Change?) have been indexed."
+  "state": "Articles from 1994-01-01 to 2015-01-11 (What’s Your Motto?) have been indexed."
 }
