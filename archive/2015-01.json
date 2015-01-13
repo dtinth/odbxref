@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dave Branon","davebranon"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2015,1,13],
+    "passage": "Psalm 77:1-15",
+    "quote": "Psalm 77:1,13",
+    "tags": [["despair","despair"],["God's faithfulness","gods-faithfulness"],["God's glory","gods-glory"],["God's love","gods-love"],["God's power","gods-power"],["God's strength","gods-strength"],["mercy","mercy"],["redemption","redemption"],["salvation","salvation"],["suffering","suffering"]],
+    "title": "Out Of The Darkness",
+    "url": "http://odb.org/2015/01/13/out-of-the-darkness/"
+  }, 
   { "author": ["Randy Kilgore","randykilgore"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
     "date": [2015,1,12],
