@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Marion Stroud","mstroud"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,1,14],
+    "passage": "2 Corinthians 11:24-33",
+    "quote": "2 Corinthians 11:30",
+    "tags": [],
+    "title": "It’s Worth It",
+    "url": "http://odb.org/2015/01/14/its-worth-it/"
+  }, 
   { "author": ["Dave Branon","davebranon"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2015,1,13],
