@@ -353,7 +353,7 @@
     }, 
     { "book_name": "Mark",
       "chapters": 16,
-      "count": 185,
+      "count": 186,
       "id": "mrk",
       "index": 40,
       "name": "Mark",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2015-01-14 (It’s Worth It) have been indexed."
+  "state": "Articles from 1994-01-01 to 2015-01-15 (Kindness Gone Viral) have been indexed."
 }
