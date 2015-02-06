@@ -2246,6 +2246,17 @@
     "tags": [],
     "title": "More Of Him, Less Of Me",
     "url": "http://odb.org/2014/09/07/more-of-him-less-of-me/"
+  }, 
+  { "author": ["Randy Kilgore","randykilgore/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2015,1,23],
+    "passage": "Philippians 3:12-16",
+    "passage_ref": [[["php",3,12],["php",3,16]]],
+    "quote": "Philippians 3:13-14",
+    "quote_ref": [[["php",3,13],["php",3,14]]],
+    "tags": [["brokenness","brokenness"],["cross","cross"],["forgiveness","forgiveness"],["regret","regret"],["selfishness","selfishness"],["sin","sin-christian-life"]],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       When Others Won’t Forgive",
+    "url": "http://odb.org/2015/01/23/when-others-wont-forgive/"
   }
 ],
 "4": [
@@ -3140,15 +3151,15 @@
     "title": "First Response",
     "url": "http://odb.org/2014/10/25/first-response/"
   }, 
-  { "author": ["Bill Crowder","billcrowder"],
-    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+  { "author": ["Bill Crowder","billcrowder/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2015,1,5],
     "passage": "Philippians 4:4-13",
     "passage_ref": [[["php",4,4],["php",4,13]]],
     "quote": "Philippians 4:6",
     "quote_ref": [[["php",4,6]]],
-    "tags": [],
-    "title": "Assembly Required",
+    "tags": [["anxiety","anxiety"],["burdens","burdens"],["God's love","gods-love"],["peace","peace"],["Savior","savior"],["suffering","suffering"],["trials","trials"],["understanding","understanding"]],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       Assembly Required",
     "url": "http://odb.org/2015/01/05/assembly-required/"
   }
 ]

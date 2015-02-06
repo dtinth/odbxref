@@ -762,15 +762,15 @@
     "title": "Buyer’s Remorse",
     "url": "http://odb.org/2014/01/31/buyers-remorse/"
   }, 
-  { "author": ["Lawrence Darmani","lawrencedarmani"],
-    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+  { "author": ["Lawrence Darmani","lawrencedarmani/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
     "date": [2015,1,2],
     "passage": "Genesis 3:1-10",
     "passage_ref": [[["gen",3,1],["gen",3,10]]],
     "quote": "Genesis 3:9",
     "quote_ref": [[["gen",3,9]]],
-    "tags": [],
-    "title": "Where Are You?",
+    "tags": [["fear","fear"],["God's forgiveness","gods-forgiveness"],["mercy","mercy"],["obedience","obedience"],["sin","sin-christian-life"],["temptation","temptation"]],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       Where Are You?",
     "url": "http://odb.org/2015/01/02/where-are-you/"
   }
 ],
@@ -2055,6 +2055,17 @@
     "tags": [["forgiveness from","forgiveness-from"],["forgiveness of","forgiveness-of"]],
     "title": "The Challenge Of Forgiveness",
     "url": "http://odb.org/2008/04/10/the-challenge-of-forgiveness/"
+  }, 
+  { "author": ["Cindy Hess Kasper","cindyhesskasper/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,2,6],
+    "passage": "Genesis 45:4-8",
+    "passage_ref": [[["gen",45,4],["gen",45,8]]],
+    "quote": "Psalm 31:19",
+    "quote_ref": [[["psa",31,19]]],
+    "tags": [],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       In Disguise",
+    "url": "http://odb.org/2015/02/06/in-disguise-2/"
   }
 ],
 "47": [

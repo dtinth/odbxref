@@ -2452,7 +2452,7 @@
     "title": "Medieval Meal",
     "url": "http://odb.org/2014/09/21/medieval-meal/"
   }, 
-  { "author": ["Poh Fang Chia","pohfangchia"],
+  { "author": ["Poh Fang Chia","pohfangchia/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2015,1,9],
     "passage": "Psalm 119:97-104",
@@ -2460,7 +2460,7 @@
     "quote": "Psalm 119:97",
     "quote_ref": [[["psa",119,97]]],
     "tags": [["Bible","bible"],["Bible study","bible-study-2"],["God's love","gods-love"],["love for others","love-for-others"],["reading","reading"]],
-    "title": "Love Letter",
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       Love Letter",
     "url": "http://odb.org/2015/01/09/love-letter/"
   }
 ],
@@ -2697,6 +2697,17 @@
     "tags": [],
     "title": "Look To The Hills",
     "url": "http://odb.org/2014/07/10/look-to-the-hills/"
+  }, 
+  { "author": ["David C. McCasland","davidcmccasland/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2015,1,29],
+    "passage": "Psalm 121",
+    "passage_ref": [[["psa",121,null]]],
+    "quote": "Psalm 121:2",
+    "quote_ref": [[["psa",121,2]]],
+    "tags": [["christlikeness","christlikeness"],["faith","faith"],["fellowship","fellowship"],["God's goodness","gods-goodness"],["honesty","honesty"]],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       Our Source Of Help",
+    "url": "http://odb.org/2015/01/29/our-source-of-help/"
   }
 ],
 "122": [
@@ -3957,6 +3968,17 @@
     "tags": [],
     "title": "Horse Power",
     "url": "http://odb.org/2014/11/06/horse-power/"
+  }, 
+  { "author": ["Bill Crowder","billcrowder/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2015,1,18],
+    "passage": "Psalm 139:7-16",
+    "passage_ref": [[["psa",139,7],["psa",139,16]]],
+    "quote": "Psalm 139:14",
+    "quote_ref": [[["psa",139,14]]],
+    "tags": [["creation","creation"],["creator","creator"],["God's glory","gods-glory"],["God's majesty","gods-majesty"]],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       The Wonder Of Sight",
+    "url": "http://odb.org/2015/01/18/the-wonder-of-sight/"
   }
 ],
 "141": [

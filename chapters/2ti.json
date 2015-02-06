@@ -935,6 +935,17 @@
     "tags": [],
     "title": "Example That Encourages",
     "url": "http://odb.org/2014/08/12/example-that-encourages/"
+  }, 
+  { "author": ["Poh Fang Chia","pohfangchia/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,2,3],
+    "passage": "2 Timothy 2:1-6",
+    "passage_ref": [[["2ti",2,1],["2ti",2,6]]],
+    "quote": "1 Corinthians 15:58",
+    "quote_ref": [[["1co",15,58]]],
+    "tags": [],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       Chinese Proverbs",
+    "url": "http://odb.org/2015/02/03/chinese-proverbs/"
   }
 ],
 "3": [
@@ -1389,15 +1400,15 @@
     "title": "Childhood Beginnings",
     "url": "http://odb.org/2013/08/07/childhood-beginnings/"
   }, 
-  { "author": ["David C. McCasland","davidcmccasland"],
-    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+  { "author": ["David C. McCasland","davidcmccasland/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relationships","relationships/"]],
     "date": [2015,1,1],
     "passage": "2 Timothy 3:1-5,10-17",
     "passage_ref": [[["2ti",3,1],["2ti",3,5]],[["2ti",3,10],["2ti",3,17]]],
     "quote": "2 Timothy 3:14",
     "quote_ref": [[["2ti",3,14]]],
-    "tags": [],
-    "title": "Better Or Worse?",
+    "tags": [["Bible","bible"],["encouragement","encouragement"],["future","future"],["hope","hope"],["joy","joy"],["love for God","love-for-god"]],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       Better Or Worse?",
     "url": "http://odb.org/2015/01/01/better-or-worse/"
   }
 ],

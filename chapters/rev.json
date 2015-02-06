@@ -1048,15 +1048,15 @@
     "title": "Married To Royalty",
     "url": "http://odb.org/2013/10/02/married-to-royalty/"
   }, 
-  { "author": ["Joe Stowell","joestowell"],
-    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+  { "author": ["Joe Stowell","joestowell/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2015,1,4],
     "passage": "Revelation 19:4-9",
     "passage_ref": [[["rev",19,4],["rev",19,9]]],
     "quote": "Revelation 19:7",
     "quote_ref": [[["rev",19,7]]],
-    "tags": [],
-    "title": "The Beautiful Bride",
+    "tags": [["body of Christ","body-of-christ"],["Church","church-basics-of-faith"],["God's love","gods-love"]],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       The Beautiful Bride",
     "url": "http://odb.org/2015/01/04/the-beautiful-bride/"
   }
 ],
