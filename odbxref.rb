@@ -54,7 +54,7 @@ def index(year, month)
   page = fetch(key, url)
   output = []
   page.css('.type-post.status-publish').each do |element|
-    link = element.css('h3.entry-title a').first
+    link = element.css('h3 a').first
     href = link["href"]
     text = link.content
     if href =~ /(\d+)\/(\d+)\/(\d+)/
@@ -63,27 +63,6 @@ def index(year, month)
     end
   end
   return { :year => year, :month => month, :list => output }
-end
-
-# From a list of elements, find the text of Bible verse reference.
-def find_verse_reference(list)
-  list.map(&method(:get_verse_reference)).first
-end
-
-def get_verse_reference(element)
-  link = element.css('a[href^="http://www.biblegateway.com/"]').last
-  link_unacceptable = false
-  link_unacceptable = true if link && link.content =~ /\A\d+\Z/   # 2010-07-03
-  if link && !link_unacceptable
-    link.content
-  else
-    match = element.content.match(/(?:Read:\s+|—)(.*?)\S*\Z/)
-    if match
-      match[1]
-    else
-      raise "No verse reference found: #{element.content.inspect}"
-    end
-  end
 end
 
 # Fetchs an article by fetching the page and taking only the <article> element.
@@ -113,21 +92,20 @@ def read(task)
   url = task[:url]
   page = fetch_article(key, url)
   info = { }
-  info[:title] = page.css('h1.entry-title').first.content
-  author = page.css('.entry-meta .entry-author a').first
+  info[:title] = page.css('h2.entry-title').first.content
+  author = page.css('.entry-meta-box .author a').first
   info[:author] = [author.content, author['href'][/[^\/]+\/?$/]]
-  meta_boxes = page.css('.meta-box')
 
   # some hack is needed...
   if task[:date] == [2009,5,11]
     info[:passage] = 'Colossians 3:12-17'
     info[:quote] = 'Colossians 3:12'
   else
-    info[:passage] = find_verse_reference(meta_boxes.select { |c| c.content =~ /Read/ })
-    info[:quote] = find_verse_reference(meta_boxes.select { |c| c.content =~ /—/ })
+    info[:passage] = page.css('.passage-box a').first.content
+    info[:quote] = page.css('.verse-box a').first.content
   end
 
-  info[:tags] = extract_name_slug(page.css('.tag-links a[rel="tag"]'), /\/tag\/([^\/]+)/)
+  info[:tags] = extract_name_slug(page.css('.post-tags a[rel="tag"]'), /\/tag\/([^\/]+)/)
   info[:categories] = extract_name_slug(page.css('.cat-links a[rel="category tag"]'), /\/category\/(.+)/)
   puts "   by #{info[:author]}, passage #{info[:passage]}"
   puts "   tags #{info[:tags]}"
