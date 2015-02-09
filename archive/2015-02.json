@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dave Branon","davebranon/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2015,2,9],
+    "passage": "Genesis 2:18-25",
+    "quote": "Genesis 2:24",
+    "tags": [["blessing","blessing"],["children","children"],["commitment","commitment"],["Family","family-relationships"],["God's guidance","gods-guidance"],["God's plan","gods-plan"],["grace","grace"],["husband","husband"],["Marriage","marriage-relationships"],["parenting","parenting"],["suffering","suffering"],["trials","trials"],["wife","wife"]],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       The Girl In The Yellow Coat",
+    "url": "http://odb.org/2015/02/09/the-girl-in-the-yellow-coat/"
+  }, 
   { "author": ["Bill Crowder","billcrowder/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,2,8],
