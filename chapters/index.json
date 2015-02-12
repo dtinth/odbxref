@@ -217,7 +217,7 @@
     }, 
     { "book_name": "Jeremiah",
       "chapters": 52,
-      "count": 98,
+      "count": 99,
       "id": "jer",
       "index": 23,
       "name": "Jeremiah",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2015-02-11 (    \t  \n\t\t\t\t\n        \n                  \n\t  \n       Back From The Dead) have been indexed."
+  "state": "Articles from 1994-01-01 to 2015-02-12 (    \t  \n\t\t\t\t\n        \n                  \n\t  \n       The Well-Watered Life) have been indexed."
 }

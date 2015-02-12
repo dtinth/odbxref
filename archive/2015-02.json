@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,2,12],
+    "passage": "Jeremiah 17:1-8",
+    "quote": "Jeremiah 17:8",
+    "tags": [],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       The Well-Watered Life",
+    "url": "http://odb.org/2015/02/12/the-well-watered-life/"
+  }, 
   { "author": ["Mart De Haan","martdehaan/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,2,11],
