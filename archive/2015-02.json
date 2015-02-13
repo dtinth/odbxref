@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. Egner","davidcegner/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,2,13],
+    "passage": "Psalm 119:17-24",
+    "quote": "Psalm 119:24",
+    "tags": [],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       The Word Among Us",
+    "url": "http://odb.org/2015/02/13/the-word-among-us/"
+  }, 
   { "author": ["Joe Stowell","joestowell/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,2,12],
