@@ -353,7 +353,7 @@
     }, 
     { "book_name": "Mark",
       "chapters": 16,
-      "count": 189,
+      "count": 190,
       "id": "mrk",
       "index": 40,
       "name": "Mark",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2015-02-14 (    \t  \n\t\t\t\t\n        \n                  \n\t  \n       A Matter Of Love) have been indexed."
+  "state": "Articles from 1994-01-01 to 2015-02-15 (    \t  \n\t\t\t\t\n        \n                  \n\t  \n       Bring The Boy To Me) have been indexed."
 }
