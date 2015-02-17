@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,2,17],
+    "passage": "1 Thessalonians 1:1-10",
+    "quote": "1 Thessalonians 1:8",
+    "tags": [],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       Building A Bridge",
+    "url": "http://odb.org/2015/02/17/building-a-bridge/"
+  }, 
   { "author": ["Dave Branon","davebranon/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,2,16],
