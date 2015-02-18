@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. McCasland","davidcmccasland/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,2,18],
+    "passage": "James 1:19-27",
+    "quote": "James 1:25",
+    "tags": [],
+    "title": "    \t  \n\t\t\t\t\n        \n                  \n\t  \n       Mirror, Mirror",
+    "url": "http://odb.org/2015/02/18/mirror-mirror/"
+  }, 
   { "author": ["Bill Crowder","billcrowder/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,2,17],
