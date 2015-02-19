@@ -1,7 +1,7 @@
 { "books": [
     { "book_name": "Genesis",
       "chapters": 50,
-      "count": 179,
+      "count": 180,
       "id": "gen",
       "index": 0,
       "name": "Genesis",
@@ -345,7 +345,7 @@
     }, 
     { "book_name": "Matthew",
       "chapters": 28,
-      "count": 623,
+      "count": 624,
       "id": "mat",
       "index": 39,
       "name": "Matthew",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2015-02-18 (    \t  \n\t\t\t\t\n        \n                  \n\t  \n       Mirror, Mirror) have been indexed."
+  "state": "Articles from 1994-01-01 to 2015-02-19 (    \t  \n\t\t\t\t\n        \n                  \n\t  \n       Whose Will?) have been indexed."
 }
