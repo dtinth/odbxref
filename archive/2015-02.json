@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,2,24],
+    "passage": "Matthew 1:18-25",
+    "quote": "Matthew 1:21",
+    "tags": [],
+    "title": "Longing For Rescue",
+    "url": "http://odb.org/2015/02/24/longing-for-rescue/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,2,23],
