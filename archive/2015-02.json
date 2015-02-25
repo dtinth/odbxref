@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,2,25],
+    "passage": "2 Thessalonians 2:13-17",
+    "quote": "2 Thessalonians 2:13",
+    "tags": [],
+    "title": "His Choice",
+    "url": "http://odb.org/2015/02/25/his-choice/"
+  }, 
   { "author": ["Bill Crowder","billcrowder/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,2,24],
