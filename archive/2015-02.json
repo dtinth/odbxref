@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dave Branon","davebranon/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2015,2,28],
+    "passage": "Psalm 32:1-5",
+    "quote": "Psalm 32:3",
+    "tags": [["confession","confession"],["consequences","consequences"],["God's forgiveness","gods-forgiveness"],["repentance","repentance"],["sin","sin-christian-life"]],
+    "title": "Catching Up With Us",
+    "url": "http://odb.org/2015/02/28/catching-up-with-us/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"]],
     "date": [2015,2,27],
