@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Lawrence Darmani","lawrencedarmani/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
+    "date": [2015,3,2],
+    "passage": "Nehemiah 4:1-10",
+    "quote": "Isaiah 40:31",
+    "tags": [["discouragement","discouragement"],["God's care","gods-care"],["God's presence","gods-presence"],["God's provision","gods-provision"],["promises","promises"],["victory","victory"]],
+    "title": "A Deadly Weapon",
+    "url": "http://odb.org/2015/03/02/a-deadly-weapon/"
+  }, 
   { "author": ["Keila Ochoa","keilaochoa/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,3,1],
