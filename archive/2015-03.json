@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Poh Fang Chia","pohfangchia/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"]],
+    "date": [2015,3,3],
+    "passage": "Ecclesiastes 3:1-13",
+    "quote": "Ecclesiastes 3:1",
+    "tags": [["discernment","discernment"],["God's guidance","gods-guidance"],["God's plan","gods-plan"],["priorities","priorities"],["wisdom","wisdom"]],
+    "title": "A Season For Everything",
+    "url": "http://odb.org/2015/03/03/a-season-for-everything-2/"
+  }, 
   { "author": ["Lawrence Darmani","lawrencedarmani/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Attitudes","christian-life/attitudes-christian-life/"],["Christian Life","christian-life/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2015,3,2],
