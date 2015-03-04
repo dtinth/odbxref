@@ -25,7 +25,7 @@
     }, 
     { "book_name": "Numbers",
       "chapters": 36,
-      "count": 46,
+      "count": 47,
       "id": "num",
       "index": 3,
       "name": "Numbers",
@@ -169,7 +169,7 @@
     }, 
     { "book_name": "Psalm",
       "chapters": 150,
-      "count": 181,
+      "count": 182,
       "id": "psa4",
       "index": 18.4,
       "name": "Psalm 90 – 106",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2015-03-03 (A Season For Everything) have been indexed."
+  "state": "Articles from 1994-01-01 to 2015-03-04 (House-Hunting Ants) have been indexed."
 }
