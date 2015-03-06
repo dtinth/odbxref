@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
+    "date": [2015,3,6],
+    "passage": "Romans 5:1-11",
+    "quote": "Romans 5:8",
+    "tags": [["creation","creation"],["cross","cross"],["God's glory","gods-glory"],["God's love","gods-love"],["God's majesty","gods-majesty"],["salvation","salvation"],["Savior","savior"]],
+    "title": "Solving The Mystery",
+    "url": "http://odb.org/2015/03/06/solving-the-mystery/"
+  }, 
   { "author": ["Dave Branon","davebranon/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,3,5],
