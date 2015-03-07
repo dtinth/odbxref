@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,3,7],
+    "passage": "2 Corinthians 4:7-12",
+    "quote": "2 Corinthians 4:8",
+    "tags": [],
+    "title": "The Power To Survive",
+    "url": "http://odb.org/2015/03/07/the-power-to-survive/"
+  }, 
   { "author": ["Bill Crowder","billcrowder/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["God","basics-of-faith/god-basics-of-faith/"]],
     "date": [2015,3,6],
