@@ -57,7 +57,7 @@
     }, 
     { "book_name": "Ruth",
       "chapters": 4,
-      "count": 18,
+      "count": 19,
       "id": "rut",
       "index": 7,
       "name": "Ruth",
@@ -369,7 +369,7 @@
     }, 
     { "book_name": "John",
       "chapters": 21,
-      "count": 598,
+      "count": 599,
       "id": "jhn",
       "index": 42,
       "name": "John",
@@ -385,7 +385,7 @@
     }, 
     { "book_name": "Romans",
       "chapters": 16,
-      "count": 494,
+      "count": 495,
       "id": "rom",
       "index": 44,
       "name": "Romans",
@@ -489,7 +489,7 @@
     }, 
     { "book_name": "Hebrews",
       "chapters": 13,
-      "count": 325,
+      "count": 326,
       "id": "heb",
       "index": 57,
       "name": "Hebrews",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2015-03-07 (The Power To Survive) have been indexed."
+  "state": "Articles from 1994-01-01 to 2015-03-10 (Unexpected Encounter) have been indexed."
 }
