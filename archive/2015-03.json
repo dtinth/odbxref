@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Philip Yancey","philipyancey/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,3,11],
+    "passage": "Romans 8:14-17,24-26",
+    "quote": "Romans 8:15",
+    "tags": [],
+    "title": "Shocking Accessibility",
+    "url": "http://odb.org/2015/03/11/shocking-accessibility/"
+  }, 
   { "author": ["Anne Cetas","annecetas/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,3,10],
