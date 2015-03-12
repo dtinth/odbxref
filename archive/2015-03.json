@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dennis Fisher","dennisfisher/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,3,12],
+    "passage": "Psalm 19:1-6",
+    "quote": "Psalm 19:1",
+    "tags": [],
+    "title": "Hand Me The Binoculars!",
+    "url": "http://odb.org/2015/03/12/hand-me-the-binoculars/"
+  }, 
   { "author": ["Philip Yancey","philipyancey/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,3,11],
