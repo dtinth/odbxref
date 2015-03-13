@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David H. Roper","davidhroper/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,3,13],
+    "passage": "Philippians 2:1-5",
+    "quote": "Exodus 38:8",
+    "tags": [],
+    "title": "Giving Up Our Mirrors",
+    "url": "http://odb.org/2015/03/13/giving-up-our-mirrors/"
+  }, 
   { "author": ["Dennis Fisher","dennisfisher/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,3,12],
