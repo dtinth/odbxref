@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,3,14],
+    "passage": "Exodus 20:18-26",
+    "quote": "Exodus 20:21",
+    "tags": [],
+    "title": "The Go-Between",
+    "url": "http://odb.org/2015/03/14/the-go-between/"
+  }, 
   { "author": ["David H. Roper","davidhroper/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,3,13],
