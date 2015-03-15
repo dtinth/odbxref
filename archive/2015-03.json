@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Marvin Williams","marvinwilliams/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,3,15],
+    "passage": "Psalm 5",
+    "quote": "Psalm 5:3",
+    "tags": [],
+    "title": "God Is Listening",
+    "url": "http://odb.org/2015/03/15/god-is-listening-2/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,3,14],
