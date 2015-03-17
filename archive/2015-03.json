@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Christian Life","christian-life/"],["Ministry & Outreach","ministry-and-outreach/"],["Personal Crisis","christian-life/personal-crisis-christian-life/"],["Relationships","relationships/"]],
+    "date": [2015,3,17],
+    "passage": "James 1:2-12",
+    "quote": "James 1:2-3",
+    "tags": [["christlikeness","christlikeness"],["God's plan","gods-plan"],["patience","patience"],["suffering","suffering"],["trials","trials"]],
+    "title": "Unwelcome Visitors",
+    "url": "http://odb.org/2015/03/17/unwelcome-visitors/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Basics Of Faith","basics-of-faith/"],["Character","christian-life/character-christian-life/"],["Christian Life","christian-life/"],["Relating To God","relationships/relating-to-god-relationships/"],["Relationships","relationships/"]],
     "date": [2015,3,16],
