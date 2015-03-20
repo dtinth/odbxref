@@ -49,7 +49,7 @@
     }, 
     { "book_name": "Judges",
       "chapters": 21,
-      "count": 21,
+      "count": 22,
       "id": "jdg",
       "index": 6,
       "name": "Judges",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2015-03-19 (A Place To Be) have been indexed."
+  "state": "Articles from 1994-01-01 to 2015-03-20 (A Gift Of Hope) have been indexed."
 }
