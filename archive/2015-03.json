@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,3,24],
+    "passage": "Psalm 56",
+    "quote": "Psalm 56:3",
+    "tags": [],
+    "title": "Simply Trusting",
+    "url": "http://odb.org/2015/03/24/simply-trusting-2/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,3,23],
