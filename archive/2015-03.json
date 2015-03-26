@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Lawrence Darmani","lawrencedarmani/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,3,26],
+    "passage": "Joshua 24:15-24",
+    "quote": "Joshua 24:21",
+    "tags": [],
+    "title": "The Definite Choice",
+    "url": "http://odb.org/2015/03/26/the-definite-choice/"
+  }, 
   { "author": ["Marion Stroud","mstroud/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,3,25],

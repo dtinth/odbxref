@@ -702,6 +702,17 @@
     "tags": [],
     "title": "D-Day",
     "url": "http://odb.org/2014/06/06/d-day/"
+  }, 
+  { "author": ["Lawrence Darmani","lawrencedarmani/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,3,26],
+    "passage": "Joshua 24:15-24",
+    "passage_ref": [[["jos",24,15],["jos",24,24]]],
+    "quote": "Joshua 24:21",
+    "quote_ref": [[["jos",24,21]]],
+    "tags": [],
+    "title": "The Definite Choice",
+    "url": "http://odb.org/2015/03/26/the-definite-choice/"
   }
 ]
 }
