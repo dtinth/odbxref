@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,3,27],
+    "passage": "John 16:7-15",
+    "quote": "2 Corinthians 11:14",
+    "tags": [],
+    "title": "Foley Artists",
+    "url": "http://odb.org/2015/03/27/foley-artists/"
+  }, 
   { "author": ["Lawrence Darmani","lawrencedarmani/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,3,26],
