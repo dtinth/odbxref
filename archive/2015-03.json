@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Anne Cetas","annecetas/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,3,30],
+    "passage": "Mark 14:3-9",
+    "quote": "Mark 14:6",
+    "tags": [],
+    "title": "It’s Beautiful!",
+    "url": "http://odb.org/2015/03/30/its-beautiful-2/"
+  }, 
   { "author": ["David C. McCasland","davidcmccasland/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,3,29],
