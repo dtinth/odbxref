@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Julie Ackerman Link","julieackermanlink/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,3],
+    "passage": "2 Corinthians 5:1-8",
+    "quote": "2 Corinthians 5:21",
+    "tags": [],
+    "title": "And Then You Laugh",
+    "url": "http://odb.org/2015/04/03/and-then-you-laugh/"
+  }, 
   { "author": ["Keila Ochoa","keilaochoa/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,4,2],
