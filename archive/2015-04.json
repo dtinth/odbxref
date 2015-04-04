@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dave Branon","davebranon/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,4],
+    "passage": "Matthew 27:27-35",
+    "quote": "1 Peter 2:24",
+    "tags": [],
+    "title": "The Tree Of Love",
+    "url": "http://odb.org/2015/04/04/the-tree-of-love/"
+  }, 
   { "author": ["Julie Ackerman Link","julieackermanlink/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,4,3],
