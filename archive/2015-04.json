@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,5],
+    "passage": "John 20:24-31",
+    "quote": "John 20:29",
+    "tags": [],
+    "title": "Come To Me",
+    "url": "http://odb.org/2015/04/05/come-to-me-3/"
+  }, 
   { "author": ["Dave Branon","davebranon/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,4,4],
