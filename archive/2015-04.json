@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Philip Yancey","philipyancey/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,6],
+    "passage": "Psalm 18:1-3,46",
+    "quote": "Psalm 18:2",
+    "tags": [],
+    "title": "Solid-Rock Faith",
+    "url": "http://odb.org/2015/04/06/solid-rock-faith/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,4,5],
