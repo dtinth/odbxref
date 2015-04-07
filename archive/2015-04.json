@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Bill Crowder","billcrowder/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,7],
+    "passage": "Matthew 7:21-27",
+    "quote": "Matthew 7:24",
+    "tags": [],
+    "title": "Firm Foundation",
+    "url": "http://odb.org/2015/04/07/firm-foundation/"
+  }, 
   { "author": ["Philip Yancey","philipyancey/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,4,6],
