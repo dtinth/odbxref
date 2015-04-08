@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Joe Stowell","joestowell/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,8],
+    "passage": "Philippians 4:10-20",
+    "quote": "Philippians 4:18",
+    "tags": [],
+    "title": "Fragrant Living",
+    "url": "http://odb.org/2015/04/08/fragrant-living/"
+  }, 
   { "author": ["Bill Crowder","billcrowder/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,4,7],
