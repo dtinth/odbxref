@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. Egner","davidcegner/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,9],
+    "passage": "Psalm 119:1-8",
+    "quote": "Psalm 119:2",
+    "tags": [],
+    "title": "The Mud Puddle",
+    "url": "http://odb.org/2015/04/09/the-mud-puddle/"
+  }, 
   { "author": ["Joe Stowell","joestowell/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,4,8],
