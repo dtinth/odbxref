@@ -489,7 +489,7 @@
     }, 
     { "book_name": "Hebrews",
       "chapters": 13,
-      "count": 326,
+      "count": 327,
       "id": "heb",
       "index": 57,
       "name": "Hebrews",
@@ -497,7 +497,7 @@
     }, 
     { "book_name": "James",
       "chapters": 5,
-      "count": 206,
+      "count": 207,
       "id": "jas",
       "index": 58,
       "name": "James",
@@ -560,5 +560,5 @@
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2015-04-09 (The Mud Puddle) have been indexed."
+  "state": "Articles from 1994-01-01 to 2015-04-10 (Sharing A Burger) have been indexed."
 }

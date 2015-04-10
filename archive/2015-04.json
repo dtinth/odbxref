@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Dave Branon","davebranon/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,10],
+    "passage": "James 2:14-17",
+    "quote": "Hebrews 13:16",
+    "tags": [],
+    "title": "Sharing A Burger",
+    "url": "http://odb.org/2015/04/10/sharing-a-burger/"
+  }, 
   { "author": ["David C. Egner","davidcegner/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,4,9],
