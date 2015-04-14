@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. McCasland","davidcmccasland/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,14],
+    "passage": "1 Peter 5:1-11",
+    "quote": "1 Peter 5:7",
+    "tags": [],
+    "title": "Don’t Worry!",
+    "url": "http://odb.org/2015/04/14/dont-worry-2/"
+  }, 
   { "author": ["Jennifer Benson Schuldt","jenniferbschuldt/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,4,13],
