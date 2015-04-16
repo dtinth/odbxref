@@ -401,7 +401,7 @@
     }, 
     { "book_name": "2 Corinthians",
       "chapters": 13,
-      "count": 340,
+      "count": 341,
       "id": "2co",
       "index": 46,
       "name": "2 Corinthians",
@@ -553,12 +553,12 @@
     }, 
     { "book_name": "Revelation",
       "chapters": 22,
-      "count": 160,
+      "count": 161,
       "id": "rev",
       "index": 65,
       "name": "Revelation",
       "verses": [20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]
     }
   ],
-  "state": "Articles from 1994-01-01 to 2015-04-15 (Too Much For Me) have been indexed."
+  "state": "Articles from 1994-01-01 to 2015-04-16 (The Best Fishing Holes) have been indexed."
 }
