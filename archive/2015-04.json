@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Mart DeHaan","martdehaan/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,18],
+    "passage": "Isaiah 40:6-11,28-31",
+    "quote": "Isaiah 40:7,31",
+    "tags": [],
+    "title": "Outrunning Cheetahs",
+    "url": "http://odb.org/2015/04/18/outrunning-cheetahs/"
+  }, 
   { "author": ["C. P. Hia","cphia/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,4,17],
