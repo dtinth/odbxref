@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Jennifer Benson Schuldt","jenniferbschuldt/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,19],
+    "passage": "Psalm 24",
+    "quote": "Psalm 24:1",
+    "tags": [],
+    "title": "God’s World",
+    "url": "http://odb.org/2015/04/19/gods-world/"
+  }, 
   { "author": ["Mart DeHaan","martdehaan/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,4,18],
