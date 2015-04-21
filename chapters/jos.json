@@ -380,6 +380,19 @@
     "url": "http://odb.org/2013/05/11/yesterday-today-and-tomorrow/"
   }
 ],
+"5": [
+  { "author": ["Marion Stroud","mstroud/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,21],
+    "passage": "Joshua 5:13–6:5",
+    "passage_ref": [[["jos",5,13],["jos",6,5]]],
+    "quote": "Joshua 6:2",
+    "quote_ref": [[["jos",6,2]]],
+    "tags": [],
+    "title": "Facing The Impossible",
+    "url": "http://odb.org/2015/04/21/facing-the-impossible/"
+  }
+],
 "6": [
   { "author": ["Henry G. Bosch","henrygbosch"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
@@ -402,6 +415,17 @@
     "tags": [["effect","effect"],["power","power"],["truth vs. error","truth-vs-error"]],
     "title": "The Bible Stands!",
     "url": "http://odb.org/2004/08/14/the-bible-stands/"
+  }, 
+  { "author": ["Marion Stroud","mstroud/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,21],
+    "passage": "Joshua 5:13–6:5",
+    "passage_ref": [[["jos",5,13],["jos",6,5]]],
+    "quote": "Joshua 6:2",
+    "quote_ref": [[["jos",6,2]]],
+    "tags": [],
+    "title": "Facing The Impossible",
+    "url": "http://odb.org/2015/04/21/facing-the-impossible/"
   }
 ],
 "7": [

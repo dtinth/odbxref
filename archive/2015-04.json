@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["Marion Stroud","mstroud/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,21],
+    "passage": "Joshua 5:13–6:5",
+    "quote": "Joshua 6:2",
+    "tags": [],
+    "title": "Facing The Impossible",
+    "url": "http://odb.org/2015/04/21/facing-the-impossible/"
+  }, 
   { "author": ["Poh Fang Chia","pohfangchia/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,4,20],
