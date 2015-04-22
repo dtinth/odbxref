@@ -1,4 +1,13 @@
 { "articles": [
+  { "author": ["David C. McCasland","davidcmccasland/"],
+    "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
+    "date": [2015,4,22],
+    "passage": "Ephesians 4:20-32",
+    "quote": "Ephesians 4:32",
+    "tags": [],
+    "title": "A Happy Ending",
+    "url": "http://odb.org/2015/04/22/a-happy-ending/"
+  }, 
   { "author": ["Marion Stroud","mstroud/"],
     "categories": [["Archives","christian-life/archives-christian-life/"],["Christian Life","christian-life/"]],
     "date": [2015,4,21],
